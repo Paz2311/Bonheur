@@ -1,12 +1,12 @@
 ## Séance du 22 novembre 2022
 
-# Agata :
+### Agata :
 blabla
 
-# Patricia :
+### Patricia :
 blabla
 
-# Maria :
+### Maria :
 blabla
 
-# Discussion en groupe :
+### Discussion en groupe :
