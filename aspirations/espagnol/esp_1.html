@@ -1,0 +1,2522 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
+
+  <title>
+          Menéame | Los usuarios eligen la portada
+      </title>
+        <meta name="description" content="Menéame es tu lugar para informarte, donde la portada la deciden sus usuarios">
+    <meta property="og:type" content="website">
+<meta property="og:url" content="https://www.meneame.net/search?q=felicidad">
+<meta property="og:title" content="Menéame | Los usuarios eligen la portada">
+<meta property="og:description" content="Menéame es tu lugar para informarte, donde la portada la deciden sus usuarios">
+<meta property="og:image" content="https://meneame.net/img/logo_meneame_footer.svg">
+
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="https://www.meneame.net/search?q=felicidad">
+<meta property="twitter:title" content="Menéame | Los usuarios eligen la portada">
+<meta property="twitter:description" content="Menéame es tu lugar para informarte, donde la portada la deciden sus usuarios">
+<meta property="twitter:image" content="https://meneame.net/img/logo_meneame_footer.svg">
+
+
+  <link rel="canonical" href="/" />
+
+  
+    <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Inter:100,200,400,500,600,700,900" />
+    <link rel="stylesheet" href="https://v2.mnmstatic.net/build/app.54414f78.css">
+              
+      <script src="https://v2.mnmstatic.net/build/runtime.ec2b70cf.js" defer></script><script src="https://v2.mnmstatic.net/build/955.2a6f096a.js" defer></script><script src="https://v2.mnmstatic.net/build/161.253bb760.js" defer></script><script src="https://v2.mnmstatic.net/build/166.e551ede5.js" defer></script><script src="https://v2.mnmstatic.net/build/app.b5cd90ab.js" defer></script>
+
+    
+              
+  <script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script src="/js/cmp.js"></script>
+
+<script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+
+    !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+
+    apstag.init({
+        pubID: 'd9a6110a-a0f6-463b-970b-a533e85c52ca',
+        adServer: 'googletag',
+        gdpr: { cmpTimeout: 200 }
+    });
+
+    let amazonSlots = [];
+
+    function updateSlotStatus(slotId, state) {
+        if (state === 'rendered') {
+            const slot = document.getElementById(slotId);
+            if (slot && slot.querySelector('iframe')) {
+                const iframe = slot.querySelector('iframe');
+                const container = slot.closest('.ad-container');
+                const iframeWidth = iframe.getAttribute('width');
+                if (iframeWidth > 1) {
+                    container.classList.add('ad-title');
+                    container.style.width = iframeWidth + "px";
+                    if (container.parentNode.classList.contains('ad-roba-mobile')) {
+                        container.parentNode.style.minHeight = parseInt(iframe.getAttribute('height')) + 150 + 'px';
+                    }
+                } else {
+                    container.style.width =  "100%";
+                    container.style.textAlign =  "center";
+                    iframe.setAttribute('width', '100%');
+                    iframe.setAttribute('height', '100%');
+                }
+                container.style.marginBottom = '30px';
+                if (iframe.getAttribute('id') && iframe.getAttribute('id').indexOf('MEGA') >= 0) {
+                    container.classList.add('mega');
+                }
+            }
+        }
+    }
+
+    function sortSizes(sizes) {
+        sizes.sort(function(a, b){
+            const sumA = a[0] + a[1];
+            const sumB = b[0] + b[1];
+            if (sumA > sumB) {
+                return -1;
+            } else if (sumA < sumB) {
+                return 1;
+            } else {
+                return 0;
+            }
+        });
+        return sizes;
+    }
+
+    function setCorrectSizes(adContainerId, sizes) {
+        const validSizes = [];
+        const adContainer = document.getElementById(adContainerId);
+        if (adContainer) {
+            for (let i = 0; i < sizes.length; i++) {
+                if(adContainer.parentNode.offsetWidth >=  sizes[i][0]) {
+                    validSizes.push(sizes[i]);
+                }
+            }
+        }
+        return sortSizes(validSizes);
+    }
+
+    function displayGoogleSlots() {
+        document.body.querySelectorAll('.ad-container').forEach(function (adContainer) {
+            if (adContainer.firstElementChild && adContainer.firstElementChild.getAttribute('id') === adContainer.dataset.slotId) {
+                googletag.display(adContainer.dataset.slotId);
+            }
+        });
+    }
+
+    function addAmazonSlot(slotId, slotName, sizes) {
+        var newSlot = {
+            slotID: slotId,
+            slotName: slotName,
+            sizes: sizes
+        };
+        amazonSlots.push(newSlot);
+    }
+
+    function addGoogleSlot(slotId, slotName, sizes) {
+        if (slotName.includes('INTERSTITIAL')) {
+            const slot = googletag.defineOutOfPageSlot(slotName, slotId);
+            if (slot) {
+                slot.addService(googletag.pubads());
+            }
+        } else {
+            googletag.defineSlot(slotName, sizes, slotId).addService(googletag.pubads());
+            googletag.pubads().addEventListener('slotOnload', function(event) {
+                updateSlotStatus(event.slot.getSlotElementId(), 'rendered');
+            });
+        }
+    }
+
+    document.addEventListener("DOMContentLoaded", function() {
+        const GOOGLE_VENDOR_ID = 1;
+        const WITHOUT_PERSONALISATION = 1;
+
+        const checkNpaFromGoogleVendor = () => {
+            __tcfapi('getNonIABVendorConsents',2,(nonIabVendorsData) => {
+                if (nonIabVendorsData) {
+                    const nonIabVendorConsents = nonIabVendorsData.nonIabVendorConsents;
+                    const googleIsEnabled = nonIabVendorConsents && nonIabVendorConsents[GOOGLE_VENDOR_ID];
+
+                    if (!googleIsEnabled) {
+                        window.googletag.cmd.push(() => {
+                            window.googletag.pubads().setRequestNonPersonalizedAds(WITHOUT_PERSONALISATION);
+                        });
+                    }
+
+                }
+            })
+        };
+
+        const waitForCMP = new Promise((resolve) => {
+            __tcfapi('addEventListener', 2, (tcData, success) => {
+                if(success && (tcData.eventStatus === 'useractioncomplete' || tcData.eventStatus === 'tcloaded') ) {
+                    checkNpaFromGoogleVendor();
+                    __tcfapi('removeEventListener', 2, () => {}, tcData.listenerId);
+                    resolve();
+                }
+            });
+        });
+
+        waitForCMP.then(() => {
+
+            window.Criteo = window.Criteo || {};
+            window.Criteo.events = window.Criteo.events || [];
+
+            const criteoScript = document.createElement("script");
+            const criteoScriptContainer = document.getElementsByTagName(
+                "head"
+            )[0];
+            criteoScript.async = true;
+            criteoScript.type = "text/javascript";
+            criteoScript.src = "https://static.criteo.net/js/ld/publishertag.js";
+
+            if (criteoScriptContainer)
+                criteoScriptContainer.parentNode.insertBefore(criteoScript, criteoScriptContainer);
+
+
+            Criteo.events.push(function() {
+                Criteo.RequestBidsOnGoogleTagSlots(8002, function() {
+                    Criteo.SetDFPKeyValueTargeting();
+                    apstag.fetchBids({slots: amazonSlots, timeout: 2e3}, function() {
+                        googletag.cmd.push(function(){
+                            apstag.setDisplayBids();
+                            googletag.pubads().refresh();
+                        });
+                    });
+                }, 3000);
+            });
+
+            googletag.cmd.push(function() {
+                googletag.pubads().enableLazyLoad({
+                    fetchMarginPercent: 400,
+                    renderMarginPercent: 200,
+                    mobileScaling: 2.0
+                });
+                googletag.pubads().disableInitialLoad();
+                googletag.enableServices();
+                displayGoogleSlots();
+            });
+        });
+
+    });
+
+</script>
+
+      <script src="https://accounts.google.com/gsi/client" async defer></script>
+  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+      <script async
+      src="https://www.googletagmanager.com/gtag/js?id=G-JZ25Q9GQT7"></script>
+    <script>
+      window.dataLayer = window.dataLayer || []; function
+      gtag(){dataLayer.push(arguments);} gtag('js', new Date());
+
+
+              gtag('config', 'G-JZ25Q9GQT7');
+      
+      gtag('set', 'user_properties', {
+        lab_or_classic_user: 'lab',
+      });
+    </script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-T4HYRHGW7X"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtagLab(){dataLayer.push(arguments);}
+      gtagLab('js', new Date());
+
+      gtagLab('config', 'G-T4HYRHGW7X');
+    </script>
+
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+              m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-229718-1', 'www.meneame.net', {allowLinker: true});
+      ga('set', 'dimension1', 'meneame.net');
+
+      
+      ga('set', 'dimension4', 'lab');
+
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+      setTimeout(function() {ga('send', 'event', 'NoBounce', 'Over 20 seconds')}, 20000);
+
+    </script>
+
+  </head>
+<body class="theme--default">
+<header style="border-top-color: #E35624">
+    
+    <div class="container">
+        <div class="header-left">
+            <a id="main-logo" href="/" class="ga4-event" data-event-section="main_logo">
+                                    <div class="mobile-hidden"><?xml version="1.0" encoding="UTF-8"?>
+<svg width="138px" height="24px" viewBox="0 0 138 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Menéame</title>
+    <desc>Logo Menéame</desc>
+    <defs>
+        <path d="M1.9385498,0.0294501992 C2.95716335,0.0362390438 3.80376096,0.902438247 3.80156603,1.93577689 C3.79955378,2.96165737 2.92073307,3.85080478 1.92210359,3.83751394 C0.90540239,3.82403187 0.0707569721,2.9580239 0.072666043,1.91866135 C0.0746772908,0.882167331 0.923474104,0.0226613546 1.9385498,0.0294501992 Z" id="path-1"></path>
+        <path d="M12.1035551,0.0285058319 C15.3049256,0.273956031 17.6177224,1.86254567 19.1194913,4.81301579 C19.2636826,4.57990025 19.3583439,4.43809946 19.4417224,4.28989229 C20.9970372,1.52568511 23.3177702,0.0365377044 26.5298499,0.0083305331 C28.7135631,-0.0109842079 30.6904555,0.570465991 32.3841288,1.98350185 C34.0436666,3.36804368 34.9931487,5.17970902 35.2233957,7.29190025 C35.3982802,8.89703173 35.33632,10.5291273 35.3566866,12.149462 C35.3748539,13.5883146 35.3450212,15.0277409 35.365579,16.4664979 C35.3914913,18.2788325 36.4236826,19.6229281 37.9519376,19.7903544 C39.2299615,19.9304341 40.4576905,19.7551672 41.514073,18.9263544 C41.5761288,18.8776851 41.6496587,18.8436453 41.8001615,18.7533823 L41.8001615,21.661207 C41.8001615,21.6854595 41.8001615,21.7092337 41.8001615,21.7325427 L41.8001615,21.8343365 C41.7979545,22.8766017 41.7497702,22.9130317 40.6669973,23.3326971 C39.6797934,23.7153972 38.6712979,23.9569301 37.6573966,23.9942352 L37.1132097,23.9942352 C36.4817793,23.9707365 35.8493565,23.8638726 35.2197623,23.658466 C32.7873479,22.8651273 31.5499615,20.9753425 31.0425192,18.5663544 C30.9062643,17.9196931 30.9025352,17.2380357 30.8974674,16.5720596 C30.88083,14.3467528 30.9039694,12.1210636 30.8852284,9.89585245 C30.8764316,8.86069707 30.8138977,7.82965324 30.4211009,6.84345404 C29.7346627,5.12023492 28.0969256,4.0564899 26.2734037,3.93295205 C22.7418658,3.69362137 20.5366388,6.70203571 20.0984236,9.35656958 C20.0253718,9.79889627 19.9932443,10.2527927 19.9923838,10.7014301 C19.9844475,14.7005377 19.9878898,18.6996453 19.9874117,22.6987528 L19.9874053,22.7255479 L19.9873472,22.7769519 C19.9861126,23.3432413 19.9599899,23.3609464 19.3692973,23.3622523 L19.3156985,23.3623385 C18.2280491,23.3636771 17.1400172,23.3445536 16.0530372,23.3711353 C15.5925431,23.3824182 15.4522722,23.2320118 15.4538977,22.7680756 C15.4691965,18.283709 15.4733081,13.7993425 15.4560969,9.31507157 C15.4510292,7.96935045 15.1474435,6.6910397 14.2814356,5.61075284 C13.4359854,4.55609149 12.3029176,4.00533452 10.9748858,3.9632628 C7.7956029,3.86276878 5.37198537,5.84807555 4.74502123,9.04122296 C4.61086983,9.72450583 4.54355509,10.4315975 4.54011286,11.1281712 C4.52089374,14.9933186 4.52165868,18.8586572 4.54192959,22.7238046 C4.5447025,23.2389919 4.38712481,23.3876771 3.88475031,23.372952 C2.76468656,23.3398684 1.64271047,23.3511513 0.521881783,23.368458 C0.130327998,23.3745775 -0.000476782655,23.2372708 0,22.8434222 C0.00879811774,15.581462 0.00870250021,8.31940623 0,1.05744607 C0,0.673828541 0.104033178,0.520840493 0.510025209,0.528298661 C1.68076625,0.549716987 2.85255907,0.549334517 4.02330011,0.528394278 C4.42336385,0.521222963 4.54747541,0.661398262 4.53791366,1.05218711 C4.51553915,1.96724687 4.53074234,2.88335842 4.53074234,3.79908751 C4.5812284,3.8285377 4.63171445,3.85789229 4.68210489,3.88734249 C6.43209692,1.17419507 8.85265469,-0.220864686 12.1035551,0.0285058319 Z" id="path-3"></path>
+    </defs>
+    <g id="Menu-Home-Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Menéame-Story-con-Foto-y-Relacionadas" transform="translate(-73.000000, -19.000000)">
+            <g id="logo-meneame-texto" transform="translate(72.999999, 19.000084)">
+                <g id="logo-meneame-orange">
+                    <g id="Group-3" transform="translate(25.625499, 7.936171)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-2"></g>
+                        <polygon id="Fill-1" fill="#E35624" mask="url(#mask-2)" points="0.0650199203 3.83808765 3.80557769 3.83808765 3.80557769 0.028685259 0.0650199203 0.028685259"></polygon>
+                    </g>
+                    <g id="Group-6">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <g id="Clip-5"></g>
+                        <polygon id="Fill-4" fill="#E35624" mask="url(#mask-4)" points="1.30499393e-06 23.9941791 41.8001607 23.9941791 41.8001607 -0.00964556252 1.30499393e-06 -0.00964556252"></polygon>
+                    </g>
+                </g>
+                <g id="menéame-texto" transform="translate(50.250001, 1.549916)" fill="#E35624" fill-rule="nonzero">
+                    <path d="M16.45,15.05 L16.45,12.75 C16.175,13 15.8,13.15 15.425,13.15 C14.875,13.15 14.4,12.825 14.4,12.25 L14.4,9.2 C14.4,7.15 12.9,5.75 10.875,5.75 C9.75,5.75 8.575,6.15 8.025,7.2 C7.4,6.275 6.425,5.75 5.3,5.75 C4.375,5.75 3.425,6.1 2.85,6.875 L2.85,5.95 L0,5.95 L0,15.45 L2.85,15.45 L2.85,9.85 C3.025,8.9 3.6,8.1 4.55,8.1 C5.375,8.1 5.775,8.75 5.775,9.5 L5.775,15.45 L8.625,15.45 L8.625,9.875 C8.8,8.95 9.375,8.1 10.325,8.1 C11.15,8.1 11.575,8.75 11.575,9.5 L11.575,12.625 C11.575,14.175 12.65,15.675 14.3,15.675 C15.05,15.675 15.875,15.5 16.45,15.05 Z" id="Path"></path>
+                    <path d="M20.9208333,13.05 L25.9208333,8.05 C24.8208333,6.475 23.4458333,5.75 21.5208333,5.75 C18.8958333,5.75 16.7208333,8.025 16.7208333,10.625 C16.7208333,13.775 19.2208333,15.675 22.2208333,15.675 C23.0708333,15.675 24.1208333,15.5 24.8958333,15.125 L24.8958333,12.375 C24.1458333,13.025 23.1708333,13.275 22.2208333,13.275 C21.7458333,13.275 21.3208333,13.2 20.9208333,13.05 Z M21.3958333,8.15 C21.7208333,8.15 22.2458333,8.225 22.4958333,8.475 L19.4458333,11.65 C19.3208333,11.35 19.2458333,11 19.2458333,10.625 C19.2458333,9.325 19.9958333,8.15 21.3958333,8.15 Z" id="Shape"></path>
+                    <path d="M36.8166667,13.15 C36.2916667,13.15 35.8166667,12.825 35.8166667,12.25 L35.8166667,9.2 C35.8166667,7.325 34.4416667,5.75 32.4916667,5.75 C31.5666667,5.75 30.6166667,6.1 30.0416667,6.875 L30.0416667,5.95 L27.1916667,5.95 L27.1916667,15.45 L30.0416667,15.45 L30.0416667,9.85 C30.2416667,8.875 30.7916667,8.1 31.7416667,8.1 C32.5666667,8.1 32.9666667,8.75 32.9666667,9.5 L32.9666667,12.625 C32.9666667,14.175 34.0416667,15.675 35.7166667,15.675 C36.4416667,15.675 37.2666667,15.5 37.8666667,15.05 L37.8666667,12.75 C37.5666667,13 37.1916667,13.15 36.8166667,13.15 Z" id="Path"></path>
+                    <path d="M46.0875,1.6 L44.4875,0 L41.3625,3.175 L42.9375,4.75 L46.0875,1.6 Z M42.3375,13.05 L47.3375,8.05 C46.2375,6.475 44.8625,5.75 42.9375,5.75 C40.3125,5.75 38.1375,8.025 38.1375,10.625 C38.1375,13.775 40.6375,15.675 43.6375,15.675 C44.4875,15.675 45.5375,15.5 46.3125,15.125 L46.3125,12.375 C45.5625,13.025 44.5875,13.275 43.6375,13.275 C43.1625,13.275 42.7375,13.2 42.3375,13.05 Z M42.8125,8.15 C43.1375,8.15 43.6625,8.225 43.9125,8.475 L40.8625,11.65 C40.7375,11.35 40.6625,11 40.6625,10.625 C40.6625,9.325 41.4125,8.15 42.8125,8.15 Z" id="Shape"></path>
+                    <path d="M59.2583333,13.15 C58.7083333,13.15 58.2583333,12.825 58.2583333,12.25 L58.2583333,5.95 L55.4083333,5.95 L55.4083333,7.05 C54.6583333,6.15 53.6333333,5.75 52.4583333,5.75 C49.6583333,5.75 47.8583333,8.025 47.8583333,10.7 C47.8583333,13.4 49.6583333,15.675 52.4583333,15.675 C53.8083333,15.675 54.9583333,15.125 55.6833333,13.975 C56.1333333,15.05 57.1083333,15.675 58.1333333,15.675 C58.8833333,15.675 59.7083333,15.5 60.3083333,15.05 L60.3083333,12.75 C60.0083333,13 59.6333333,13.15 59.2583333,13.15 Z M53.1333333,13.3 C51.7333333,13.3 50.6833333,12.075 50.6833333,10.7 C50.6833333,9.325 51.7333333,8.1 53.1333333,8.1 C54.1583333,8.1 55.0583333,8.775 55.4083333,9.725 L55.4083333,11.675 C55.0583333,12.625 54.1333333,13.3 53.1333333,13.3 Z" id="Shape"></path>
+                    <path d="M77.7791667,15.05 L77.7791667,12.75 C77.5041667,13 77.1291667,13.15 76.7541667,13.15 C76.2041667,13.15 75.7291667,12.825 75.7291667,12.25 L75.7291667,9.2 C75.7291667,7.15 74.2291667,5.75 72.2041667,5.75 C71.0791667,5.75 69.9041667,6.15 69.3541667,7.2 C68.7291667,6.275 67.7541667,5.75 66.6291667,5.75 C65.7041667,5.75 64.7541667,6.1 64.1791667,6.875 L64.1791667,5.95 L61.3291667,5.95 L61.3291667,15.45 L64.1791667,15.45 L64.1791667,9.85 C64.3541667,8.9 64.9291667,8.1 65.8791667,8.1 C66.7041667,8.1 67.1041667,8.75 67.1041667,9.5 L67.1041667,15.45 L69.9541667,15.45 L69.9541667,9.875 C70.1291667,8.95 70.7041667,8.1 71.6541667,8.1 C72.4791667,8.1 72.9041667,8.75 72.9041667,9.5 L72.9041667,12.625 C72.9041667,14.175 73.9791667,15.675 75.6291667,15.675 C76.3791667,15.675 77.2041667,15.5 77.7791667,15.05 Z" id="Path"></path>
+                    <path d="M82.25,13.05 L87.25,8.05 C86.15,6.475 84.775,5.75 82.85,5.75 C80.225,5.75 78.05,8.025 78.05,10.625 C78.05,13.775 80.55,15.675 83.55,15.675 C84.4,15.675 85.45,15.5 86.225,15.125 L86.225,12.375 C85.475,13.025 84.5,13.275 83.55,13.275 C83.075,13.275 82.65,13.2 82.25,13.05 Z M82.725,8.15 C83.05,8.15 83.575,8.225 83.825,8.475 L80.775,11.65 C80.65,11.35 80.575,11 80.575,10.625 C80.575,9.325 81.325,8.15 82.725,8.15 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg></div>
+                    <div class="desktop-hidden"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="42" height="24">
+    <defs>
+        <path d="M1.939.029c1.019.007 1.865.873 1.863 1.906-.002 1.026-.881 1.915-1.879 1.902C.905 3.824.071 2.958.073 1.919S.923.023 1.939.029z"
+              id="A"></path>
+        <path d="M12.104.029c3.201.245 5.514 1.834 7.016 4.785l.322-.523C20.997 1.526 23.318.037 26.53.008c2.184-.019 4.161.562 5.854 1.975a7.83 7.83 0 0 1 2.839 5.308c.175 1.605.113 3.237.133 4.858l.009 4.317c.026 1.812 1.058 3.156 2.586 3.324 1.278.14 2.506-.035 3.562-.864.062-.049.136-.083.286-.173v3.081c-.002 1.042-.05 1.079-1.133 1.498-.987.383-1.996.624-3.01.662h-.544a6.9 6.9 0 0 1-1.893-.336c-2.432-.793-3.67-2.683-4.177-5.092-.136-.647-.14-1.328-.145-1.994l-.012-6.676c-.009-1.035-.071-2.066-.464-3.052-.686-1.723-2.324-2.787-4.148-2.911-3.532-.239-5.737 2.769-6.175 5.424-.073.442-.105.896-.106 1.345l-.005 12.076c-.001.566-.027.584-.618.585h-.054c-1.088.001-2.176-.018-3.263.009-.46.011-.601-.139-.599-.603l.002-13.453c-.005-1.346-.309-2.624-1.175-3.704-.845-1.055-1.979-1.605-3.307-1.647-3.179-.1-5.603 1.885-6.23 5.078a11.18 11.18 0 0 0-.205 2.087l.002 11.596c.003.515-.155.664-.657.649l-3.363-.004C.13 23.375 0 23.237 0 22.844V1.058C0 .674.104.521.51.528a97.14 97.14 0 0 0 3.513 0c.4-.007.524.133.515.524l-.007 2.747.151.088C6.432 1.174 8.853-.221 12.104.029z"
+              id="B"></path>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g transform="translate(25.625 7.936)">
+            <mask id="C" fill="#fff">
+                <use xlink:href="#A"></use>
+            </mask>
+            <path fill="#E35624" mask="url(#C)" d="M.065 3.838h3.741V.029H.065z"></path>
+        </g>
+        <mask id="D" fill="#fff">
+            <use xlink:href="#B"></use>
+        </mask>
+        <path fill="#E35624" mask="url(#D)" d="M0 23.994h41.8V-.01H0z"></path>
+    </g>
+</svg>
+</div>
+                            </a>
+
+                
+    
+    
+    
+    
+    
+
+    
+
+<div class="select select wrapped mobile-hidden " id="main-selector"
+                                                                             data-selected-value="main">
+        <div class="selected" data-selected-value="main">
+        
+                    <svg xmlns="http://www.w3.org/2000/svg" width="14" height="13">
+    <path d="M2.043 7.382v5.345h9.333V7.382L6.709 3.394 2.043 7.382zm2.97 1.527h3.394v3.818H5.012V8.909zM13.2 5.295L7.261.204a.85.85 0 0 0-1.103 0L.218 5.295a.85.85 0 0 0-.011 1.124.85.85 0 0 0 1.114.149l5.388-4.603 5.388 4.62a.85.85 0 0 0 1.469-.442.85.85 0 0 0-.366-.831v-.017z"
+          fill=" #e35614 "/>
+</svg>
+                
+        <span>Portada</span>
+        <div class="triangle down"></div>
+        <input type="hidden" name="main-selector-value" value="main"/>
+        <input type="hidden" name="main-selector-text" value="Portada"/>
+    </div>
+    <div class="error-message"></div>
+    <div class="options hidden">
+
+                    <div class="select-filter">
+                <input type="text"
+                       class="input-light mini"
+                       name="selector-filter"
+                       id="main-selector-filter"
+                       placeholder="Filtrar"/>
+            </div>
+                <div class="loader-container hidden">
+            <div class="loader-dots dark"><div></div><div></div><div></div></div>
+        </div>
+
+        
+        
+                            <div class="select-section">
+                                        <ul>
+                                                    <li class="option" data-option-value="main"
+                                data-option-name="Portada">
+                                                                    <a href="/">
+                                
+                                
+                                
+                                                                    <svg xmlns="http://www.w3.org/2000/svg" width="14" height="13">
+    <path d="M2.043 7.382v5.345h9.333V7.382L6.709 3.394 2.043 7.382zm2.97 1.527h3.394v3.818H5.012V8.909zM13.2 5.295L7.261.204a.85.85 0 0 0-1.103 0L.218 5.295a.85.85 0 0 0-.011 1.124.85.85 0 0 0 1.114.149l5.388-4.603 5.388 4.62a.85.85 0 0 0 1.469-.442.85.85 0 0 0-.366-.831v-.017z"
+          fill=" #e35614 "/>
+</svg>
+                                
+                                <div class="option-info">
+                                    <div class="option-name">Portada</div>
+                                                                    </div>
+                                                                    </a>
+                                                            </li>
+                                                    <li class="option" data-option-value="queue"
+                                data-option-name="Nuevas">
+                                                                    <a href="/queue">
+                                
+                                
+                                
+                                                                    <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14">
+    <path d="M7 0a7 7 0 1 0 0 14A7 7 0 1 0 7 0zm.003 1.666c.634 0 1.148.509 1.148 1.137 0 1.444.034.466-.207 4.913 0 .524-.429.95-.958.95s-.958-.425-.958-.95l-.207-4.913a1.13 1.13 0 0 1 .348-.816c.223-.214.524-.33.834-.321h0zm-.004 10.813c-.643-.003-1.162-.526-1.161-1.168s.522-1.164 1.165-1.165 1.165.518 1.168 1.161c.001.311-.122.61-.342.83s-.519.343-.83.342z"
+          fill=" #1480E3 "/>
+</svg>
+                                
+                                <div class="option-info">
+                                    <div class="option-name">Nuevas</div>
+                                                                    </div>
+                                                                    </a>
+                                                            </li>
+                                                    <li class="option" data-option-value="articles"
+                                data-option-name="Artículos">
+                                                                    <a href="/articles">
+                                
+                                
+                                
+                                                                    <svg xmlns="http://www.w3.org/2000/svg" width="13" height="14">
+    <path d="M9 0H1C.448 0 0 .418 0 .933v12.133C0 13.582.448 14 1 14h11c.552 0 1-.418 1-.933V3.733C13 2.333 10.5 0 9 0zM5.718 2.026c.662-.053 1.249.394 1.323 1.007-.074.613-.661 1.06-1.323 1.007h-2.77c-.662.053-1.249-.394-1.323-1.007.074-.613.661-1.06 1.323-1.007h2.77zm4.459 10.103H2.852c-.614.053-1.159-.394-1.227-1.007.069-.613.613-1.06 1.227-1.007h7.325c.614-.053 1.159.394 1.227 1.007-.069.613-.613 1.06-1.227 1.007zm-.004-4.044H2.852c-.614.053-1.159-.394-1.227-1.007.069-.613.613-1.06 1.227-1.007h7.322c.614-.053 1.159.394 1.227 1.007-.069.613-.613 1.06-1.227 1.007z"
+          fill=" #7C1E66 "/>
+</svg>
+                                
+                                <div class="option-info">
+                                    <div class="option-name">Artículos</div>
+                                                                    </div>
+                                                                    </a>
+                                                            </li>
+                                                    <li class="option" data-option-value="popular"
+                                data-option-name="Popular">
+                                                                    <a href="/popular">
+                                
+                                
+                                
+                                                                    <svg xmlns="http://www.w3.org/2000/svg" width="14" height="16">
+    <path d="M10.205 8.789a7.77 7.77 0 0 0-.849-3.509c-.444-1.113-1.041-2.159-1.774-3.109A13.03 13.03 0 0 0 6.259.917C6.076.757 5.625.464 5.27.181s-.409-.235-.409.144C5.243 4.459 1.201 7.547.47 9.328-.927 12.8.927 15.435 4.233 15.947c.441.069.495-.08.167-.336-1.236-.808-1.759-2.348-1.269-3.733.495-1.435 1.731-1.851 2.209-4.176.075-.373.371-.459.683-.187 1.214 1.108 2.203 2.437 2.913 3.915.435 1.248.645 2.523-1.704 4.149-.344.24.145.459.591.416 3.134-.304 6.219-3.184 6.176-5.627 0-.896-.86-2.8-1.887-4.267-.231-.325-.484-.272-.538.107-.102 1.067-.14 1.845-.941 2.736-.253.315-.452.224-.43-.155z"
+          fill=" #E31814 "/>
+</svg>
+                                
+                                <div class="option-info">
+                                    <div class="option-name">Popular</div>
+                                                                    </div>
+                                                                    </a>
+                                                            </li>
+                                                    <li class="option" data-option-value="top_visited"
+                                data-option-name="Más visitadas">
+                                                                    <a href="/top_visited">
+                                
+                                
+                                
+                                                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="11">
+    <path d="M15.704 1.571c-.15-.624-.616-1.108-1.207-1.253a11.68 11.68 0 0 0-5.415 0C8.209.55 7.678 1.489 7.896 2.416s1.103 1.491 1.976 1.259c.275-.063.554-.111.834-.144L7.674 6.779 5.833 4.807c-.254-.27-.599-.422-.958-.422s-.704.152-.958.422L.397 8.544a1.5 1.5 0 0 0-.351 1.39c.125.497.491.884.958 1.017s.967-.009 1.309-.372L4.875 7.86l1.857 1.972c.254.27.599.422.958.422s.704-.152.958-.422l4.045-4.34a7.51 7.51 0 0 1-.152.954c-.218.927.313 1.866 1.186 2.098s1.758-.332 1.976-1.259c.395-1.882.395-3.832 0-5.714h0z"
+          fill=" #2A9C17 "/>
+</svg>
+                                
+                                <div class="option-info">
+                                    <div class="option-name">Más visitadas</div>
+                                                                    </div>
+                                                                    </a>
+                                                            </li>
+                                                    <li class="option" data-option-value="notame"
+                                data-option-name="Nótame">
+                                                                    <a href="/notame">
+                                
+                                
+                                
+                                                                    <?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>50F0E052-9EF2-4C3C-849B-F46536B96FBF</title>
+    <g id="Menu-Home-Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Menéame-Selector-Open" transform="translate(-155.000000, -558.000000)" fill="#E35624">
+            <g id="Selector-Abierto" transform="translate(136.000000, 12.000000)">
+                <g id="Group" transform="translate(18.000000, 101.999944)">
+                    <path d="M12.6666667,449.83309 L12.6666667,448.666472 L15,448.666472 L15,455.666764 L13.25,455.666764 L13.25,458 L10.1390833,455.666764 L5.66666667,455.666764 L5.66666667,453.333528 L12.6666667,453.333528 L12.6666667,449.83309 Z M11.5,452.16691 L5.86091667,452.16691 L2.75,454.500146 L2.75,452.16691 L1,452.16691 L1,444 L11.5,444 L11.5,452.16691 Z" id="notame-icon"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
+                                
+                                <div class="option-info">
+                                    <div class="option-name">Nótame</div>
+                                                                    </div>
+                                                                    </a>
+                                                            </li>
+                                            </ul>
+                </div>
+                            <div class="select-section">
+                                            <div class="select-section-title">
+                            mis comunidades
+                        </div>
+                                        <ul>
+                                                    <li class="option" data-option-value="ciencia"
+                                data-option-name="Ciencia">
+                                                                    <a href="/m/ciencia">
+                                
+                                
+                                
+                                                                    <svg xmlns="http://www.w3.org/2000/svg" width="14" height="13"><path d="M13.501 11.344L9.188 3.5V2.188h.656c.604 0 1.094-.49 1.094-1.094S10.448 0 9.844 0H4.156c-.604 0-1.094.49-1.094 1.094s.49 1.094 1.094 1.094h.656V3.5L.499 11.344a.61.61 0 0 0 .534.906h11.935a.61.61 0 0 0 .534-.906zm-2.66-.963c-.042.073-.121.118-.206.118H3.36c-.083-.001-.16-.045-.202-.117s-.043-.16-.003-.233l1.247-2.275h5.193l1.251 2.275c.041.072.041.16 0 .232h-.004z" fill="#1298d5"/></svg>
+                                
+                                <div class="option-info">
+                                    <div class="option-name">Ciencia</div>
+                                                                    </div>
+                                                                    </a>
+                                                            </li>
+                                                    <li class="option" data-option-value="politica"
+                                data-option-name="Política">
+                                                                    <a href="/m/politica">
+                                
+                                
+                                
+                                                                    <svg xmlns="http://www.w3.org/2000/svg" width="10" height="14"><path d="M8.4 12.133h-.467L7 6.533H2.333l-.933 5.6H.933c-.515 0-.933.418-.933.933S.418 14 .933 14H8.4c.515 0 .933-.418.933-.933s-.418-.933-.933-.933zM8.867 0h-.933c-.258 0-.467.209-.467.467v1.4h-1.4v-1.4c0-.257-.313-.467-.7-.467h-1.4c-.387 0-.7.21-.7.467v1.4h-1.4v-1.4C1.867.209 1.658 0 1.4 0H.467C.209 0 0 .209 0 .467v3.267C0 4.764.836 5.6 1.867 5.6h5.6c1.031 0 1.867-.836 1.867-1.867h0V.467C9.333.209 9.124 0 8.867 0z" fill="#722e0e"/></svg>
+                                
+                                <div class="option-info">
+                                    <div class="option-name">Política</div>
+                                                                    </div>
+                                                                    </a>
+                                                            </li>
+                                                    <li class="option" data-option-value="economia"
+                                data-option-name="Economía">
+                                                                    <a href="/m/economia">
+                                
+                                
+                                
+                                                                    <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14"><path d="M13.801 3.41L7.425.104a.49.49 0 0 0-.402 0L.65 3.41a.23.23 0 0 0-.099.307l.298.601a.4.4 0 0 0 .325.203h12.099a.4.4 0 0 0 .325-.203l.298-.601a.23.23 0 0 0-.095-.307zM2.348 5.419l-.542 5.419h2.71l-.542-5.419H2.348zm4.065 0l-.542 5.419h2.71l-.542-5.419H6.413zm4.065 0l-.542 5.419h2.71l-.542-5.419h-1.626zm2.29 6.323H1.233c-1.057 0-1.052 1.806 0 1.806h11.534c1.057 0 1.052-1.806 0-1.806z" fill="#114a9a"/></svg>
+                                
+                                <div class="option-info">
+                                    <div class="option-name">Economía</div>
+                                                                    </div>
+                                                                    </a>
+                                                            </li>
+                                                    <li class="option" data-option-value="actualidad"
+                                data-option-name="Actualidad">
+                                                                    <a href="/m/actualidad">
+                                
+                                
+                                
+                                                                    <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14"><path d="M7 0a7 7 0 1 0 0 14A7 7 0 1 0 7 0zm5.269 5.983c-.768.255-1.561.427-2.366.513-.031-1.555-.372-3.087-1.003-4.508a5.38 5.38 0 0 1 3.369 3.995h0zm-6.533.653c.051-1.792.467-3.547 1.288-4.667.807 1.143 1.237 2.893 1.288 4.667H5.712zm2.515 1.629A8.13 8.13 0 0 1 7 12.054a8.13 8.13 0 0 1-1.227-3.789L7 8.297l1.227-.037.023.005zM5.105 1.988c-.631 1.421-.973 2.953-1.003 4.508a11.35 11.35 0 0 1-2.366-.513 5.38 5.38 0 0 1 3.369-3.995h0zM1.68 7.672a15.31 15.31 0 0 0 2.459.467 11.26 11.26 0 0 0 .966 3.878c-1.857-.704-3.174-2.375-3.425-4.345h0zm7.215 4.345a11.26 11.26 0 0 0 .966-3.878 15.3 15.3 0 0 0 2.459-.467c-.252 1.97-1.569 3.64-3.425 4.345h0z" fill="#f62d00"/></svg>
+                                
+                                <div class="option-info">
+                                    <div class="option-name">Actualidad</div>
+                                                                    </div>
+                                                                    </a>
+                                                            </li>
+                                                    <li class="option" data-option-value="series"
+                                data-option-name="Series">
+                                                                    <a href="/m/series">
+                                
+                                
+                                
+                                                                    <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14"><path d="M13.963 5.059c-.089-.274-.326-.473-.611-.513l-3.92-.569L7.677.42C7.549.163 7.287.001 7 .001s-.549.162-.677.419L4.569 3.976l-3.92.569c-.284.041-.521.241-.61.514s-.016.573.19.774l2.837 2.767-.667 3.906c-.046.282.071.565.302.733s.536.191.79.061L7 11.433l3.509 1.867c.255.134.564.112.797-.058s.349-.456.3-.74l-.672-3.906 2.837-2.767c.204-.2.278-.498.191-.77zM7 10.267A2.95 2.95 0 0 1 5.381 9.8a.51.51 0 0 1-.247-.467c0-1.059 1.157-.205 1.778-.205.994 0 1.134-.364 1.134-.751s-.313-.705-.854-.705-2.021.989-2.021-.252c0-.163.303-1.899.331-2.067a.6.6 0 0 1 .602-.546h2.249c.295.013.524.261.513.555 0 .141-.057.277-.158.376s-.237.154-.379.151H6.533l-.131.868a2.76 2.76 0 0 1 .891-.14c.498-.041.989.135 1.346.483s.548.834.52 1.332C9.147 9.571 8.344 10.267 7 10.267z" fill="#d6a800"/></svg>
+                                
+                                <div class="option-info">
+                                    <div class="option-name">Series</div>
+                                                                    </div>
+                                                                    </a>
+                                                            </li>
+                                            </ul>
+                </div>
+                            <div class="select-section">
+                                            <div class="select-section-title">
+                            otras secciones
+                        </div>
+                                        <ul>
+                                                    <li class="option" data-option-value="comunidades"
+                                data-option-name="Comunidades">
+                                                                    <a href="/communities">
+                                
+                                                                    <i class="fas fa-users" style="color: #2A9C17" ></i>
+                                
+                                
+                                
+                                <div class="option-info">
+                                    <div class="option-name">Comunidades</div>
+                                                                    </div>
+                                                                    </a>
+                                                            </li>
+                                                    <li class="option" data-option-value="fisgona"
+                                data-option-name="Fisgona">
+                                                                    <a href="/go/old?url=https://meneame.net/sneak">
+                                
+                                
+                                
+                                                                    <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 512 512" opacity="1" fill="#280A9D"><path d="M378.625 209.465l-15.844-91.844c-5.313-28.906-43.375-45.063-71.656-24.234-14.828 10.938-28.094 11.719-35.125 11.719s-14.828 1.563-35.125-11.719c-29.391-19.219-66.344-4.672-71.656 24.234l-15.844 91.844C53.906 219.418 0 238.778 0 261.012c0 32.438 114.625 58.719 256 58.719 141.391 0 256-26.281 256-58.719 0-22.234-53.906-41.594-133.375-51.547zm-269.5 120.985l7.547 86.515c39.563 6.719 79.734 10.219 119.703 11.078L256 401.278l19.625 26.765c39.969-.859 80.141-4.359 119.703-11.078l7.547-86.515c-48.375 9.359-97.906 13.5-146.875 13.5-48.984 0-98.484-4.141-146.875-13.5zm77.563 71.547c-33.469-1.578-35.563-41.766-35.563-41.766l75.125 14.672s-6.094 28.687-39.562 27.094zm174.187-41.766s-2.094 40.188-35.563 41.766c-33.469 1.594-39.563-27.094-39.563-27.094l75.126-14.672z"/></svg>
+                                
+                                <div class="option-info">
+                                    <div class="option-name">Fisgona</div>
+                                                                    </div>
+                                                                    </a>
+                                                            </li>
+                                            </ul>
+                </div>
+                        </div>
+</div>
+
+            <form method="get" class="form" action="/search">
+                <div class="input-light mobile-hidden main-search">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+    <path d="M10.78 9.062c1.631-2.507 1.114-5.839-1.2-7.734s-5.683-1.745-7.819.347-2.356 5.458-.51 7.81 5.168 2.938 7.708 1.36l3.008 3.53a1.95 1.95 0 0 0 .576.576c.89.573 2.076.315 2.649-.576s.315-2.076-.576-2.649L10.78 9.062zm-4.951.847A3.98 3.98 0 0 1 1.85 5.931a3.98 3.98 0 0 1 3.978-3.978 3.98 3.98 0 0 1 2.813 6.791 3.98 3.98 0 0 1-2.813 1.165z"/>
+</svg>
+
+                    <input type="text"
+                           name="q"
+                           id="q"
+                           value=""
+                           placeholder="Buscar"/>
+                </div>
+            </form>
+        </div>
+        <div>
+                            <button type="button" class="action open-modal open-modal-login "
+                        data-modal-url="/login" data-force-load="true">login
+                </button>
+                <button type="button" class="action open-modal open-modal-login"
+                        data-modal-url="/onboarding" data-force-load="true">regístrate
+                </button>
+                        <button type="button" id="main-burger-button" class="desktop-hidden">
+                <svg xmlns="http://www.w3.org/2000/svg" width="23" height="17" fill="#E35624" fill-rule="evenodd">
+    <rect width="23" height="3" rx="1.5"/>
+    <rect y="7" width="23" height="3" rx="1.5"/>
+    <rect y="14" width="23" height="3" rx="1.5"/>
+</svg>
+
+            </button>
+            <button type="button ga4-event" data-event-name="change_theme" data-event-section="change_theme" id="dark-mode" >
+                                    <i class="far fa-moon"></i>
+                            </button>
+        </div>
+    </div>
+</header>
+<div id="flash-messenger">
+  
+  
+  
+  </div>
+
+
+<div id="main" >
+            <div id="center">
+        
+        <div id="hamburger-menu" class="hamburger-menu">
+  <a href="javascript:void(0)" id="hamburger-close-button" class="closebtn">
+    &times;
+  </a>
+  <div class="search-container">
+    <form method="get" class="form" action="/search">
+
+    <div class="input-light main-search">
+      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+    <path d="M10.78 9.062c1.631-2.507 1.114-5.839-1.2-7.734s-5.683-1.745-7.819.347-2.356 5.458-.51 7.81 5.168 2.938 7.708 1.36l3.008 3.53a1.95 1.95 0 0 0 .576.576c.89.573 2.076.315 2.649-.576s.315-2.076-.576-2.649L10.78 9.062zm-4.951.847A3.98 3.98 0 0 1 1.85 5.931a3.98 3.98 0 0 1 3.978-3.978 3.98 3.98 0 0 1 2.813 6.791 3.98 3.98 0 0 1-2.813 1.165z"/>
+</svg>
+
+      <input type="text"
+             name="q"
+             id="mobile-search"
+             value=""
+             placeholder="Buscar"/>
+    </div>
+    </form>
+  </div>
+  <div id="hamburger-selector-options">
+  </div>
+</div>
+            <div id="search" data-page="1">
+        <div id="search-form">
+            <form id="advanced-search-form" method="get" action="/search">
+                <div class="form-group-search">
+                    <div class="form-input-search main-search input-light">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+                            <path d="M10.78 9.062c1.631-2.507 1.114-5.839-1.2-7.734s-5.683-1.745-7.819.347-2.356 5.458-.51 7.81 5.168 2.938 7.708 1.36l3.008 3.53a1.95 1.95 0 0 0 .576.576c.89.573 2.076.315 2.649-.576s.315-2.076-.576-2.649L10.78 9.062zm-4.951.847A3.98 3.98 0 0 1 1.85 5.931a3.98 3.98 0 0 1 3.978-3.978 3.98 3.98 0 0 1 2.813 6.791 3.98 3.98 0 0 1-2.813 1.165z"></path>
+                        </svg>
+                        <input type="text"
+                               name="q"
+                               id="q"
+                               value="felicidad"
+                               placeholder="Buscar"/>
+                    </div>
+                    <div class="button-search">
+                        <button type="submit">Buscar</button>
+                    </div>
+                    <input type="hidden" name="type" value="all"/>
+                    <input type="hidden" name="period" value="0"/>
+                    <input type="hidden" name="order" value="newest"/>
+                </div>
+                <div class="form-group-select">
+                    <div class="form-group-select-type search-filter">
+                        <button type="button" class="search-filter-option" data-filter-option="all">
+                            <span class="selected">Todo</span>
+                        </button>
+                        <button type="button" class="search-filter-option" data-filter-option="links">
+                            <span class="">Links</span>
+                        </button>
+                        <button type="button" class="search-filter-option" data-filter-option="comments">
+                            <span class="">Comentarios</span>
+                        </button>
+                        <button type="button" class="search-filter-option" data-filter-option="posts">
+                            <span class="">Notas</span>
+                        </button>
+                    </div>
+                </div>
+                <button id="show-filters" type="button" style="display: none">Más filtros</button>
+                <div id="more-filters" style="display: none">
+                    <div class="form-group-search">
+                        <div class="form-input-search user">
+                            <label for="u">usuario: </label>
+                            <input type="text"
+                                   name="u"
+                                   id="u"/>
+                        </div>
+                    </div>
+                                    </div>
+            </form>
+            <div id="search-filters">
+                <div id="search-filters-period">
+                    <div class="select  " id="search-filter-period"
+                                                                             >
+            <div class="select-label">
+            
+        </div>
+        <div class="selected" data-selected-value="0">
+        
+                            <i class="far fa-clock"></i>
+        
+        <span>Todos los tiempos</span>
+        <div class="triangle down"></div>
+        <input type="hidden" name="search-filter-period-value" value="0"/>
+        <input type="hidden" name="search-filter-period-text" value="Todos los tiempos"/>
+    </div>
+    <div class="error-message"></div>
+    <div class="options hidden">
+
+                <div class="loader-container hidden">
+            <div class="loader-dots dark"><div></div><div></div><div></div></div>
+        </div>
+
+        
+        
+                            <div class="select-section">
+                                        <ul>
+                                                    <li class="option" data-option-value="0"
+                                data-option-name="Todos los tiempos">
+                                
+                                
+                                
+                                
+                                <div class="option-info">
+                                    <div class="option-name">Todos los tiempos</div>
+                                                                    </div>
+                                                            </li>
+                                                    <li class="option" data-option-value="1"
+                                data-option-name="Últimas 24h.">
+                                
+                                
+                                
+                                
+                                <div class="option-info">
+                                    <div class="option-name">Últimas 24h.</div>
+                                                                    </div>
+                                                            </li>
+                                                    <li class="option" data-option-value="2"
+                                data-option-name="Últimas 48h.">
+                                
+                                
+                                
+                                
+                                <div class="option-info">
+                                    <div class="option-name">Últimas 48h.</div>
+                                                                    </div>
+                                                            </li>
+                                                    <li class="option" data-option-value="7"
+                                data-option-name="Última semana">
+                                
+                                
+                                
+                                
+                                <div class="option-info">
+                                    <div class="option-name">Última semana</div>
+                                                                    </div>
+                                                            </li>
+                                                    <li class="option" data-option-value="30"
+                                data-option-name="Último mes">
+                                
+                                
+                                
+                                
+                                <div class="option-info">
+                                    <div class="option-name">Último mes</div>
+                                                                    </div>
+                                                            </li>
+                                                    <li class="option" data-option-value="365"
+                                data-option-name="Último año">
+                                
+                                
+                                
+                                
+                                <div class="option-info">
+                                    <div class="option-name">Último año</div>
+                                                                    </div>
+                                                            </li>
+                                            </ul>
+                </div>
+                        </div>
+</div>
+                </div>
+                <div id="search-filters-order">
+                    <div class="select  " id="search-order"
+                                                                             >
+            <div class="select-label">
+            
+        </div>
+        <div class="selected" data-selected-value="newest">
+        
+                            <i class="fas fa-sort-amount-down"></i>
+        
+        <span>Las más recientes</span>
+        <div class="triangle down"></div>
+        <input type="hidden" name="search-order-value" value="newest"/>
+        <input type="hidden" name="search-order-text" value="Las más recientes"/>
+    </div>
+    <div class="error-message"></div>
+    <div class="options hidden">
+
+                <div class="loader-container hidden">
+            <div class="loader-dots dark"><div></div><div></div><div></div></div>
+        </div>
+
+        
+        
+                            <div class="select-section">
+                                        <ul>
+                                                    <li class="option" data-option-value="newest"
+                                data-option-name="Las más recientes">
+                                
+                                
+                                
+                                
+                                <div class="option-info">
+                                    <div class="option-name">Las más recientes</div>
+                                                                    </div>
+                                                            </li>
+                                                    <li class="option" data-option-value="popular"
+                                data-option-name="Lo más relavante">
+                                
+                                
+                                
+                                
+                                <div class="option-info">
+                                    <div class="option-name">Lo más relavante</div>
+                                                                    </div>
+                                                            </li>
+                                                    <li class="option" data-option-value="votes"
+                                data-option-name="Más votadas">
+                                
+                                
+                                
+                                
+                                <div class="option-info">
+                                    <div class="option-name">Más votadas</div>
+                                                                    </div>
+                                                            </li>
+                                                    <li class="option" data-option-value="oldest"
+                                data-option-name="Las más antiguas">
+                                
+                                
+                                
+                                
+                                <div class="option-info">
+                                    <div class="option-name">Las más antiguas</div>
+                                                                    </div>
+                                                            </li>
+                                            </ul>
+                </div>
+                        </div>
+</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            <div id="search-results" class="results-page" data-page="1">
+                                    <div class="search-result link-result" id="l-3878496">
+    <div class="result-head">
+        <div class="result-head-info">
+
+                                                
+            <div class="button-community-container">
+            <button type="button" class="button button-community  button-join ga4-event allopen-modal open-modal-login"
+                    data-community-id="38"
+                    data-community-name="ocio"
+                    data-toggle="popover"
+                    data-popover-type="community"
+                    data-popover-url="/tooltip/community/ocio"
+
+                    data-event-section="join_community"
+                    data-event-community-name="ocio"
+
+                    
+                                            data-modal-url="/login"
+                                        style="border-color: #EEA400" onMouseOver="this.style.background='#EEA400'" onMouseOut="this.style.background='transparent'">
+                                    <div class="avatar">
+                        <img src="https://v2.mnmstatic.net/img/community/ocio.png" alt="ocio" loading="lazy"/>
+                    </div>
+                                <div class="community-name">
+                    <span>Únete a Ocio</span>
+                                    </div>
+            </button>
+        </div>
+                <span>Hace 1 día | Por </span><a
+                    href="/user/Andaui"
+                    data-toggle="popover" data-popover-type="user" data-popover-url="/tooltip/user/Andaui">Andaui
+            </a>
+                            <span> a </span><a
+                    href="/go/link/3878496" target="_blank" class="ga-event" data-event-action="story" data-event-label="source">yorokobu.es
+            </a>
+                    </div>
+                    <div class="result-type result-type-link">link</div>
+            </div>
+    <div class="result-body">
+        <a href="/m/ocio/hygge-significado-felicidad-solo-conocen-daneses" class="ga-event"
+           data-event-action="story" data-event-label="title">
+            <h2>‘Hygge’: El significado de la felicidad que solo conocen los daneses</h2>
+                    </a>
+                    <p>En Dinamarca, existe un tipo de felicidad que trasciende la mera alegría cotidiana. Es el “hygge”. Los daneses sostienen que esta sensación es tan profunda y arraigada en su cultura que no encuentra una traducción exacta en otros idiomas. Pero, ¿de dónde surge este concepto y cómo se ha integrado en la vida diaria danesa?</p>
+            </div>
+    <div class="result-footer">
+        <div class="result-votes">
+            <span>V</span>4
+        </div>
+        <div class="result-karma">
+            <span>K</span>50
+        </div>
+        <a href="/m/ocio/hygge-significado-felicidad-solo-conocen-daneses" class="button button-comments ga-event" data-event-action="story" data-event-label="clicks">
+            <?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="11px" viewBox="0 0 17 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>DE3C548D-E347-406A-A60F-E6BBD322CAB7</title>
+    <g id="Menu-Home-Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Menéame-Story-con-Foto-y-Relacionadas" transform="translate(-257.000000, -691.000000)" fill="#878a8c" fill-rule="nonzero">
+            <g id="Group-2" transform="translate(125.000000, 118.000000)">
+                <g id="barra-acciones-larga" transform="translate(0.000000, 525.000000)">
+                    <g id="Group-12" transform="translate(17.000000, 39.000000)">
+                        <g id="Group-27" transform="translate(115.000000, 7.000000)">
+                            <path d="M8.510625,3.57142857 C11.8759167,3.57142857 14.2219167,5.938 15.242625,7.214 C14.25025,8.65735714 11.90425,11.4285714 8.510625,11.4285714 C5.37979167,11.4285714 2.89354167,8.65028571 1.79704167,7.18021429 C2.85458333,5.88614286 5.20908333,3.57142857 8.510625,3.57142857 Z M8.510625,2 C3.14925,2 0,7.14721429 0,7.14721429 C0,7.14721429 3.42479167,13 8.510625,13 C13.9881667,13 17,7.14721429 17,7.14721429 C17,7.14721429 13.9605417,2 8.510625,2 Z M8.5,4.35714286 C6.75041667,4.35714286 5.33333333,5.76435714 5.33333333,7.5 C5.33333333,9.23564286 6.75041667,10.6428571 8.5,10.6428571 C10.2487917,10.6428571 11.6666667,9.23564286 11.6666667,7.5 C11.6666667,5.76435714 10.2487917,4.35714286 8.5,4.35714286 Z M8.49683333,7.49921429 C8.05033333,7.94235714 7.32595833,7.94235714 6.87866667,7.49921429 C6.431375,7.05607143 6.431375,6.33635714 6.87866667,5.89321429 C7.32516667,5.45007143 8.04954167,5.45007143 8.49683333,5.89321429 C8.944125,6.33635714 8.944125,7.05528571 8.49683333,7.49921429 Z" id="vistas-icon"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>            <span class="comments-number">104</span>
+        </a>
+        <a href="/m/ocio/hygge-significado-felicidad-solo-conocen-daneses" class="button button-comments ga-event" data-event-action="story" data-event-label="comments">
+            <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12">
+    <path d="M6 0C2.688 0 0 2.4 0 5.4a5.13 5.13 0 0 0 1.756 3.8L1.6 11.664c-.006.118.055.23.158.289s.23.055.33-.009l2.1-1.4A6.61 6.61 0 0 0 6 10.8c3.312 0 6-2.4 6-5.4S9.312 0 6 0zM3.4 6.4a1 1 0 1 1 0-2 1 1 0 0 1 .707 1.707A1 1 0 0 1 3.4 6.4zm2.6 0a1 1 0 1 1 0-2 1 1 0 1 1 0 2zm2.6 0a1 1 0 1 1 0-2 1 1 0 1 1 0 2z"
+          fill="#878a8c"/>
+</svg>
+            <span class="comments-number">2</span>
+        </a>
+
+    </div>
+</div>                                                <div class="search-result post" id="p-3617973">
+    <div class="result-head">
+        <div class="result-head-info">
+                            <a href="/user/tnt80" class="avatar" data-toggle="popover" data-popover-type="user" data-popover-url="/tooltip/user/tnt80">
+                                            <img src="https://cdn.mnmstatic.net//cache/00/14/5260-1539111171-40.jpg" alt="tnt80" loading="lazy"/>
+                                    </a>
+            
+                            <div class="comment-author">
+                    <a href="/user/tnt80" style="color: #E35624" data-toggle="popover" data-popover-type="user" data-popover-url="/tooltip/user/tnt80">tnt80</a>
+                </div>
+            
+            <div class="comment-date">
+                hace 1 día
+            </div>
+        </div>
+        <div class="result-type result-type-post">nota</div>
+    </div>
+    <div class="result-body">
+        <p>¿Os días cuenta de que muchas veces damos importancia a la opinión que tienen sobre nuestra forma de vivir nuestra vida, a gente que no le interesa lo más mínimo si nosotros somos felices o no?  Es más, algunas veces le llegamos a dar importancia a las opiniones de personas que, en realidad, son tan tristes y necios que sólo encuentran la felicidad, intentando que otros infelices.</p>
+    </div>
+    <div class="result-footer">
+        <div class="result-votes">
+            <span>V</span>5
+        </div>
+        <div class="result-karma">
+            <span>K</span>57
+        </div>
+    </div>
+</div>                                                <div class="search-result link-result" id="l-3878045">
+    <div class="result-head">
+        <div class="result-head-info">
+
+                                                
+            <div class="button-community-container">
+            <button type="button" class="button button-community  button-join ga4-event allopen-modal open-modal-login"
+                    data-community-id="39"
+                    data-community-name="cultura"
+                    data-toggle="popover"
+                    data-popover-type="community"
+                    data-popover-url="/tooltip/community/cultura"
+
+                    data-event-section="join_community"
+                    data-event-community-name="cultura"
+
+                    
+                                            data-modal-url="/login"
+                                        style="border-color: #B00D7A" onMouseOver="this.style.background='#B00D7A'" onMouseOut="this.style.background='transparent'">
+                                    <div class="avatar">
+                        <img src="https://v2.mnmstatic.net/img/community/cultura.png" alt="cultura" loading="lazy"/>
+                    </div>
+                                <div class="community-name">
+                    <span>Únete a Cultura</span>
+                                    </div>
+            </button>
+        </div>
+                <span>Hace 2 días | Por </span><a
+                    href="/user/Radion"
+                    data-toggle="popover" data-popover-type="user" data-popover-url="/tooltip/user/Radion">Radion
+            </a>
+                            <span> a </span><a
+                    href="/go/link/3878045" target="_blank" class="ga-event" data-event-action="story" data-event-label="source">esquire.com
+            </a>
+                    </div>
+                    <div class="result-type result-type-link">link</div>
+            </div>
+    <div class="result-body">
+        <a href="/m/cultura/david-jorge-robin-food-gremio-ha-convertido-panda-anormales-van" class="ga-event"
+           data-event-action="story" data-event-label="title">
+            <h2>David de Jorge (Robin Food): &quot;Mi gremio se ha convertido en una panda de anormales que creen que van a solucionar el hambre en el mundo&quot;</h2>
+                    </a>
+                    <p>"Lo que pasa es que para mí la cocina es alegría, es felicidad y ahora realmente la peña no cocina, la gente está loca por trascender, por salvar el mundo, hay una especie de obsesión por lo lúdico, por la tele y por todas esas chorradas. Iros todos a la mierda. Mi gremio se ha convertido en una puta panda de anormales que creen que van a solucionar los problemas de hambre en el mundo, y que tienen una increíble necesidad de trascender, cuando la verdadera revolución la tendrían que hacer en su casa, cocinando como lo hacían nuestros padres."</p>
+            </div>
+    <div class="result-footer">
+        <div class="result-votes">
+            <span>V</span>111
+        </div>
+        <div class="result-karma">
+            <span>K</span>2.2k
+        </div>
+        <a href="/m/cultura/david-jorge-robin-food-gremio-ha-convertido-panda-anormales-van" class="button button-comments ga-event" data-event-action="story" data-event-label="clicks">
+            <?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="11px" viewBox="0 0 17 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>DE3C548D-E347-406A-A60F-E6BBD322CAB7</title>
+    <g id="Menu-Home-Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Menéame-Story-con-Foto-y-Relacionadas" transform="translate(-257.000000, -691.000000)" fill="#878a8c" fill-rule="nonzero">
+            <g id="Group-2" transform="translate(125.000000, 118.000000)">
+                <g id="barra-acciones-larga" transform="translate(0.000000, 525.000000)">
+                    <g id="Group-12" transform="translate(17.000000, 39.000000)">
+                        <g id="Group-27" transform="translate(115.000000, 7.000000)">
+                            <path d="M8.510625,3.57142857 C11.8759167,3.57142857 14.2219167,5.938 15.242625,7.214 C14.25025,8.65735714 11.90425,11.4285714 8.510625,11.4285714 C5.37979167,11.4285714 2.89354167,8.65028571 1.79704167,7.18021429 C2.85458333,5.88614286 5.20908333,3.57142857 8.510625,3.57142857 Z M8.510625,2 C3.14925,2 0,7.14721429 0,7.14721429 C0,7.14721429 3.42479167,13 8.510625,13 C13.9881667,13 17,7.14721429 17,7.14721429 C17,7.14721429 13.9605417,2 8.510625,2 Z M8.5,4.35714286 C6.75041667,4.35714286 5.33333333,5.76435714 5.33333333,7.5 C5.33333333,9.23564286 6.75041667,10.6428571 8.5,10.6428571 C10.2487917,10.6428571 11.6666667,9.23564286 11.6666667,7.5 C11.6666667,5.76435714 10.2487917,4.35714286 8.5,4.35714286 Z M8.49683333,7.49921429 C8.05033333,7.94235714 7.32595833,7.94235714 6.87866667,7.49921429 C6.431375,7.05607143 6.431375,6.33635714 6.87866667,5.89321429 C7.32516667,5.45007143 8.04954167,5.45007143 8.49683333,5.89321429 C8.944125,6.33635714 8.944125,7.05528571 8.49683333,7.49921429 Z" id="vistas-icon"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>            <span class="comments-number">3.3k</span>
+        </a>
+        <a href="/m/cultura/david-jorge-robin-food-gremio-ha-convertido-panda-anormales-van" class="button button-comments ga-event" data-event-action="story" data-event-label="comments">
+            <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12">
+    <path d="M6 0C2.688 0 0 2.4 0 5.4a5.13 5.13 0 0 0 1.756 3.8L1.6 11.664c-.006.118.055.23.158.289s.23.055.33-.009l2.1-1.4A6.61 6.61 0 0 0 6 10.8c3.312 0 6-2.4 6-5.4S9.312 0 6 0zM3.4 6.4a1 1 0 1 1 0-2 1 1 0 0 1 .707 1.707A1 1 0 0 1 3.4 6.4zm2.6 0a1 1 0 1 1 0-2 1 1 0 1 1 0 2zm2.6 0a1 1 0 1 1 0-2 1 1 0 1 1 0 2z"
+          fill="#878a8c"/>
+</svg>
+            <span class="comments-number">61</span>
+        </a>
+
+    </div>
+</div>                                                <div class="search-result link-result" id="l-3877706">
+    <div class="result-head">
+        <div class="result-head-info">
+
+                                                
+            <div class="button-community-container">
+            <button type="button" class="button button-community  button-join ga4-event allopen-modal open-modal-login"
+                    data-community-id="39"
+                    data-community-name="cultura"
+                    data-toggle="popover"
+                    data-popover-type="community"
+                    data-popover-url="/tooltip/community/cultura"
+
+                    data-event-section="join_community"
+                    data-event-community-name="cultura"
+
+                    
+                                            data-modal-url="/login"
+                                        style="border-color: #B00D7A" onMouseOver="this.style.background='#B00D7A'" onMouseOut="this.style.background='transparent'">
+                                    <div class="avatar">
+                        <img src="https://v2.mnmstatic.net/img/community/cultura.png" alt="cultura" loading="lazy"/>
+                    </div>
+                                <div class="community-name">
+                    <span>Únete a Cultura</span>
+                                    </div>
+            </button>
+        </div>
+                <span>Hace 3 días | Por </span><a
+                    href="/user/doyou"
+                    data-toggle="popover" data-popover-type="user" data-popover-url="/tooltip/user/doyou">doyou
+            </a>
+                            <span> a </span><a
+                    href="/go/link/3877706" target="_blank" class="ga-event" data-event-action="story" data-event-label="source">rac1.cat
+            </a>
+                    </div>
+                    <div class="result-type result-type-link">link</div>
+            </div>
+    <div class="result-body">
+        <a href="/m/cultura/xavier-masso-profesor-sistema-educativo-ha-renunciado-ensenar" class="ga-event"
+           data-event-action="story" data-event-label="title">
+            <h2>Xavier Massó, profesor: &quot;El sistema educativo ha renunciado a enseñar, ahora el importante es la felicidad del alumno&quot; [CAT]</h2>
+                    </a>
+                    <p>Las leyes están deteriorando el sistema educativo, que ha renunciado a enseñar. Los sistemas educativos se constituyeron para la transmisión de conocimientos que no se pueden aprender en casa. Si renuncian a transmitir conocimientos y a evaluar, porque se tienen que hacer evaluaciones cualitativas y tienes que valorar mil explicaciones del porqué pones la nota… Hoy en día los currículums están adaptados a los alumnos, y por tanto se reducen los contenidos que tienen que recibir. El resultado es que no salen preparados.</p>
+            </div>
+    <div class="result-footer">
+        <div class="result-votes">
+            <span>V</span>6
+        </div>
+        <div class="result-karma">
+            <span>K</span>49
+        </div>
+        <a href="/m/cultura/xavier-masso-profesor-sistema-educativo-ha-renunciado-ensenar" class="button button-comments ga-event" data-event-action="story" data-event-label="clicks">
+            <?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="11px" viewBox="0 0 17 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>DE3C548D-E347-406A-A60F-E6BBD322CAB7</title>
+    <g id="Menu-Home-Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Menéame-Story-con-Foto-y-Relacionadas" transform="translate(-257.000000, -691.000000)" fill="#878a8c" fill-rule="nonzero">
+            <g id="Group-2" transform="translate(125.000000, 118.000000)">
+                <g id="barra-acciones-larga" transform="translate(0.000000, 525.000000)">
+                    <g id="Group-12" transform="translate(17.000000, 39.000000)">
+                        <g id="Group-27" transform="translate(115.000000, 7.000000)">
+                            <path d="M8.510625,3.57142857 C11.8759167,3.57142857 14.2219167,5.938 15.242625,7.214 C14.25025,8.65735714 11.90425,11.4285714 8.510625,11.4285714 C5.37979167,11.4285714 2.89354167,8.65028571 1.79704167,7.18021429 C2.85458333,5.88614286 5.20908333,3.57142857 8.510625,3.57142857 Z M8.510625,2 C3.14925,2 0,7.14721429 0,7.14721429 C0,7.14721429 3.42479167,13 8.510625,13 C13.9881667,13 17,7.14721429 17,7.14721429 C17,7.14721429 13.9605417,2 8.510625,2 Z M8.5,4.35714286 C6.75041667,4.35714286 5.33333333,5.76435714 5.33333333,7.5 C5.33333333,9.23564286 6.75041667,10.6428571 8.5,10.6428571 C10.2487917,10.6428571 11.6666667,9.23564286 11.6666667,7.5 C11.6666667,5.76435714 10.2487917,4.35714286 8.5,4.35714286 Z M8.49683333,7.49921429 C8.05033333,7.94235714 7.32595833,7.94235714 6.87866667,7.49921429 C6.431375,7.05607143 6.431375,6.33635714 6.87866667,5.89321429 C7.32516667,5.45007143 8.04954167,5.45007143 8.49683333,5.89321429 C8.944125,6.33635714 8.944125,7.05528571 8.49683333,7.49921429 Z" id="vistas-icon"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>            <span class="comments-number">91</span>
+        </a>
+        <a href="/m/cultura/xavier-masso-profesor-sistema-educativo-ha-renunciado-ensenar" class="button button-comments ga-event" data-event-action="story" data-event-label="comments">
+            <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12">
+    <path d="M6 0C2.688 0 0 2.4 0 5.4a5.13 5.13 0 0 0 1.756 3.8L1.6 11.664c-.006.118.055.23.158.289s.23.055.33-.009l2.1-1.4A6.61 6.61 0 0 0 6 10.8c3.312 0 6-2.4 6-5.4S9.312 0 6 0zM3.4 6.4a1 1 0 1 1 0-2 1 1 0 0 1 .707 1.707A1 1 0 0 1 3.4 6.4zm2.6 0a1 1 0 1 1 0-2 1 1 0 1 1 0 2zm2.6 0a1 1 0 1 1 0-2 1 1 0 1 1 0 2z"
+          fill="#878a8c"/>
+</svg>
+            <span class="comments-number">20</span>
+        </a>
+
+    </div>
+</div>                                                <div class="search-result link-result" id="l-3877183">
+    <div class="result-head">
+        <div class="result-head-info">
+
+                                                
+            <div class="button-community-container">
+            <button type="button" class="button button-community  button-join ga4-event allopen-modal open-modal-login"
+                    data-community-id="1566"
+                    data-community-name="artículos"
+                    data-toggle="popover"
+                    data-popover-type="community"
+                    data-popover-url="/tooltip/community/art%C3%ADculos"
+
+                    data-event-section="join_community"
+                    data-event-community-name="artículos"
+
+                    
+                                            data-modal-url="/login"
+                                        style="border-color: #0EAA74" onMouseOver="this.style.background='#0EAA74'" onMouseOut="this.style.background='transparent'">
+                                    <div class="avatar">
+                        <img src="https://cdn.mnmstatic.net//cache/00/06/media_thumb-sub_logo-1566.jpeg?ts=1485943425" alt="artículos" loading="lazy"/>
+                    </div>
+                                <div class="community-name">
+                    <span>Únete a Artículos</span>
+                                    </div>
+            </button>
+        </div>
+                <span>Hace 5 días | Por </span><a
+                    href="/user/IanCutris"
+                    data-toggle="popover" data-popover-type="user" data-popover-url="/tooltip/user/IanCutris">IanCutris
+            </a>
+                    </div>
+                    <div class="result-type result-type-article">article</div>
+            </div>
+    <div class="result-body">
+        <a href="/m/art%C3%ADculos/torquemada-era-camarada" class="ga-event"
+           data-event-action="story" data-event-label="title">
+            <h2>&quot;Menos Policía, más Inquisición&quot;</h2>
+                    </a>
+                    <p>Ayer, portando banderas franquistas y estandartes de la Cruz de Borgoña, pudimos escuchar los cánticos más aberrantes en varios días de protestas: “Torquemada, era camarada”, “Menos Policía, más Inquisición”. Flanqueando a este variopinto grupo, una...
+            </div>
+    <div class="result-footer">
+        <div class="result-votes">
+            <span>V</span>355
+        </div>
+        <div class="result-karma">
+            <span>K</span>5.2k
+        </div>
+        <a href="/m/art%C3%ADculos/torquemada-era-camarada" class="button button-comments ga-event" data-event-action="story" data-event-label="clicks">
+            <?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="11px" viewBox="0 0 17 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>DE3C548D-E347-406A-A60F-E6BBD322CAB7</title>
+    <g id="Menu-Home-Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Menéame-Story-con-Foto-y-Relacionadas" transform="translate(-257.000000, -691.000000)" fill="#878a8c" fill-rule="nonzero">
+            <g id="Group-2" transform="translate(125.000000, 118.000000)">
+                <g id="barra-acciones-larga" transform="translate(0.000000, 525.000000)">
+                    <g id="Group-12" transform="translate(17.000000, 39.000000)">
+                        <g id="Group-27" transform="translate(115.000000, 7.000000)">
+                            <path d="M8.510625,3.57142857 C11.8759167,3.57142857 14.2219167,5.938 15.242625,7.214 C14.25025,8.65735714 11.90425,11.4285714 8.510625,11.4285714 C5.37979167,11.4285714 2.89354167,8.65028571 1.79704167,7.18021429 C2.85458333,5.88614286 5.20908333,3.57142857 8.510625,3.57142857 Z M8.510625,2 C3.14925,2 0,7.14721429 0,7.14721429 C0,7.14721429 3.42479167,13 8.510625,13 C13.9881667,13 17,7.14721429 17,7.14721429 C17,7.14721429 13.9605417,2 8.510625,2 Z M8.5,4.35714286 C6.75041667,4.35714286 5.33333333,5.76435714 5.33333333,7.5 C5.33333333,9.23564286 6.75041667,10.6428571 8.5,10.6428571 C10.2487917,10.6428571 11.6666667,9.23564286 11.6666667,7.5 C11.6666667,5.76435714 10.2487917,4.35714286 8.5,4.35714286 Z M8.49683333,7.49921429 C8.05033333,7.94235714 7.32595833,7.94235714 6.87866667,7.49921429 C6.431375,7.05607143 6.431375,6.33635714 6.87866667,5.89321429 C7.32516667,5.45007143 8.04954167,5.45007143 8.49683333,5.89321429 C8.944125,6.33635714 8.944125,7.05528571 8.49683333,7.49921429 Z" id="vistas-icon"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>            <span class="comments-number">4.8k</span>
+        </a>
+        <a href="/m/art%C3%ADculos/torquemada-era-camarada" class="button button-comments ga-event" data-event-action="story" data-event-label="comments">
+            <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12">
+    <path d="M6 0C2.688 0 0 2.4 0 5.4a5.13 5.13 0 0 0 1.756 3.8L1.6 11.664c-.006.118.055.23.158.289s.23.055.33-.009l2.1-1.4A6.61 6.61 0 0 0 6 10.8c3.312 0 6-2.4 6-5.4S9.312 0 6 0zM3.4 6.4a1 1 0 1 1 0-2 1 1 0 0 1 .707 1.707A1 1 0 0 1 3.4 6.4zm2.6 0a1 1 0 1 1 0-2 1 1 0 1 1 0 2zm2.6 0a1 1 0 1 1 0-2 1 1 0 1 1 0 2z"
+          fill="#878a8c"/>
+</svg>
+            <span class="comments-number">119</span>
+        </a>
+
+    </div>
+</div>                                                <div class="search-result link-result" id="l-3876081">
+    <div class="result-head">
+        <div class="result-head-info">
+
+                                                
+            <div class="button-community-container">
+            <button type="button" class="button button-community  button-join ga4-event allopen-modal open-modal-login"
+                    data-community-id="39"
+                    data-community-name="cultura"
+                    data-toggle="popover"
+                    data-popover-type="community"
+                    data-popover-url="/tooltip/community/cultura"
+
+                    data-event-section="join_community"
+                    data-event-community-name="cultura"
+
+                    
+                                            data-modal-url="/login"
+                                        style="border-color: #B00D7A" onMouseOver="this.style.background='#B00D7A'" onMouseOut="this.style.background='transparent'">
+                                    <div class="avatar">
+                        <img src="https://v2.mnmstatic.net/img/community/cultura.png" alt="cultura" loading="lazy"/>
+                    </div>
+                                <div class="community-name">
+                    <span>Únete a Cultura</span>
+                                    </div>
+            </button>
+        </div>
+                <span>Hace 7 días | Por </span><a
+                    href="/user/doctoragridulce"
+                    data-toggle="popover" data-popover-type="user" data-popover-url="/tooltip/user/doctoragridulce">doctoragridulce
+            </a>
+                            <span> a </span><a
+                    href="/go/link/3876081" target="_blank" class="ga-event" data-event-action="story" data-event-label="source">plantaforma.org
+            </a>
+                    </div>
+                    <div class="result-type result-type-link">link</div>
+            </div>
+    <div class="result-body">
+        <a href="/m/cultura/nuestra-civilizacion-perfecto-ejemplo-como-puede-lograr-tanto" class="ga-event"
+           data-event-action="story" data-event-label="title">
+            <h2>«Nuestra civilización es el perfecto ejemplo de cómo se puede lograr tanto conocimiento y tan poca conciencia»</h2>
+                    </a>
+                    <p>En esta interesante entrevista, el músico Alonso del Río habla de la dieta amazónica, del cataclismo ecológico que afrontamos, de nuestras adicciones, de la ciencia de la mente y, finalmente, de la importancia de reconectarnos con la Naturaleza y con nosotros mismos para «llegar a generar nuestra propia felicidad». Del Río acaba de dirigir su primera película, 'Los cuatro altares'.</p>
+            </div>
+    <div class="result-footer">
+        <div class="result-votes">
+            <span>V</span>11
+        </div>
+        <div class="result-karma">
+            <span>K</span>133
+        </div>
+        <a href="/m/cultura/nuestra-civilizacion-perfecto-ejemplo-como-puede-lograr-tanto" class="button button-comments ga-event" data-event-action="story" data-event-label="clicks">
+            <?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="11px" viewBox="0 0 17 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>DE3C548D-E347-406A-A60F-E6BBD322CAB7</title>
+    <g id="Menu-Home-Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Menéame-Story-con-Foto-y-Relacionadas" transform="translate(-257.000000, -691.000000)" fill="#878a8c" fill-rule="nonzero">
+            <g id="Group-2" transform="translate(125.000000, 118.000000)">
+                <g id="barra-acciones-larga" transform="translate(0.000000, 525.000000)">
+                    <g id="Group-12" transform="translate(17.000000, 39.000000)">
+                        <g id="Group-27" transform="translate(115.000000, 7.000000)">
+                            <path d="M8.510625,3.57142857 C11.8759167,3.57142857 14.2219167,5.938 15.242625,7.214 C14.25025,8.65735714 11.90425,11.4285714 8.510625,11.4285714 C5.37979167,11.4285714 2.89354167,8.65028571 1.79704167,7.18021429 C2.85458333,5.88614286 5.20908333,3.57142857 8.510625,3.57142857 Z M8.510625,2 C3.14925,2 0,7.14721429 0,7.14721429 C0,7.14721429 3.42479167,13 8.510625,13 C13.9881667,13 17,7.14721429 17,7.14721429 C17,7.14721429 13.9605417,2 8.510625,2 Z M8.5,4.35714286 C6.75041667,4.35714286 5.33333333,5.76435714 5.33333333,7.5 C5.33333333,9.23564286 6.75041667,10.6428571 8.5,10.6428571 C10.2487917,10.6428571 11.6666667,9.23564286 11.6666667,7.5 C11.6666667,5.76435714 10.2487917,4.35714286 8.5,4.35714286 Z M8.49683333,7.49921429 C8.05033333,7.94235714 7.32595833,7.94235714 6.87866667,7.49921429 C6.431375,7.05607143 6.431375,6.33635714 6.87866667,5.89321429 C7.32516667,5.45007143 8.04954167,5.45007143 8.49683333,5.89321429 C8.944125,6.33635714 8.944125,7.05528571 8.49683333,7.49921429 Z" id="vistas-icon"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>            <span class="comments-number">53</span>
+        </a>
+        <a href="/m/cultura/nuestra-civilizacion-perfecto-ejemplo-como-puede-lograr-tanto" class="button button-comments ga-event" data-event-action="story" data-event-label="comments">
+            <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12">
+    <path d="M6 0C2.688 0 0 2.4 0 5.4a5.13 5.13 0 0 0 1.756 3.8L1.6 11.664c-.006.118.055.23.158.289s.23.055.33-.009l2.1-1.4A6.61 6.61 0 0 0 6 10.8c3.312 0 6-2.4 6-5.4S9.312 0 6 0zM3.4 6.4a1 1 0 1 1 0-2 1 1 0 0 1 .707 1.707A1 1 0 0 1 3.4 6.4zm2.6 0a1 1 0 1 1 0-2 1 1 0 1 1 0 2zm2.6 0a1 1 0 1 1 0-2 1 1 0 1 1 0 2z"
+          fill="#878a8c"/>
+</svg>
+            <span class="comments-number">4</span>
+        </a>
+
+    </div>
+</div>                                                <div class="search-result post" id="p-3616908">
+    <div class="result-head">
+        <div class="result-head-info">
+                            <a href="/user/carademalo" class="avatar" data-toggle="popover" data-popover-type="user" data-popover-url="/tooltip/user/carademalo">
+                                            <img src="https://cdn.mnmstatic.net//cache/08/00/524399-1651825126-40.jpg" alt="carademalo" loading="lazy"/>
+                                    </a>
+            
+                            <div class="comment-author">
+                    <a href="/user/carademalo" style="color: #E35624" data-toggle="popover" data-popover-type="user" data-popover-url="/tooltip/user/carademalo">carademalo</a>
+                </div>
+            
+            <div class="comment-date">
+                hace 8 días
+            </div>
+        </div>
+        <div class="result-type result-type-post">nota</div>
+    </div>
+    <div class="result-body">
+        <p>Felicidades, Menéame. Como parecerse a Forocoches se quedaba corto, habéis subido el nivel para acercarse a 4chan /pol/.<br />
+<br />
+En portada: <a href="https://www.meneame.net/story/seis-empresas-judias-poseen-96-medios-comunicacion-mundo" class="content-link" style="color: rgb(227, 86, 36)" data-toggle="popover" data-popover-type="link" data-popover-url="/tooltip/link/seis-empresas-judias-poseen-96-medios-comunicacion-mundo"><i class="fas fa-link"></i><span>Seis empresas judías poseen el 96% de los medios de comunicación del mundo [hemeroteca] [eng]</span></a>                        <div class=" link story embed-link">
+            <div class="header">
+                <div class="left">
+                    <div class="mobile-hidden">
+                        <div class="info mobile-hidden">
+                            <span>Hace 8 días | Por </span><a
+                                    href="/user/Kachemiro"
+                                    data-toggle="popover"
+                                    data-popover-type="user"
+                                    data-popover-url="/tooltip/user/Kachemiro">Kachemiro
+                            </a><span>
+                             a </span><a
+                                    href="/go/link/3875713"
+                                    target="_blank">pdf.defence.pk
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="embed-link-logo mobile-hidden">
+                    <img src="https://v2.mnmstatic.net/img/logo_meneame_footer.svg" alt="logo meneame">
+                </div>
+            </div>
+            <div class="body horizontal">
+                <div class="info desktop-hidden">
+                    <div>
+                        <span>Publicado hace 8 días por </span>
+                        <a href="/user/Kachemiro" data-toggle="popover" data-popover-type="user" data-popover-url="/tooltip/user/Kachemiro">Kachemiro</a>
+                        <br>
+                        <span> a </span>
+                        <a href="/go/link/3875713" target="_blank">pdf.defence.pk</a>
+                    </div>
+                    <div class="embed-link-logo desktop-hidden">
+                        <img src="https://v2.mnmstatic.net/img/logo_meneame_footer.svg" alt="logo meneame">
+                    </div>
+                </div>
+                <div class="link-content">
+                    <div class="link-header-embed link-header">
+                        <a href="/m/politica/seis-empresas-judias-poseen-96-medios-comunicacion-mundo" class="link-title"><h1>Seis empresas judías poseen el 96% de los medios de comunicación del mundo [hemeroteca] [eng]</h1></a>
+                        <a class="external-source ga4-event"
+                           data-event-name="click_external_link"
+                           data-event-section="story"
+                           data-event-link-id="3875713"
+                           href="/go/link/3875713"
+                        >pdf.defence.pk<i class="fas fa-external-link-alt"></i></a>
+                    </div>
+                </div>
+
+                <div class="story-body-embed story-body">
+                    <h2>“Ustedes saben muy bien, y los estúpidos estadounidenses saben igualmente bien, que controlamos su g [...]</h2>
+                </div>
+            </div>
+        </div>
+</p>
+    </div>
+    <div class="result-footer">
+        <div class="result-votes">
+            <span>V</span>7
+        </div>
+        <div class="result-karma">
+            <span>K</span>72
+        </div>
+    </div>
+</div>                                                <div class="search-result link-result" id="l-3875619">
+    <div class="result-head">
+        <div class="result-head-info">
+
+                                                
+            <div class="button-community-container">
+            <button type="button" class="button button-community  button-join ga4-event allopen-modal open-modal-login"
+                    data-community-id="40"
+                    data-community-name="actualidad"
+                    data-toggle="popover"
+                    data-popover-type="community"
+                    data-popover-url="/tooltip/community/actualidad"
+
+                    data-event-section="join_community"
+                    data-event-community-name="actualidad"
+
+                    
+                                            data-modal-url="/login"
+                                        style="border-color: #F62D00" onMouseOver="this.style.background='#F62D00'" onMouseOut="this.style.background='transparent'">
+                                    <div class="avatar">
+                        <img src="https://v2.mnmstatic.net/img/community/actualidad.png" alt="actualidad" loading="lazy"/>
+                    </div>
+                                <div class="community-name">
+                    <span>Únete a Actualidad</span>
+                                    </div>
+            </button>
+        </div>
+                <span>Hace 9 días | Por </span><a
+                    href="/user/Thornton"
+                    data-toggle="popover" data-popover-type="user" data-popover-url="/tooltip/user/Thornton">Thornton
+            </a>
+                            <span> a </span><a
+                    href="/go/link/3875619" target="_blank" class="ga-event" data-event-action="story" data-event-label="source">climatica.lamarea.com
+            </a>
+                    </div>
+                    <div class="result-type result-type-link">link</div>
+            </div>
+    <div class="result-body">
+        <a href="/m/actualidad/esconde-industria-huevo" class="ga-event"
+           data-event-action="story" data-event-label="title">
+            <h2>Lo que esconde la industria del huevo</h2>
+                    </a>
+                    <p>151 huevos por persona al año. Es lo que consume, de media, cada ciudadano del Estado español. Y sin embargo, una amplia mayoría de consumidores desconoce lo que hay detrás de cada uno de ellos. A ello contribuye la opacidad de un sector que conoce bien la importancia de tener una buena imagen: los anuncios y el empaquetado muestran gallinas felices y procesos respetuosos con el medioambiente, pese a que las granjas son extremadamente contaminantes.</p>
+            </div>
+    <div class="result-footer">
+        <div class="result-votes">
+            <span>V</span>13
+        </div>
+        <div class="result-karma">
+            <span>K</span>139
+        </div>
+        <a href="/m/actualidad/esconde-industria-huevo" class="button button-comments ga-event" data-event-action="story" data-event-label="clicks">
+            <?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="11px" viewBox="0 0 17 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>DE3C548D-E347-406A-A60F-E6BBD322CAB7</title>
+    <g id="Menu-Home-Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Menéame-Story-con-Foto-y-Relacionadas" transform="translate(-257.000000, -691.000000)" fill="#878a8c" fill-rule="nonzero">
+            <g id="Group-2" transform="translate(125.000000, 118.000000)">
+                <g id="barra-acciones-larga" transform="translate(0.000000, 525.000000)">
+                    <g id="Group-12" transform="translate(17.000000, 39.000000)">
+                        <g id="Group-27" transform="translate(115.000000, 7.000000)">
+                            <path d="M8.510625,3.57142857 C11.8759167,3.57142857 14.2219167,5.938 15.242625,7.214 C14.25025,8.65735714 11.90425,11.4285714 8.510625,11.4285714 C5.37979167,11.4285714 2.89354167,8.65028571 1.79704167,7.18021429 C2.85458333,5.88614286 5.20908333,3.57142857 8.510625,3.57142857 Z M8.510625,2 C3.14925,2 0,7.14721429 0,7.14721429 C0,7.14721429 3.42479167,13 8.510625,13 C13.9881667,13 17,7.14721429 17,7.14721429 C17,7.14721429 13.9605417,2 8.510625,2 Z M8.5,4.35714286 C6.75041667,4.35714286 5.33333333,5.76435714 5.33333333,7.5 C5.33333333,9.23564286 6.75041667,10.6428571 8.5,10.6428571 C10.2487917,10.6428571 11.6666667,9.23564286 11.6666667,7.5 C11.6666667,5.76435714 10.2487917,4.35714286 8.5,4.35714286 Z M8.49683333,7.49921429 C8.05033333,7.94235714 7.32595833,7.94235714 6.87866667,7.49921429 C6.431375,7.05607143 6.431375,6.33635714 6.87866667,5.89321429 C7.32516667,5.45007143 8.04954167,5.45007143 8.49683333,5.89321429 C8.944125,6.33635714 8.944125,7.05528571 8.49683333,7.49921429 Z" id="vistas-icon"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>            <span class="comments-number">101</span>
+        </a>
+        <a href="/m/actualidad/esconde-industria-huevo" class="button button-comments ga-event" data-event-action="story" data-event-label="comments">
+            <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12">
+    <path d="M6 0C2.688 0 0 2.4 0 5.4a5.13 5.13 0 0 0 1.756 3.8L1.6 11.664c-.006.118.055.23.158.289s.23.055.33-.009l2.1-1.4A6.61 6.61 0 0 0 6 10.8c3.312 0 6-2.4 6-5.4S9.312 0 6 0zM3.4 6.4a1 1 0 1 1 0-2 1 1 0 0 1 .707 1.707A1 1 0 0 1 3.4 6.4zm2.6 0a1 1 0 1 1 0-2 1 1 0 1 1 0 2zm2.6 0a1 1 0 1 1 0-2 1 1 0 1 1 0 2z"
+          fill="#878a8c"/>
+</svg>
+            <span class="comments-number">7</span>
+        </a>
+
+    </div>
+</div>                                                <div class="search-result result-comment" id="c-39655663">
+    <div class="result-head">
+        <div class="result-head-info">
+            <span>Hace 9 días | Por </span><a
+                    href="/user/CrudaVerdad"
+                    data-toggle="popover" data-popover-type="user" data-popover-url="/tooltip/user/CrudaVerdad">CrudaVerdad
+            </a>
+                            <span> a </span><a
+                    href="/go/link/3875551" target="_blank" class="ga-event" data-event-action="story" data-event-label="source">cnnespanol.cnn.com
+            </a>
+                    </div>
+        <div class="result-type result-type-comment">comentario</div>
+    </div>
+    <div class="result-body">
+        <a href="/m/actualidad/opinion-no-voy-tener-hijos" class="ga-event"
+           data-event-action="story" data-event-label="title">
+            <h2>Opinión | Por qué no voy a tener hijos</h2>
+        </a>
+    </div>
+    <div class="result-comment-container">
+        <div class="result-head">
+            <div class="result-head-info">
+                                    <a href="/user/Robus" class="avatar" data-toggle="popover" data-popover-type="user" data-popover-url="/tooltip/user/Robus">
+                                                    <img src="https://cdn.mnmstatic.net//cache/01/25/75044-1325175108-40.jpg" alt="Robus" loading="lazy"/>
+                                            </a>
+                                <div class="comment-order">
+                    <a href="/m/actualidad/opinion-no-voy-tener-hijos/c13#c-13" style="color: #E35624">#13</a>
+                </div>
+
+                                    <div class="comment-author">
+                        <a href="/user/Robus" style="color: #E35624" data-toggle="popover" data-popover-type="user" data-popover-url="/tooltip/user/Robus">Robus</a>
+                    </div>
+                
+                <div class="comment-date">
+                    hace 9 días
+                </div>
+            </div>
+        </div>
+        <div class="result-body">
+            <p><i>mi principal preocupación es el cambio climático</i><br />
+<br />
+Pues felicidades si no te preocupa ni la salud, ni el alquiler, ni llegar a fin de mes, ni tu futuro laboral…<br />
+<br />
+Aunque si a alguien que le van tan bien las cosas no quiere tener hijos nos vamos a extinguir seguro.</p>
+        </div>
+        <div class="result-footer">
+            <div class="result-votes">
+                <span>V</span>5
+            </div>
+            <div class="result-karma">
+                <span>K</span>45
+            </div>
+        </div>
+    </div>
+    <div class="result-footer">
+        <a href="/m/actualidad/opinion-no-voy-tener-hijos/c13#c-13" style="color: #E35624">ver  hilo...</a>
+    </div>
+
+</div>                                                <div class="search-result result-comment" id="c-39655034">
+    <div class="result-head">
+        <div class="result-head-info">
+            <span>Hace 9 días | Por </span><a
+                    href="/user/coldchiliandhotchilly"
+                    data-toggle="popover" data-popover-type="user" data-popover-url="/tooltip/user/coldchiliandhotchilly">coldchiliandhotchilly
+            </a>
+                            <span> a </span><a
+                    href="/go/link/3875483" target="_blank" class="ga-event" data-event-action="story" data-event-label="source">twitter.com
+            </a>
+                    </div>
+        <div class="result-type result-type-comment">comentario</div>
+    </div>
+    <div class="result-body">
+        <a href="/m/actualidad/periodista-les-haya-avisado-estan-directo-barbaridades-estaba" class="ga-event"
+           data-event-action="story" data-event-label="title">
+            <h2>Que el periodista les haya avisado que están en directo por las barbaridades que estaba diciendo es una absoluta joya</h2>
+        </a>
+    </div>
+    <div class="result-comment-container">
+        <div class="result-head">
+            <div class="result-head-info">
+                                    <a href="/user/soyTanchus" class="avatar" data-toggle="popover" data-popover-type="user" data-popover-url="/tooltip/user/soyTanchus">
+                                                    <img src="https://cdn.mnmstatic.net//cache/09/b7/636726-1583683213-40.jpg" alt="soyTanchus" loading="lazy"/>
+                                            </a>
+                                <div class="comment-order">
+                    <a href="/m/actualidad/periodista-les-haya-avisado-estan-directo-barbaridades-estaba/c78#c-78" style="color: #E35624">#78</a>
+                </div>
+
+                                    <div class="comment-author">
+                        <a href="/user/soyTanchus" style="color: #E35624" data-toggle="popover" data-popover-type="user" data-popover-url="/tooltip/user/soyTanchus">soyTanchus</a>
+                    </div>
+                
+                <div class="comment-date">
+                    hace 9 días
+                </div>
+            </div>
+        </div>
+        <div class="result-body">
+            <p><a href="c64#c-64" class="content-link" style="color: rgb(227, 86, 36)" data-toggle="popover" data-popover-type="comment" data-popover-url="/tooltip/comment/3875483/order/64"><span>#64</span></a> Hombre, es que creerse de la España del feísmo, la carcundia y del olor a antiguo y del retraso mental (que es a la que realmente pertenecen) les debe dar un poco de bajona, así que han tenido que inventarse eso de la "España de bien" y así son felices.</p>
+        </div>
+        <div class="result-footer">
+            <div class="result-votes">
+                <span>V</span>0
+            </div>
+            <div class="result-karma">
+                <span>K</span>6
+            </div>
+        </div>
+    </div>
+    <div class="result-footer">
+        <a href="/m/actualidad/periodista-les-haya-avisado-estan-directo-barbaridades-estaba/c78#c-78" style="color: #E35624">ver  hilo...</a>
+    </div>
+
+</div>                                                <div class="search-result result-comment" id="c-39654144">
+    <div class="result-head">
+        <div class="result-head-info">
+            <span>Hace 9 días | Por </span><a
+                    href="/user/Boicot_Israel"
+                    data-toggle="popover" data-popover-type="user" data-popover-url="/tooltip/user/Boicot_Israel">Boicot_Israel
+            </a>
+                            <span> a </span><a
+                    href="/go/link/3875262" target="_blank" class="ga-event" data-event-action="story" data-event-label="source">threadreaderapp.com
+            </a>
+                    </div>
+        <div class="result-type result-type-comment">comentario</div>
+    </div>
+    <div class="result-body">
+        <a href="/m/politica/hoy-ha-vuelto-ferraz-isabel-peralta-cantando-cara-sol-pleno" class="ga-event"
+           data-event-action="story" data-event-label="title">
+            <h2>Hoy ha vuelto a Ferraz Isabel Peralta cantando el Cara al Sol a pleno pulmón</h2>
+        </a>
+    </div>
+    <div class="result-comment-container">
+        <div class="result-head">
+            <div class="result-head-info">
+                                    <a href="/user/SMaSeR" class="avatar" data-toggle="popover" data-popover-type="user" data-popover-url="/tooltip/user/SMaSeR">
+                                                    <img src="https://cdn.mnmstatic.net//cache/0a/8c/691408-1631645132-40.jpg" alt="SMaSeR" loading="lazy"/>
+                                            </a>
+                                <div class="comment-order">
+                    <a href="/m/politica/hoy-ha-vuelto-ferraz-isabel-peralta-cantando-cara-sol-pleno/c82#c-82" style="color: #E35624">#82</a>
+                </div>
+
+                                    <div class="comment-author">
+                        <a href="/user/SMaSeR" style="color: #E35624" data-toggle="popover" data-popover-type="user" data-popover-url="/tooltip/user/SMaSeR">SMaSeR</a>
+                    </div>
+                
+                <div class="comment-date">
+                    hace 9 días
+                </div>
+            </div>
+        </div>
+        <div class="result-body">
+            <p><a href="c81#c-81" class="content-link" style="color: rgb(227, 86, 36)" data-toggle="popover" data-popover-type="comment" data-popover-url="/tooltip/comment/3875262/order/81"><span>#81</span></a> oye , mis felicidades pero déjanos a cada uno tener opinión propia o ya ni eso? También voy a tener que opinar lo que me digas tú a parte de votar ? Jodo macho, cortaos un poco que tenéis desatado el totalitarismo</p>
+        </div>
+        <div class="result-footer">
+            <div class="result-votes">
+                <span>V</span>1
+            </div>
+            <div class="result-karma">
+                <span>K</span>6
+            </div>
+        </div>
+    </div>
+    <div class="result-footer">
+        <a href="/m/politica/hoy-ha-vuelto-ferraz-isabel-peralta-cantando-cara-sol-pleno/c82#c-82" style="color: #E35624">ver  hilo...</a>
+    </div>
+
+</div>                                                <div class="search-result result-comment" id="c-39652405">
+    <div class="result-head">
+        <div class="result-head-info">
+            <span>Hace 9 días | Por </span><a
+                    href="/user/Nonservium"
+                    data-toggle="popover" data-popover-type="user" data-popover-url="/tooltip/user/Nonservium">Nonservium
+            </a>
+                            <span> a </span><a
+                    href="/go/link/3875377" target="_blank" class="ga-event" data-event-action="story" data-event-label="source">xataka.com
+            </a>
+                    </div>
+        <div class="result-type result-type-comment">comentario</div>
+    </div>
+    <div class="result-body">
+        <a href="/m/actualidad/paises-mas-contaminan-mundo-reunidos-detallado-grafico" class="ga-event"
+           data-event-action="story" data-event-label="title">
+            <h2>Los países que más contaminan del mundo, reunidos en un detallado gráfico</h2>
+        </a>
+    </div>
+    <div class="result-comment-container">
+        <div class="result-head">
+            <div class="result-head-info">
+                                    <a href="/user/Feindesland" class="avatar" data-toggle="popover" data-popover-type="user" data-popover-url="/tooltip/user/Feindesland">
+                                                    <img src="https://cdn.mnmstatic.net//cache/02/6d/159194-1372087611-40.jpg" alt="Feindesland" loading="lazy"/>
+                                            </a>
+                                <div class="comment-order">
+                    <a href="/m/actualidad/paises-mas-contaminan-mundo-reunidos-detallado-grafico/c103#c-103" style="color: #E35624">#103</a>
+                </div>
+
+                                    <div class="comment-author">
+                        <a href="/user/Feindesland" style="color: #E35624" data-toggle="popover" data-popover-type="user" data-popover-url="/tooltip/user/Feindesland">Feindesland</a>
+                    </div>
+                
+                <div class="comment-date">
+                    hace 9 días
+                </div>
+            </div>
+        </div>
+        <div class="result-body">
+            <p><a href="c31#c-31" class="content-link" style="color: rgb(227, 86, 36)" data-toggle="popover" data-popover-type="comment" data-popover-url="/tooltip/comment/3875377/order/31"><span>#31</span></a> O sea que la explosión demográfica da derechos... La felicidad de cualquier clñérigo, ¿no?<br />
+<br />
+Sí, sí puedes: lo que contamine un islandés, con su legislación, es irrelevante... Lo que hay que impedir es que la legislación India permita contaminar...</p>
+        </div>
+        <div class="result-footer">
+            <div class="result-votes">
+                <span>V</span>0
+            </div>
+            <div class="result-karma">
+                <span>K</span>15
+            </div>
+        </div>
+    </div>
+    <div class="result-footer">
+        <a href="/m/actualidad/paises-mas-contaminan-mundo-reunidos-detallado-grafico/c103#c-103" style="color: #E35624">ver  hilo...</a>
+    </div>
+
+</div>                                                <div class="search-result result-comment" id="c-39652200">
+    <div class="result-head">
+        <div class="result-head-info">
+            <span>Hace 9 días | Por </span><a
+                    href="/user/Dragstat"
+                    data-toggle="popover" data-popover-type="user" data-popover-url="/tooltip/user/Dragstat">Dragstat
+            </a>
+                            <span> a </span><a
+                    href="/go/link/3875393" target="_blank" class="ga-event" data-event-action="story" data-event-label="source">theobjective.com
+            </a>
+                    </div>
+        <div class="result-type result-type-comment">comentario</div>
+    </div>
+    <div class="result-body">
+        <a href="/m/actualidad/cada-vez-hay-mas-gente-soltera-espana" class="ga-event"
+           data-event-action="story" data-event-label="title">
+            <h2>Por qué cada vez hay más gente soltera en España</h2>
+        </a>
+    </div>
+    <div class="result-comment-container">
+        <div class="result-head">
+            <div class="result-head-info">
+                                    <a href="/user/Progre2002" class="avatar" data-toggle="popover" data-popover-type="user" data-popover-url="/tooltip/user/Progre2002">
+                                                    <img src="https://cdn.mnmstatic.net//cache/0b/93/758667-1690108419-40.jpg" alt="Progre2002" loading="lazy"/>
+                                            </a>
+                                <div class="comment-order">
+                    <a href="/m/actualidad/cada-vez-hay-mas-gente-soltera-espana/c18#c-18" style="color: #E35624">#18</a>
+                </div>
+
+                                    <div class="comment-author">
+                        <a href="/user/Progre2002" style="color: #E35624" data-toggle="popover" data-popover-type="user" data-popover-url="/tooltip/user/Progre2002">Progre2002</a>
+                    </div>
+                
+                <div class="comment-date">
+                    hace 9 días
+                </div>
+            </div>
+        </div>
+        <div class="result-body">
+            <p><i>«estamos en un proceso de deconstrucción de los antiguos ideales monógamos que nos imponían que la única forma de vivir era en pareja y con hijos»</i><br />
+<i class="mnm_icon_gif"><img data-src="https://cdn.mnmstatic.net/v_149/img/menemojis/36/lol.gif" alt="lol" title=":lol:" width="auto" height="18" src="https://cdn.mnmstatic.net/v_149/img/menemojis/36/lol.gif" class="emoji lazy"></i> <i class="mnm_icon_gif"><img data-src="https://cdn.mnmstatic.net/v_149/img/menemojis/36/lol.gif" alt="lol" title=":lol:" width="auto" height="18" src="https://cdn.mnmstatic.net/v_149/img/menemojis/36/lol.gif" class="emoji lazy"></i> <i class="mnm_icon_gif"><img data-src="https://cdn.mnmstatic.net/v_149/img/menemojis/36/lol.gif" alt="lol" title=":lol:" width="auto" height="18" src="https://cdn.mnmstatic.net/v_149/img/menemojis/36/lol.gif" class="emoji lazy"></i> , deconstrucción, no. Degeneración.<br />
+<br />
+<i>El amor ya no tiene por qué durar toda la vida, no somos seres incompletos que necesitan de otro para ser felices y preferimos estar solas o solos que mal acompañados</i>.<br />
+<br />
+Esto me cuadra más.</p>
+        </div>
+        <div class="result-footer">
+            <div class="result-votes">
+                <span>V</span>0
+            </div>
+            <div class="result-karma">
+                <span>K</span>6
+            </div>
+        </div>
+    </div>
+    <div class="result-footer">
+        <a href="/m/actualidad/cada-vez-hay-mas-gente-soltera-espana/c18#c-18" style="color: #E35624">ver  hilo...</a>
+    </div>
+
+</div>                                                <div class="search-result result-comment" id="c-39651604">
+    <div class="result-head">
+        <div class="result-head-info">
+            <span>Hace 9 días | Por </span><a
+                    href="/user/Dragstat"
+                    data-toggle="popover" data-popover-type="user" data-popover-url="/tooltip/user/Dragstat">Dragstat
+            </a>
+                            <span> a </span><a
+                    href="/go/link/3875393" target="_blank" class="ga-event" data-event-action="story" data-event-label="source">theobjective.com
+            </a>
+                    </div>
+        <div class="result-type result-type-comment">comentario</div>
+    </div>
+    <div class="result-body">
+        <a href="/m/actualidad/cada-vez-hay-mas-gente-soltera-espana" class="ga-event"
+           data-event-action="story" data-event-label="title">
+            <h2>Por qué cada vez hay más gente soltera en España</h2>
+        </a>
+    </div>
+    <div class="result-comment-container">
+        <div class="result-head">
+            <div class="result-head-info">
+                                    <a href="/user/Aeren" class="avatar" data-toggle="popover" data-popover-type="user" data-popover-url="/tooltip/user/Aeren">
+                                                    <div class="avatar-initials">
+                                <span>A</span>
+                            </div>
+                                            </a>
+                                <div class="comment-order">
+                    <a href="/m/actualidad/cada-vez-hay-mas-gente-soltera-espana/c4#c-4" style="color: #E35624">#4</a>
+                </div>
+
+                                    <div class="comment-author">
+                        <a href="/user/Aeren" style="color: #E35624" data-toggle="popover" data-popover-type="user" data-popover-url="/tooltip/user/Aeren">Aeren</a>
+                    </div>
+                
+                <div class="comment-date">
+                    hace 9 días
+                </div>
+            </div>
+        </div>
+        <div class="result-body">
+            <p>Por que no hace falta firmar un papel para vivir en pareja. Y si la cosa se termina, menos papeleos y menos historias, cada uno a su casa y todos felices. El matrimonio es un constructo social obsoleto que sólo sirve para agilizar algunos trámites administrativos.</p>
+        </div>
+        <div class="result-footer">
+            <div class="result-votes">
+                <span>V</span>8
+            </div>
+            <div class="result-karma">
+                <span>K</span>91
+            </div>
+        </div>
+    </div>
+    <div class="result-footer">
+        <a href="/m/actualidad/cada-vez-hay-mas-gente-soltera-espana/c4#c-4" style="color: #E35624">ver  hilo...</a>
+    </div>
+
+</div>                                                <div class="search-result result-comment" id="c-39649619">
+    <div class="result-head">
+        <div class="result-head-info">
+            <span>Hace 10 días | Por </span><a
+                    href="/user/Boicot_Israel"
+                    data-toggle="popover" data-popover-type="user" data-popover-url="/tooltip/user/Boicot_Israel">Boicot_Israel
+            </a>
+                            <span> a </span><a
+                    href="/go/link/3875257" target="_blank" class="ga-event" data-event-action="story" data-event-label="source">threadreaderapp.com
+            </a>
+                    </div>
+        <div class="result-type result-type-comment">comentario</div>
+    </div>
+    <div class="result-body">
+        <a href="/m/politica/han-entrevistado-uno-llevaba-bandera-franquista-concentraciones" class="ga-event"
+           data-event-action="story" data-event-label="title">
+            <h2>Han entrevistado a uno que llevaba la bandera franquista a las concentraciones de Ferraz</h2>
+        </a>
+    </div>
+    <div class="result-comment-container">
+        <div class="result-head">
+            <div class="result-head-info">
+                                    <a href="/user/Kailzero" class="avatar" data-toggle="popover" data-popover-type="user" data-popover-url="/tooltip/user/Kailzero">
+                                                    <img src="https://cdn.mnmstatic.net//cache/0b/b1/766218-1698247987-40.jpg" alt="Kailzero" loading="lazy"/>
+                                            </a>
+                                <div class="comment-order">
+                    <a href="/m/politica/han-entrevistado-uno-llevaba-bandera-franquista-concentraciones/c43#c-43" style="color: #E35624">#43</a>
+                </div>
+
+                                    <div class="comment-author">
+                        <a href="/user/Kailzero" style="color: #E35624" data-toggle="popover" data-popover-type="user" data-popover-url="/tooltip/user/Kailzero">Kailzero</a>
+                    </div>
+                
+                <div class="comment-date">
+                    hace 10 días
+                </div>
+            </div>
+        </div>
+        <div class="result-body">
+            <p>Coeficiente mental 0.5 precisa repetición de todo el curso escolar desde primaria, pero en Ruanda. Acompañado de personas que son felices con muy poco, allí aprenderá los valores de la vida. En 10 años tenemos un hombretón hecho y derecho. La lástima es el dinero que se invierte en estas personitas para que estén agradecidas a un régimen que ni tan siquiera han vivido... Hambre de 3 días y el culo escocido de no poder limpiarse como decía mi abuelo... Hay que ser muy SUB-Normal o no estar bien, como se puede apreciar la forma que tiene al hablar en el video... Otro tontito!</p>
+        </div>
+        <div class="result-footer">
+            <div class="result-votes">
+                <span>V</span>2
+            </div>
+            <div class="result-karma">
+                <span>K</span>23
+            </div>
+        </div>
+    </div>
+    <div class="result-footer">
+        <a href="/m/politica/han-entrevistado-uno-llevaba-bandera-franquista-concentraciones/c43#c-43" style="color: #E35624">ver  hilo...</a>
+    </div>
+
+</div>                                                <div class="search-result result-comment" id="c-39648389">
+    <div class="result-head">
+        <div class="result-head-info">
+            <span>Hace 10 días | Por </span><a
+                    href="/user/Andres_age"
+                    data-toggle="popover" data-popover-type="user" data-popover-url="/tooltip/user/Andres_age">Andres_age
+            </a>
+                            <span> a </span><a
+                    href="/go/link/3875243" target="_blank" class="ga-event" data-event-action="story" data-event-label="source">xataka.com
+            </a>
+                    </div>
+        <div class="result-type result-type-comment">comentario</div>
+    </div>
+    <div class="result-body">
+        <a href="/m/actualidad/parlamento-europeo-aprueba-euro-7-asi-afectara-compra-nuestro" class="ga-event"
+           data-event-action="story" data-event-label="title">
+            <h2>El Parlamento Europeo aprueba Euro 7: así afectará a la compra de nuestro próximo coche</h2>
+        </a>
+    </div>
+    <div class="result-comment-container">
+        <div class="result-head">
+            <div class="result-head-info">
+                                    <a href="/user/Perrota" class="avatar" data-toggle="popover" data-popover-type="user" data-popover-url="/tooltip/user/Perrota">
+                                                    <div class="avatar-initials">
+                                <span>P</span>
+                            </div>
+                                            </a>
+                                <div class="comment-order">
+                    <a href="/m/actualidad/parlamento-europeo-aprueba-euro-7-asi-afectara-compra-nuestro/c8#c-8" style="color: #E35624">#8</a>
+                </div>
+
+                                    <div class="comment-author">
+                        <a href="/user/Perrota" style="color: #E35624" data-toggle="popover" data-popover-type="user" data-popover-url="/tooltip/user/Perrota">Perrota</a>
+                    </div>
+                
+                <div class="comment-date">
+                    hace 10 días
+                </div>
+            </div>
+        </div>
+        <div class="result-body">
+            <p>En China están descorchando el champán con este tipo en el pie de los europeos. Felicidades a los todos los trols anti eléctricos y anti progreso, que han ayudado a poner el último clavo del ataúd de los fabricantes europeos.</p>
+        </div>
+        <div class="result-footer">
+            <div class="result-votes">
+                <span>V</span>0
+            </div>
+            <div class="result-karma">
+                <span>K</span>13
+            </div>
+        </div>
+    </div>
+    <div class="result-footer">
+        <a href="/m/actualidad/parlamento-europeo-aprueba-euro-7-asi-afectara-compra-nuestro/c8#c-8" style="color: #E35624">ver  hilo...</a>
+    </div>
+
+</div>                                                <div class="search-result result-comment" id="c-39647395">
+    <div class="result-head">
+        <div class="result-head-info">
+            <span>Hace 10 días | Por </span><a
+                    href="/user/onainigo"
+                    data-toggle="popover" data-popover-type="user" data-popover-url="/tooltip/user/onainigo">onainigo
+            </a>
+                            <span> a </span><a
+                    href="/go/link/3875212" target="_blank" class="ga-event" data-event-action="story" data-event-label="source">efe.com
+            </a>
+                    </div>
+        <div class="result-type result-type-comment">comentario</div>
+    </div>
+    <div class="result-body">
+        <a href="/m/actualidad/onu-pide-paises-arabes-musulmanes-usen-influencia-tregua-gaza" class="ga-event"
+           data-event-action="story" data-event-label="title">
+            <h2>La ONU pide a países árabes y musulmanes que usen su influencia para una tregua en Gaza</h2>
+        </a>
+    </div>
+    <div class="result-comment-container">
+        <div class="result-head">
+            <div class="result-head-info">
+                                    <a href="/user/DerTeufel" class="avatar" data-toggle="popover" data-popover-type="user" data-popover-url="/tooltip/user/DerTeufel">
+                                                    <div class="avatar-initials">
+                                <span>D</span>
+                            </div>
+                                            </a>
+                                <div class="comment-order">
+                    <a href="/m/actualidad/onu-pide-paises-arabes-musulmanes-usen-influencia-tregua-gaza/c3#c-3" style="color: #E35624">#3</a>
+                </div>
+
+                                    <div class="comment-author">
+                        <a href="/user/DerTeufel" style="color: #E35624" data-toggle="popover" data-popover-type="user" data-popover-url="/tooltip/user/DerTeufel">DerTeufel</a>
+                    </div>
+                
+                <div class="comment-date">
+                    hace 10 días
+                </div>
+            </div>
+        </div>
+        <div class="result-body">
+            <p>101 terroristas de la ONU muertos en Gaza.<br />
+<br />
+   Felicidades Israel, entre trabajadores de UNRWA, mujeres y niños vais a ganar esta guerra por los cojones. Y además contra los integristas musulmanes que vosotros mismos creasteis.<br />
+<br />
+   Mía es la venganza.</p>
+        </div>
+        <div class="result-footer">
+            <div class="result-votes">
+                <span>V</span>3
+            </div>
+            <div class="result-karma">
+                <span>K</span>50
+            </div>
+        </div>
+    </div>
+    <div class="result-footer">
+        <a href="/m/actualidad/onu-pide-paises-arabes-musulmanes-usen-influencia-tregua-gaza/c3#c-3" style="color: #E35624">ver  hilo...</a>
+    </div>
+
+</div>                                                <div class="search-result result-comment" id="c-39646200">
+    <div class="result-head">
+        <div class="result-head-info">
+            <span>Hace 10 días | Por </span><a
+                    href="/user/Sinopeus1"
+                    data-toggle="popover" data-popover-type="user" data-popover-url="/tooltip/user/Sinopeus1">Sinopeus1
+            </a>
+                            <span> a </span><a
+                    href="/go/link/3875137" target="_blank" class="ga-event" data-event-action="story" data-event-label="source">twitter.com
+            </a>
+                    </div>
+        <div class="result-type result-type-comment">comentario</div>
+    </div>
+    <div class="result-body">
+        <a href="/m/actualidad/ya-basta-pongamos-limites-control-politicos" class="ga-event"
+           data-event-action="story" data-event-label="title">
+            <h2>YA BASTA Pongamos límites y control a los políticos</h2>
+        </a>
+    </div>
+    <div class="result-comment-container">
+        <div class="result-head">
+            <div class="result-head-info">
+                                    <a href="/user/gale" class="avatar" data-toggle="popover" data-popover-type="user" data-popover-url="/tooltip/user/gale">
+                                                    <img src="https://cdn.mnmstatic.net//cache/02/13/136102-1346618139-40.jpg" alt="gale" loading="lazy"/>
+                                            </a>
+                                <div class="comment-order">
+                    <a href="/m/actualidad/ya-basta-pongamos-limites-control-politicos/c40#c-40" style="color: #E35624">#40</a>
+                </div>
+
+                                    <div class="comment-author">
+                        <a href="/user/gale" style="color: #E35624" data-toggle="popover" data-popover-type="user" data-popover-url="/tooltip/user/gale">gale</a>
+                    </div>
+                
+                <div class="comment-date">
+                    hace 10 días
+                </div>
+            </div>
+        </div>
+        <div class="result-body">
+            <p><a href="c31#c-31" class="content-link" style="color: rgb(227, 86, 36)" data-toggle="popover" data-popover-type="comment" data-popover-url="/tooltip/comment/3875137/order/31"><span>#31</span></a> Más control. Y más paz. Y menos pobreza. Y más felicidad. Claro. Cualquier persona  con dos dedos de frente. Pero la manifa de hoy es para lo que es.</p>
+        </div>
+        <div class="result-footer">
+            <div class="result-votes">
+                <span>V</span>2
+            </div>
+            <div class="result-karma">
+                <span>K</span>30
+            </div>
+        </div>
+    </div>
+    <div class="result-footer">
+        <a href="/m/actualidad/ya-basta-pongamos-limites-control-politicos/c40#c-40" style="color: #E35624">ver  hilo...</a>
+    </div>
+
+</div>                                                <div class="search-result result-comment" id="c-39645134">
+    <div class="result-head">
+        <div class="result-head-info">
+            <span>Hace 11 días | Por </span><a
+                    href="/user/MiguelDeUnamano"
+                    data-toggle="popover" data-popover-type="user" data-popover-url="/tooltip/user/MiguelDeUnamano">MiguelDeUnamano
+            </a>
+                            <span> a </span><a
+                    href="/go/link/3875022" target="_blank" class="ga-event" data-event-action="story" data-event-label="source">eldiario.es
+            </a>
+                    </div>
+        <div class="result-type result-type-comment">comentario</div>
+    </div>
+    <div class="result-body">
+        <a href="/m/ocio/estado-de-derecho-1" class="ga-event"
+           data-event-action="story" data-event-label="title">
+            <h2>Estado de derecho</h2>
+        </a>
+    </div>
+    <div class="result-comment-container">
+        <div class="result-head">
+            <div class="result-head-info">
+                                    <a href="/user/turuleto" class="avatar" data-toggle="popover" data-popover-type="user" data-popover-url="/tooltip/user/turuleto">
+                                                    <div class="avatar-initials">
+                                <span>t</span>
+                            </div>
+                                            </a>
+                                <div class="comment-order">
+                    <a href="/m/ocio/estado-de-derecho-1/c154#c-154" style="color: #E35624">#154</a>
+                </div>
+
+                                    <div class="comment-author">
+                        <a href="/user/turuleto" style="color: #E35624" data-toggle="popover" data-popover-type="user" data-popover-url="/tooltip/user/turuleto">turuleto</a>
+                    </div>
+                
+                <div class="comment-date">
+                    hace 10 días
+                </div>
+            </div>
+        </div>
+        <div class="result-body">
+            <p><a href="c136#c-136" class="content-link" style="color: rgb(227, 86, 36)" data-toggle="popover" data-popover-type="comment" data-popover-url="/tooltip/comment/3875022/order/136"><span>#136</span></a> Literal. Para todos sus votantes. Felices.</p>
+        </div>
+        <div class="result-footer">
+            <div class="result-votes">
+                <span>V</span>0
+            </div>
+            <div class="result-karma">
+                <span>K</span>10
+            </div>
+        </div>
+    </div>
+    <div class="result-footer">
+        <a href="/m/ocio/estado-de-derecho-1/c154#c-154" style="color: #E35624">ver  hilo...</a>
+    </div>
+
+</div>                                                <div class="search-result link-result" id="l-3875057">
+    <div class="result-head">
+        <div class="result-head-info">
+
+                                                
+            <div class="button-community-container">
+            <button type="button" class="button button-community  button-join ga4-event allopen-modal open-modal-login"
+                    data-community-id="40"
+                    data-community-name="actualidad"
+                    data-toggle="popover"
+                    data-popover-type="community"
+                    data-popover-url="/tooltip/community/actualidad"
+
+                    data-event-section="join_community"
+                    data-event-community-name="actualidad"
+
+                    
+                                            data-modal-url="/login"
+                                        style="border-color: #F62D00" onMouseOver="this.style.background='#F62D00'" onMouseOut="this.style.background='transparent'">
+                                    <div class="avatar">
+                        <img src="https://v2.mnmstatic.net/img/community/actualidad.png" alt="actualidad" loading="lazy"/>
+                    </div>
+                                <div class="community-name">
+                    <span>Únete a Actualidad</span>
+                                    </div>
+            </button>
+        </div>
+                <span>Hace 11 días | Por </span><a
+                    href="/user/nereira"
+                    data-toggle="popover" data-popover-type="user" data-popover-url="/tooltip/user/nereira">nereira
+            </a>
+                            <span> a </span><a
+                    href="/go/link/3875057" target="_blank" class="ga-event" data-event-action="story" data-event-label="source">elsaltodiario.com
+            </a>
+                    </div>
+                    <div class="result-type result-type-link">link</div>
+            </div>
+    <div class="result-body">
+        <a href="/m/actualidad/ayuso-impone-dictadura-heterosexual-comunidad-madrid" class="ga-event"
+           data-event-action="story" data-event-label="title">
+            <h2>Ayuso impone una dictadura heterosexual en la Comunidad de Madrid</h2>
+                    </a>
+                    <p>La Presidenta, que en campaña pidió el voto de lesbianas, gays, trans y bisexuales asegurando que pretendía hacer de Madrid la tierra de la libertad ahora adelanta a Vox por la ultraderecha y, entre otras muchas cuestiones, autoriza la aplicación de las mal llamadas “terapias” para “curar” cualquier forma de diversidad sexual. Si votaste a Ayuso, si decías <a href="https://meneame.net/search?w=links&q=YoSoyGayyDelPP" class="content-link" style="color: rgb(227, 86, 36)" ><span>#YoSoyGayyDelPP</span></a>, felicidades: tu presidenta considera que puedes “curar” tu homosexualidad.</p>
+            </div>
+    <div class="result-footer">
+        <div class="result-votes">
+            <span>V</span>4
+        </div>
+        <div class="result-karma">
+            <span>K</span>26
+        </div>
+        <a href="/m/actualidad/ayuso-impone-dictadura-heterosexual-comunidad-madrid" class="button button-comments ga-event" data-event-action="story" data-event-label="clicks">
+            <?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="11px" viewBox="0 0 17 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>DE3C548D-E347-406A-A60F-E6BBD322CAB7</title>
+    <g id="Menu-Home-Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Menéame-Story-con-Foto-y-Relacionadas" transform="translate(-257.000000, -691.000000)" fill="#878a8c" fill-rule="nonzero">
+            <g id="Group-2" transform="translate(125.000000, 118.000000)">
+                <g id="barra-acciones-larga" transform="translate(0.000000, 525.000000)">
+                    <g id="Group-12" transform="translate(17.000000, 39.000000)">
+                        <g id="Group-27" transform="translate(115.000000, 7.000000)">
+                            <path d="M8.510625,3.57142857 C11.8759167,3.57142857 14.2219167,5.938 15.242625,7.214 C14.25025,8.65735714 11.90425,11.4285714 8.510625,11.4285714 C5.37979167,11.4285714 2.89354167,8.65028571 1.79704167,7.18021429 C2.85458333,5.88614286 5.20908333,3.57142857 8.510625,3.57142857 Z M8.510625,2 C3.14925,2 0,7.14721429 0,7.14721429 C0,7.14721429 3.42479167,13 8.510625,13 C13.9881667,13 17,7.14721429 17,7.14721429 C17,7.14721429 13.9605417,2 8.510625,2 Z M8.5,4.35714286 C6.75041667,4.35714286 5.33333333,5.76435714 5.33333333,7.5 C5.33333333,9.23564286 6.75041667,10.6428571 8.5,10.6428571 C10.2487917,10.6428571 11.6666667,9.23564286 11.6666667,7.5 C11.6666667,5.76435714 10.2487917,4.35714286 8.5,4.35714286 Z M8.49683333,7.49921429 C8.05033333,7.94235714 7.32595833,7.94235714 6.87866667,7.49921429 C6.431375,7.05607143 6.431375,6.33635714 6.87866667,5.89321429 C7.32516667,5.45007143 8.04954167,5.45007143 8.49683333,5.89321429 C8.944125,6.33635714 8.944125,7.05528571 8.49683333,7.49921429 Z" id="vistas-icon"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>            <span class="comments-number">6</span>
+        </a>
+        <a href="/m/actualidad/ayuso-impone-dictadura-heterosexual-comunidad-madrid" class="button button-comments ga-event" data-event-action="story" data-event-label="comments">
+            <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12">
+    <path d="M6 0C2.688 0 0 2.4 0 5.4a5.13 5.13 0 0 0 1.756 3.8L1.6 11.664c-.006.118.055.23.158.289s.23.055.33-.009l2.1-1.4A6.61 6.61 0 0 0 6 10.8c3.312 0 6-2.4 6-5.4S9.312 0 6 0zM3.4 6.4a1 1 0 1 1 0-2 1 1 0 0 1 .707 1.707A1 1 0 0 1 3.4 6.4zm2.6 0a1 1 0 1 1 0-2 1 1 0 1 1 0 2zm2.6 0a1 1 0 1 1 0-2 1 1 0 1 1 0 2z"
+          fill="#878a8c"/>
+</svg>
+            <span class="comments-number">4</span>
+        </a>
+
+    </div>
+</div>                                                <div class="search-result result-comment" id="c-39642242">
+    <div class="result-head">
+        <div class="result-head-info">
+            <span>Hace 12 días | Por </span><a
+                    href="/user/Grahml"
+                    data-toggle="popover" data-popover-type="user" data-popover-url="/tooltip/user/Grahml">Grahml
+            </a>
+                            <span> a </span><a
+                    href="/go/link/3874771" target="_blank" class="ga-event" data-event-action="story" data-event-label="source">bbc.com
+            </a>
+                    </div>
+        <div class="result-type result-type-comment">comentario</div>
+    </div>
+    <div class="result-body">
+        <a href="/m/actualidad/inyecte-biopolimeros-nalgas-complacer-pareja-llevo-anos-unos" class="ga-event"
+           data-event-action="story" data-event-label="title">
+            <h2>&quot;Me inyecté biopolímeros en las nalgas para complacer a mi pareja y llevo años sufriendo unos dolores insoportables&quot;</h2>
+        </a>
+    </div>
+    <div class="result-comment-container">
+        <div class="result-head">
+            <div class="result-head-info">
+                                    <a href="/user/stygyan" class="avatar" data-toggle="popover" data-popover-type="user" data-popover-url="/tooltip/user/stygyan">
+                                                    <img src="https://cdn.mnmstatic.net//cache/00/b1/45318-1656031231-40.jpg" alt="stygyan" loading="lazy"/>
+                                            </a>
+                                <div class="comment-order">
+                    <a href="/m/actualidad/inyecte-biopolimeros-nalgas-complacer-pareja-llevo-anos-unos/c43#c-43" style="color: #E35624">#43</a>
+                </div>
+
+                                    <div class="comment-author">
+                        <a href="/user/stygyan" style="color: #E35624" data-toggle="popover" data-popover-type="user" data-popover-url="/tooltip/user/stygyan">stygyan</a>
+                    </div>
+                
+                <div class="comment-date">
+                    hace 11 días
+                </div>
+            </div>
+        </div>
+        <div class="result-body">
+            <p><a href="c36#c-36" class="content-link" style="color: rgb(227, 86, 36)" data-toggle="popover" data-popover-type="comment" data-popover-url="/tooltip/comment/3874771/order/36"><span>#36</span></a> para ti es dañina porque no tienes disforia. Yo acabo de ver a un amigo quitarse las tetas y nunca le he visto cara de mayor felicidad.</p>
+        </div>
+        <div class="result-footer">
+            <div class="result-votes">
+                <span>V</span>0
+            </div>
+            <div class="result-karma">
+                <span>K</span>10
+            </div>
+        </div>
+    </div>
+    <div class="result-footer">
+        <a href="/m/actualidad/inyecte-biopolimeros-nalgas-complacer-pareja-llevo-anos-unos/c43#c-43" style="color: #E35624">ver  hilo...</a>
+    </div>
+
+</div>                                                <div class="search-result link-result" id="l-3874960">
+    <div class="result-head">
+        <div class="result-head-info">
+
+                                                
+            <div class="button-community-container">
+            <button type="button" class="button button-community  button-join ga4-event allopen-modal open-modal-login"
+                    data-community-id="40"
+                    data-community-name="actualidad"
+                    data-toggle="popover"
+                    data-popover-type="community"
+                    data-popover-url="/tooltip/community/actualidad"
+
+                    data-event-section="join_community"
+                    data-event-community-name="actualidad"
+
+                    
+                                            data-modal-url="/login"
+                                        style="border-color: #F62D00" onMouseOver="this.style.background='#F62D00'" onMouseOut="this.style.background='transparent'">
+                                    <div class="avatar">
+                        <img src="https://v2.mnmstatic.net/img/community/actualidad.png" alt="actualidad" loading="lazy"/>
+                    </div>
+                                <div class="community-name">
+                    <span>Únete a Actualidad</span>
+                                    </div>
+            </button>
+        </div>
+                <span>Hace 11 días | Por </span><a
+                    href="/user/Ratoncolorao"
+                    data-toggle="popover" data-popover-type="user" data-popover-url="/tooltip/user/Ratoncolorao">Ratoncolorao
+            </a>
+                            <span> a </span><a
+                    href="/go/link/3874960" target="_blank" class="ga-event" data-event-action="story" data-event-label="source">elhorticultor.org
+            </a>
+                    </div>
+                    <div class="result-type result-type-link">link</div>
+            </div>
+    <div class="result-body">
+        <a href="/m/actualidad/volvemos-estiercol-nuestra-agricultura-no-habra-futuro" class="ga-event"
+           data-event-action="story" data-event-label="title">
+            <h2>&quot;O volvemos al estiércol en nuestra agricultura o no habrá futuro&quot;</h2>
+                    </a>
+                    <p>"La calidad de los alimentos pasa por no crearle necesidades al campesino, como ha hecho la agricultura industrial. El campesino ha sido violado. Y un alimento es sano cuando no tiene maldad, cuando es producido de manera natural, sin manipular las necesidades del otro. Se soluciona buscando la reconstrucción social de los campesinos, reencontrando la cultura y por tanto la felicidad en la tierra. Una tierra sin vida microbiológica es una tierra muerta. Con los abonos naturales que usaron nuestros antepasados, recupera su memoria"</p>
+            </div>
+    <div class="result-footer">
+        <div class="result-votes">
+            <span>V</span>48
+        </div>
+        <div class="result-karma">
+            <span>K</span>54
+        </div>
+        <a href="/m/actualidad/volvemos-estiercol-nuestra-agricultura-no-habra-futuro" class="button button-comments ga-event" data-event-action="story" data-event-label="clicks">
+            <?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="11px" viewBox="0 0 17 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>DE3C548D-E347-406A-A60F-E6BBD322CAB7</title>
+    <g id="Menu-Home-Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Menéame-Story-con-Foto-y-Relacionadas" transform="translate(-257.000000, -691.000000)" fill="#878a8c" fill-rule="nonzero">
+            <g id="Group-2" transform="translate(125.000000, 118.000000)">
+                <g id="barra-acciones-larga" transform="translate(0.000000, 525.000000)">
+                    <g id="Group-12" transform="translate(17.000000, 39.000000)">
+                        <g id="Group-27" transform="translate(115.000000, 7.000000)">
+                            <path d="M8.510625,3.57142857 C11.8759167,3.57142857 14.2219167,5.938 15.242625,7.214 C14.25025,8.65735714 11.90425,11.4285714 8.510625,11.4285714 C5.37979167,11.4285714 2.89354167,8.65028571 1.79704167,7.18021429 C2.85458333,5.88614286 5.20908333,3.57142857 8.510625,3.57142857 Z M8.510625,2 C3.14925,2 0,7.14721429 0,7.14721429 C0,7.14721429 3.42479167,13 8.510625,13 C13.9881667,13 17,7.14721429 17,7.14721429 C17,7.14721429 13.9605417,2 8.510625,2 Z M8.5,4.35714286 C6.75041667,4.35714286 5.33333333,5.76435714 5.33333333,7.5 C5.33333333,9.23564286 6.75041667,10.6428571 8.5,10.6428571 C10.2487917,10.6428571 11.6666667,9.23564286 11.6666667,7.5 C11.6666667,5.76435714 10.2487917,4.35714286 8.5,4.35714286 Z M8.49683333,7.49921429 C8.05033333,7.94235714 7.32595833,7.94235714 6.87866667,7.49921429 C6.431375,7.05607143 6.431375,6.33635714 6.87866667,5.89321429 C7.32516667,5.45007143 8.04954167,5.45007143 8.49683333,5.89321429 C8.944125,6.33635714 8.944125,7.05528571 8.49683333,7.49921429 Z" id="vistas-icon"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>            <span class="comments-number">104</span>
+        </a>
+        <a href="/m/actualidad/volvemos-estiercol-nuestra-agricultura-no-habra-futuro" class="button button-comments ga-event" data-event-action="story" data-event-label="comments">
+            <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12">
+    <path d="M6 0C2.688 0 0 2.4 0 5.4a5.13 5.13 0 0 0 1.756 3.8L1.6 11.664c-.006.118.055.23.158.289s.23.055.33-.009l2.1-1.4A6.61 6.61 0 0 0 6 10.8c3.312 0 6-2.4 6-5.4S9.312 0 6 0zM3.4 6.4a1 1 0 1 1 0-2 1 1 0 0 1 .707 1.707A1 1 0 0 1 3.4 6.4zm2.6 0a1 1 0 1 1 0-2 1 1 0 1 1 0 2zm2.6 0a1 1 0 1 1 0-2 1 1 0 1 1 0 2z"
+          fill="#878a8c"/>
+</svg>
+            <span class="comments-number">35</span>
+        </a>
+
+    </div>
+</div>                                                <div class="search-result result-comment" id="c-39642190">
+    <div class="result-head">
+        <div class="result-head-info">
+            <span>Hace 12 días | Por </span><a
+                    href="/user/Ratoncolorao"
+                    data-toggle="popover" data-popover-type="user" data-popover-url="/tooltip/user/Ratoncolorao">Ratoncolorao
+            </a>
+                            <span> a </span><a
+                    href="/go/link/3874471" target="_blank" class="ga-event" data-event-action="story" data-event-label="source">eldiario.es
+            </a>
+                    </div>
+        <div class="result-type result-type-comment">comentario</div>
+    </div>
+    <div class="result-body">
+        <a href="/m/actualidad/menores-consuman-bebidas-energeticas-galicia-enfrentaran-multas" class="ga-event"
+           data-event-action="story" data-event-label="title">
+            <h2>Los menores que consuman bebidas energéticas en Galicia se enfrentarán a multas mínimas iguales a las de drogas</h2>
+        </a>
+    </div>
+    <div class="result-comment-container">
+        <div class="result-head">
+            <div class="result-head-info">
+                                    <a href="/user/IngridPared" class="avatar" data-toggle="popover" data-popover-type="user" data-popover-url="/tooltip/user/IngridPared">
+                                                    <div class="avatar-initials">
+                                <span>I</span>
+                            </div>
+                                            </a>
+                                <div class="comment-order">
+                    <a href="/m/actualidad/menores-consuman-bebidas-energeticas-galicia-enfrentaran-multas/c106#c-106" style="color: #E35624">#106</a>
+                </div>
+
+                                    <div class="comment-author">
+                        <a href="/user/IngridPared" style="color: #E35624" data-toggle="popover" data-popover-type="user" data-popover-url="/tooltip/user/IngridPared">IngridPared</a>
+                    </div>
+                
+                <div class="comment-date">
+                    hace 11 días
+                </div>
+            </div>
+        </div>
+        <div class="result-body">
+            <p>Cuando todos seamos buenecitos y nadie fume ni beba ni esnife ni se inyecte ni tome bebidas energéticas ni carbónicas ni coma dulces ni alimentos procesados... ¡será la felicidad! ¡el paraíso en la tierra!</p>
+        </div>
+        <div class="result-footer">
+            <div class="result-votes">
+                <span>V</span>0
+            </div>
+            <div class="result-karma">
+                <span>K</span>6
+            </div>
+        </div>
+    </div>
+    <div class="result-footer">
+        <a href="/m/actualidad/menores-consuman-bebidas-energeticas-galicia-enfrentaran-multas/c106#c-106" style="color: #E35624">ver  hilo...</a>
+    </div>
+
+</div>                                                <div class="search-result result-comment" id="c-39641617">
+    <div class="result-head">
+        <div class="result-head-info">
+            <span>Hace 11 días | Por </span><a
+                    href="/user/Beltenebros"
+                    data-toggle="popover" data-popover-type="user" data-popover-url="/tooltip/user/Beltenebros">Beltenebros
+            </a>
+                            <span> a </span><a
+                    href="/go/link/3874937" target="_blank" class="ga-event" data-event-action="story" data-event-label="source">eldiario.es
+            </a>
+                    </div>
+        <div class="result-type result-type-comment">comentario</div>
+    </div>
+    <div class="result-body">
+        <a href="/m/actualidad/interior-abre-investigacion-guardias-civiles-prometen-derramar" class="ga-event"
+           data-event-action="story" data-event-label="title">
+            <h2>Interior abre una investigación a los guardias civiles que prometen &quot;derramar&quot; su sangre contra el acuerdo de Gobierno</h2>
+        </a>
+    </div>
+    <div class="result-comment-container">
+        <div class="result-head">
+            <div class="result-head-info">
+                                    <a href="/user/Aeren" class="avatar" data-toggle="popover" data-popover-type="user" data-popover-url="/tooltip/user/Aeren">
+                                                    <div class="avatar-initials">
+                                <span>A</span>
+                            </div>
+                                            </a>
+                                <div class="comment-order">
+                    <a href="/m/actualidad/interior-abre-investigacion-guardias-civiles-prometen-derramar/c12#c-12" style="color: #E35624">#12</a>
+                </div>
+
+                                    <div class="comment-author">
+                        <a href="/user/Aeren" style="color: #E35624" data-toggle="popover" data-popover-type="user" data-popover-url="/tooltip/user/Aeren">Aeren</a>
+                    </div>
+                
+                <div class="comment-date">
+                    hace 11 días
+                </div>
+            </div>
+        </div>
+        <div class="result-body">
+            <p><a href="c3#c-3" class="content-link" style="color: rgb(227, 86, 36)" data-toggle="popover" data-popover-type="comment" data-popover-url="/tooltip/comment/3874937/order/3"><span>#3</span></a> Si nos ponemos a limpiar el país de fascistas perdemos a la mitad de la población. Aunque mira, seríamos 26 millones de hijos de puta más felices y con un país próspero.</p>
+        </div>
+        <div class="result-footer">
+            <div class="result-votes">
+                <span>V</span>23
+            </div>
+            <div class="result-karma">
+                <span>K</span>207
+            </div>
+        </div>
+    </div>
+    <div class="result-footer">
+        <a href="/m/actualidad/interior-abre-investigacion-guardias-civiles-prometen-derramar/c12#c-12" style="color: #E35624">ver  hilo...</a>
+    </div>
+
+</div>                                                <div class="search-result result-comment" id="c-39640853">
+    <div class="result-head">
+        <div class="result-head-info">
+            <span>Hace 19 días | Por </span><a
+                    href="/user/dmeijide"
+                    data-toggle="popover" data-popover-type="user" data-popover-url="/tooltip/user/dmeijide">dmeijide
+            </a>
+                            <span> a </span><a
+                    href="/go/link/3872124" target="_blank" class="ga-event" data-event-action="story" data-event-label="source">cnbc.com
+            </a>
+                    </div>
+        <div class="result-type result-type-comment">comentario</div>
+    </div>
+    <div class="result-body">
+        <a href="/m/actualidad/62-estadounidenses-sigue-viviendo-dia-convierte-principal-estilo" class="ga-event"
+           data-event-action="story" data-event-label="title">
+            <h2>El 62% de los estadounidenses sigue viviendo al día, lo que lo convierte en &quot;el principal estilo de vida financiero&quot;, según un informe [EN]</h2>
+        </a>
+    </div>
+    <div class="result-comment-container">
+        <div class="result-head">
+            <div class="result-head-info">
+                                    <a href="/user/constantinokv_6410c8f490" class="avatar" data-toggle="popover" data-popover-type="user" data-popover-url="/tooltip/user/constantinokv_6410c8f490">
+                                                    <div class="avatar-initials">
+                                <span>c</span>
+                            </div>
+                                            </a>
+                                <div class="comment-order">
+                    <a href="/m/actualidad/62-estadounidenses-sigue-viviendo-dia-convierte-principal-estilo/c48#c-48" style="color: #E35624">#48</a>
+                </div>
+
+                                    <div class="comment-author">
+                        <a href="/user/constantinokv_6410c8f490" style="color: #E35624" data-toggle="popover" data-popover-type="user" data-popover-url="/tooltip/user/constantinokv_6410c8f490">constantinokv_6410c8f490</a>
+                    </div>
+                
+                <div class="comment-date">
+                    hace 11 días
+                </div>
+            </div>
+        </div>
+        <div class="result-body">
+            <p><a href="c40#c-40" class="content-link" style="color: rgb(227, 86, 36)" data-toggle="popover" data-popover-type="comment" data-popover-url="/tooltip/comment/3872124/order/40"><span>#40</span></a> ideología Hayek ya no funciona. Propongo que se pasen a ideología Keynes. Se estancó porque solo aplicaron a nivel local, y Keynes propuso expandir el modelo económico en demás países. Ellos no querían que países emergentes o aliados tuvieran tan buena vida como ellos. Así la avaricia.<br />
+Paradójicamente el Keynes que vivieron en EUA del 1930 al 1970 es una forma de socialismo, porq el gobierno era quien regukaba ponía tabuladores salarios y daba trabajo de infraestructura y trenes y electricidad para trabajar y beneficio. Así cada persona tenía casa y coche. Felices hasta que llegó la estanflacion.<br />
+ <br />
+<br />
+Hayek es más volátil y un dolor de cabeza por lo que vemos al día de hoy, hacen negocios con vidas humanas y con guerras.<br />
+ </p>
+        </div>
+        <div class="result-footer">
+            <div class="result-votes">
+                <span>V</span>0
+            </div>
+            <div class="result-karma">
+                <span>K</span>6
+            </div>
+        </div>
+    </div>
+    <div class="result-footer">
+        <a href="/m/actualidad/62-estadounidenses-sigue-viviendo-dia-convierte-principal-estilo/c48#c-48" style="color: #E35624">ver  hilo...</a>
+    </div>
+
+</div>                        </div>
+            <div class="feed-load-more" id="load-more-results">
+            <button type="button" class="feed-load-more-button button">
+                más resultados...
+            </button>
+        </div>
+        </div>
+    </div>
+</div>
+<div id="main-wrap"></div>
+<footer>
+    <div id="newsletter">
+        <div class="container">
+            <div class="newsletter-info">
+                <div class="newsletter-title">Suscríbete a La Trompa</div>
+                <div class="newsletter-subtitle">La newsletter semanal de Menéame</div>
+            </div>
+            <form action="" method="post">
+                <div class="newsletter-input">
+                    <input type="email" id="newsletterEmail" name="newsletter-email" placeholder="Tu dirección de email">
+                    <a class="button" href="https://meneame.substack.com?showWelcome=true" target="_blank">suscríbete</a>
+                </div>
+            </form>
+        </div>
+    </div>
+    <div id="footer-links">
+        <div class="container">
+            <div class="footer-logo">
+                <img src="https://v2.mnmstatic.net/img/logo_meneame_footer.svg" alt="logo meneame">
+            </div>
+            <div class="footer-cols">
+                <div class="footer-col">
+                    <div class="footer-col-title">Ayuda</div>
+                    <a href="/faq-es">FAQ</a>
+                    <a href="/legal#contacto">Contacto</a>
+                    <a href="/legal">Aviso legal</a>
+                </div>
+                <div class="footer-col">
+                    <div class="footer-col-title">+Menéame</div>
+                    <a href="https://blog.meneame.net/">Blog</a>
+                    <a href="/notame">Nótame</a>
+                    <a href="https://twitter.com/meneame_net">Twitter</a>
+                    <a class="ga4-event"
+                       data-event-name="switcher"
+                       data-event-section="switcher" href="/switch-old-version?d913a86"><u>Versión anterior</u></a>
+                </div>
+                <div class="footer-col">
+                    <div class="footer-col-title">Estadísticas</div>
+                    <a href="/go/old?url=https://www.meneame.net/popular">Más votadas</a>
+                    <a href="/go/old?url=https://www.meneame.net/top_visited">Más visitadas</a>
+                    <a href="/go/old?url=https://www.meneame.net/top_commented">Más comentadas</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+    <div id="modal" style="display: none;">
+        <div class="modal-header">
+            <button id="back-modal-button"><img src="https://v2.mnmstatic.net/img/icon_back.svg" alt="back in modal" /></button>
+            <button id="close-modal-button"><img src="https://v2.mnmstatic.net/img/icon_close.svg" alt="close modal" /></button>
+        </div>
+        <div class="modal-body"></div>
+        <div class="modal-footer"></div>
+    </div>
+<div id="popover" class="hidden">
+    <div class="popover-content"></div>
+    <div class="triangle left white"></div>
+</div><div id="backToTop">
+    <i class="fas fa-chevron-up"></i>
+</div>
+
+</body>
+</html>

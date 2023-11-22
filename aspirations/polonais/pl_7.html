@@ -1,0 +1,792 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html class="oldie ie6" lang="pl" dir="ltr"> <![endif]-->
+<!--[if IE 7 ]>    <html class="oldie ie7" lang="pl" dir="ltr"> <![endif]-->
+<!--[if IE 8 ]>    <html class="oldie ie8" lang="pl" dir="ltr"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="pl" dir="ltr"> <!--<![endif]-->
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-10140860-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<title>Czym jest szczęście? - Forum Kobiet - NETKOBIETY.PL</title>
+<link rel="search" type="text/html" href="https://www.netkobiety.pl/search.php" title="Szukaj" />
+<link rel="stylesheet" type="text/css" media="screen" href="https://www.netkobiety.pl/style/Oxygen/Oxygen.min.css" />
+
+<script type='text/javascript'>
+  (function() {
+    var useSSL = 'https:' == document.location.protocol;
+    var src = (useSSL ? 'https:' : 'http:') +
+        '//www.googletagservices.com/tag/js/gpt.js';
+    document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+  })();
+</script>
+
+
+<!-- rodo -->
+<script type="text/javascript" src="https://lib.wtg-ads.com/lib.min.js" async></script>   
+
+<!-- Quantcast Choice. Consent Manager Tag v2.0 (for TCF 2.0) -->
+<script type="text/javascript" async=true>
+(function() {
+  var host = window.location.hostname;
+  var element = document.createElement('script');
+  var firstScript = document.getElementsByTagName('script')[0];
+  var url = 'https://cmp.quantcast.com'
+    .concat('/choice/', 'qP0FLJj6jJCT-', '/', host, '/choice.js?tag_version=V2');
+  var uspTries = 0;
+  var uspTriesLimit = 3;
+  element.async = true;
+  element.type = 'text/javascript';
+  element.src = url;
+
+  firstScript.parentNode.insertBefore(element, firstScript);
+
+  function makeStub() {
+    var TCF_LOCATOR_NAME = '__tcfapiLocator';
+    var queue = [];
+    var win = window;
+    var cmpFrame;
+
+    function addFrame() {
+      var doc = win.document;
+      var otherCMP = !!(win.frames[TCF_LOCATOR_NAME]);
+
+      if (!otherCMP) {
+        if (doc.body) {
+          var iframe = doc.createElement('iframe');
+
+          iframe.style.cssText = 'display:none';
+          iframe.name = TCF_LOCATOR_NAME;
+          doc.body.appendChild(iframe);
+        } else {
+          setTimeout(addFrame, 5);
+        }
+      }
+      return !otherCMP;
+    }
+
+    function tcfAPIHandler() {
+      var gdprApplies;
+      var args = arguments;
+
+      if (!args.length) {
+        return queue;
+      } else if (args[0] === 'setGdprApplies') {
+        if (
+          args.length > 3 &&
+          args[2] === 2 &&
+          typeof args[3] === 'boolean'
+        ) {
+          gdprApplies = args[3];
+          if (typeof args[2] === 'function') {
+            args[2]('set', true);
+          }
+        }
+      } else if (args[0] === 'ping') {
+        var retr = {
+          gdprApplies: gdprApplies,
+          cmpLoaded: false,
+          cmpStatus: 'stub'
+        };
+
+        if (typeof args[2] === 'function') {
+          args[2](retr);
+        }
+      } else {
+        if(args[0] === 'init' && typeof args[3] === 'object') {
+          args[3] = Object.assign(args[3], { tag_version: 'V2' });
+        }
+        queue.push(args);
+      }
+    }
+
+    function postMessageEventHandler(event) {
+      var msgIsString = typeof event.data === 'string';
+      var json = {};
+
+      try {
+        if (msgIsString) {
+          json = JSON.parse(event.data);
+        } else {
+          json = event.data;
+        }
+      } catch (ignore) {}
+
+      var payload = json.__tcfapiCall;
+
+      if (payload) {
+        window.__tcfapi(
+          payload.command,
+          payload.version,
+          function(retValue, success) {
+            var returnMsg = {
+              __tcfapiReturn: {
+                returnValue: retValue,
+                success: success,
+                callId: payload.callId
+              }
+            };
+            if (msgIsString) {
+              returnMsg = JSON.stringify(returnMsg);
+            }
+            if (event && event.source && event.source.postMessage) {
+              event.source.postMessage(returnMsg, '*');
+            }
+          },
+          payload.parameter
+        );
+      }
+    }
+
+    while (win) {
+      try {
+        if (win.frames[TCF_LOCATOR_NAME]) {
+          cmpFrame = win;
+          break;
+        }
+      } catch (ignore) {}
+
+      if (win === window.top) {
+        break;
+      }
+      win = win.parent;
+    }
+    if (!cmpFrame) {
+      addFrame();
+      win.__tcfapi = tcfAPIHandler;
+      win.addEventListener('message', postMessageEventHandler, false);
+    }
+  };
+
+  makeStub();
+
+  var uspStubFunction = function() {
+    var arg = arguments;
+    if (typeof window.__uspapi !== uspStubFunction) {
+      setTimeout(function() {
+        if (typeof window.__uspapi !== 'undefined') {
+          window.__uspapi.apply(window.__uspapi, arg);
+        }
+      }, 500);
+    }
+  };
+
+  var checkIfUspIsReady = function() {
+    uspTries++;
+    if (window.__uspapi === uspStubFunction && uspTries < uspTriesLimit) {
+      console.warn('USP is not accessible');
+    } else {
+      clearInterval(uspInterval);
+    }
+  };
+
+  if (typeof window.__uspapi === 'undefined') {
+    window.__uspapi = uspStubFunction;
+    var uspInterval = setInterval(checkIfUspIsReady, 6000);
+  }
+})();
+</script>
+<!-- End Quantcast Choice. Consent Manager Tag v2.0 (for TCF 2.0) -->
+</head>
+<body>
+    
+	<div id="brd-messages" class="brd"></div>
+
+	<div id="brd-wrap" class="brd">
+	<div id="brd-viewtopic" class="brd-page paged-page">
+	<div id="brd-head" class="gen-content">
+		<!-- forum_skip -->
+		<div id="brd-title"><h1><span>Czym jest szczęście? - Netkobiety.pl</span></h1><span id="brd-desc">Dołącz do Forum Kobiet Netkobiety.pl! To miejsce zostało stworzone dla pełnoletnich, aktywnych i wyjątkowych kobiet, właśnie takich jak Ty! Otrzymasz tutaj wsparcie oraz porady użytkowniczek forum! Zobacz jak wiele nas łączy ...</span></div>
+		<!-- forum_desc -->
+	</div>
+	<div id="brd-navlinks" class="gen-content">
+		<ul>
+		<li id="navindex"><a href="https://www.netkobiety.pl/">Forum Kobiet</a></li>
+		<li id="navsearch"><a href="https://www.netkobiety.pl/search.php">Szukaj</a></li>
+		<li id="navregister"><a href="https://www.netkobiety.pl/register.php">Zarejestruj się</a></li>
+		<li id="navlogin"><a href="https://www.netkobiety.pl/login.php">Logowanie</a></li>
+	</ul>
+		
+	</div>
+	<div id="brd-visit" class="gen-content">
+		<p id="welcome"><span>Szukasz <strong>darmowej porady</strong>, wsparcia ?   Nie zwlekaj <a  onclick="_gaq.push(['_trackPageview','/zarejestruj-się/menu-glowne/'+location.pathname],['_trackEvent','Rejestracja','link-wyszukiwarka']);" href="register.php"><strong> zarejestruj się </strong></a> !!! </span></p>
+		
+	</div>
+	<!-- forum_netkafejki -->
+	<!-- forum_announcement -->
+	<div class="hr"><hr /></div>
+	<div id="brd-main">
+
+	
+	<!-- /35861081/NetKobiety_ad_1 -->
+	<div id='NetKobiety_ad_1' class='w2g'>
+	
+</div>
+		<!-- forum_main_title -->
+		<div id="brd-crumbs-top" class="crumbs">
+	<p><span class="crumb crumbfirst"><a href="https://www.netkobiety.pl/">Forum Kobiet</a></span> <span class="crumb"><span> »&#160;</span><a href="https://www.netkobiety.pl/f42.html">PSYCHOLOGIA</a></span> <span class="crumb crumblast"><span> »&#160;</span>Czym jest szczęście?</span> </p>
+</div>
+		
+		<div id="brd-pagepost-top" class="main-pagepost gen-content">
+	<p class="paging"><span class="pages">Strony</span> <strong class="first-item">1</strong></p>
+	<p class="posting"><a href="https://www.netkobiety.pl/login.php">Zaloguj się</a> lub <a href="https://www.netkobiety.pl/register.php">zarejestruj</a> by napisać odpowiedź</p>
+</div>
+		<div class="main-head">
+		<h2 class="hn"><span><span class="item-info">Posty [ 11 ]</span></span></h2>
+	</div>
+	<div id="forum42" class="main-content main-topic">
+
+		<div class="post odd firstpost topicpost">
+			<div id="p3664914" class="posthead">
+				<h3 class="hn post-ident"><span class="post-num">1</span> <span class="post-byline"><span>Temat przez </span><a title="Idź do aniuu1's profilu" href="https://www.netkobiety.pl/profile.php?id=348814">aniuu1</a></span> <span class="post-link"><a class="permalink" rel="bookmark" title="Link do postu" href="https://www.netkobiety.pl/t124074.html#p3664914">2020-10-07 13:05:19</a></span> <span class="post-edit">Ostatnio edytowany przez aniuu1 (2020-10-07 13:05:32)</span></h3>
+			</div>
+			<div class="postbody">
+				<div class="post-author">
+					<ul class="author-ident">
+						<li class="username"><a title="Idź do aniuu1's profilu" href="https://www.netkobiety.pl/profile.php?id=348814">aniuu1</a></li>
+						<li class="usertitle"><span>Przyjaciółka Forum</span></li>
+						<li class="userstatus"><span>Nieaktywny</span></li>
+					</ul>
+					<ul class="author-info">
+						<li><span>Zarejestrowany: <strong>2019-01-17</strong></span></li>
+						<li><span>Posty: <strong>2,077</strong></span></li>
+					</ul>
+				</div>
+				<div class="post-entry">
+					<strong id="pc3664914" class="entry-title hn">Temat: Czym jest szczęście?</strong>
+					<div class="entry-content">
+						<p>Pytanie jak w tytule: czym jest dla was szczęście?</p>
+						
+					</div>
+<div id='NetKobiety_ad_2' class='w2g'></div>				</div>
+			</div>
+		</div>
+				
+	
+	
+			<div style="padding:10px;background:white;">	
+			Zobacz podobne tematy :
+			<div class="similar-topic-list">
+			
+						<div class="similar-topic">
+							<a href="t2325.html" title="moja praca jest nudna">
+								<img alt="img" src="/img/Baby_is_back/kariera.jpg">
+								<h5><span>Moja praca jest nudna</span></h5>
+							</a>
+						</div>
+					
+						<div class="similar-topic">
+							<a href="t4960.html" title="Czym się różnią katolicy od zielonoświątkowców?">
+								<img alt="img" src="/img/Baby_is_back/religia.jpg">
+								<h5><span>Czym się różnią katolicy od zielonoświątkowców?</span></h5>
+							</a>
+						</div>
+					
+						<div class="similar-topic">
+							<a href="t90.html" title="Biala czy ecru - jaka suknie ślubną wybrać ? Co jest najmodniejsze ?">
+								<img alt="img" src="/img/Baby_is_back/slub.jpg">
+								<h5><span>Biala czy ecru - jaka suknie ślubną wybrać ? co je &hellip;</span></h5>
+							</a>
+						</div>
+					
+						<div class="similar-topic">
+							<a href="t3198.html" title="jak to jest z alimentami">
+								<img alt="img" src="/img/Baby_is_back/prawo.jpg">
+								<h5><span>Jak to jest z alimentami</span></h5>
+							</a>
+						</div>
+					
+			</div></div>
+
+			
+	
+	
+
+	
+	
+
+		<div class="post even replypost">
+			<div id="p3664987" class="posthead">
+				<h3 class="hn post-ident"><span class="post-num">2</span> <span class="post-byline"><span>Odpowiedź przez </span><a title="Idź do Piegowata&#039;76's profilu" href="https://www.netkobiety.pl/profile.php?id=255072">Piegowata&#039;76</a></span> <span class="post-link"><a class="permalink" rel="bookmark" title="Link do postu" href="https://www.netkobiety.pl/t124074.html#p3664987">2020-10-07 14:20:40</a></span></h3>
+			</div>
+			<div class="postbody">
+				<div class="post-author">
+					<ul class="author-ident">
+						<li class="username"><a title="Idź do Piegowata&#039;76's profilu" href="https://www.netkobiety.pl/profile.php?id=255072">Piegowata&#039;76</a></li>
+						<li class="usertitle"><span>Przyjaciółka Forum</span></li>
+						<li class="useravatar"><img src="https://www.netkobiety.pl/img/avatars/255072.jpg" width="80" height="41" alt="Piegowata&#039;76" /></li>
+						<li class="userstatus"><span>Nieaktywny</span></li>
+					</ul>
+					<ul class="author-info">
+						<li><span>Zarejestrowany: <strong>2016-01-03</strong></span></li>
+						<li><span>Posty: <strong>11,863</strong></span></li>
+					</ul>
+				</div>
+				<div class="post-entry">
+					<strong id="pc3664987" class="entry-title hn">Odp: Czym jest szczęście?</strong>
+					<div class="entry-content">
+						<p>Sposobem myślenia, patrzenia na życie, odczuwania i wyborem. To ostatnie - kto wie, czy nie najważniejsze.</p>
+						
+					</div>
+				</div>
+			</div>
+		</div>
+				
+	
+	
+	
+	
+
+	
+	
+
+		<div class="post odd replypost">
+			<div id="p3665101" class="posthead">
+				<h3 class="hn post-ident"><span class="post-num">3</span> <span class="post-byline"><span>Odpowiedź przez </span><a title="Idź do Manzanita's profilu" href="https://www.netkobiety.pl/profile.php?id=249363">Manzanita</a></span> <span class="post-link"><a class="permalink" rel="bookmark" title="Link do postu" href="https://www.netkobiety.pl/t124074.html#p3665101">2020-10-07 18:27:06</a></span></h3>
+			</div>
+			<div class="postbody">
+				<div class="post-author">
+					<ul class="author-ident">
+						<li class="username"><a title="Idź do Manzanita's profilu" href="https://www.netkobiety.pl/profile.php?id=249363">Manzanita</a></li>
+						<li class="usertitle"><span>Szamanka</span></li>
+						<li class="userstatus"><span>Nieaktywny</span></li>
+					</ul>
+					<ul class="author-info">
+						<li><span>Zarejestrowany: <strong>2015-08-22</strong></span></li>
+						<li><span>Posty: <strong>280</strong></span></li>
+					</ul>
+				</div>
+				<div class="post-entry">
+					<strong id="pc3665101" class="entry-title hn">Odp: Czym jest szczęście?</strong>
+					<div class="entry-content">
+						<p>&quot;<em>Szczęście to po prostu dobre zdrowie i krótka pamięć</em>&quot;</p>
+						
+					</div>
+<div id='NetKobiety_ad_3' class='w2g'></div>				</div>
+			</div>
+		</div>
+				
+	
+	
+	
+	
+
+	
+	
+
+		<div class="post even replypost">
+			<div id="p3665105" class="posthead">
+				<h3 class="hn post-ident"><span class="post-num">4</span> <span class="post-byline"><span>Odpowiedź przez </span><a title="Idź do Istotka6's profilu" href="https://www.netkobiety.pl/profile.php?id=302209">Istotka6</a></span> <span class="post-link"><a class="permalink" rel="bookmark" title="Link do postu" href="https://www.netkobiety.pl/t124074.html#p3665105">2020-10-07 18:33:48</a></span></h3>
+			</div>
+			<div class="postbody">
+				<div class="post-author">
+					<ul class="author-ident">
+						<li class="username"><a title="Idź do Istotka6's profilu" href="https://www.netkobiety.pl/profile.php?id=302209">Istotka6</a></li>
+						<li class="usertitle"><span>Przyjaciółka Forum</span></li>
+						<li class="useravatar"><img src="https://www.netkobiety.pl/img/avatars/302209.jpg" width="80" height="80" alt="Istotka6" /></li>
+						<li class="userstatus"><span>Nieaktywny</span></li>
+					</ul>
+					<ul class="author-info">
+						<li><span>Zarejestrowany: <strong>2017-04-30</strong></span></li>
+						<li><span>Posty: <strong>2,746</strong></span></li>
+					</ul>
+				</div>
+				<div class="post-entry">
+					<strong id="pc3665105" class="entry-title hn">Odp: Czym jest szczęście?</strong>
+					<div class="entry-content">
+						<p>Cieszenie&nbsp; się z tego co mam,&nbsp; nie myśląc o tym czego nie mam.&nbsp; Szczęście&nbsp; według&nbsp; mnie jest wtedy gdy zdrowie mi i bliskim dopisuje,&nbsp; gdy nie ma różnego rodzaju dużych,&nbsp; nie do przejścia problemów.&nbsp; Gdy mam gdzie mieszkać, co jeść,&nbsp; zdrowie jest i ktoś bliski.&nbsp; Tylko tyle,&nbsp; lub aż tyle?</p>
+						
+					</div>
+				</div>
+			</div>
+		</div>
+				
+	
+	
+	
+	
+
+	
+	
+
+		<div class="post odd replypost">
+			<div id="p3665163" class="posthead">
+				<h3 class="hn post-ident"><span class="post-num">5</span> <span class="post-byline"><span>Odpowiedź przez </span><a title="Idź do Królica's profilu" href="https://www.netkobiety.pl/profile.php?id=413608">Królica</a></span> <span class="post-link"><a class="permalink" rel="bookmark" title="Link do postu" href="https://www.netkobiety.pl/t124074.html#p3665163">2020-10-07 20:20:18</a></span> <span class="post-edit">Ostatnio edytowany przez Królica (2020-10-07 20:28:36)</span></h3>
+			</div>
+			<div class="postbody">
+				<div class="post-author">
+					<ul class="author-ident">
+						<li class="username"><a title="Idź do Królica's profilu" href="https://www.netkobiety.pl/profile.php?id=413608">Królica</a></li>
+						<li class="usertitle"><span>Zbanowany</span></li>
+						<li class="userstatus"><span>Nieaktywny</span></li>
+					</ul>
+					<ul class="author-info">
+						<li><span>Zarejestrowany: <strong>2020-07-20</strong></span></li>
+						<li><span>Posty: <strong>125</strong></span></li>
+					</ul>
+				</div>
+				<div class="post-entry">
+					<strong id="pc3665163" class="entry-title hn">Odp: Czym jest szczęście?</strong>
+					<div class="entry-content">
+						<p>Zgodnoscia marzen ze stanem w jakim znajduje sie marzacy/a.</p>
+						
+					</div>
+<div id='NetKobiety_ad_4' class='w2g'></div>				</div>
+			</div>
+		</div>
+				
+	
+	
+	
+	
+
+	
+	
+
+		<div class="post even replypost">
+			<div id="p3665165" class="posthead">
+				<h3 class="hn post-ident"><span class="post-num">6</span> <span class="post-byline"><span>Odpowiedź przez </span><a title="Idź do Misinx's profilu" href="https://www.netkobiety.pl/profile.php?id=342445">Misinx</a></span> <span class="post-link"><a class="permalink" rel="bookmark" title="Link do postu" href="https://www.netkobiety.pl/t124074.html#p3665165">2020-10-07 20:22:04</a></span></h3>
+			</div>
+			<div class="postbody">
+				<div class="post-author">
+					<ul class="author-ident">
+						<li class="username"><a title="Idź do Misinx's profilu" href="https://www.netkobiety.pl/profile.php?id=342445">Misinx</a></li>
+						<li class="usertitle"><span>Net-facet</span></li>
+						<li class="useravatar"><img src="https://www.netkobiety.pl/img/avatars/342445.jpg" width="80" height="80" alt="Misinx" /></li>
+						<li class="userstatus"><span>Nieaktywny</span></li>
+					</ul>
+					<ul class="author-info">
+						<li><span>Zarejestrowany: <strong>2018-10-24</strong></span></li>
+						<li><span>Posty: <strong>6,341</strong></span></li>
+						<li class="userage"><span>Wiek: 51</span></li>
+					</ul>
+				</div>
+				<div class="post-entry">
+					<strong id="pc3665165" class="entry-title hn">Odp: Czym jest szczęście?</strong>
+					<div class="entry-content">
+						<p>Nie znam się na tym.</p>
+						
+					</div>
+				</div>
+			</div>
+		</div>
+				
+	
+	
+	
+	
+
+	
+	
+
+		<div class="post odd replypost">
+			<div id="p3665175" class="posthead">
+				<h3 class="hn post-ident"><span class="post-num">7</span> <span class="post-byline"><span>Odpowiedź przez </span><strong>adiafora</strong></span> <span class="post-link"><a class="permalink" rel="bookmark" title="Link do postu" href="https://www.netkobiety.pl/t124074.html#p3665175">2020-10-07 20:35:06</a></span></h3>
+			</div>
+			<div class="postbody">
+				<div class="post-author">
+					<ul class="author-ident">
+						<li class="username"><strong>adiafora</strong></li>
+						<li class="usertitle"><span>Gość Netkobiet</span></li>
+					</ul>
+					<ul class="author-info">
+						
+					</ul>
+				</div>
+				<div class="post-entry">
+					<strong id="pc3665175" class="entry-title hn">Odp: Czym jest szczęście?</strong>
+					<div class="entry-content">
+						<p>zdrowie swoje i tych, ktorych kocham, wolność finansowa, samoakceptacja, święty spokój <img src="https://www.netkobiety.pl/img/smilies/smile.png" width="15" height="15" alt="smile" /></p>
+						
+					</div>
+				</div>
+			</div>
+		</div>
+				
+	
+	
+	
+	
+
+	
+	
+
+		<div class="post even replypost">
+			<div id="p3665178" class="posthead">
+				<h3 class="hn post-ident"><span class="post-num">8</span> <span class="post-byline"><span>Odpowiedź przez </span><a title="Idź do Wielokropek's profilu" href="https://www.netkobiety.pl/profile.php?id=165924">Wielokropek</a></span> <span class="post-link"><a class="permalink" rel="bookmark" title="Link do postu" href="https://www.netkobiety.pl/t124074.html#p3665178">2020-10-07 20:38:10</a></span></h3>
+			</div>
+			<div class="postbody">
+				<div class="post-author">
+					<ul class="author-ident">
+						<li class="username"><a title="Idź do Wielokropek's profilu" href="https://www.netkobiety.pl/profile.php?id=165924">Wielokropek</a></li>
+						<li class="usertitle"><span>100% Netkobieta</span></li>
+						<li class="useravatar"><img src="https://www.netkobiety.pl/img/avatars/default_avatar.png" width="60" height="60" alt="Wielokropek" /></li>
+						<li class="userstatus"><span>Nieaktywny</span></li>
+					</ul>
+					<ul class="author-info">
+						<li><span>Zarejestrowany: <strong>2011-03-01</strong></span></li>
+						<li><span>Posty: <strong>26,856</strong></span></li>
+					</ul>
+				</div>
+				<div class="post-entry">
+					<strong id="pc3665178" class="entry-title hn">Odp: Czym jest szczęście?</strong>
+					<div class="entry-content">
+						<div class="quotebox"><cite>aniuu1 napisał/a:</cite><blockquote><p>(...) czym jest dla was szczęście?</p></blockquote></div><p>Obudzić się kolejnego ranka. <img src="https://www.netkobiety.pl/img/smilies/smile.png" width="15" height="15" alt="smile" /></p>
+						
+					</div>
+				</div>
+			</div>
+		</div>
+				
+	
+	
+	
+	
+
+	
+	
+
+		<div class="post odd replypost">
+			<div id="p3665185" class="posthead">
+				<h3 class="hn post-ident"><span class="post-num">9</span> <span class="post-byline"><span>Odpowiedź przez </span><a title="Idź do Gary's profilu" href="https://www.netkobiety.pl/profile.php?id=222168">Gary</a></span> <span class="post-link"><a class="permalink" rel="bookmark" title="Link do postu" href="https://www.netkobiety.pl/t124074.html#p3665185">2020-10-07 20:41:14</a></span></h3>
+			</div>
+			<div class="postbody">
+				<div class="post-author">
+					<ul class="author-ident">
+						<li class="username"><a title="Idź do Gary's profilu" href="https://www.netkobiety.pl/profile.php?id=222168">Gary</a></li>
+						<li class="usertitle"><span>Net-facet</span></li>
+						<li class="useravatar"><img src="https://www.netkobiety.pl/img/avatars/222168.jpg" width="60" height="60" alt="Gary" /></li>
+						<li class="userstatus"><span>Nieaktywny</span></li>
+					</ul>
+					<ul class="author-info">
+						<li><span>Zawód: <strong>idę spokojnie po krainie szczęśliwości z dala od zgiełku i pośpiechu</strong></span></li>
+						<li><span>Zarejestrowany: <strong>2014-01-29</strong></span></li>
+						<li><span>Posty: <strong>10,319</strong></span></li>
+						<li class="userage"><span>Wiek: 537 i tej wersji będę się trzymał</span></li>
+					</ul>
+				</div>
+				<div class="post-entry">
+					<strong id="pc3665185" class="entry-title hn">Odp: Czym jest szczęście?</strong>
+					<div class="entry-content">
+						<p>Jeśli wyobrazimy sobie, że w człowieku jest taki balon, który stanowi pojemnik na energię... </p><p>... to jeśli w tym pojemniku przybywa energii, to czujemy się, że coś nas rozpiera... czujemy się szczęśliwi... </p><p>... a jeśli z tego pojemnika odpływa energia, to też to czujemy, że się tak kurczymy, zapadamy w sobie... </p><p>Dlatego mówi się, że rozpiera nas szczęście, albo że mamy doła... <img src="https://www.netkobiety.pl/img/smilies/smile.png" width="15" height="15" alt="smile" /></p>
+						
+					</div>
+				</div>
+			</div>
+		</div>
+				
+	
+	
+	
+	
+
+	
+	
+
+		<div class="post even replypost">
+			<div id="p3665241" class="posthead">
+				<h3 class="hn post-ident"><span class="post-num">10</span> <span class="post-byline"><span>Odpowiedź przez </span><a title="Idź do Winter.Kween's profilu" href="https://www.netkobiety.pl/profile.php?id=366826">Winter.Kween</a></span> <span class="post-link"><a class="permalink" rel="bookmark" title="Link do postu" href="https://www.netkobiety.pl/t124074.html#p3665241">2020-10-07 21:37:04</a></span></h3>
+			</div>
+			<div class="postbody">
+				<div class="post-author">
+					<ul class="author-ident">
+						<li class="username"><a title="Idź do Winter.Kween's profilu" href="https://www.netkobiety.pl/profile.php?id=366826">Winter.Kween</a></li>
+						<li class="usertitle"><span>Przyjaciółka Forum</span></li>
+						<li class="useravatar"><img src="https://www.netkobiety.pl/img/avatars/366826.jpg" width="80" height="80" alt="Winter.Kween" /></li>
+						<li class="userstatus"><span>Nieaktywny</span></li>
+					</ul>
+					<ul class="author-info">
+						<li><span>Zarejestrowany: <strong>2019-08-10</strong></span></li>
+						<li><span>Posty: <strong>2,874</strong></span></li>
+						<li class="userage"><span>Wiek: 29</span></li>
+					</ul>
+				</div>
+				<div class="post-entry">
+					<strong id="pc3665241" class="entry-title hn">Odp: Czym jest szczęście?</strong>
+					<div class="entry-content">
+						<p>To zalezy od osoby. Nie ma uniwersalnej definicji szczescia.</p>
+						
+					</div>
+				</div>
+			</div>
+		</div>
+				
+	
+	
+	
+	
+
+	
+	
+
+		<div class="post odd lastpost replypost">
+			<div id="p3665410" class="posthead">
+				<h3 class="hn post-ident"><span class="post-num">11</span> <span class="post-byline"><span>Odpowiedź przez </span><a title="Idź do aniuu1's profilu" href="https://www.netkobiety.pl/profile.php?id=348814">aniuu1</a></span> <span class="post-link"><a class="permalink" rel="bookmark" title="Link do postu" href="https://www.netkobiety.pl/t124074.html#p3665410">2020-10-08 10:26:00</a></span></h3>
+			</div>
+			<div class="postbody">
+				<div class="post-author">
+					<ul class="author-ident">
+						<li class="username"><a title="Idź do aniuu1's profilu" href="https://www.netkobiety.pl/profile.php?id=348814">aniuu1</a></li>
+						<li class="usertitle"><span>Przyjaciółka Forum</span></li>
+						<li class="userstatus"><span>Nieaktywny</span></li>
+					</ul>
+					<ul class="author-info">
+						<li><span>Zarejestrowany: <strong>2019-01-17</strong></span></li>
+						<li><span>Posty: <strong>2,077</strong></span></li>
+					</ul>
+				</div>
+				<div class="post-entry">
+					<strong id="pc3665410" class="entry-title hn">Odp: Czym jest szczęście?</strong>
+					<div class="entry-content">
+						<div class="quotebox"><cite>Piegowata&#039;76 napisał/a:</cite><blockquote><p>Sposobem myślenia, patrzenia na życie, odczuwania i wyborem. To ostatnie - kto wie, czy nie najważniejsze.</p></blockquote></div><p>Podoba mi się</p>
+						
+					</div>
+				</div>
+			</div>
+		</div>
+				
+	
+	
+	
+	
+
+	
+	
+	</div>
+
+	<div class="main-foot">
+		<h2 class="hn"><span><span class="item-info">Posty [ 11 ]</span></span></h2>
+	</div>
+	
+	
+
+
+<div class="main-content main-forum forum-views" style="text-align:center;padding:10px;background:white;margin-bottom:10px;">
+	<ul style="text-align:center;">
+	 &laquo; <a href="https://www.netkobiety.pl/t124085.html" title="Tygodnik Osobisty">Tygodnik Osobisty</a>  <strong> | </strong>  <a href="https://www.netkobiety.pl/t124067.html" title="milcząca zmowa w pracy, izolacja, co robić">milcząca zmowa w pracy, izolacja, co robić</a>  &raquo;	</ul>
+</div>
+		<div id="brd-pagepost-end" class="main-pagepost gen-content">
+	<p class="paging"><span class="pages">Strony</span> <strong class="first-item">1</strong></p>
+	<p class="posting"><a href="https://www.netkobiety.pl/login.php">Zaloguj się</a> lub <a href="https://www.netkobiety.pl/register.php">zarejestruj</a> by napisać odpowiedź</p>
+</div>
+		<!-- forum_main_ads_footer -->
+		<div id="brd-crumbs-end" class="crumbs">
+	<p><span class="crumb crumbfirst"><a href="https://www.netkobiety.pl/">Forum Kobiet</a></span> <span class="crumb"><span> »&#160;</span><a href="https://www.netkobiety.pl/f42.html">PSYCHOLOGIA</a></span> <span class="crumb crumblast"><span> »&#160;</span>Czym jest szczęście?</span> </p>
+</div>
+		<div id='NetKobiety_ad_5' class='w2g'></div>	
+			<div style="padding:10px;background:white;">	
+			Zobacz popularne tematy :
+			<div class="similar-topic-list">
+			
+						<div class="similar-topic">
+							<a href="t132357.html" title="Ból serca i tęskonta">
+								<img alt="img" src="/img/Baby_is_back/rozstanie.jpg">
+							
+							<h5><span>Ból serca i tęskonta</span></h5>
+							</a>
+						</div>
+					
+						<div class="similar-topic">
+							<a href="t132355.html" title="Cieszycie sie,ze tusk bedzie rzadzil?">
+								<img alt="img" src="/img/Baby_is_back/prawo.jpg">
+							
+							<h5><span>Cieszycie sie,ze tusk bedzie rzadzil?</span></h5>
+							</a>
+						</div>
+					
+						<div class="similar-topic">
+							<a href="t132372.html" title="Wygadalam sie znajomej">
+								<img alt="img" src="/img/Baby_is_back/relacje.jpg">
+							
+							<h5><span>Wygadalam sie znajomej</span></h5>
+							</a>
+						</div>
+					
+						<div class="similar-topic">
+							<a href="t132365.html" title="Oglądacie czasem porno w internecie">
+								<img alt="img" src="/img/Baby_is_back/sex.jpg">
+							
+							<h5><span>Oglądacie czasem porno w internecie</span></h5>
+							</a>
+						</div>
+					
+			</div></div>
+		
+	
+		<!-- forum_qpost -->
+		<!-- forum_info -->
+	<div class="hr"><hr /></div>
+	<div id="brd-about">
+		
+	</div>
+	<p style="text-align: center;"><a href="http://www.netkobiety.pl/archiwum/">Mapa strony - Archiwum</a> | <a href="http://www.netkobiety.pl/regulamin.php">Regulamin</a> | <a href="http://www.netkobiety.pl/polityka-prywatnosci.php">Polityka Prywatności</a> </p><br /><br /><p style="text-align: center;">&copy; www.netkobiety.pl 2007-2023</p>
+		<!-- forum_debug -->
+	</div>
+	</div>
+	<script>if (typeof PUNBB === 'undefined' || !PUNBB) {
+		var PUNBB = {};
+	}
+
+	PUNBB.env = {
+		base_url: "https://www.netkobiety.pl/",
+		base_js_url: "https://www.netkobiety.pl/include/js/",
+		user_lang: "Polish",
+		user_style: "Oxygen",
+		user_is_guest: "1",
+		page: "viewtopic"
+	};</script>
+<script src="https://www.netkobiety.pl/style/Oxygen/responsive-nav.min.js"></script>
+<script src="https://www.netkobiety.pl/include/js/min/punbb.common.min.js"></script>
+
+	<script>
+	    var main_menu = responsiveNav("#brd-navlinks", {
+		label: "Czym jest szczęście? - Netkobiety.pl"
+	    });
+	    if(document.getElementsByClassName('admin-menu').length){
+		var admin_menu = responsiveNav(".admin-menu", {
+		    label: ""
+		});
+	    }
+	    if(document.getElementsByClassName('main-menu').length){
+		var profile_menu = responsiveNav(".main-menu", {
+		    label: ""
+		});
+	    }
+	</script>
+
+	<!-- Quantcast Tag -->
+<script type="text/javascript">
+window._qevents = window._qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+window._qevents.push({
+qacct:"p-qP0FLJj6jJCT-",
+uid:"__INSERT_EMAIL_HERE__"
+});
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-qP0FLJj6jJCT-.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+</body>
+</html>

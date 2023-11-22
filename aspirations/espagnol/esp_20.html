@@ -1,0 +1,589 @@
+
+
+
+<html>
+<head>
+
+<meta name="copyright" content="Instituto Cervantes">
+<meta name="author" content="Centro Virtual Cervantes">
+<meta name="developer" content="Centro Virtual Cervantes">
+<meta name="robots" content="INDEX, NOFOLLOW">
+<meta name="description" content="Foros moderados de debate sobre tres ejes fundamentales: el presente y futuro de la lengua española, su dispersión y variedades (Foro del español de hoy y mañana); su didáctica como lengua extranjera (Foro didáctico); su historia, su literatura y sobre la cultura expresada en el dominio lingüístico hispánico (Foro del hispanista).">
+<meta name="keywords" content="españa, español, spain, spanish, castellano, española, cultura, hispánico, hispanoamérica, iberoamérica, latinoamérica, lengua, filología, enseñanza, literatura, lingüística, foros, forum, historia, arte, bibliografía, hispanista, traductor, maestro, profesor, debate, terminología, gramática, traducción, ortografía, léxico, anglicismos, barbarismos, spanglish, didáctica, docencia, extranjeros, aula, materiales, metodología">
+<meta name="lang" content="es-es">
+<meta name="lm-id" content="spain">
+<meta name="date" content="Marzo 2000">
+<meta name="version" content="1.00">
+<meta name="generator" content="Microsoft Visual InterDev 1.0">
+
+
+	<script language="JavaScript">
+		<!--
+			//top.location.href = "default.htm"
+		//-->
+	</script>
+	
+<script language="JavaScript">
+<!--
+var p1=null;
+var p2=null;
+var p3=null;
+var p4=null;
+
+function vincular(p)
+	{
+		location=direccion[p];
+	};
+
+var direccion = new Array(4);
+direccion[0]="foro_tic/";
+direccion[1]="foro_esp/";
+direccion[2]="foro_did/";
+direccion[3]="foro_his/";
+
+imagen = new Array(8);
+	{
+		imagen[1]= new Image (53,21);
+		imagen[1].src="./imagenes/foro_tic_b.gif";
+		imagen[2]= new Image (53,21);
+		imagen[2].src="./imagenes/foro_tic_n.gif";
+		imagen[3]= new Image (100,21);
+		imagen[3].src="./imagenes/foro_esp_b.gif";
+		imagen[4]= new Image (100,21);
+		imagen[4].src="./imagenes/foro_esp_n.gif";
+		imagen[5]= new Image (85,21);
+		imagen[5].src="./imagenes/foro_didactico_b.gif";
+		imagen[6]= new Image (85,21);
+		imagen[6].src="./imagenes/foro_didactico_n.gif";
+		imagen[7]= new Image (112,21);
+		imagen[7].src="./imagenes/foro_hispa_b.gif";
+		imagen[8]= new Image (112,21);
+		imagen[8].src="./imagenes/foro_hispa_n.gif";
+
+	}
+
+function cambiar(loc,img)
+	{
+		defaultStatus=(" ");
+		loc.src=imagen[img].src;
+	}
+// -->
+</script>
+
+<script language="JavaScript">
+<!--
+
+function enviar() {
+
+	var ok = 0;
+
+	if (document.form_enviar.titulo.value == "") {
+		alert("Debe escribir el título, por favor.");
+		ok = 1;
+	}
+
+	if ( ok == 0 ) {
+		if (document.form_enviar.nombre.value == "") {
+			alert("Debe escribir su nombre, por favor.");
+			ok = 1;
+		}
+	}
+
+	if ( ok == 0 ) {
+		if (document.form_enviar.apellidos.value == "") {
+			alert("Debe escribir sus apellidos, por favor.");
+			ok = 1;
+		}
+	}
+
+	if ( ok == 0 ) {
+		if (document.form_enviar.email.value == "") {
+			alert("Debe escribir su dirección de correo electrónico, por favor.");
+			ok = 1;
+		}
+	}
+
+	if ( ok == 0 ) {
+		if (document.form_enviar.email.value.indexOf('@',0) == -1) {
+			alert("Debe introducir una dirección de correo electrónico correcta, por favor.");
+			ok = 1;
+		}
+	}
+
+	if ( ok == 0 ) {
+		if (document.form_enviar.texto.value == "") {
+			alert("Debe escribir el texto del mensaje, por favor.");
+			ok = 1;
+		}
+	}
+
+	if (ok == 0) {
+		var vvNivel;
+		vvNivel = document.form_enviar.vNivel.value;
+		if (vvNivel == "11") {
+			alert("No se admiten más subniveles de respuesta. Por favor, conteste al mensaje anterior en la escala.");
+			return;
+		}
+		else {
+			document.form_enviar.submit();
+		}
+	}
+}
+//function leer(vvId) {
+	//	document.Form_leer.vId.value = vvId;
+	//	document.Form_leer.submit();
+//	}
+	function leer(vvId) {
+	enlace="leer1.asp?vId=" + vvId
+	window.location=enlace
+	}
+	function responder() {
+
+	}
+
+
+	function leer_original(vvId) {
+		document.Form_leer_original.vId.value = vvId;
+		document.Form_leer_original.submit();
+	}
+
+
+	function ir_mensaje(pagina) {
+		if (pagina == "primero") {
+			document.Form_ir_mensaje.Leer_PagingMove.value = "Primero";
+		}
+		else if (pagina == "anterior") {
+			document.Form_ir_mensaje.Leer_PagingMove.value = "Anterior";
+		}
+		else if (pagina == "siguiente") {
+			document.Form_ir_mensaje.Leer_PagingMove.value = "Siguiente";
+		}
+		else {
+			document.Form_ir_mensaje.Leer_PagingMove.value = "Ultimo";
+		}
+		document.Form_ir_mensaje.submit();
+	}
+
+
+	function mensajes() {
+		document.Form_mensajes.submit();
+	}
+
+	function nuevo() {
+		document.Form_nuevo.submit();
+	}
+
+	function buscar() {
+		document.Form_buscar.submit();
+	}
+
+//-->
+</script>
+
+
+<script language="JavaScript">
+<!--
+function cerrar() {
+     self.close()
+}
+
+// -->
+</script>
+
+<script language="JavaScript">
+<!--
+function cerrar() {
+     self.close()
+}
+function ampliar_01() {
+	ven = open("leer.htm","01_default","width=438,height=400,status=no,toolbar=no,menubar=no,scrollbars=yes");
+}
+
+// -->
+</script>
+
+<meta name="GENERATOR" content="Microsoft FrontPage 3.0">
+<title>CVC. Foros</title>
+<SCRIPT language="JavaScript">
+	function fecha(){
+		d=new Date();
+		f = d.getFullYear();
+		return f;
+	}
+</SCRIPT>
+</HEAD>
+
+<form name="Form_leer_original" action="leer.asp" target method="POST">
+	<input type="hidden" name="vId">
+	<input type="hidden" name="vForo" value="">
+	<input type="hidden" name="vOrden" value="">
+	<input type="hidden" name="vCodigo" value="33583">
+</form>
+
+<form name="Form_leer" action="leer.asp" target method="POST">
+	<input type="hidden" name="vId">
+	<input type="hidden" name="vForo" value="">
+	<input type="hidden" name="vOrden" value="">
+</form>
+
+
+<form name="Form_ir_mensaje" action="leer.asp" method="POST">
+	<input type="hidden" name="Leer_PagingMove" value>
+	<input type="hidden" name="vForo" value="">
+	<input type="hidden" name="vOrden" value="">
+	<input type="hidden" name="vCodigo" value="33583">
+</form>
+
+<form name="Form_nuevo" action="nuevo.asp" target method="POST">
+	<input type="hidden" name="vForo" value="">
+	<input type="hidden" name="vOrden" value="">
+</form>
+
+<form name="Form_mensajes" action="default.asp" target method="POST">
+	<input type="hidden" name="vForo" value="">
+	<input type="hidden" name="vOrden" value="">
+</form>
+
+<form name="Form_buscar" action="buscar.asp" target method="POST">
+	<input type="hidden" name="vForo" value="">
+	<input type="hidden" name="vOrden" value="">
+</form>
+
+
+
+<body text="#000000" bgcolor="#FFFFFF" link="#FF0000" vlink="#800000" alink="#FF0000">
+
+<table border="0" width="583" cellpadding="0" cellspacing="0" bgcolor="#FF0000">
+  <tr>
+    <td colspan="4" width="260"><a name="Arriba"></a></td>
+  </tr>
+  <tr>    
+    <td width="270" colspan="2"><a href="/portada.htm" BORDER="0"><img src="../imagenes/barra/barra_centro_virtual.gif" alt="Centro Virtual Cervantes" BORDER="0" WIDTH="250" HEIGHT="34"></a></td>
+    <td width="313" align="right" valign="bottom" colspan="2">&nbsp;<a name="Arriba"></a></td>
+  </tr>
+  <tr>
+    <td width="270" colspan="2">
+	
+	<img src="./imagenes/barra_18_archivo_did.gif" alt="Foro didáctico" WIDTH="267" HEIGHT="22"></td>
+	
+    <td width="313" align="right" colspan="2"><img src="../../imagenes/iconos/espaciador.gif" alt="espaciador.gif (43 bytes)" WIDTH="1" HEIGHT="1"></td>
+  </tr>
+  <tr>
+
+	    <td width="146" bgcolor="#DD0000" valign="top" align="center"><a href="javascript:vincular(1)" onMouseOver="cambiar(p2,4);return true" onMouseOut="cambiar(p2,3);return true"><img src="./imagenes/foro_esp_b.gif" name="p2" alt="Foro del español" border="0" WIDTH="100" HEIGHT="21"></a></td>
+
+
+    <td width="156" bgcolor="#DD0000" valign="top" align="center"><a href="javascript:vincular(2)" onMouseOver="cambiar(p3,6);return true" onMouseOut="cambiar(p3,5);return true"><img src="./imagenes/foro_didactico_b.gif" name="p3" alt="Foro didáctico" border="0" WIDTH="85" HEIGHT="21"></a></td>
+
+    <td width="153" bgcolor="#DD0000" valign="top" align="center"><a href="javascript:vincular(3)" onMouseOver="cambiar(p4,8);return true" onMouseOut="cambiar(p4,7);return true"><img src="./imagenes/foro_hispa_b.gif" name="p4" alt="Foro del hispanista" border="0" WIDTH="112" HEIGHT="21"></a></td>
+
+
+    <td width="128" bgcolor="#DD0000" valign="top" align="center"><font color="#FFFFFF">&nbsp;</font><a href="javascript:vincular(0)" onMouseOver="cambiar(p1,2);return true" onMouseOut="cambiar(p1,1);return true"><img src="./imagenes/foro_tic_b.gif" name="p1" alt="Foro TIC" border="0" WIDTH="53" HEIGHT="21"></a></td>
+
+  </tr>
+</table>
+
+<table border="0" cellpadding="0" cellspacing="0" width="583">
+  <tr>
+    <td width="15" bgcolor="#DD0000"><img src="../../imagenes/iconos/espaciador.gif" width="15" height="1" alt="espaciador.gif (43 bytes)"></td>
+    <td width="27"></td>
+    <td width="541">
+<table border="0" cellpadding="0" width="541" cellspacing="0">
+  <tr>
+    <td width="1%" valign="top"><br>
+    <br>
+    </td>
+    <td width="99%" valign="top"><br>
+    <b><font face="Times New Roman" size="3">Asunto:</font>
+    <font face="Times New Roman" size="4"><font color="#ff0000">Estoy feliz (de) que estés aquí<br>
+	</font></b><font face="Times New Roman" size="2">La dirección de este hilo es: http://cvc.cervantes.es/foros/leer_asunto1.asp?vCodigo=33583</font>
+    </font></td>
+  </tr>
+
+
+ 
+	<tr>
+    <td width="1%" valign="top"></td>
+    <td width="99%" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+            <td width="100%" colspan="11"><br>
+            </td>
+          </tr>
+            <td width="100%" colspan="11"><font face="Times New Roman"></font><b><font size="3" color="#ff0000" face="Times New Roman"> </font><font face="Times New Roman" size="3" color="#F99500">
+           </b> </font></td>
+		</tr><tr>
+
+	
+		<td valign="TOP" colspan="11">	<font face="Times New Roman" size="3">
+			<b><a href="#129474">129474</b>.</a>
+
+			</font>
+			<font face="Times New Roman" size="2">
+			<b>Neil Parker</b>
+
+		</td>
+
+
+
+          </tr>
+
+
+		<td valign="TOP" width="3%">&nbsp;</td>
+		
+		<td valign="TOP" colspan="10">	<font face="Times New Roman" size="3">
+			<b><a href="#129493">129493</b>.</a>
+
+			</font>
+			<font face="Times New Roman" size="2">
+			<b>Sebastián Santoyo García</b>
+
+		</td>
+
+
+
+          </tr>
+
+
+		<td valign="TOP" width="3%">&nbsp;</td>
+		
+		<td valign="TOP" colspan="10">	<font face="Times New Roman" size="3">
+			<b><a href="#129704">129704</b>.</a>
+
+			</font>
+			<font face="Times New Roman" size="2">
+			<b>Seiji Atarashi</b>
+
+		</td>
+
+
+
+          </tr>
+
+
+</table>
+   </td>
+</tr>
+  <tr>
+    <td width="1%" valign="top"></td>
+    <td width="99%" valign="top">&nbsp;<p></td>
+  </tr>
+
+<tr>
+    <td width="5%" valign="middle"><a href="#Arriba"><img src="/imagenes/iconos/flecha8x8.gif" border="0" WIDTH="8" HEIGHT="8"></a></td>
+    <td width="95%" valign="top"><table border="0" cellspacing="1" width="60%">
+
+      <tr>
+        <td width="50%" bgcolor="#FFF1DD"><font size="3" color="#FF0000" face="Times New Roman"><b><a name="129474">129474.</a></b></font></td>
+        <td width="50%" bgcolor="#FFF1DD"><font face="Times New Roman"></font></a></td>
+      </tr>
+    </table>
+    </td>
+  </tr>
+  <tr>
+    <td width="1%" valign="top"></td>
+    <td width="99%" valign="top"><font face="Times New Roman"><b><font color="#000000">Autor: </font></b>Neil Parker </font></td>
+  </tr>
+<tr>
+    <td width="1%" valign="top"></td>
+    <td width="99%" valign="top"><font face="Times New Roman"><b><font color="#000000">Título: </font></b>Estoy feliz (de) que estés aquí </font></td>
+  </tr>
+  <tr>
+    <td width="1%" valign="top"></td>
+    <td width="99%" valign="top"><font face="Times New Roman"><b><font color="#000000">Fecha y hora: </font></b>
+   
+	lunes,&nbsp;12 de mayo de 2008, 09:47 h</font></td>
+  
+  </tr>
+  <tr>
+    <td width="1%" valign="top"></td>
+    <td width="99%" valign="top"><font face="Times New Roman"><br>
+<div style="display:none">edf40wrjww2foros:texto</div><div style="display:none">fiogf49gjkf0d</div><br>
+<br>
+Me gustaria saber si se dice: soy feliz que estes aqui o soy feliz de que estes aqui.<br>
+<br>
+Tambien - come se ve arriba, necesito encontrar los acentos en mi ordenador - donde estan?
+</font><br></td>
+  </tr>
+<tr>
+    <td width="1%" valign="top" height="21"></td>
+    <td width="99%" valign="top" height="21"><br>
+
+    </td>
+</tr>
+
+<tr>
+    <td width="5%" valign="middle"><a href="#Arriba"><img src="/imagenes/iconos/flecha8x8.gif" border="0" WIDTH="8" HEIGHT="8"></a></td>
+    <td width="95%" valign="top"><table border="0" cellspacing="1" width="60%">
+
+      <tr>
+        <td width="50%" bgcolor="#FFF1DD"><font size="3" color="#FF0000" face="Times New Roman"><b><a name="129493">129493.</a></b></font></td>
+        <td width="50%" bgcolor="#FFF1DD"><font face="Times New Roman"></font></a></td>
+      </tr>
+    </table>
+    </td>
+  </tr>
+  <tr>
+    <td width="1%" valign="top"></td>
+    <td width="99%" valign="top"><font face="Times New Roman"><b><font color="#000000">Autor: </font></b>Sebastián Santoyo García </font></td>
+  </tr>
+<tr>
+    <td width="1%" valign="top"></td>
+    <td width="99%" valign="top"><font face="Times New Roman"><b><font color="#000000">Título: </font></b>Componer caracteres </font></td>
+  </tr>
+  <tr>
+    <td width="1%" valign="top"></td>
+    <td width="99%" valign="top"><font face="Times New Roman"><b><font color="#000000">Fecha y hora: </font></b>
+   
+	lunes,&nbsp;12 de mayo de 2008, 12:40 h</font></td>
+  
+  </tr>
+  <tr>
+    <td width="1%" valign="top"></td>
+    <td width="99%" valign="top"><font face="Times New Roman"><br>
+<div style="display:none">edf40wrjww2foros:texto</div><div style="display:none">fiogf49gjkf0d</div>Composición de caracteres.<br>
+<br>
+Alt + 0193 &#8594; Á <br>
+Alt + 0201/144 &#8594; É <br>
+Alt + 0205 &#8594; Í <br>
+Alt + 0211 &#8594; Ó <br>
+Alt + 0218 &#8594; Ú <br>
+Alt + 0220/154 &#8594; Ü <br>
+Alt + 0209/165 &#8594; Ñ <br>
+Alt + 0225/ 160 &#8594; á <br>
+Alt + 0233/130 &#8594; é <br>
+Alt + 0237/161 &#8594; í <br>
+Alt + 0243/162 &#8594; ó <br>
+Alt + 0250/163 &#8594; ú <br>
+Alt + 0252/129 &#8594; ü <br>
+Alt + 0241/164 &#8594; ñ <br>
+Alt + 0191/168 &#8594; ¿ <br>
+Alt + 0161/173 &#8594; ¡ <br>
+Alt + 0128 &#8594; €<br>
+Alt + 126 &#8594; ~<br>
+<br>
+<br>
+Hola, <br>
+Yo escribiría:<br>
+ Estoy contento de que estés aquí.<br>
+<br>
+Con feliz diría:<br>
+<br>
+ Me siento feliz de que estés aquí.<br>
+<br>
+ Un saludo,<br>
+Sebastián<br>
+<br>
+
+</font><br></td>
+  </tr>
+<tr>
+    <td width="1%" valign="top" height="21"></td>
+    <td width="99%" valign="top" height="21"><br>
+
+    </td>
+</tr>
+
+<tr>
+    <td width="5%" valign="middle"><a href="#Arriba"><img src="/imagenes/iconos/flecha8x8.gif" border="0" WIDTH="8" HEIGHT="8"></a></td>
+    <td width="95%" valign="top"><table border="0" cellspacing="1" width="60%">
+
+      <tr>
+        <td width="50%" bgcolor="#FFF1DD"><font size="3" color="#FF0000" face="Times New Roman"><b><a name="129704">129704.</a></b></font></td>
+        <td width="50%" bgcolor="#FFF1DD"><font face="Times New Roman"></font></a></td>
+      </tr>
+    </table>
+    </td>
+  </tr>
+  <tr>
+    <td width="1%" valign="top"></td>
+    <td width="99%" valign="top"><font face="Times New Roman"><b><font color="#000000">Autor: </font></b>Seiji Atarashi </font></td>
+  </tr>
+<tr>
+    <td width="1%" valign="top"></td>
+    <td width="99%" valign="top"><font face="Times New Roman"><b><font color="#000000">Título: </font></b>¿Ser feliz o estar feliz? </font></td>
+  </tr>
+  <tr>
+    <td width="1%" valign="top"></td>
+    <td width="99%" valign="top"><font face="Times New Roman"><b><font color="#000000">Fecha y hora: </font></b>
+   
+	miércoles,&nbsp;21 de mayo de 2008, 13:52 h</font></td>
+  
+  </tr>
+  <tr>
+    <td width="1%" valign="top"></td>
+    <td width="99%" valign="top"><font face="Times New Roman"><br>
+<div style="display:none">edf40wrjww2foros:texto</div><div style="display:none">fiogf49gjkf0d</div>Hola Neil:<br>
+<br>
+Doña María Moliner, autora del <i>Diccionario de uso del español</i>, escribe así en la entrada «estar»: <br>
+<br>
+[...] en el caso de «clarividente, desleal, <b>feliz</b>» se pueden construir con «ser» aunque se apliquen a un comportamiento o actitud ocasionales. [...]<br>
+<br>
+La negrita es mía.<br>
+<br>
+Y en la entrada «feliz» pone el siguiente ejemplo: ‘Es feliz cuando puede molestar a alguien’. <br>
+<br>
+Me parece que en España suelen decir «Soy feliz» aunque se trate de una felicidad ocasional, y en Latinoamérica suelen usar «estar feliz» si se trata de una felicidad ocasional. <br>
+<br>
+Según fuentes fidedignas —me refiero a <i>CORDE</i> y <i>CREA</i>—,la expresión «Soy feliz de + infinitivo» o «Soy feliz de que + subjuntivo» no es común ni en España ni en Latinoamérica mientras que la expresión «Estoy feliz de + infinitivo» o «Estoy feliz de que + subjuntivo» es común en Latinoamérica. La prueba de ello es que García Márquez la usa en su obra <i>Vivir para contarla</i>;<br>
+<br>
+- Bueno, niño, <u>estoy feliz de haberte visto</u> -dijo. Y concluyó-: Ya no aguantaba más haberte leído tanto sin saber cómo eres.<br>
+<br>
+- ¿Y cómo soy? -me atreví a preguntar.<br>
+<br>
+- ¡Ah, no! -rió ella con toda el alma-, eso no lo sabrás nunca. <br>
+<br>
+El subrayado es mío.<br>
+<br>
+Así, la frase que pusiste en el título, «Estoy feliz de que estés aquí», es correcta, sólo que un español como Sebastián,  y yo, que aprendí español prácticamente en España, evitamos decir «Estoy feliz», y preferimos decir «Estoy contento» o «Me siento feliz». <br>
+<br>
+Saludos cordiales desde Tokio,<br>
+<br>
+Seiji<br>
+<br>
+P.D. Si tienes un teclado que no sea español —yo tengo un teclado japonés, pero puedo escribir las tildes sin ningún problema—, te recomiendo que sigas, <b>despacio y con cuidado</b>, las instrucciones que da la página siguiente en la parte que dice: «Como añadir el teclado del idioma castellano».<br>
+<br>
+<a href="http://www.cubagenweb.org/e-char.htm" target="_blank">www.cubagenweb.org/e-char.htm</a> <br>
+
+</font><br></td>
+  </tr>
+<tr>
+    <td width="1%" valign="top" height="21"></td>
+    <td width="99%" valign="top" height="21"><br>
+
+    </td>
+</tr>
+
+  <tr>
+    <td width="1%" valign="top" height="21"></td>
+    <td width="99%" valign="top" height="21"><br>
+    <hr noshade size="1" color="#FBCE7F">
+    </td>
+  </tr>
+  <tr>
+    <td width="1%" valign="top" height="131"></td>
+    <td width="99%" valign="top" align="center" height="131"><a href="leer_asunto1.asp?vCodigo=33583#Arriba"><font face="Times New Roman"><img src="../../imagenes/iconos/flecha.gif" alt="Subir" border="0" WIDTH="45" HEIGHT="45"></font></a>
+<p align="center"><font face="Times New Roman" size="2"><strong>| <a href="../portada.htm" target="_top">Portada del CVC</a> | <br>
+| <a href="../obref/" target="_top">Obras de referencia</a> | <a href="../actcult/" target="_top">Actos culturales</a> | <a target="_top" href="../foros/">Foros</a> | <a target="_top" href="../aula/">Aula de lengua</a> | <a target="_top" href="../oteador/default.asp">Oteador</a> |<br>
+| <a target="_top" href="../el_rinconete/">Rinconete</a> | <a target="_top" href="../aula/rayuela/">Rayuela</a> | <a target="_top" href="../trujaman/">El
+trujamán</a> | <a target="_top" href="../aula/didactired/">DidactiRed</a> |</strong></font></p>
+
+<p align="center"><strong><font face="Times New Roman" size="2">| <a href="../comentarios/" target="_top">Enviar comentarios</a> |</font></strong></p>
+
+<p align="center"><font size="2" face="Times New Roman" color="#000000"><strong>Centro
+Virtual Cervantes<br>
+
+</strong>© Instituto Cervantes (España), 1997-<SCRIPT>document.write(fecha());</SCRIPT>. Reservados todos los derechos.</font></p>
+</td>
+  </tr>
+  <tr>
+    <td width="1%" valign="top" height="35"></td>
+    <td width="99%" valign="top" height="35"></td>
+  </tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table>
+</table>
+</body>
+</html>

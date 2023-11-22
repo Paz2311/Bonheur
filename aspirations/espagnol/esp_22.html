@@ -1,0 +1,611 @@
+
+
+
+<html>
+<head>
+
+<meta name="copyright" content="Instituto Cervantes">
+<meta name="author" content="Centro Virtual Cervantes">
+<meta name="developer" content="Centro Virtual Cervantes">
+<meta name="robots" content="INDEX, NOFOLLOW">
+<meta name="description" content="Foros moderados de debate sobre tres ejes fundamentales: el presente y futuro de la lengua española, su dispersión y variedades (Foro del español de hoy y mañana); su didáctica como lengua extranjera (Foro didáctico); su historia, su literatura y sobre la cultura expresada en el dominio lingüístico hispánico (Foro del hispanista).">
+<meta name="keywords" content="españa, español, spain, spanish, castellano, española, cultura, hispánico, hispanoamérica, iberoamérica, latinoamérica, lengua, filología, enseñanza, literatura, lingüística, foros, forum, historia, arte, bibliografía, hispanista, traductor, maestro, profesor, debate, terminología, gramática, traducción, ortografía, léxico, anglicismos, barbarismos, spanglish, didáctica, docencia, extranjeros, aula, materiales, metodología">
+<meta name="lang" content="es-es">
+<meta name="lm-id" content="spain">
+<meta name="date" content="Marzo 2000">
+<meta name="version" content="1.00">
+<meta name="generator" content="Microsoft Visual InterDev 1.0">
+
+
+	<script language="JavaScript">
+		<!--
+			//top.location.href = "default.htm"
+		//-->
+	</script>
+	
+<script language="JavaScript">
+<!--
+var p1=null;
+var p2=null;
+var p3=null;
+var p4=null;
+
+function vincular(p)
+	{
+		location=direccion[p];
+	};
+
+var direccion = new Array(4);
+direccion[0]="foro_tic/";
+direccion[1]="foro_esp/";
+direccion[2]="foro_did/";
+direccion[3]="foro_his/";
+
+imagen = new Array(8);
+	{
+		imagen[1]= new Image (53,21);
+		imagen[1].src="./imagenes/foro_tic_b.gif";
+		imagen[2]= new Image (53,21);
+		imagen[2].src="./imagenes/foro_tic_n.gif";
+		imagen[3]= new Image (100,21);
+		imagen[3].src="./imagenes/foro_esp_b.gif";
+		imagen[4]= new Image (100,21);
+		imagen[4].src="./imagenes/foro_esp_n.gif";
+		imagen[5]= new Image (85,21);
+		imagen[5].src="./imagenes/foro_didactico_b.gif";
+		imagen[6]= new Image (85,21);
+		imagen[6].src="./imagenes/foro_didactico_n.gif";
+		imagen[7]= new Image (112,21);
+		imagen[7].src="./imagenes/foro_hispa_b.gif";
+		imagen[8]= new Image (112,21);
+		imagen[8].src="./imagenes/foro_hispa_n.gif";
+
+	}
+
+function cambiar(loc,img)
+	{
+		defaultStatus=(" ");
+		loc.src=imagen[img].src;
+	}
+// -->
+</script>
+
+<script language="JavaScript">
+<!--
+
+function enviar() {
+
+	var ok = 0;
+
+	if (document.form_enviar.titulo.value == "") {
+		alert("Debe escribir el título, por favor.");
+		ok = 1;
+	}
+
+	if ( ok == 0 ) {
+		if (document.form_enviar.nombre.value == "") {
+			alert("Debe escribir su nombre, por favor.");
+			ok = 1;
+		}
+	}
+
+	if ( ok == 0 ) {
+		if (document.form_enviar.apellidos.value == "") {
+			alert("Debe escribir sus apellidos, por favor.");
+			ok = 1;
+		}
+	}
+
+	if ( ok == 0 ) {
+		if (document.form_enviar.email.value == "") {
+			alert("Debe escribir su dirección de correo electrónico, por favor.");
+			ok = 1;
+		}
+	}
+
+	if ( ok == 0 ) {
+		if (document.form_enviar.email.value.indexOf('@',0) == -1) {
+			alert("Debe introducir una dirección de correo electrónico correcta, por favor.");
+			ok = 1;
+		}
+	}
+
+	if ( ok == 0 ) {
+		if (document.form_enviar.texto.value == "") {
+			alert("Debe escribir el texto del mensaje, por favor.");
+			ok = 1;
+		}
+	}
+
+	if (ok == 0) {
+		var vvNivel;
+		vvNivel = document.form_enviar.vNivel.value;
+		if (vvNivel == "11") {
+			alert("No se admiten más subniveles de respuesta. Por favor, conteste al mensaje anterior en la escala.");
+			return;
+		}
+		else {
+			document.form_enviar.submit();
+		}
+	}
+}
+//function leer(vvId) {
+	//	document.Form_leer.vId.value = vvId;
+	//	document.Form_leer.submit();
+//	}
+	function leer(vvId) {
+	enlace="leer1.asp?vId=" + vvId
+	window.location=enlace
+	}
+	function responder() {
+
+	}
+
+
+	function leer_original(vvId) {
+		document.Form_leer_original.vId.value = vvId;
+		document.Form_leer_original.submit();
+	}
+
+
+	function ir_mensaje(pagina) {
+		if (pagina == "primero") {
+			document.Form_ir_mensaje.Leer_PagingMove.value = "Primero";
+		}
+		else if (pagina == "anterior") {
+			document.Form_ir_mensaje.Leer_PagingMove.value = "Anterior";
+		}
+		else if (pagina == "siguiente") {
+			document.Form_ir_mensaje.Leer_PagingMove.value = "Siguiente";
+		}
+		else {
+			document.Form_ir_mensaje.Leer_PagingMove.value = "Ultimo";
+		}
+		document.Form_ir_mensaje.submit();
+	}
+
+
+	function mensajes() {
+		document.Form_mensajes.submit();
+	}
+
+	function nuevo() {
+		document.Form_nuevo.submit();
+	}
+
+	function buscar() {
+		document.Form_buscar.submit();
+	}
+
+//-->
+</script>
+
+
+<script language="JavaScript">
+<!--
+function cerrar() {
+     self.close()
+}
+
+// -->
+</script>
+
+<script language="JavaScript">
+<!--
+function cerrar() {
+     self.close()
+}
+function ampliar_01() {
+	ven = open("leer.htm","01_default","width=438,height=400,status=no,toolbar=no,menubar=no,scrollbars=yes");
+}
+
+// -->
+</script>
+
+<meta name="GENERATOR" content="Microsoft FrontPage 3.0">
+<title>CVC. Foros</title>
+<SCRIPT language="JavaScript">
+	function fecha(){
+		d=new Date();
+		f = d.getFullYear();
+		return f;
+	}
+</SCRIPT>
+</HEAD>
+
+<form name="Form_leer_original" action="leer.asp" target method="POST">
+	<input type="hidden" name="vId">
+	<input type="hidden" name="vForo" value="">
+	<input type="hidden" name="vOrden" value="">
+	<input type="hidden" name="vCodigo" value="39251">
+</form>
+
+<form name="Form_leer" action="leer.asp" target method="POST">
+	<input type="hidden" name="vId">
+	<input type="hidden" name="vForo" value="">
+	<input type="hidden" name="vOrden" value="">
+</form>
+
+
+<form name="Form_ir_mensaje" action="leer.asp" method="POST">
+	<input type="hidden" name="Leer_PagingMove" value>
+	<input type="hidden" name="vForo" value="">
+	<input type="hidden" name="vOrden" value="">
+	<input type="hidden" name="vCodigo" value="39251">
+</form>
+
+<form name="Form_nuevo" action="nuevo.asp" target method="POST">
+	<input type="hidden" name="vForo" value="">
+	<input type="hidden" name="vOrden" value="">
+</form>
+
+<form name="Form_mensajes" action="default.asp" target method="POST">
+	<input type="hidden" name="vForo" value="">
+	<input type="hidden" name="vOrden" value="">
+</form>
+
+<form name="Form_buscar" action="buscar.asp" target method="POST">
+	<input type="hidden" name="vForo" value="">
+	<input type="hidden" name="vOrden" value="">
+</form>
+
+
+
+<body text="#000000" bgcolor="#FFFFFF" link="#FF0000" vlink="#800000" alink="#FF0000">
+
+<table border="0" width="583" cellpadding="0" cellspacing="0" bgcolor="#FF0000">
+  <tr>
+    <td colspan="4" width="260"><a name="Arriba"></a></td>
+  </tr>
+  <tr>    
+    <td width="270" colspan="2"><a href="/portada.htm" BORDER="0"><img src="../imagenes/barra/barra_centro_virtual.gif" alt="Centro Virtual Cervantes" BORDER="0" WIDTH="250" HEIGHT="34"></a></td>
+    <td width="313" align="right" valign="bottom" colspan="2">&nbsp;<a name="Arriba"></a></td>
+  </tr>
+  <tr>
+    <td width="270" colspan="2">
+	
+	<img src="./imagenes/barra_18_archivo_esp.gif" alt="Foro del español" WIDTH="284" HEIGHT="22"></td>
+	
+    <td width="313" align="right" colspan="2"><img src="../../imagenes/iconos/espaciador.gif" alt="espaciador.gif (43 bytes)" WIDTH="1" HEIGHT="1"></td>
+  </tr>
+  <tr>
+
+	    <td width="146" bgcolor="#DD0000" valign="top" align="center"><a href="javascript:vincular(1)" onMouseOver="cambiar(p2,4);return true" onMouseOut="cambiar(p2,3);return true"><img src="./imagenes/foro_esp_b.gif" name="p2" alt="Foro del español" border="0" WIDTH="100" HEIGHT="21"></a></td>
+
+
+    <td width="156" bgcolor="#DD0000" valign="top" align="center"><a href="javascript:vincular(2)" onMouseOver="cambiar(p3,6);return true" onMouseOut="cambiar(p3,5);return true"><img src="./imagenes/foro_didactico_b.gif" name="p3" alt="Foro didáctico" border="0" WIDTH="85" HEIGHT="21"></a></td>
+
+    <td width="153" bgcolor="#DD0000" valign="top" align="center"><a href="javascript:vincular(3)" onMouseOver="cambiar(p4,8);return true" onMouseOut="cambiar(p4,7);return true"><img src="./imagenes/foro_hispa_b.gif" name="p4" alt="Foro del hispanista" border="0" WIDTH="112" HEIGHT="21"></a></td>
+
+
+    <td width="128" bgcolor="#DD0000" valign="top" align="center"><font color="#FFFFFF">&nbsp;</font><a href="javascript:vincular(0)" onMouseOver="cambiar(p1,2);return true" onMouseOut="cambiar(p1,1);return true"><img src="./imagenes/foro_tic_b.gif" name="p1" alt="Foro TIC" border="0" WIDTH="53" HEIGHT="21"></a></td>
+
+  </tr>
+</table>
+
+<table border="0" cellpadding="0" cellspacing="0" width="583">
+  <tr>
+    <td width="15" bgcolor="#DD0000"><img src="../../imagenes/iconos/espaciador.gif" width="15" height="1" alt="espaciador.gif (43 bytes)"></td>
+    <td width="27"></td>
+    <td width="541">
+<table border="0" cellpadding="0" width="541" cellspacing="0">
+  <tr>
+    <td width="1%" valign="top"><br>
+    <br>
+    </td>
+    <td width="99%" valign="top"><br>
+    <b><font face="Times New Roman" size="3">Asunto:</font>
+    <font face="Times New Roman" size="4"><font color="#ff0000">Significado de «felicidad colectiva»<br>
+	</font></b><font face="Times New Roman" size="2">La dirección de este hilo es: http://cvc.cervantes.es/foros/leer_asunto1.asp?vCodigo=39251</font>
+    </font></td>
+  </tr>
+
+
+ 
+	<tr>
+    <td width="1%" valign="top"></td>
+    <td width="99%" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+            <td width="100%" colspan="11"><br>
+            </td>
+          </tr>
+            <td width="100%" colspan="11"><font face="Times New Roman"></font><b><font size="3" color="#ff0000" face="Times New Roman"> </font><font face="Times New Roman" size="3" color="#F99500">
+           </b> </font></td>
+		</tr><tr>
+
+	
+		<td valign="TOP" colspan="11">	<font face="Times New Roman" size="3">
+			<b><a href="#156789">156789</b>.</a>
+
+			</font>
+			<font face="Times New Roman" size="2">
+			<b>Marcela Croitoru</b>
+
+		</td>
+
+
+
+          </tr>
+
+
+		<td valign="TOP" width="3%">&nbsp;</td>
+		
+		<td valign="TOP" colspan="10">	<font face="Times New Roman" size="3">
+			<b><a href="#156790">156790</b>.</a>
+
+			</font>
+			<font face="Times New Roman" size="2">
+			<b>Luis Vivanco</b>
+
+		</td>
+
+
+
+          </tr>
+
+
+		<td valign="TOP" width="3%">&nbsp;</td>
+		
+		<td valign="TOP" colspan="10">	<font face="Times New Roman" size="3">
+			<b><a href="#156791">156791</b>.</a>
+
+			</font>
+			<font face="Times New Roman" size="2">
+			<b>Sebastián Santoyo García</b>
+
+		</td>
+
+
+
+          </tr>
+
+
+		<td valign="TOP" width="3%">&nbsp;</td>
+		
+		<td valign="TOP" colspan="10">	<font face="Times New Roman" size="3">
+			<b><a href="#156868">156868</b>.</a>
+
+			</font>
+			<font face="Times New Roman" size="2">
+			<b>Luis Fernández</b>
+
+		</td>
+
+
+
+          </tr>
+
+
+</table>
+   </td>
+</tr>
+  <tr>
+    <td width="1%" valign="top"></td>
+    <td width="99%" valign="top">&nbsp;<p></td>
+  </tr>
+
+<tr>
+    <td width="5%" valign="middle"><a href="#Arriba"><img src="/imagenes/iconos/flecha8x8.gif" border="0" WIDTH="8" HEIGHT="8"></a></td>
+    <td width="95%" valign="top"><table border="0" cellspacing="1" width="60%">
+
+      <tr>
+        <td width="50%" bgcolor="#FFF1DD"><font size="3" color="#FF0000" face="Times New Roman"><b><a name="156789">156789.</a></b></font></td>
+        <td width="50%" bgcolor="#FFF1DD"><font face="Times New Roman"></font></a></td>
+      </tr>
+    </table>
+    </td>
+  </tr>
+  <tr>
+    <td width="1%" valign="top"></td>
+    <td width="99%" valign="top"><font face="Times New Roman"><b><font color="#000000">Autor: </font></b>Marcela Croitoru </font></td>
+  </tr>
+<tr>
+    <td width="1%" valign="top"></td>
+    <td width="99%" valign="top"><font face="Times New Roman"><b><font color="#000000">Título: </font></b>Significado de «felicidad colectiva» </font></td>
+  </tr>
+  <tr>
+    <td width="1%" valign="top"></td>
+    <td width="99%" valign="top"><font face="Times New Roman"><b><font color="#000000">Fecha y hora: </font></b>
+   
+	viernes,&nbsp;12 de noviembre de 2010, 10:33 h</font></td>
+  
+  </tr>
+  <tr>
+    <td width="1%" valign="top"></td>
+    <td width="99%" valign="top"><font face="Times New Roman"><br>
+<div style="display:none">edf40wrjww2foros:texto</div><div style="display:none">fiogf49gjkf0d</div>Buenos días, estimados amigos foristas:<br>
+<br>
+En <i>El País</i> de hoy he leído un artículo titulado "El 'derecho a la felicidad' pasa su primera votación en Brasil".<br>
+El artículo 6 de la Constitución Federal asegurará el derecho de sus ciudadanos a la felicidad ,  garantizando el cumplimiento de los demás derechos.<br>
+El senador que promueve la iniciativa, Cristovam Buarque, ha declarado :"No sólo mejor educación, salud, trabajo, etc. sino mejores ocasiones, en todos los ámbitos, para promover la felicidad individual y colectiva".<br>
+<br>
+El texto integral se puede leer en este <a href="http://www.elpais.com/articulo/internacional/derecho/felicidad/pasa/primera/votacion/Brasil/elpepuintlat/20101110elpepuint_21/Tes" target="_blank">enlace</a>.<br>
+<br>
+Quisiera saber qué es la felicidad colectiva.<br>
+<br>
+Un buen fin de semana.<br>
+Saludos amistosos.<br>
+Marcela <br>
+<br>
+
+</font><br></td>
+  </tr>
+<tr>
+    <td width="1%" valign="top" height="21"></td>
+    <td width="99%" valign="top" height="21"><br>
+
+    </td>
+</tr>
+
+<tr>
+    <td width="5%" valign="middle"><a href="#Arriba"><img src="/imagenes/iconos/flecha8x8.gif" border="0" WIDTH="8" HEIGHT="8"></a></td>
+    <td width="95%" valign="top"><table border="0" cellspacing="1" width="60%">
+
+      <tr>
+        <td width="50%" bgcolor="#FFF1DD"><font size="3" color="#FF0000" face="Times New Roman"><b><a name="156790">156790.</a></b></font></td>
+        <td width="50%" bgcolor="#FFF1DD"><font face="Times New Roman"></font></a></td>
+      </tr>
+    </table>
+    </td>
+  </tr>
+  <tr>
+    <td width="1%" valign="top"></td>
+    <td width="99%" valign="top"><font face="Times New Roman"><b><font color="#000000">Autor: </font></b>Luis Vivanco </font></td>
+  </tr>
+<tr>
+    <td width="1%" valign="top"></td>
+    <td width="99%" valign="top"><font face="Times New Roman"><b><font color="#000000">Título: </font></b>A mi entender </font></td>
+  </tr>
+  <tr>
+    <td width="1%" valign="top"></td>
+    <td width="99%" valign="top"><font face="Times New Roman"><b><font color="#000000">Fecha y hora: </font></b>
+   
+	viernes,&nbsp;12 de noviembre de 2010, 11:03 h</font></td>
+  
+  </tr>
+  <tr>
+    <td width="1%" valign="top"></td>
+    <td width="99%" valign="top"><font face="Times New Roman"><br>
+<div style="display:none">edf40wrjww2foros:texto</div><div style="display:none">fiogf49gjkf0d</div>Hola Marcela,<br>
+<br>
+A mi entender la felicidad colectiva es aquella en la se dan los factores para que la sociedad en su conjunto sea feliz, más allá de la felicidad individual de cada uno de sus integrantes. <br>
+<br>
+Sin saber más de la mencionada consitución brasileña, por un lado, parece ser una copia con ambiciones de la frase de la incluida en la Declaración de Independencia de los EEUU como uno de los derechos fundamentales: vida, libertad y la búsqueda de la felicidad. Por otro lado, me parece una frase vacía por incumplible que suena bonita pero que, en todo caso, resta credibilidad y seriedad al resto del documento que la incluya. ¿Se imagina uno a un ciudadano brasileño yendo a un funcionario para decirle "Pues fíjese usted que mis derechos no se están cumpliendo por que no soy feliz. Así que aquí le traigo una lista de cositas que necesito para serlo, para que empiecen a trabajar en ellas. Por cierto, que el yate venga con su tripulación y todo". Nótese que en el caso de EEUU lo que se garantiza es el derecho a la búsqueda de la felicidad, no a la felicidad misma. <br>
+<br>
+Saludos,<br>
+<br>
+Luis<br>
+<br>
+
+</font><br></td>
+  </tr>
+<tr>
+    <td width="1%" valign="top" height="21"></td>
+    <td width="99%" valign="top" height="21"><br>
+
+    </td>
+</tr>
+
+<tr>
+    <td width="5%" valign="middle"><a href="#Arriba"><img src="/imagenes/iconos/flecha8x8.gif" border="0" WIDTH="8" HEIGHT="8"></a></td>
+    <td width="95%" valign="top"><table border="0" cellspacing="1" width="60%">
+
+      <tr>
+        <td width="50%" bgcolor="#FFF1DD"><font size="3" color="#FF0000" face="Times New Roman"><b><a name="156791">156791.</a></b></font></td>
+        <td width="50%" bgcolor="#FFF1DD"><font face="Times New Roman"></font></a></td>
+      </tr>
+    </table>
+    </td>
+  </tr>
+  <tr>
+    <td width="1%" valign="top"></td>
+    <td width="99%" valign="top"><font face="Times New Roman"><b><font color="#000000">Autor: </font></b>Sebastián Santoyo García </font></td>
+  </tr>
+<tr>
+    <td width="1%" valign="top"></td>
+    <td width="99%" valign="top"><font face="Times New Roman"><b><font color="#000000">Título: </font></b>En un contexto político </font></td>
+  </tr>
+  <tr>
+    <td width="1%" valign="top"></td>
+    <td width="99%" valign="top"><font face="Times New Roman"><b><font color="#000000">Fecha y hora: </font></b>
+   
+	viernes,&nbsp;12 de noviembre de 2010, 11:05 h</font></td>
+  
+  </tr>
+  <tr>
+    <td width="1%" valign="top"></td>
+    <td width="99%" valign="top"><font face="Times New Roman"><br>
+<div style="display:none">edf40wrjww2foros:texto</div><div style="display:none">fiogf49gjkf0d</div>Hola, <br>
+<br>
+ Se trata de un contexto político en el que, se quiera reconocer o no, la realidad es relativa. En este contexto la felidiad es lo que dicen: educación, salud, trabajo, ... O  sea, <i>Un mundo feliz</i>, que diría Aldous Huxley.<br>
+<br>
+ Un saludo, <br>
+Sebastián
+</font><br></td>
+  </tr>
+<tr>
+    <td width="1%" valign="top" height="21"></td>
+    <td width="99%" valign="top" height="21"><br>
+
+    </td>
+</tr>
+
+<tr>
+    <td width="5%" valign="middle"><a href="#Arriba"><img src="/imagenes/iconos/flecha8x8.gif" border="0" WIDTH="8" HEIGHT="8"></a></td>
+    <td width="95%" valign="top"><table border="0" cellspacing="1" width="60%">
+
+      <tr>
+        <td width="50%" bgcolor="#FFF1DD"><font size="3" color="#FF0000" face="Times New Roman"><b><a name="156868">156868.</a></b></font></td>
+        <td width="50%" bgcolor="#FFF1DD"><font face="Times New Roman"></font></a></td>
+      </tr>
+    </table>
+    </td>
+  </tr>
+  <tr>
+    <td width="1%" valign="top"></td>
+    <td width="99%" valign="top"><font face="Times New Roman"><b><font color="#000000">Autor: </font></b>Luis Fernández </font></td>
+  </tr>
+<tr>
+    <td width="1%" valign="top"></td>
+    <td width="99%" valign="top"><font face="Times New Roman"><b><font color="#000000">Título: </font></b>Bienestar </font></td>
+  </tr>
+  <tr>
+    <td width="1%" valign="top"></td>
+    <td width="99%" valign="top"><font face="Times New Roman"><b><font color="#000000">Fecha y hora: </font></b>
+   
+	miércoles,&nbsp;17 de noviembre de 2010, 00:02 h</font></td>
+  
+  </tr>
+  <tr>
+    <td width="1%" valign="top"></td>
+    <td width="99%" valign="top"><font face="Times New Roman"><br>
+<div style="display:none">edf40wrjww2foros:texto</div><div style="display:none">fiogf49gjkf0d</div>Hola Marcela,<br>
+<br>
+Creo que la "felicidad" en términos jurídicos, o constitucionales, puede ser traducido como "bienestar". El bienestar colectivo es un derecho intangible e indefinible, pero que tiene que ver con otros derechos mas prácticos, a pesar de que jamás se llevan a efecto, como el derecho a una sanidad de calidad, o a una vivienda o a un trabajo digno.<br>
+<br>
+El bienestar o felicidad colectivo es, en teoria, el objetivo de toda constitución o gobierno, incluso de los autoritarios, aunque en realidad tras la bonita máscara sólo se esconda el interés por mantener los privilegios tal y como están, el status quo inalterado.<br>
+<br>
+Saludos a todos.
+</font><br></td>
+  </tr>
+<tr>
+    <td width="1%" valign="top" height="21"></td>
+    <td width="99%" valign="top" height="21"><br>
+
+    </td>
+</tr>
+
+  <tr>
+    <td width="1%" valign="top" height="21"></td>
+    <td width="99%" valign="top" height="21"><br>
+    <hr noshade size="1" color="#FBCE7F">
+    </td>
+  </tr>
+  <tr>
+    <td width="1%" valign="top" height="131"></td>
+    <td width="99%" valign="top" align="center" height="131"><a href="leer_asunto1.asp?vCodigo=39251#Arriba"><font face="Times New Roman"><img src="../../imagenes/iconos/flecha.gif" alt="Subir" border="0" WIDTH="45" HEIGHT="45"></font></a>
+<p align="center"><font face="Times New Roman" size="2"><strong>| <a href="../portada.htm" target="_top">Portada del CVC</a> | <br>
+| <a href="../obref/" target="_top">Obras de referencia</a> | <a href="../actcult/" target="_top">Actos culturales</a> | <a target="_top" href="../foros/">Foros</a> | <a target="_top" href="../aula/">Aula de lengua</a> | <a target="_top" href="../oteador/default.asp">Oteador</a> |<br>
+| <a target="_top" href="../el_rinconete/">Rinconete</a> | <a target="_top" href="../aula/rayuela/">Rayuela</a> | <a target="_top" href="../trujaman/">El
+trujamán</a> | <a target="_top" href="../aula/didactired/">DidactiRed</a> |</strong></font></p>
+
+<p align="center"><strong><font face="Times New Roman" size="2">| <a href="../comentarios/" target="_top">Enviar comentarios</a> |</font></strong></p>
+
+<p align="center"><font size="2" face="Times New Roman" color="#000000"><strong>Centro
+Virtual Cervantes<br>
+
+</strong>© Instituto Cervantes (España), 1997-<SCRIPT>document.write(fecha());</SCRIPT>. Reservados todos los derechos.</font></p>
+</td>
+  </tr>
+  <tr>
+    <td width="1%" valign="top" height="35"></td>
+    <td width="99%" valign="top" height="35"></td>
+  </tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table>
+</table>
+</body>
+</html>
