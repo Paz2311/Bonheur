@@ -1,0 +1,680 @@
+   IFRAME: [1]https://www.googletagmanager.com/ns.html?id=GTM-TBHG6J
+
+   (BUTTON) [2]4programmers.net
+     * [3]Forum
+       Programowanie - języki i technologie
+          + [4]C/C++
+          + [5]C# i .NET
+          + [6]Java
+          + [7]Python
+          + [8]PHP
+          + [9]JavaScript
+          + [10]Webmastering
+          + [11]Mobilne
+          + [12]Delphi i Pascal
+          + [13]Inne języki programowania
+          + [14]Embedded
+          + [15]Gamedev
+       IT
+          + [16]Bazy danych
+          + [17]Dev/ops
+          + [18]Algorytmy i struktury danych
+          + [19]Inżynieria oprogramowania
+          + [20]Nietuzinkowe tematy
+          + [21]Oceny i recenzje
+          + [22]Hardware/Software
+       Rozwój zawodowy
+          + [23]Edukacja
+          + [24]Kariera
+          + [25]Szkolenia i konferencje
+          + [26]Magazyn Programista
+       Inne
+          + [27]Off-Topic
+          + [28]Społeczność
+          + [29]Flame
+          + [30]Ogłoszenia drobne
+          + [31]Coyote
+       Działy zamknięte
+          + [32]Archiwum
+          + [33]Kosz
+     * [34]Mikroblogi
+     * [35]Praca
+     * [36]Kompendium
+       [37]Delphi [38]C/C++ [39]C# [40]Python [41]Java [42]Turbo Pascal
+       [43]Z pogranicza [44]Assembler [45]Algorytmy [46](X)HTML [47]CSS
+
+   [48]Utwórz konto [49]Logowanie
+
+     * [50]4programmers.net
+     * [51]Forum
+     * [52]Off-Topic
+     * [53]Czy praca w IT daje szczęście
+
+   4programmers.net works best with JavaScript enabled!
+
+Czy praca w IT daje szczęście
+
+   1
+
+   Cześć,
+   Bardzo dużą część naszego życia spędzamy w pracy.
+   Często to gdzie pracujesz i jak bardzo jesteś usatysfkacjonowany ze
+   swojej pracy odbija się na jakości Twojego codziennego życia, komforcie
+   psychicznym, czy humorze.
+   Dużo naczytałem się już, jak to zaawansowani pracownicy IT z tego oto
+   forum narzekają na stres, wypalenie, wyścig szczurów, dużą
+   odpowiedzialność itd.
+   No ale mimo wszystko, żeby tym programistą zostać, trzeba włożyć w to
+   masę pracy, być wytrwałym i uczyć się latami - czyli trzeba to lubieć,
+   bo jak przetrwać drogę do poziomu seniora?
+   Z drugiej strony isnieją badania, mówiące, że najbardziej
+   satysfakcjonującym zawodem, takim którego nie chce się zmieniać ( z
+   różnych względów )- jest praca w IT.
+   Jak to jest waszym zdaniem. Czy praca w IT daje szczęście, czy jest to
+   może pogoń tylko za pieniędzmi i życiowym komfortem, a może za czymś
+   innym?
+   (BUTTON) Obserwuj (BUTTON) Udostępnij (BUTTON) Komentuj
+
+   2
+
+   To zależy.
+
+   Poruszyłeś wiele wątków. Wiele osób narzeka na pracę w korporacjach
+   argumentując to tym, że nie ma sprawczości lub nie widzi efektów swojej
+   pracy. Ja bym określił to mianem feedbacku lub grywalizacji. Jeżeli
+   uprawiasz ogród to widzisz efekty swojej pracy. Jeżeli naprawisz buga i
+   testy zaświecą się na zielono to też widzisz efekty swojej pracy. Ale
+   nie widzisz w jaki sposób Twoja praca sprawia, że komfort życia innych
+   się poprawia.
+
+   Porównaj sobie to do innych zawodów. Jaki masz inny zawód w którym
+   możesz za pomocą 10 tysięcy linii kodu poprawić życie setek lub nawet
+   milionów ludzi? Pracując w wykończeniówce, ile ścian jesteś w tym samym
+   czasie wytynkować?
+   (BUTTON) Obserwuj (BUTTON) Udostępnij (BUTTON) Komentuj
+
+   45
+
+   Dobra praca daje dobre pieniądze (Nie musi być łatwa, czy przyjemna).
+   Pieniądze szczęścia bezpośrednio nie dają, ale pozwalają na realizacje
+   innych rzeczy, które już to szczęście mogą dać :)
+   (BUTTON) Obserwuj (BUTTON) Udostępnij (BUTTON) Komentuj
+
+   0
+
+     Czy praca w IT daje szczęście
+
+   To zależy.
+
+   Zależy jaka praca w IT (to dość ogólnikowe pojęcie).
+
+   I komu ma dać to szczęście. I czy nie jest tak, że szczęśliwy człowiek
+   mógłby wykonywać przeciętną pracę i być w niej szczęśliwy, a
+   nieszczęśliwy człowiek znalazłby najlepszą pracę i byłby dalej
+   nieszczęśliwy.
+   (BUTTON) Obserwuj (BUTTON) Udostępnij (BUTTON) Komentuj
+
+   0
+
+   Ja nigdy nie byłem w życiu szczęśliwy, ale pewnie przez to, że w it nie
+   pracuje, a ja w ogóle nie pracuje, ale praca daje szczęście, bez pracy
+   nie ma szczęścia, nawet jak masz c**** pracę, to wszyscy szeprczą na
+   około, ten to ma taką c**** pracę, nie gadaj z nim i człowiek jeszcze
+   bardziej samotny jest.
+   (BUTTON) Obserwuj (BUTTON) Udostępnij (BUTTON) Komentuj
+
+   3
+
+   Sama praca jako praca nie daje jakoś dużo szczęścia. Musiałbym pracować
+   w jakimś wymarzonym miejscu typu przy komputerze kwantowym czy coś a
+   tak to praca jak praca(chociaż to pewnie tylko fajnie brzmi a po
+   miesiącu by spowszedniało). Są ciekawe rzeczy i czasem człowiek czuje
+   że robi coś pożytecznego. Natomiast jak się widzi cały kod, który z tym
+   stoi i kopie z menadzmentem to od razu się odechciewa.
+
+   To co na prawdę daje praca w IT to jednak ten w miarę spokój finansowy,
+   który w naszym kraju wyjątkowo ciężko uzyskać i nie muszę żyć od
+   pierwszego do pierwszego.
+   (BUTTON) Obserwuj (BUTTON) Udostępnij (BUTTON) Komentuj
+
+   2
+
+   Ujmę to tak...
+   Kiedy byłeś magikiem i było znacznie więcej noobów, to inaczej to
+   smakowało :]
+   (BUTTON) Obserwuj (BUTTON) Udostępnij (BUTTON) Komentuj
+
+   0
+
+   Weź, uspokój się xD
+   (BUTTON) Obserwuj (BUTTON) Udostępnij (BUTTON) Komentuj
+
+   2
+
+   Każda praca się nudzi. Nawet jeśli masz pasję, którą wykonujesz jako
+   pracę to też się znudzi. Co byś nie robił. Inna sprawa, że w PL dużo
+   ludzi narzeka z natury, tak po prostu, na wyrost, co by nie robili.
+   Więc na to też nie patrz. Jeśli pracujesz z w miarę spoko ludźmi to
+   generalnie zwykle pracuje się miło. Do pracy chodzisz dla kasy, a w IT
+   zwykle kasa się zgadza, więc jest ok.
+   (BUTTON) Obserwuj (BUTTON) Udostępnij (BUTTON) Komentuj
+
+   19
+
+   Poruszyłeś całą gamę tematów, które nie są trywialne. Nie da się w
+   prosty sposób na nie odpowiedzieć.
+
+   Odpowiem na bazie swoich doświadczeń i od razu piszę, że nie jestem w
+   tym temacie fachowcem. Wypalenie zawodowe przechodziłem, walczyłem z
+   pracoholizmem u psychoterapeuty przez 3 lata i mogę napisać coś z
+   własnej perspektywy.
+
+   Podzieliłbym wypalenie zawodowe w branży IT na trzy etapy.
+   I etap to juniorska fantazja.
+   Byłem przebodźcowany danymi, natłok informacji dla juniora to coś
+   ciężkiego do przetrawienia. Jako młody ambitny człowiek ciśniesz od
+   rana do wieczora, w weekendy zarywając nocki, by dobić do pewnej
+   granicy, która zawsze się przesuwa. Czytałem tony książek, dokumentacji
+   języków. Jak poznałem nieco C++ i C#, to zamiast iść w tym kierunku, to
+   zwyczajnie chciałem więcej. Java? Nie ma sprawy! Może Python, bo taki
+   popularny? Oczywiście! Dajta dokumentacje i lecimy w soboty z
+   kodowaniem. Tu zazwyczaj następuje pierwszy kryzys wynikający ze
+   zmęczenia. Nie jesteśmy w stanie cisnąć z taką intensywnością całe
+   życie.
+
+   II etap to świadomość mida.
+   Dochodzimy do etapu, gdzie zaczynamy być świadomi. Abstrahując od tego,
+   co się dzieje w kodzie. zaczynamy czuć branżę IT, że nie jest tak
+   idealnie. Za dużo technologii nam ucieka, za dużo dzieje się poza nami,
+   mimo, że potrafiliśmy kodować całe dnie, to i tak nie możemy dogonić
+   tego "króliczka" jakim jest pełna wiedza na temat
+   technologii/informatyki.
+   Zawsze możemy zarabiać więcej, zawsze możemy robić szybciej, bardziej
+   efektywnie, zawsze też możemy pracować w innym (nie zawsze lepszym
+   zespole/projekcie). I to słowo "zawsze" jest taką odległą krainą, do
+   której jako mid chcesz dążyć. Znaleźć ten work-life balance i zacząć
+   cieszyć się życiem poza IT. Tu zazwyczaj następuje kolejny kryzys,
+   wynikający ze świadomości bycia przeciętnym w swoim mniemaniu.
+
+   III etap to pogodzony senior.
+   Aktualnie jestem na tym etapie. Pogodziłem się z tym, że nie poznam
+   wszystkich technologii, które chciałbym znać. Z drugiej strony mam
+   stabilną sytuację w życiu, uczę się work-life balance i już nie szukam
+   tej krainy, idealnego miejsca. Poskakałem nieco po projektach przez te
+   10 lat i zawsze coś było nie tak. Na tym etapie dopada mnie znudzenie,
+   bo już wiele w branży widziałem. Często zadania bywają powtarzalne,
+   chodzi się na wiele spotkań, czasem ma się poczucie, że to co kodujemy
+   mija się z celem. I już nie jest istotne, czy to korpo czy mały SH. Do
+   tego ludzie na tym poziomie seniority przechodzą kryzys wieku
+   średniego, co doprowadza do spirali problemów, między innymi wypaleniu
+   zawodowemu.
+
+   Reasumując, branża IT jest super i daje świetne możliwości. Ale z
+   drugiej strony może człowieka przeczołgać i zmieszać z błotem.
+   Pracujemy umysłowo, często w dużym napięciu, bo ASAP, bo klient nie
+   potrafi czegoś zrozumieć lub przyjąć do wiadomości albo po prostu my
+   coś źle zrobiliśmy i po pewnym czasie temat do nas wraca i nas
+   stresuje.
+   Pomijając odpowiedzialność, która często potrafi być rozmyta czy wyścig
+   szczurów, zwłaszcza jak ktoś osiadł w projekcie w korpo i klepie kod od
+   8 do 16.
+   Oczywiście mogę sobie wyobrazić, że w każdej branży może nas to
+   spotkać, ale dziś na tapet każdy bierze branżę IT, bo przecież portale
+   czy blogi mówią nam, że to kraina mlekiem i miodem płynąca. Pieniądze
+   strumieniami płyną, Morawiecki chce nas dojeżdzać, bo to przecież
+   szlachta, która Polskę do ruiny doprowadza (ha tfu).
+
+   Ozłocona branża IT to totalny bullshit.
+   (BUTTON) Obserwuj (BUTTON) Udostępnij (BUTTON) Komentuj
+
+   3
+
+   czy praca nauczyciela daje szczęście?
+
+   IFRAME: [54]https://youtube.com/embed/u3SMQo59XlQ
+
+   (BUTTON) Obserwuj (BUTTON) Udostępnij (BUTTON) Komentuj
+
+   7
+
+   Mi szczęście daje to, że mogę wynajmować ładne, nowoczesne mieszkanie w
+   centrum miasta i jednocześnie odkładać na swoje. To, że mogę pracować
+   zdalnie i nie muszę wstawać niewyspany i tłuc się komunikacją miejską,
+   a potem wracać do domu myśląc o tym, że podszedłbym spać, a jeszcze
+   trzeba jedzenie zrobić. To, że pranie mogę wstawić w trakcie przerwy,
+   tak samo mogę je wyłączyć, powiesić, śmieci wyrzucić. Tak samo to, że
+   jak wyjadę na weekend i mi się spodoba to mogę zostać na dłużej i
+   pracować z tamtego miejsca.
+   To takie szczęście codziennie, cotygodniowe, coś co sprawia, że życie
+   nie jest tak trudne jak mogłoby być, gdybym w IT nie robił.
+   A jeśli chodzi o szczęście długoterminowe - nie wiem
+   (BUTTON) Obserwuj (BUTTON) Udostępnij (BUTTON) Komentuj
+
+   0
+
+   Nie chodzi mi w tym wątku o to aby zdefiniować albo chociażby próbować
+   defniować czym jest szczęście, ponieważ dla każdego definicja zapewnę
+   była by inna, natomiast jestem w stanie zebrać od was feedback, jak
+   personalnie czujecie się w tej branży, czy nie żałujecie swojego wyboru
+   albo czy sprawia on wam na dłuższą metę poczucie spełnienia i
+   satysfakcji - i o to mi właśnie chodzi.
+   Po tych wszystkich odpowiedziach da się wysnuć jeden wniosek: Nie
+   wiadomo czy praca w IT daje szczęście, ale daje pieniądze i odrobinę
+   wolności, które to dają szczęście.
+   (BUTTON) Obserwuj (BUTTON) Udostępnij (BUTTON) Komentuj
+
+   0
+
+   To że branża IT wydaje się być dobrze opłacalna i dużo ludzi tu ciągnie
+   jest zasługą mody, ogłoszeń z widełkami i reklam dookoła. Więc
+   statystycznemu Kowalskiemu się IT kojarzy z dobrym wynagrodzeniem i
+   szczęśliwym życiem. A w rzeczywistości mało kto wie, ile się w innych
+   branżach zarabia. Znam ludzi którzy zarabiają w innych branżach 10x
+   tyle co klepacz crudów. I wcale ich praca nie wydaje się trudniejsza -
+   no może nie licząc lekarzy…Oczywiście porównując IT do stanowisk w
+   których zarabia się najniższą pensję, to może się wydawać że toż to
+   samo szczęście tu pracować. Ale na osobach w miarę przedsiębiorczych,
+   pracowitych i z głową na karku to zarobki w IT wrażenia nie robią ani
+   ta praca synonimem szczęścia dla nich nie jest.
+   (BUTTON) Obserwuj (BUTTON) Udostępnij (BUTTON) Komentuj
+
+   3
+
+   Z drugiej strony ja nie znam drugiej takiej branży, w której tak wiele
+   osób korzystałoby z pomocy psychologa.
+   I nie wiem, czy po prostu normalnych ludzi na to nie stać, a ludzi z IT
+   tak, więc chodzą, czy ta branża jest po prostu jakaś dziwna.
+
+   A ci, co do psychologów nie chodzą, to generalnie powinni, bo większość
+   zachowuje się co najmniej socjopatycznie. :P
+   (BUTTON) Obserwuj (BUTTON) Udostępnij (BUTTON) Komentuj
+
+   0
+
+[55]somekind napisał(a):
+
+     A ci, co do psychologów nie chodzą, to generalnie powinni, bo
+     większość zachowuje się co najmniej socjopatycznie. :P
+
+   Ale to socjopata nie może być szczęśliwy? Trochę to nie na temat. Bo
+   przecież chyba nikt nie przychodzi do psychologa z problemem :
+
+     * jestem socjopatą i lubię patrzeć na ludzkie cierpienie
+     * A co pan robi w pracy?
+     * piszę aplikacje na windowsa w dot necie
+
+   Ludzie zwykle chodza do psychologa bo są nieszcześliwi, cierpią
+   psychicznie czy śmierci się boją (bardziej niż średnia)
+
+   A na temat: Praca programisty, daje mi szczęście:
+    1. Po pierwsze daje pieniądze i to duże jednocześnie z małą interakcją
+       z innymi ludźmi i to od pandemi bez wychodzenia z domu
+    2. Po drugie ja naprawdę lubię programować, może nie wszystko i nie w
+       każdym języku, ale jak mogę napisać sobie flatmap w Scali to się
+       lepiej czuję. Wręcz im wiecej flatmap mam w kodzie tym bardziej
+       zadowolony jestem :P
+
+   (BUTTON) Obserwuj (BUTTON) Udostępnij (BUTTON) Komentuj
+
+   1
+
+   Tak -> jak przychodzi weekend/wyplata/wakacje.
+
+   Lubie komputery ale jednak robie trudnych narzuconych rzeczy przez 40h
+   w tygodniu jest meczace. Nie ma tej zabawy co we wlasnych projektach.
+
+   Tu jest fajny watek ktory ktos na mikrobloga wrzucil:
+   [56]https://news.ycombinator.com/item?id=31724942
+   (BUTTON) Obserwuj (BUTTON) Udostępnij (BUTTON) Komentuj
+
+   5
+
+   Praca nie jest od tego by dawać szczescie. Praca ma być możliwie mało
+   uciążliwa i realizować nasze potrzeby. Przez potrzeby rozumiem zarówno
+   finanse jak i inne rzeczy takie jak potrzeby bycia docenionym, relacje
+   społeczne itd.
+
+   W zasadzie chyba nie ma na świecie rzeczy, które dają szczęście w
+   sposób ciągły.
+
+   Praca w IT daje szansę na spokój finansowy, bycie docenionym, robienie
+   czegoś ciekawego, ciągły rozwój, poznanie ciekawych ludzi, fajne
+   warunki pracy itd. oczywiście nie każda praca w IT jest taka, ale
+   spokojnie można taką znaleźć jak się da coś od siebie.
+   (BUTTON) Obserwuj (BUTTON) Udostępnij (BUTTON) Komentuj
+
+   3
+
+   Praca w IT ssie, coraz częściej mam ochotę zacząć sprzedawać ogórki.
+   Z drugiej strony programista to chyba jedyny zawód w którym płacą za
+   poprawianie czegoś co spieprzyłeś wcześniej.
+   (BUTTON) Obserwuj (BUTTON) Udostępnij (BUTTON) Komentuj
+
+   6
+
+[57]DamianITK napisał(a):
+
+     No ale mimo wszystko, żeby tym programistą zostać, trzeba włożyć w
+     to masę pracy, być wytrwałym i uczyć się latami - czyli trzeba to
+     lubieć, bo jak przetrwać drogę do poziomu seniora?
+
+   Nie mam pojęcia, nie jestem seniorem.
+
+   Ale tak bardziej serio, to myślę, że podejście zmienia się wraz z
+   doświadczeniem i z wiekiem. Praca w IT na samym początku to fascynacja
+   technologią, chęć wyrzucania jak największej ilości kodu, jak
+   najszybciej. Z czasem zaczyna się dostrzegać, że są też inne aspekty -
+   komunikacja z innymi developerami, z przełożonymi, z klientami.
+   Zbieranie i precyzowanie wymagań. Kontrola jakości. W pewnym momencie
+   przychodzi zrozumienie, że głównym zadaniem programisty jest
+   rozwiązywanie problemów, a technologia to tylko sposób na osiągnięcie
+   tego.
+
+   Jak w każdej branży, jest dużo aspektów. Osoby mocno jarające się
+   technologią mogą z czasem wypalić się przez świadomość, że większość
+   firm na rynku jedynie używa technologii jako narzędzi - dopóki działa,
+   to nie ruszać - i najpewniej przyjdzie im pracować z jakimś starym
+   techn stackiem. Osoby lubiące przewidywalność mogą z czasem wypalić
+   się, jeżeli będą w projektach, które są zarządzane chaotycznie, gdzie
+   regularnością jest wyrzucanie do kosza feature'ów gotowych w 90%, bo
+   zmieniły się priorytety na najbliższy okres. Osoby pragnące zmienić
+   świat mogą wypalić się przez konfrontację z faktem, że ogrom firm nie
+   dokonuje żadnych innowacji ani nie wywraca rynków do góry nogami.
+
+   Co do kwestii finansowych - mój punkt widzenia jest taki, że pieniądze
+   nie są celem same w sobie, tylko służą zaspokajaniu potrzeb. Gdy
+   zarabiałem mało, każdy grosz się liczył, więc możliwość wzięcia
+   dodatkowych obowiązków w zamian za podwyżkę 10% oznaczała różnicę
+   między skrupulatnym budżetowaniem, a możliwością rozpoczęcia
+   oszczędzania. Obecnie zarobki pozwalają mi na swobodne życie, bez
+   przejmowania się finansami - w takiej sytuacji, dużo bardziej niż
+   dodatkowe 10% w kwocie przelewu, cenię sobie swój czas i spokój
+   psychiczny.
+   (BUTTON) Obserwuj (BUTTON) Udostępnij (BUTTON) Komentuj
+
+   4
+
+[58]DamianITK napisał(a):
+
+     Dużo naczytałem się już, jak to zaawansowani pracownicy IT z tego
+     oto forum narzekają na stres, wypalenie, wyścig szczurów, dużą
+     odpowiedzialność itd.
+
+   Z mojej perspektywy powiem tak - nie rozumiem. Wyścig szczurów, jak
+   firmy biją się o programistów? Odpowiedzialność w korpo, które do bólu
+   wręcz tę odpowiedzialność rozmywa? Skąd ten stres? Wypalenie zawodowe -
+   owszem może się zdarzyć, ale wystarczy zmienić lekko kierunek i już
+   masz czego się uczyć, jak rozwijać. Porównaj te warunki (obiektywne), z
+   pracą np. kasjera w biedronce - paru przedstawicieli suwerena z ryjem
+   każdego dnia, praca z gotówką, a jak już wyjdziesz z pracy, to masz 3k
+   na utrzymanie się przez miesiąc, więc powody do braku szczęścia są w
+   tym wypadku dużo poważniejsze.
+
+     No ale mimo wszystko, żeby tym programistą zostać, trzeba włożyć w
+     to masę pracy, być wytrwałym i uczyć się latami - czyli trzeba to
+     lubieć, bo jak przetrwać drogę do poziomu seniora?
+
+   No trzeba lubić. Ale to dotyczy każdej pracy. I patrząc na takie rzeczy
+   jak stres i odpowiedzialność, to senior ma je na dużo wyższym poziomie.
+   Bo to ten "senior" bierze na siebie odpowiedzialność za jakość kodu
+   juniora i słucha ewentualnych skarg ze strony managera, czy klienta.
+
+     Z drugiej strony isnieją badania, mówiące, że najbardziej
+     satysfakcjonującym zawodem, takim którego nie chce się zmieniać ( z
+     różnych względów )- jest praca w IT.
+
+   Jeżeli ktoś to lubi i ma do tego predyspozycje, to ma to sens.
+   Programowanie, to rozwiązywanie problemów. O tym że jakiś problem
+   rozwiązałeś dowiadujesz się natychmiast. Miałeś kiedyś w życiu jakieś
+   bardzo dla ciebie trudne zadanie, które udało ci się pozytywnie
+   rozwiązać? Pamiętasz kopa z dopaminy? No to programista ma coś takiego
+   regularnie. Chyba, że pracuje poniżej swoich umiejętności, to wtedy
+   faktycznie może nastąpić wypalenie.
+
+     Jak to jest waszym zdaniem. Czy praca w IT daje szczęście, czy jest
+     to może pogoń tylko za pieniędzmi i życiowym komfortem, a może za
+     czymś innym?
+
+   Zależy od człowieka. Część ludzi to zwyczajnie lubi. Nie poszedłem do
+   IT "dla kasy", bo jak zaczynałem, to tej kasy w PL IT nie było.
+   właściwie nigdy czysta kasa mnie nie motywowała - nie powiem, miły
+   dodatek, ale sama praca była dla mnie satysfakcjonująca. Bo widać
+   rezultaty, bo można mieć swój wkład w coś co faktycznie jest potrzebne
+   i przydatne, bo człowiek się rozwija, bo można coś odłożyć, a jak już
+   odłożysz, to możesz mieć sporą część stresów typowych dla 80% ludzi w
+   Polsce głęboko w d...e.
+   (BUTTON) Obserwuj (BUTTON) Udostępnij (BUTTON) Komentuj
+
+   0
+
+     Ale to socjopata nie może być szczęśliwy?
+
+   Czy z definicji socjopata to jednak osoba, która nie ma spokoju ducha i
+   braku szczęścia wewnętrznie przez krzywdy, które doznała wcześniej?
+
+   Szczęście - teraz się cieszę, bo dziecko skacze na trampolinie i się
+   uśmiecham, a za 5 min jedziemy do szpitala bo użądliła ją osa i dostała
+   wstrząsu anafilaktycznego bo to było pierwsze przypadkowe użądlenie. W
+   tej sytuacji szczęście zamienia się w dramat i horror.
+
+   Czy [59]@DamianITK uważasz, że szczęście to jest dobra emocja, za którą
+   powinniśmy gonić? Wydaje mi się, że chyba źle jest postawione pytanie.
+   Szczęście po prostu bywa, jak mały słodki kotek, który wpadnie Ci pod
+   nogi - jak jest to przeżyj, pogłaszcz, jak nie ma, to żyjemy dalej.
+   (BUTTON) Obserwuj (BUTTON) Udostępnij (BUTTON) Komentuj
+   Liczba odpowiedzi na stronę [30]
+   [Off-Topic___________________]
+
+1 użytkowników online, w tym zalogowanych: 0, gości: 1
+
+     * [60]Zakończ obserwację Obserwuj wątek
+
+Moje tagi
+
+   ____________________
+   Zapisz
+     * ${ tag.name }× ${ tag.topics }
+
+   [61](Brak tagów. Kliknij, aby dodać)
+
+Popularne tagi
+
+     * [62]c++× 21603
+     * [63]java× 16425
+     * [64]c#× 16159
+     * [65]php× 7631
+     * [66]c× 7541
+     * [67]delphi× 5350
+     * [68]javascript× 4462
+     * [69]sql× 3744
+     * [70]python× 3172
+     * [71]mysql× 2961
+
+Strony pokrewne
+
+     * [72]Czy praca w innym języku programowania coś daje? 2018-03-19
+       11:45
+     * [73]Jak osiągnąć szczęście? 2018-05-08 22:26
+     * [74]Czy taką funkcjonalność daje tablica? 2019-10-25 11:28
+     * [75]Czy bycie w samorządzie wydziału daje duże korzyści? 2017-09-29
+       19:10
+     * [76]Czy praca w korpo was zmieniła? 2019-11-22 00:03
+     * [77]Czy bedzie praca w Rust? 2020-07-16 19:08
+     * [78]Czy praca w domu was zmieniła? 2019-11-26 14:56
+     * [79]Czy dostępny w sieci darmowy serwis coś daje w szukaniu pracy?
+       2019-05-12 12:47
+     * [80]Co daje std? 2011-02-24 20:16
+     * [81]Praca w Spring czy w NET Core? 2017-12-06 16:15
+
+     * [82]4programmers.net
+     * [83]Forum
+     * [84]Off-Topic
+     * [85]Czy praca w IT daje szczęście
+
+     * [86]Praca dla programistów
+     * [87]Praca JavaScript
+     * [88]Praca Java
+     * [89]Praca C#
+     * [90]Praca PHP
+     * [91]Praca Python
+     * [92]Praca C++
+
+     * [93]Forum dyskusyjne
+     * [94]Python
+     * [95]Java
+     * [96]C/C++
+     * [97]C# i .NET
+     * [98]Kariera
+     * [99]Edukacja
+
+     * Sprawy administracyjne
+     * [100]Zgłoś błąd w oprogramowaniu
+     * [101]API 4programmers.net
+     * [102]Blog 4programmers.net
+     * [103]Prawa autorskie
+     * [104]Nasze logo
+     * [105]Coyote
+
+     * O nas
+     * [106]Kontakt
+     * [107]Regulamin
+     * [108]Polityka prywatności
+     * [109]Reklama
+     * [110]Pomoc
+     * [111]Patronat
+
+Skontaktuj się z nami
+
+    1. [112]Napisz do nas
+    2. [113]Odwiedź nas na Facebooku
+
+   Copyright © 2000-2023 [114]4programmers.net - programowanie i tworzenie
+   stron WWW
+   Coyote 2.5: 141 ms
+
+References
+
+   Visible links:
+   1. https://www.googletagmanager.com/ns.html?id=GTM-TBHG6J
+   2. https://4programmers.net/
+   3. https://4programmers.net/Forum
+   4. https://4programmers.net/Forum/C_i_C++
+   5. https://4programmers.net/Forum/C_i_.NET
+   6. https://4programmers.net/Forum/Java
+   7. https://4programmers.net/Forum/Python
+   8. https://4programmers.net/Forum/PHP
+   9. https://4programmers.net/Forum/JavaScript
+  10. https://4programmers.net/Forum/Webmastering
+  11. https://4programmers.net/Forum/Mobilne
+  12. https://4programmers.net/Forum/Delphi_Pascal
+  13. https://4programmers.net/Forum/Inne
+  14. https://4programmers.net/Forum/Embedded
+  15. https://4programmers.net/Forum/Gamedev
+  16. https://4programmers.net/Forum/Bazy_danych
+  17. https://4programmers.net/Forum/Devops
+  18. https://4programmers.net/Forum/Algorytmy
+  19. https://4programmers.net/Forum/Inzynieria_oprogramowania
+  20. https://4programmers.net/Forum/Nietuzinkowe_tematy
+  21. https://4programmers.net/Forum/Oceny_i_recenzje
+  22. https://4programmers.net/Forum/Hardware_Software
+  23. https://4programmers.net/Forum/Edukacja
+  24. https://4programmers.net/Forum/Kariera
+  25. https://4programmers.net/Forum/Szkolenia_i_konferencje
+  26. https://4programmers.net/Forum/Magazyn_Programista
+  27. https://4programmers.net/Forum/Off-Topic
+  28. https://4programmers.net/Forum/Spolecznosc
+  29. https://4programmers.net/Forum/Flame
+  30. https://4programmers.net/Forum/Ogłoszenia_drobne
+  31. https://4programmers.net/Forum/Coyote
+  32. https://4programmers.net/Forum/Archiwum
+  33. https://4programmers.net/Forum/Kosz
+  34. https://4programmers.net/Mikroblogi
+  35. https://4programmers.net/Praca
+  36. https://4programmers.net/Kategorie
+  37. https://4programmers.net/Delphi
+  38. https://4programmers.net/C
+  39. https://4programmers.net/C_sharp
+  40. https://4programmers.net/Python
+  41. https://4programmers.net/Java
+  42. https://4programmers.net/Turbo_Pascal
+  43. https://4programmers.net/Z_pogranicza
+  44. https://4programmers.net/Assembler
+  45. https://4programmers.net/Algorytmy
+  46. https://4programmers.net/(X)HTML
+  47. https://4programmers.net/CSS
+  48. https://4programmers.net/Register
+  49. https://4programmers.net/Login
+  50. https://4programmers.net/
+  51. https://4programmers.net/Forum
+  52. https://4programmers.net/Forum/Off-Topic
+  53. https://4programmers.net/Forum/Off-Topic/361717-czy_praca_w_it_daje_szczescie
+  54. https://youtube.com/embed/u3SMQo59XlQ
+  55. https://4programmers.net/Forum/1851635
+  56. https://news.ycombinator.com/item?id=31724942
+  57. https://4programmers.net/Forum/1851469
+  58. https://4programmers.net/Forum/1851469
+  59. https://4programmers.net/Profile/118121
+  60. javascript:/
+  61. javascript:/
+  62. https://4programmers.net/Forum/Tag/c++
+  63. https://4programmers.net/Forum/Tag/java
+  64. https://4programmers.net/Forum/Tag/c#
+  65. https://4programmers.net/Forum/Tag/php
+  66. https://4programmers.net/Forum/Tag/c
+  67. https://4programmers.net/Forum/Tag/delphi
+  68. https://4programmers.net/Forum/Tag/javascript
+  69. https://4programmers.net/Forum/Tag/sql
+  70. https://4programmers.net/Forum/Tag/python
+  71. https://4programmers.net/Forum/Tag/mysql
+  72. https://4programmers.net/Forum/Kariera/306264-czy_praca_w_innym_jezyku_programowania_cos_daje
+  73. https://4programmers.net/Forum/Off-Topic/308581-jak_osiagnac_szczescie
+  74. https://4programmers.net/Forum/C_i_C++/332042-czy_taka_funkcjonalnosc_daje_tablica
+  75. https://4programmers.net/Forum/Kariera/296982-czy_bycie_w_samorzadzie_wydzialu_daje_duze_korzysci
+  76. https://4programmers.net/Forum/Off-Topic/332890-czy_praca_w_korpo_was_zmienila
+  77. https://4programmers.net/Forum/Edukacja/341690-czy_bedzie_praca_w_rust
+  78. https://4programmers.net/Forum/Off-Topic/333138-czy_praca_w_domu_was_zmienila
+  79. https://4programmers.net/Forum/Kariera/326516-czy_dostepny_w_sieci_darmowy_serwis_cos_daje_w_szukaniu_pracy
+  80. https://4programmers.net/Forum/Newbie/175235-co_daje_std
+  81. https://4programmers.net/Forum/Edukacja/300732-praca_w_spring_czy_w_net_core
+  82. https://4programmers.net/
+  83. https://4programmers.net/Forum
+  84. https://4programmers.net/Forum/Off-Topic
+  85. https://4programmers.net/Forum/Off-Topic/361717-czy_praca_w_it_daje_szczescie
+  86. https://4programmers.net/Praca
+  87. https://4programmers.net/Praca/Technologia/javascript
+  88. https://4programmers.net/Praca/Technologia/java
+  89. https://4programmers.net/Praca/Technologia/c#
+  90. https://4programmers.net/Praca/Technologia/php
+  91. https://4programmers.net/Praca/Technologia/python
+  92. https://4programmers.net/Praca/Technologia/c++
+  93. https://4programmers.net/Forum
+  94. https://4programmers.net/Forum/Python
+  95. https://4programmers.net/Forum/Java
+  96. https://4programmers.net/Forum/C_i_C++
+  97. https://4programmers.net/Forum/C_i_.NET
+  98. https://4programmers.net/Forum/Kariera
+  99. https://4programmers.net/Forum/Edukacja
+ 100. https://github.com/adam-boduch/coyote/issues
+ 101. https://api.4programmers.net/
+ 102. https://4programmers.net/Blog
+ 103. https://4programmers.net/Prawa_autorskie
+ 104. https://4programmers.net/Pomoc/Nasze_logo
+ 105. https://4programmers.net/Forum/Coyote
+ 106. https://4programmers.net/Kontakt
+ 107. https://4programmers.net/Regulamin
+ 108. https://4programmers.net/Polityka_prywatności
+ 109. https://4programmers.net/Reklama
+ 110. https://4programmers.net/Pomoc
+ 111. https://4programmers.net/Patronat
+ 112. https://4programmers.net/Kontakt
+ 113. https://www.facebook.com/4programmers.net
+ 114. https://4programmers.net/
+
+   Hidden links:
+ 116. https://4programmers.net/
+ 117. javascript:/
+ 118. javascript:/
+ 119. javascript:/
+ 120. https://www.facebook.com/4programmers.net
+ 121. https://4programmers.net/
+ 122. javascript:/

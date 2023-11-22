@@ -1,0 +1,325 @@
+   #[1]Discussion:Bonheur [2]Modifier [3]Poképédia (fr) [4]Flux Atom de
+   Poképédia
+
+       [5]Le Masque Turquoise est là, et tout le monde est invité à
+                                contribuer !
+   Des éléments du jeu sont présents sur le site, donc prenez garde lors
+                              de votre lecture.
+   Un nouvel horizon qui apporte de nombreuses nouveautés, donc beaucoup
+                        de travail sur Poképédia !
+   N'hésitez pas à consulter [6]les pages d'aide et le [7]serveur Discord
+  en cas de doute sur la rédaction, et n'oubliez pas de prévisualiser vos
+                     modifications avant de les publier.
+
+Discussion:Bonheur
+
+   De Poképédia
+   [8]Aller à la navigation [9]Aller à la recherche
+
+   bonjour je ne comprend pas comment optimaliser le bonheur et ou et la
+   jauge de bonheur merci de rep
+
+   Quid des coiffeurs du [10]Souterrain de Doublonville ? Combien de
+   points de bonheurs rapporte-t-il chacun ?
+
+   Est-ce que vous pouvez mettre un tableau concernant la 3G? Merci
+   d'avance. [11]...Red / Scariggron [12][Miniature_0214_RS.gif]
+   [13][Miniature_0260_RS.gif] - ([14]Scarhino?) 27 octobre 2010 à 09:08
+   (UTC)
+
+          Va falloir être plus explicite. [15]GreyDragon ([16]Question ?)
+          27 octobre 2010 à 09:10 (UTC)
+
+   [ ]
+
+Sommaire
+
+     * [17]1 Augmenter le bonheur
+     * [18]2 Qi
+     * [19]3 Impact sur la puissance ?
+     * [20]4 Message en plus
+     * [21]5 Bicyclette
+     * [22]6 Demande de précisisons
+     * [23]7 Quid des coeurs à la poké détente ?
+
+Augmenter le bonheur[[24]modifier]
+
+   Bonjour, Moi j'ai un Riolu et je souhaiterais savoir quand est ce qu'il
+   évolue. Parce que je le fais monter de niveau mais avec un Multi exp.
+   donc je sais pas si ça marche pareil ! Donc merci d'avance pour ceux
+   qui m'aideront ! (ah oui et aussi, c'est ou qu'on voit comment il est
+   heureux ??)
+
+          "je souhaiterais savoir quand est ce qu'il évolue" : impossible
+          à dire ; ça peut être au niveau 2, 61 ou jamais.
+          Sinon, pour te répondre, [25]toutes les façons d'augmenter le
+          bonheur dans la quatrième génération sont là.
+          Personnellement, je te conseille les 256 pas : avec de quoi
+          s'occuper à côté et un bon endroit (piste cyclable ou
+          Doublonville dans HGSS, Bonville dans DPP), c'est très rapide et
+          efficace.
+          [26]Kathan - 31 août 2011 à 08:42 (UTC)
+
+Qi[[27]modifier]
+
+   Est ce qie le qi dans pdm est un equivalent du bohneur, si oui doit il
+   etre max pour faire evoluer des pokemon comme nosferalto en nostenfer ?
+
+          ""Oui"" : Dans Donjon Mystère, c'est le QI qui est utilisé comme
+          la notion de bonheur n'y est pas présente. Il faut grosso modo
+          2.5 étoiles de QI pour que l'évo soit possible. --[28]Mewtwo Ex
+          ([29]discussion) 26 août 2012 à 17:31 (CEST)
+
+Impact sur la puissance ?[[30]modifier]
+
+   J'ai entendu dire qu'un Pokémon peut devenir plus puissant avec du
+   bonheur, c'est vrai ? [31][Miniature_0245_XY.png] [32]Suicune[33]300 15
+   avril 2014 à 17:48 (CEST)
+
+          Oui et non : les seules attaques qui deviennent puis puissantes
+          suivant le bonheur, c'est Retour et Frustration. Quant à
+          l'affection à la Poké Récré (qui est une "stat" différente),
+          elle peut permettre de résister à un KO, se soigner d'un
+          changement de statut, d'esquiver plus facilement, et de porter
+          des coups critiques supplémentaires, mais n'a pas d'impact
+          direct sur la puissance de base d'une attaque. --[34]Mewtwo Ex
+          ([35]discussion) 16 avril 2014 à 00:13 (CEST)
+
+Message en plus[[36]modifier]
+
+   Concernant la dame de Doublonville, celle-ci dit: Tu es vraiment un
+   amour... Un nuage de bonne humeur et de gentillesse flotte au-dessus de
+   toi; à propose de mon évolie over-dosé de calcium de toilettage.
+   J'imagine que ça correspond à un niveau élevé de bonheur mais je ne
+   vois pas ce message dans cette page. Je suis sous une version
+   cristal... (cet évolie reffuse toujours d'évoluer bien qu'il semble
+   être heureux et est au niveau 35!!!!!!)
+
+Bicyclette[[37]modifier]
+
+   Est ce que le pokemon apprécie la bicyclette ? Car dans la Poké récré
+   il a l'air de voler dans tous les sens..
+
+          Non, c'est juste un petit effet, il n'a pas vraiment de
+          conséquences dans le jeu.
+          [38]Prismi^ ([39]d)[40] 666 26 juin 2015 à 16:03 (UTC)
+
+   D'accord merci bien
+
+Demande de précisisons[[41]modifier]
+
+   Bonjour,
+
+   du fait que la caractéristique (ou la jauge si vous préférez) du
+   bonheur n'est pas directement accessible au joueur, il est très
+   difficile d'avoir des informations précises. Je me pose des questions,
+   je n'ai pas les moyens d'avoir la réponse par moi-même, et ce serait
+   bien, si d'autres on les réponses, que cet article le précise.
+
+   Déjà, est-ce qu'une jauge 0-255 était déjà présente dans la 1ere
+   Génération ou est-ce qu'elle a été introduite dans la 2eme?
+
+   - si oui: quels versions sont concernés?
+
+   -- Seulement pour Pikachu dans la version Jaune? Ou est-ce que tous les
+   autres Pokémon sont aussi concerné par une jauge de bonheur 0-255 mais
+   "inévaluable" pour le joueur?
+
+   -- Quid des versions Verte, Rouge et Bleue? Pas de jauge ou jauge
+   "inévaluable"?
+
+   - si non: est-ce une autre solution d'échelonnage du bonheur qui est
+   utilisé pour Pikachu? Et qu'en est-il pour les autres Pokémon?
+
+   J'affirme dans ma modification de l'article que "le bonheur n'influence
+   pas l'obéissance des Pokémon", car ça été une idée répandu à l'arrivée
+   des Pokémon fin 1999. Mais est-ce vrai? L'experience de jeu tend à dire
+   que oui, mais ce n'est pas en soi une réponse formelle.
+
+          Salut. Comme mentionné initialement dans la page, c'est vraiment
+          apparu avec Jaune, et uniquement pour Pikachu. Rien avant ça.
+          --[42]Mewtwo Ex ([43]discussion) 6 septembre 2017 à 23:56 (UTC)
+
+Quid des coeurs à la poké détente ?[[44]modifier]
+
+   Bonjour, si je comprends bien, les coeurs et l'amitié que tu vois a la
+   poké détente dans pokémon sl et usul n'ont rien a voir avec avec le
+   bohneur dont cette page parle ? --[45]ClequiMent ([46]discussion) 5
+   août 2019 à 15:22 (UTC)
+
+          Exactement, les cœurs d'affection sont une mécanique de jeu
+          différente. --[47]Mewtwo Ex ([48]discussion) 5 août 2019 à 17:33
+          (UTC)
+
+   Récupérée de
+   « [49]https://www.pokepedia.fr/index.php?title=Discussion:Bonheur&oldid
+   =2479842 »
+
+Menu de navigation
+
+Outils personnels
+
+     * Non connecté(e)
+     * [50]Discussion
+     * [51]Contributions
+     * [52]Créer un compte
+     * [53]Se connecter
+
+Espaces de noms
+
+     * [54]Page
+     * [55]Discussion
+
+   [ ] français
+
+Affichages
+
+     * [56]Lire
+     * [57]Modifier
+     * [58]Ajouter un sujet
+     * [59]Voir l’historique
+
+   [ ] Plus
+
+   ____________________ Rechercher Lire
+
+Navigation
+
+     * [60]Accueil
+     * [61]Page au hasard
+     * [62]Forum
+     * [63]Discord
+     * [64]Aide
+
+Contribuer
+
+     * [65]Modifications récentes
+     * [66]Tableau de bord
+     * [67]Projets
+     * [68]Premiers pas
+     * [69]Bac à sable
+     * [70]Conventions
+
+Outils
+
+     * [71]Pages liées
+     * [72]Suivi des pages liées
+     * [73]Téléverser un fichier
+     * [74]Pages spéciales
+     * [75]Version imprimable
+     * [76]Lien permanent
+     * [77]Informations sur la page
+
+     * La dernière modification de cette page a été faite le 28 juin 2023
+       à 14:03.
+     * Le contenu est disponible sous licence [78]Paternité-Pas
+       d'Utilisation Commerciale-Partage des Conditions Initiales à
+       l'Identique 3.0 sauf mention contraire.
+
+     * [79]Politique de confidentialité
+     * [80]À propos de Poképédia
+     * [81]-
+     * [82]Version mobile
+
+     * [83]Paternité-Pas d'Utilisation Commerciale-Partage des Conditions
+       Initiales à l'Identique 3.0
+     * [84]Powered by MediaWiki [85]Powered by Semantic MediaWiki
+
+References
+
+   Visible links:
+   1. https://www.pokepedia.fr/index.php?title=Spécial:Export_RDF/Discussion:Bonheur&xmlmime=rdf
+   2. https://www.pokepedia.fr/index.php?title=Discussion:Bonheur&action=edit
+   3. https://www.pokepedia.fr/opensearch_desc.php
+   4. https://www.pokepedia.fr/index.php?title=Spécial:Modifications_récentes&feed=atom
+   5. https://www.pokepedia.fr/Le_Masque_Turquoise
+   6. https://www.pokepedia.fr/Aide:Premiers_pas
+   7. https://www.pokepedia.fr/Poképédia:Discord
+   8. https://www.pokepedia.fr/Discussion:Bonheur#mw-head
+   9. https://www.pokepedia.fr/Discussion:Bonheur#searchInput
+  10. https://www.pokepedia.fr/Souterrain_de_Doublonville
+  11. https://www.pokepedia.fr/index.php?title=Utilisateur:...Red_/_Scariggron&action=edit&redlink=1
+  12. https://www.pokepedia.fr/Fichier:Miniature_0214_RS.gif
+  13. https://www.pokepedia.fr/Fichier:Miniature_0260_RS.gif
+  14. https://www.pokepedia.fr/index.php?title=Discussion_utilisateur:...Red&action=edit&redlink=1
+  15. https://www.pokepedia.fr/index.php?title=Utilisateur:GreyDragon&action=edit&redlink=1
+  16. https://www.pokepedia.fr/index.php?title=Discussion_utilisateur:GreyDragon&action=edit&redlink=1
+  17. https://www.pokepedia.fr/Discussion:Bonheur#Augmenter_le_bonheur
+  18. https://www.pokepedia.fr/Discussion:Bonheur#Qi
+  19. https://www.pokepedia.fr/Discussion:Bonheur#Impact_sur_la_puissance_?
+  20. https://www.pokepedia.fr/Discussion:Bonheur#Message_en_plus
+  21. https://www.pokepedia.fr/Discussion:Bonheur#Bicyclette
+  22. https://www.pokepedia.fr/Discussion:Bonheur#Demande_de_précisisons
+  23. https://www.pokepedia.fr/Discussion:Bonheur#Quid_des_coeurs_à_la_poké_détente_?
+  24. https://www.pokepedia.fr/index.php?title=Discussion:Bonheur&action=edit&section=1
+  25. https://www.pokepedia.fr/Bonheur#Tableau_récapitulatif
+  26. https://www.pokepedia.fr/index.php?title=Utilisateur:Kathan&action=edit&redlink=1
+  27. https://www.pokepedia.fr/index.php?title=Discussion:Bonheur&action=edit&section=2
+  28. https://www.pokepedia.fr/Utilisateur:Mewtwo_Ex
+  29. https://www.pokepedia.fr/Discussion_utilisateur:Mewtwo_Ex
+  30. https://www.pokepedia.fr/index.php?title=Discussion:Bonheur&action=edit&section=3
+  31. https://www.pokepedia.fr/Fichier:Miniature_0245_XY.png
+  32. https://www.pokepedia.fr/Utilisateur:Suicune300
+  33. https://www.pokepedia.fr/Discussion_utilisateur:Suicune300
+  34. https://www.pokepedia.fr/Utilisateur:Mewtwo_Ex
+  35. https://www.pokepedia.fr/Discussion_utilisateur:Mewtwo_Ex
+  36. https://www.pokepedia.fr/index.php?title=Discussion:Bonheur&action=edit&section=4
+  37. https://www.pokepedia.fr/index.php?title=Discussion:Bonheur&action=edit&section=5
+  38. https://www.pokepedia.fr/Utilisateur:Prismillon
+  39. https://www.pokepedia.fr/Discussion_utilisateur:Prismillon
+  40. https://www.pokepedia.fr/Pokémon_n°666
+  41. https://www.pokepedia.fr/index.php?title=Discussion:Bonheur&action=edit&section=6
+  42. https://www.pokepedia.fr/Utilisateur:Mewtwo_Ex
+  43. https://www.pokepedia.fr/Discussion_utilisateur:Mewtwo_Ex
+  44. https://www.pokepedia.fr/index.php?title=Discussion:Bonheur&action=edit&section=7
+  45. https://www.pokepedia.fr/index.php?title=Utilisateur:ClequiMent&action=edit&redlink=1
+  46. https://www.pokepedia.fr/Discussion_utilisateur:ClequiMent
+  47. https://www.pokepedia.fr/Utilisateur:Mewtwo_Ex
+  48. https://www.pokepedia.fr/Discussion_utilisateur:Mewtwo_Ex
+  49. https://www.pokepedia.fr/index.php?title=Discussion:Bonheur&oldid=2479842
+  50. https://www.pokepedia.fr/Spécial:Mes_discussions
+  51. https://www.pokepedia.fr/Spécial:Mes_contributions
+  52. https://www.pokepedia.fr/index.php?title=Spécial:Créer_un_compte&returnto=Discussion:Bonheur
+  53. https://www.pokepedia.fr/index.php?title=Spécial:Connexion&returnto=Discussion:Bonheur
+  54. https://www.pokepedia.fr/Bonheur
+  55. https://www.pokepedia.fr/Discussion:Bonheur
+  56. https://www.pokepedia.fr/Discussion:Bonheur
+  57. https://www.pokepedia.fr/index.php?title=Discussion:Bonheur&action=edit
+  58. https://www.pokepedia.fr/index.php?title=Discussion:Bonheur&action=edit&section=new
+  59. https://www.pokepedia.fr/index.php?title=Discussion:Bonheur&action=history
+  60. https://www.pokepedia.fr/Portail:Accueil
+  61. https://www.pokepedia.fr/Spécial:Page_au_hasard
+  62. https://forum.pokepedia.fr/
+  63. https://discord.gg/ApHjgNHTmn
+  64. https://www.pokepedia.fr/Aide:Sommaire
+  65. https://www.pokepedia.fr/Spécial:Modifications_récentes
+  66. https://www.pokepedia.fr/Poképédia:Tableau_de_bord
+  67. https://www.pokepedia.fr/Catégorie:Projet
+  68. https://www.pokepedia.fr/Aide:Premiers_pas
+  69. https://www.pokepedia.fr/Aide:Bac_à_sable
+  70. https://www.pokepedia.fr/Poképédia:Conventions_de_style
+  71. https://www.pokepedia.fr/Spécial:Pages_liées/Discussion:Bonheur
+  72. https://www.pokepedia.fr/Spécial:Suivi_des_liens/Discussion:Bonheur
+  73. https://www.pokepedia.fr/index.php?title=Spécial:Téléverser&wpUploadDescription=<!--+Remplacer+cette+ligne+par+la+description+du+fichier+-->
+
+{{Informations+Fichier
+|+Source+=+<!--+Indiquer+un+lien+vers+l'endroit+où+le+fichier+a+été+obtenu,+ou+le+nom+de+l'utilisateur+l'ayant+créé+-->
+|+Auteur+=+<!--+Indiquer+l'auteur+de+l'image+au+sens+juridique+(développeur+du+jeu,+etc)+-->
+}}
+
+<!--+Remplacer+cette+ligne+par+la+catégorisation+du+fichier+-->
+  74. https://www.pokepedia.fr/Spécial:Pages_spéciales
+  75. javascript:print();
+  76. https://www.pokepedia.fr/index.php?title=Discussion:Bonheur&oldid=2479842
+  77. https://www.pokepedia.fr/index.php?title=Discussion:Bonheur&action=info
+  78. https://www.pokepedia.fr/Poképédia:Copyrights
+  79. https://www.pokepedia.fr/Poképédia:Politique_de_confidentialité
+  80. https://www.pokepedia.fr/Poképédia:À_propos_de
+  81. https://www.pokepedia.fr/Poképédia:À_propos_de
+  82. https://www.pokepedia.fr/index.php?title=Discussion:Bonheur&mobileaction=toggle_view_mobile
+  83. https://creativecommons.org/licenses/by-nc-sa/3.0/
+  84. https://www.mediawiki.org/
+  85. https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki
+
+   Hidden links:
+  87. https://www.pokepedia.fr/Portail:Accueil
