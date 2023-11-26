@@ -24,7 +24,9 @@ Ensuite, nous nous sommes reunis au cours de la semaine pour pouruivre le projet
 - recherché les contextes gauche et droit de notre mot à l'aide des fonctions -B et -A de grep
 
 ### Maria :
-blabla
+Le travail en groupe s'est très bien passé. On a décidé de faire les push depuis l'ordinateur de Patricia pour éviter des problèmes. On a décidé de tout classer dans des dossiers et changer chaque script séparemment. Je pense qu'on travaille bien en groupe du fait qu'on s'entraide bien.
+
+On a fait une réunion en groupe, aujourd'hui, dimanche 26 novembre. J'ai eu des problèmes avec mon script du fait que il y avait seulement 7 liens qui s'affichaient et je ne réussissais pas à le changer. On a pris le modèle de script de Patricia, qui était le plus complète et qui avait tous les chemins relatifs qu'on avait utilisé dans notre scprit en cours. On a travaillé ensemble pour résoudre les problèmes de git-hub d'Agata et on appris qu'on ne peut pas modifier des documents, les enregistrer sur notre machine et après faire git-pull. On pensait cela à partir des explications du cours.
 
 ### Discussion en groupe :
 
