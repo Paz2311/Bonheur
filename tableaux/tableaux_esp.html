@@ -1,0 +1,566 @@
+<html>
+	<head>
+		<meta charset=UTF-8/>
+		<title>Tableau</title>
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css">
+        <link href='https://fonts.googleapis.com/css2?family=Abel&family=Bad+Script&display=swap' rel="stylesheet">
+        <style>
+            html{
+                background: #FAF0E6;
+            }
+
+            body {
+                font-family: Abel;
+
+            }
+
+            p {
+                font-size : 20px;
+            }
+
+            table {
+                box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.8);
+            }
+
+            tr {
+                transition: all .2s ease-in;
+                cursor: pointer;
+            }
+
+            tr:hover {
+                color: #FBFFFF;
+                background-color: black;
+                transform: scale(1.01);
+            }
+        </style>
+	</head>
+	<body>
+
+			 <div class="content m-3">
+				<h1 class="has-text-centered notification has-background-warning-light">Résultat du tableau</h1>
+				<p>Voici le résultat final du tableaux. Pour cela vous trouverez : </p>
+				<ul>
+					<li>Le numéro de la ligne</li>
+					<li>Le lien URL de la page web</li>
+					<li>Le code HTTP, c'est-à-dire la réponse du navigateur lorsque l'utilisateur se trouve sur le site</li>
+					<li>L'encodage de la page</li>
+					<li>Le lien des pages aspirées au format HTML</li>
+					<li>Le lien des dumps-text en .txt</li>
+					<li>Le nombre d'occurrences</li>
+					<li>Le contexte droit et gauche en .txt</li>
+				</ul>
+				<table class="table is-bordered">
+				<tr>
+                    <th>Ligne</th>
+                    <th>URL</th>
+                    <th>Code HTTP</th>
+                    <th>Encodage</th>
+                    <th>Aspiration</th>
+                    <th>Dump-text</th>
+                    <th>Compte</th>
+                    <th>Contexte</th></tr> 
+				<tr>
+					<td>1</td>
+					<td>https://www.meneame.net/search?q=felicidad</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/espagnol/esp_1.html">esp_1.html</a></td>
+					<td><a href="../dumps-text/espagnol/esp_1.txt">esp_1.txt</a></td>
+					<td>6</td>
+					<td><a href='../contextes/espagnol/esp_1.txt'>esp_1.txt</a></td>
+				</tr>
+				<tr>
+					<td>2</td>
+					<td>https://forobeta.com/temas/tema-para-preguntas-random-a-chatgpt.938689/page-665#post-8837943</td>
+					<td>200</td>
+					<td>utf-8</td>
+					<td><a href="../aspirations/espagnol/esp_2.html">esp_2.html</a></td>
+					<td><a href="../dumps-text/espagnol/esp_2.txt">esp_2.txt</a></td>
+					<td>4</td>
+					<td><a href='../contextes/espagnol/esp_2.txt'>esp_2.txt</a></td>
+				</tr>
+				<tr>
+					<td>3</td>
+					<td>https://foro.elhacker.net/foro_libre/que_es_la_felicidad_para_ustedes-t357979.0.html;msg1732979</td>
+					<td>200</td>
+					<td>ISO-8859-1</td>
+					<td><a href="../aspirations/espagnol/esp_3.html">esp_3.html</a></td>
+					<td><a href="../dumps-text/espagnol/esp_3.txt">esp_3.txt</a></td>
+					<td>20</td>
+					<td><a href='../contextes/espagnol/esp_3.txt'>esp_3.txt</a></td>
+				</tr>
+				<tr>
+					<td>4</td>
+					<td>https://www.taringa.net/search/story?q=felicidad&sort=recent&nsfw=false</td>
+					<td>200</td>
+					<td>utf-8</td>
+					<td><a href="../aspirations/espagnol/esp_4.html">esp_4.html</a></td>
+					<td><a href="../dumps-text/espagnol/esp_4.txt">esp_4.txt</a></td>
+					<td>1</td>
+					<td><a href='../contextes/espagnol/esp_4.txt'>esp_4.txt</a></td>
+				</tr>
+				<tr>
+					<td>5</td>
+					<td>https://www.forodeforos.org/medir-la-felicidad-es-posible/</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/espagnol/esp_5.html">esp_5.html</a></td>
+					<td><a href="../dumps-text/espagnol/esp_5.txt">esp_5.txt</a></td>
+					<td>26</td>
+					<td><a href='../contextes/espagnol/esp_5.txt'>esp_5.txt</a></td>
+				</tr>
+				<tr>
+					<td>6</td>
+					<td>https://forocoches.com/foro/showthread.php?t=7221062</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/espagnol/esp_6.html">esp_6.html</a></td>
+					<td><a href="../dumps-text/espagnol/esp_6.txt">esp_6.txt</a></td>
+					<td>3</td>
+					<td><a href='../contextes/espagnol/esp_6.txt'>esp_6.txt</a></td>
+				</tr>
+				<tr>
+					<td>7</td>
+					<td>https://forocoches.com/foro/showthread.php?t=9403389</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/espagnol/esp_7.html">esp_7.html</a></td>
+					<td><a href="../dumps-text/espagnol/esp_7.txt">esp_7.txt</a></td>
+					<td>3</td>
+					<td><a href='../contextes/espagnol/esp_7.txt'>esp_7.txt</a></td>
+				</tr>
+				<tr>
+					<td>8</td>
+					<td>https://foro.somospsicologos.es/foro/bienvenida/no-logro-sentirme-feliz/</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/espagnol/esp_8.html">esp_8.html</a></td>
+					<td><a href="../dumps-text/espagnol/esp_8.txt">esp_8.txt</a></td>
+					<td>2</td>
+					<td><a href='../contextes/espagnol/esp_8.txt'>esp_8.txt</a></td>
+				</tr>
+				<tr>
+					<td>9</td>
+					<td>https://www.abretelibro.com/foro/viewtopic.php?t=50753</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/espagnol/esp_9.html">esp_9.html</a></td>
+					<td><a href="../dumps-text/espagnol/esp_9.txt">esp_9.txt</a></td>
+					<td>10</td>
+					<td><a href='../contextes/espagnol/esp_9.txt'>esp_9.txt</a></td>
+				</tr>
+				<tr>
+					<td>10</td>
+					<td>https://www.abretelibro.com/foro/viewtopic.php?t=74068</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/espagnol/esp_10.html">esp_10.html</a></td>
+					<td><a href="../dumps-text/espagnol/esp_10.txt">esp_10.txt</a></td>
+					<td>15</td>
+					<td><a href='../contextes/espagnol/esp_10.txt'>esp_10.txt</a></td>
+				</tr>
+				<tr>
+					<td>11</td>
+					<td>https://www.cotilleando.com/threads/libros-de-psicologia-autoayuda-o-superacion.129561/</td>
+					<td>403</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/espagnol/esp_11.html">esp_11.html</a></td>
+					<td><a href="../dumps-text/espagnol/esp_11.txt">esp_11.txt</a></td>
+					<td>2</td>
+					<td><a href='../contextes/espagnol/esp_11.txt'>esp_11.txt</a></td>
+				</tr>
+				<tr>
+					<td>12</td>
+					<td>https://www.cotilleando.com/threads/sugerencias-de-libros-de-autoayuda-inteligencia-emocional.141266/</td>
+					<td>403</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/espagnol/esp_12.html">esp_12.html</a></td>
+					<td><a href="../dumps-text/espagnol/esp_12.txt">esp_12.txt</a></td>
+					<td>2</td>
+					<td><a href='../contextes/espagnol/esp_12.txt'>esp_12.txt</a></td>
+				</tr>
+				<tr>
+					<td>13</td>
+					<td>https://www.cotilleando.com/threads/la-farsa-de-la-aparente-felicidad.160148/page-2</td>
+					<td>403</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/espagnol/esp_13.html">esp_13.html</a></td>
+					<td><a href="../dumps-text/espagnol/esp_13.txt">esp_13.txt</a></td>
+					<td>5</td>
+					<td><a href='../contextes/espagnol/esp_13.txt'>esp_13.txt</a></td>
+				</tr>
+				<tr>
+					<td>14</td>
+					<td>https://sofosagora.net/viewtopic.php?f=13&t=6039&view=previous</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/espagnol/esp_14.html">esp_14.html</a></td>
+					<td><a href="../dumps-text/espagnol/esp_14.txt">esp_14.txt</a></td>
+					<td>33</td>
+					<td><a href='../contextes/espagnol/esp_14.txt'>esp_14.txt</a></td>
+				</tr>
+				<tr>
+					<td>15</td>
+					<td>https://5minutos.cu/tema/como-ser-feliz.8909/</td>
+					<td>404</td>
+					<td></td>
+					<td><a href="../aspirations/espagnol/esp_15.html">esp_15.html</a></td>
+					<td><a href="../dumps-text/espagnol/esp_15.txt">esp_15.txt</a></td>
+					<td>0</td>
+					<td><a href='../contextes/espagnol/esp_15.txt'>esp_15.txt</a></td>
+				</tr>
+				<tr>
+					<td>16</td>
+					<td>https://www.forosperu.net/temas/autoayuda.1188181/</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/espagnol/esp_16.html">esp_16.html</a></td>
+					<td><a href="../dumps-text/espagnol/esp_16.txt">esp_16.txt</a></td>
+					<td>5</td>
+					<td><a href='../contextes/espagnol/esp_16.txt'>esp_16.txt</a></td>
+				</tr>
+				<tr>
+					<td>17</td>
+					<td>https://www.filosofiauned.es/index.php?option=com_kunena&view=topic&catid=77&id=22585&limitstart=20&Itemid=72</td>
+					<td>200</td>
+					<td>utf-8</td>
+					<td><a href="../aspirations/espagnol/esp_17.html">esp_17.html</a></td>
+					<td><a href="../dumps-text/espagnol/esp_17.txt">esp_17.txt</a></td>
+					<td>6</td>
+					<td><a href='../contextes/espagnol/esp_17.txt'>esp_17.txt</a></td>
+				</tr>
+				<tr>
+					<td>18</td>
+					<td>https://www.expat.com/forum/viewtopic.php?id=617168</td>
+					<td>403</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/espagnol/esp_18.html">esp_18.html</a></td>
+					<td><a href="../dumps-text/espagnol/esp_18.txt">esp_18.txt</a></td>
+					<td>10</td>
+					<td><a href='../contextes/espagnol/esp_18.txt'>esp_18.txt</a></td>
+				</tr>
+				<tr>
+					<td>19</td>
+					<td>https://cvc.cervantes.es/foros/leer_asunto1.asp?vCodigo=37186</td>
+					<td>200</td>
+					<td></td>
+					<td><a href="../aspirations/espagnol/esp_19.html">esp_19.html</a></td>
+					<td><a href="../dumps-text/espagnol/esp_19.txt">esp_19.txt</a></td>
+					<td>4</td>
+					<td><a href='../contextes/espagnol/esp_19.txt'>esp_19.txt</a></td>
+				</tr>
+				<tr>
+					<td>20</td>
+					<td>https://cvc.cervantes.es/foros/leer_asunto1.asp?vCodigo=33583</td>
+					<td>200</td>
+					<td></td>
+					<td><a href="../aspirations/espagnol/esp_20.html">esp_20.html</a></td>
+					<td><a href="../dumps-text/espagnol/esp_20.txt">esp_20.txt</a></td>
+					<td>2</td>
+					<td><a href='../contextes/espagnol/esp_20.txt'>esp_20.txt</a></td>
+				</tr>
+				<tr>
+					<td>21</td>
+					<td>https://cvc.cervantes.es/foros/leer_asunto1.asp?vCodigo=14546</td>
+					<td>200</td>
+					<td></td>
+					<td><a href="../aspirations/espagnol/esp_21.html">esp_21.html</a></td>
+					<td><a href="../dumps-text/espagnol/esp_21.txt">esp_21.txt</a></td>
+					<td>3</td>
+					<td><a href='../contextes/espagnol/esp_21.txt'>esp_21.txt</a></td>
+				</tr>
+				<tr>
+					<td>22</td>
+					<td>https://cvc.cervantes.es/foros/leer_asunto1.asp?vCodigo=39251</td>
+					<td>200</td>
+					<td></td>
+					<td><a href="../aspirations/espagnol/esp_22.html">esp_22.html</a></td>
+					<td><a href="../dumps-text/espagnol/esp_22.txt">esp_22.txt</a></td>
+					<td>13</td>
+					<td><a href='../contextes/espagnol/esp_22.txt'>esp_22.txt</a></td>
+				</tr>
+				<tr>
+					<td>23</td>
+					<td>https://steamcommunity.com/discussions/forum/29/3165461775614591568/?l=hungarian</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/espagnol/esp_23.html">esp_23.html</a></td>
+					<td><a href="../dumps-text/espagnol/esp_23.txt">esp_23.txt</a></td>
+					<td>7</td>
+					<td><a href='../contextes/espagnol/esp_23.txt'>esp_23.txt</a></td>
+				</tr>
+				<tr>
+					<td>24</td>
+					<td>https://www.itu.int/net4/wsis/forum/2022/es/Agenda/Session/266</td>
+					<td>200</td>
+					<td>utf-8</td>
+					<td><a href="../aspirations/espagnol/esp_24.html">esp_24.html</a></td>
+					<td><a href="../dumps-text/espagnol/esp_24.txt">esp_24.txt</a></td>
+					<td>8</td>
+					<td><a href='../contextes/espagnol/esp_24.txt'>esp_24.txt</a></td>
+				</tr>
+				<tr>
+					<td>25</td>
+					<td>https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?page=2</td>
+					<td>200</td>
+					<td>utf-8</td>
+					<td><a href="../aspirations/espagnol/esp_25.html">esp_25.html</a></td>
+					<td><a href="../dumps-text/espagnol/esp_25.txt">esp_25.txt</a></td>
+					<td>1</td>
+					<td><a href='../contextes/espagnol/esp_25.txt'>esp_25.txt</a></td>
+				</tr>
+				<tr>
+					<td>26</td>
+					<td>https://www.tripadvisor.co/ShowTopic-g34515-i19-k4865323-o10-Si_si_si_me_dieron_la_visa_QUE_FELICIDAD-Orlando_Florida.html</td>
+					<td>000</td>
+					<td></td>
+					<td><a href="../aspirations/espagnol/esp_26.html">esp_26.html</a></td>
+					<td><a href="../dumps-text/espagnol/esp_26.txt">esp_26.txt</a></td>
+					<td>2</td>
+					<td><a href='../contextes/espagnol/esp_26.txt'>esp_26.txt</a></td>
+				</tr>
+				<tr>
+					<td>27</td>
+					<td>https://forocoches.com/foro/showthread.php?t=8319252</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/espagnol/esp_27.html">esp_27.html</a></td>
+					<td><a href="../dumps-text/espagnol/esp_27.txt">esp_27.txt</a></td>
+					<td>23</td>
+					<td><a href='../contextes/espagnol/esp_27.txt'>esp_27.txt</a></td>
+				</tr>
+				<tr>
+					<td>28</td>
+					<td>https://www.ofertasbancarias.es/foros/p36453/dinero-felicidad</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/espagnol/esp_28.html">esp_28.html</a></td>
+					<td><a href="../dumps-text/espagnol/esp_28.txt">esp_28.txt</a></td>
+					<td>6</td>
+					<td><a href='../contextes/espagnol/esp_28.txt'>esp_28.txt</a></td>
+				</tr>
+				<tr>
+					<td>29</td>
+					<td>https://www.acufenos.org/~foro/viewtopic.php?t=4445</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/espagnol/esp_29.html">esp_29.html</a></td>
+					<td><a href="../dumps-text/espagnol/esp_29.txt">esp_29.txt</a></td>
+					<td>5</td>
+					<td><a href='../contextes/espagnol/esp_29.txt'>esp_29.txt</a></td>
+				</tr>
+				<tr>
+					<td>30</td>
+					<td>https://www.meneame.net/m/actualidad/horror-vida-logros-vacios</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/espagnol/esp_30.html">esp_30.html</a></td>
+					<td><a href="../dumps-text/espagnol/esp_30.txt">esp_30.txt</a></td>
+					<td>2</td>
+					<td><a href='../contextes/espagnol/esp_30.txt'>esp_30.txt</a></td>
+				</tr>
+				<tr>
+					<td>31</td>
+					<td>https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/page-2#</td>
+					<td>200</td>
+					<td>utf-8</td>
+					<td><a href="../aspirations/espagnol/esp_31.html">esp_31.html</a></td>
+					<td><a href="../dumps-text/espagnol/esp_31.txt">esp_31.txt</a></td>
+					<td>1</td>
+					<td><a href='../contextes/espagnol/esp_31.txt'>esp_31.txt</a></td>
+				</tr>
+				<tr>
+					<td>32</td>
+					<td>https://www.burbuja.info/inmobiliaria/threads/el-infame-determinismo.2022108/#</td>
+					<td>200</td>
+					<td>utf-8</td>
+					<td><a href="../aspirations/espagnol/esp_32.html">esp_32.html</a></td>
+					<td><a href="../dumps-text/espagnol/esp_32.txt">esp_32.txt</a></td>
+					<td>1</td>
+					<td><a href='../contextes/espagnol/esp_32.txt'>esp_32.txt</a></td>
+				</tr>
+				<tr>
+					<td>33</td>
+					<td>https://www.burbuja.info/inmobiliaria/threads/viajar-es-lo-mas-sobrevalorado-que-hay.2018985/page-3#</td>
+					<td>200</td>
+					<td>utf-8</td>
+					<td><a href="../aspirations/espagnol/esp_33.html">esp_33.html</a></td>
+					<td><a href="../dumps-text/espagnol/esp_33.txt">esp_33.txt</a></td>
+					<td>1</td>
+					<td><a href='../contextes/espagnol/esp_33.txt'>esp_33.txt</a></td>
+				</tr>
+				<tr>
+					<td>34</td>
+					<td>https://www.burbuja.info/inmobiliaria/threads/se-ha-liado-en-las-palmas-tanto-terror-informativo-y-pasa-lo-que-pasa.2019311/#</td>
+					<td>200</td>
+					<td>utf-8</td>
+					<td><a href="../aspirations/espagnol/esp_34.html">esp_34.html</a></td>
+					<td><a href="../dumps-text/espagnol/esp_34.txt">esp_34.txt</a></td>
+					<td>1</td>
+					<td><a href='../contextes/espagnol/esp_34.txt'>esp_34.txt</a></td>
+				</tr>
+				<tr>
+					<td>35</td>
+					<td>https://www.burbuja.info/inmobiliaria/threads/que-razon-este-comentario-sobre-los-90.2020251/#</td>
+					<td>200</td>
+					<td>utf-8</td>
+					<td><a href="../aspirations/espagnol/esp_35.html">esp_35.html</a></td>
+					<td><a href="../dumps-text/espagnol/esp_35.txt">esp_35.txt</a></td>
+					<td>1</td>
+					<td><a href='../contextes/espagnol/esp_35.txt'>esp_35.txt</a></td>
+				</tr>
+				<tr>
+					<td>36</td>
+					<td>https://forobeta.com/temas/di-lo-que-quieras-2023.925761/page-628#post-8816282</td>
+					<td>200</td>
+					<td>utf-8</td>
+					<td><a href="../aspirations/espagnol/esp_36.html">esp_36.html</a></td>
+					<td><a href="../dumps-text/espagnol/esp_36.txt">esp_36.txt</a></td>
+					<td>2</td>
+					<td><a href='../contextes/espagnol/esp_36.txt'>esp_36.txt</a></td>
+				</tr>
+				<tr>
+					<td>37</td>
+					<td>https://forobeta.com/temas/saludos-comunidad.969013/</td>
+					<td>200</td>
+					<td>utf-8</td>
+					<td><a href="../aspirations/espagnol/esp_37.html">esp_37.html</a></td>
+					<td><a href="../dumps-text/espagnol/esp_37.txt">esp_37.txt</a></td>
+					<td>0</td>
+					<td><a href='../contextes/espagnol/esp_37.txt'>esp_37.txt</a></td>
+				</tr>
+				<tr>
+					<td>38</td>
+					<td>https://forobeta.com/temas/editor-de-videos-profesionales-tiktok-shorts-reels-publicidad-editamos-todo-tipo-de-contenido.966752/</td>
+					<td>403</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/espagnol/esp_38.html">esp_38.html</a></td>
+					<td><a href="../dumps-text/espagnol/esp_38.txt">esp_38.txt</a></td>
+					<td>0</td>
+					<td><a href='../contextes/espagnol/esp_38.txt'>esp_38.txt</a></td>
+				</tr>
+				<tr>
+					<td>39</td>
+					<td>https://www.yoreparo.com/es/tv/televisores/tubo/preguntas/1128752/felicidades</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/espagnol/esp_39.html">esp_39.html</a></td>
+					<td><a href="../dumps-text/espagnol/esp_39.txt">esp_39.txt</a></td>
+					<td>0</td>
+					<td><a href='../contextes/espagnol/esp_39.txt'>esp_39.txt</a></td>
+				</tr>
+				<tr>
+					<td>40</td>
+					<td>https://www.losviajeros.com/Blogs.php?b=1458&q=Laos-pais-felicidad</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/espagnol/esp_40.html">esp_40.html</a></td>
+					<td><a href="../dumps-text/espagnol/esp_40.txt">esp_40.txt</a></td>
+					<td>10</td>
+					<td><a href='../contextes/espagnol/esp_40.txt'>esp_40.txt</a></td>
+				</tr>
+				<tr>
+					<td>41</td>
+					<td>https://www.losviajeros.com/foros.php?sm=felicidad</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/espagnol/esp_41.html">esp_41.html</a></td>
+					<td><a href="../dumps-text/espagnol/esp_41.txt">esp_41.txt</a></td>
+					<td>25</td>
+					<td><a href='../contextes/espagnol/esp_41.txt'>esp_41.txt</a></td>
+				</tr>
+				<tr>
+					<td>42</td>
+					<td>https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/espagnol/esp_42.html">esp_42.html</a></td>
+					<td><a href="../dumps-text/espagnol/esp_42.txt">esp_42.txt</a></td>
+					<td>8</td>
+					<td><a href='../contextes/espagnol/esp_42.txt'>esp_42.txt</a></td>
+				</tr>
+				<tr>
+					<td>43</td>
+					<td>https://www.mediavida.com/foro/off-topic/el-dinero-si-la-felicidad-693923</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/espagnol/esp_43.html">esp_43.html</a></td>
+					<td><a href="../dumps-text/espagnol/esp_43.txt">esp_43.txt</a></td>
+					<td>20</td>
+					<td><a href='../contextes/espagnol/esp_43.txt'>esp_43.txt</a></td>
+				</tr>
+				<tr>
+					<td>44</td>
+					<td>https://www.elotrolado.net/noticias/juegos/harmony-fall-reverie-fecha-lanzamiento</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/espagnol/esp_44.html">esp_44.html</a></td>
+					<td><a href="../dumps-text/espagnol/esp_44.txt">esp_44.txt</a></td>
+					<td>0</td>
+					<td><a href='../contextes/espagnol/esp_44.txt'>esp_44.txt</a></td>
+				</tr>
+				<tr>
+					<td>45</td>
+					<td>https://www.foromtb.com/threads/se-vende-felicidad.553360/</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/espagnol/esp_45.html">esp_45.html</a></td>
+					<td><a href="../dumps-text/espagnol/esp_45.txt">esp_45.txt</a></td>
+					<td>2</td>
+					<td><a href='../contextes/espagnol/esp_45.txt'>esp_45.txt</a></td>
+				</tr>
+				<tr>
+					<td>46</td>
+					<td>https://www.foromtb.com/threads/rincon-ti-la-locura-padre-%C2%A1%C2%A1%C2%A1%C2%A1%C2%A1-ti-forever.56507/page-1725#post-28425460</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/espagnol/esp_46.html">esp_46.html</a></td>
+					<td><a href="../dumps-text/espagnol/esp_46.txt">esp_46.txt</a></td>
+					<td>2</td>
+					<td><a href='../contextes/espagnol/esp_46.txt'>esp_46.txt</a></td>
+				</tr>
+				<tr>
+					<td>47</td>
+					<td>https://www.down21.org/foro/educacion-y-psicologia/55940-la-busqueda-de-la-felicidad.html?start=6</td>
+					<td>200</td>
+					<td>utf-8</td>
+					<td><a href="../aspirations/espagnol/esp_47.html">esp_47.html</a></td>
+					<td><a href="../dumps-text/espagnol/esp_47.txt">esp_47.txt</a></td>
+					<td>30</td>
+					<td><a href='../contextes/espagnol/esp_47.txt'>esp_47.txt</a></td>
+				</tr>
+				<tr>
+					<td>48</td>
+					<td>https://us.forums.blizzard.com/es/wow/t/vengo-a-compartir-mi-felicidad/11510</td>
+					<td>200</td>
+					<td></td>
+					<td><a href="../aspirations/espagnol/esp_48.html">esp_48.html</a></td>
+					<td><a href="../dumps-text/espagnol/esp_48.txt">esp_48.txt</a></td>
+					<td>1</td>
+					<td><a href='../contextes/espagnol/esp_48.txt'>esp_48.txt</a></td>
+				</tr>
+				<tr>
+					<td>49</td>
+					<td>http://humanidades.cosfac.sems.gob.mx/etica/grupos/relaciones-interpersonales/forum/topic/la-felicidad-esta-en-uno-mismo/</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/espagnol/esp_49.html">esp_49.html</a></td>
+					<td><a href="../dumps-text/espagnol/esp_49.txt">esp_49.txt</a></td>
+					<td>68</td>
+					<td><a href='../contextes/espagnol/esp_49.txt'>esp_49.txt</a></td>
+				</tr>
+				<tr>
+					<td>50</td>
+					<td>https://www.pokexperto.net/foros/index.php?topic=460.0</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/espagnol/esp_50.html">esp_50.html</a></td>
+					<td><a href="../dumps-text/espagnol/esp_50.txt">esp_50.txt</a></td>
+					<td>8</td>
+					<td><a href='../contextes/espagnol/esp_50.txt'>esp_50.txt</a></td>
+				</tr>
+
+			</table>
+		</div>
+	</body>
+</html>

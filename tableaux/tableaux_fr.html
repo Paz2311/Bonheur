@@ -1,0 +1,666 @@
+<html>
+	<head>
+		<meta charset=UTF-8/>
+		<title>Tableau</title>
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css">
+        <link href='https://fonts.googleapis.com/css2?family=Abel&family=Bad+Script&display=swap' rel="stylesheet">
+        <style>
+            html{
+                background: #FAF0E6;
+            }
+
+            body {
+                font-family: Abel;
+
+            }
+
+            p {
+                font-size : 20px;
+            }
+
+            table {
+                box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.8);
+            }
+
+            tr {
+                transition: all .2s ease-in;
+                cursor: pointer;
+            }
+
+            tr:hover {
+                color: #FBFFFF;
+                background-color: black;
+                transform: scale(1.01);
+            }
+        </style>
+	</head>
+	<body>
+
+			 <div class="content m-3">
+				<h1 class="has-text-centered notification has-background-warning-light">Résultat du tableau</h1>
+				<p>Voici le résultat final du tableaux. Pour cela vous trouverez : </p>
+				<ul>
+					<li>Le numéro de la ligne</li>
+					<li>Le lien URL de la page web</li>
+					<li>Le code HTTP, c'est-à-dire la réponse du navigateur lorsque l'utilisateur se trouve sur le site</li>
+					<li>L'encodage de la page</li>
+					<li>Le lien des pages aspirées au format HTML</li>
+					<li>Le lien des dumps-text en .txt</li>
+					<li>Le nombre d'occurrences</li>
+					<li>Le contexte droit et gauche en .txt</li>
+				</ul>
+				<table class="table is-bordered">
+				<tr>
+                    <th>Ligne</th>
+                    <th>URL</th>
+                    <th>Code HTTP</th>
+                    <th>Encodage</th>
+                    <th>Aspiration</th>
+                    <th>Dump-text</th>
+                    <th>Compte</th>
+                    <th>Contexte</th></tr> 
+				<tr>
+					<td>1</td>
+					<td>https://forum.ubuntu-fr.org/viewtopic.php?id=344571</td>
+					<td>200</td>
+					<td>utf-8</td>
+					<td><a href="../aspirations/francais/fr_1.html">fr_1.html</a></td>
+					<td><a href="../dumps-text/francais/fr_1.txt">fr_1.txt</a></td>
+					<td>60</td>
+					<td><a href='../contextes/francais/fr_1.txt'>fr_1.txt</a></td>
+				</tr>
+				<tr>
+					<td>2</td>
+					<td>https://forums.madmoizelle.com/sujets/le-bonheur-cest-quoi-et-comment-latteindre.148767/</td>
+					<td>200</td>
+					<td>utf-8</td>
+					<td><a href="../aspirations/francais/fr_2.html">fr_2.html</a></td>
+					<td><a href="../dumps-text/francais/fr_2.txt">fr_2.txt</a></td>
+					<td>28</td>
+					<td><a href='../contextes/francais/fr_2.txt'>fr_2.txt</a></td>
+				</tr>
+				<tr>
+					<td>3</td>
+					<td>https://www.allocine.fr/film/fichefilm-1487/critiques/spectateurs/</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/francais/fr_3.html">fr_3.html</a></td>
+					<td><a href="../dumps-text/francais/fr_3.txt">fr_3.txt</a></td>
+					<td>30</td>
+					<td><a href='../contextes/francais/fr_3.txt'>fr_3.txt</a></td>
+				</tr>
+				<tr>
+					<td>4</td>
+					<td>https://forum.psychologies.com/t/qu-est-ce-que-le-bonheur2</td>
+					<td>200</td>
+					<td>utf-8</td>
+					<td><a href="../aspirations/francais/fr_4.html">fr_4.html</a></td>
+					<td><a href="../dumps-text/francais/fr_4.txt">fr_4.txt</a></td>
+					<td>6</td>
+					<td><a href='../contextes/francais/fr_4.txt'>fr_4.txt</a></td>
+				</tr>
+				<tr>
+					<td>5</td>
+					<td>https://www.forumfr.com/sujet484471-cest-quoi-le-bonheur-pour-vous.html</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/francais/fr_5.html">fr_5.html</a></td>
+					<td><a href="../dumps-text/francais/fr_5.txt">fr_5.txt</a></td>
+					<td>36</td>
+					<td><a href='../contextes/francais/fr_5.txt'>fr_5.txt</a></td>
+				</tr>
+				<tr>
+					<td>6</td>
+					<td>https://www.mamanpourlavie.com/forum/sujet/le-bonheur-est-ce-tabou</td>
+					<td>200</td>
+					<td>utf-8</td>
+					<td><a href="../aspirations/francais/fr_6.html">fr_6.html</a></td>
+					<td><a href="../dumps-text/francais/fr_6.txt">fr_6.txt</a></td>
+					<td>51</td>
+					<td><a href='../contextes/francais/fr_6.txt'>fr_6.txt</a></td>
+				</tr>
+				<tr>
+					<td>7</td>
+					<td>https://naturellementlyla.com/cest-quoi-le-bonheur/</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/francais/fr_7.html">fr_7.html</a></td>
+					<td><a href="../dumps-text/francais/fr_7.txt">fr_7.txt</a></td>
+					<td>61</td>
+					<td><a href='../contextes/francais/fr_7.txt'>fr_7.txt</a></td>
+				</tr>
+				<tr>
+					<td>8</td>
+					<td>https://psychologie.aufeminin.com/forum/votre-avis-sur-le-bonheur-fd2669094</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/francais/fr_8.html">fr_8.html</a></td>
+					<td><a href="../dumps-text/francais/fr_8.txt">fr_8.txt</a></td>
+					<td>69</td>
+					<td><a href='../contextes/francais/fr_8.txt'>fr_8.txt</a></td>
+				</tr>
+				<tr>
+					<td>9</td>
+					<td>https://www.andlil.com/forum/l-argent-ne-fait-pas-le-bonheur-t28141.html</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/francais/fr_9.html">fr_9.html</a></td>
+					<td><a href="../dumps-text/francais/fr_9.txt">fr_9.txt</a></td>
+					<td>32</td>
+					<td><a href='../contextes/francais/fr_9.txt'>fr_9.txt</a></td>
+				</tr>
+				<tr>
+					<td>10</td>
+					<td>https://bonheurdemalheur.forumactif.com/</td>
+					<td>200</td>
+					<td>utf-8</td>
+					<td><a href="../aspirations/francais/fr_10.html">fr_10.html</a></td>
+					<td><a href="../dumps-text/francais/fr_10.txt">fr_10.txt</a></td>
+					<td>4</td>
+					<td><a href='../contextes/francais/fr_10.txt'>fr_10.txt</a></td>
+				</tr>
+				<tr>
+					<td>11</td>
+					<td>https://www.ciao.ch/forum/le-bonheur/</td>
+					<td>200</td>
+					<td>utf-8</td>
+					<td><a href="../aspirations/francais/fr_11.html">fr_11.html</a></td>
+					<td><a href="../dumps-text/francais/fr_11.txt">fr_11.txt</a></td>
+					<td>3</td>
+					<td><a href='../contextes/francais/fr_11.txt'>fr_11.txt</a></td>
+				</tr>
+				<tr>
+					<td>12</td>
+					<td>https://forum.wordreference.com/threads/a-la-recherche-du-bonheur.3279857/</td>
+					<td>200</td>
+					<td>utf-8</td>
+					<td><a href="../aspirations/francais/fr_12.html">fr_12.html</a></td>
+					<td><a href="../dumps-text/francais/fr_12.txt">fr_12.txt</a></td>
+					<td>3</td>
+					<td><a href='../contextes/francais/fr_12.txt'>fr_12.txt</a></td>
+				</tr>
+				<tr>
+					<td>13</td>
+					<td>https://www.popcornfr.com/topic/2240/le-bonheur/5</td>
+					<td>200</td>
+					<td>utf-8</td>
+					<td><a href="../aspirations/francais/fr_13.html">fr_13.html</a></td>
+					<td><a href="../dumps-text/francais/fr_13.txt">fr_13.txt</a></td>
+					<td>25</td>
+					<td><a href='../contextes/francais/fr_13.txt'>fr_13.txt</a></td>
+				</tr>
+				<tr>
+					<td>14</td>
+					<td>https://forum.manucure.info/index.php?threads/dents-du-bonheur-tu-parles.144359/</td>
+					<td>200</td>
+					<td>utf-8</td>
+					<td><a href="../aspirations/francais/fr_14.html">fr_14.html</a></td>
+					<td><a href="../dumps-text/francais/fr_14.txt">fr_14.txt</a></td>
+					<td>26</td>
+					<td><a href='../contextes/francais/fr_14.txt'>fr_14.txt</a></td>
+				</tr>
+				<tr>
+					<td>15</td>
+					<td>https://community.goodgamestudios.com/empire/fr/discussion/389714/pieces-portes-bonheur</td>
+					<td>200</td>
+					<td>utf-8</td>
+					<td><a href="../aspirations/francais/fr_15.html">fr_15.html</a></td>
+					<td><a href="../dumps-text/francais/fr_15.txt">fr_15.txt</a></td>
+					<td>2</td>
+					<td><a href='../contextes/francais/fr_15.txt'>fr_15.txt</a></td>
+				</tr>
+				<tr>
+					<td>16</td>
+					<td>http://www.forum-olympus-france.com/forum/topic/57433-la-perte-du-bonheur/</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/francais/fr_16.html">fr_16.html</a></td>
+					<td><a href="../dumps-text/francais/fr_16.txt">fr_16.txt</a></td>
+					<td>2</td>
+					<td><a href='../contextes/francais/fr_16.txt'>fr_16.txt</a></td>
+				</tr>
+				<tr>
+					<td>17</td>
+					<td>http://www.psychomedia.qc.ca/forum/25516</td>
+					<td>200</td>
+					<td>utf-8</td>
+					<td><a href="../aspirations/francais/fr_17.html">fr_17.html</a></td>
+					<td><a href="../dumps-text/francais/fr_17.txt">fr_17.txt</a></td>
+					<td>5</td>
+					<td><a href='../contextes/francais/fr_17.txt'>fr_17.txt</a></td>
+				</tr>
+				<tr>
+					<td>18</td>
+					<td>https://forum.assistantes-maternelles.net/t/fin-apres-21-ans-de-bonheur.2591/</td>
+					<td>200</td>
+					<td>utf-8</td>
+					<td><a href="../aspirations/francais/fr_18.html">fr_18.html</a></td>
+					<td><a href="../dumps-text/francais/fr_18.txt">fr_18.txt</a></td>
+					<td>4</td>
+					<td><a href='../contextes/francais/fr_18.txt'>fr_18.txt</a></td>
+				</tr>
+				<tr>
+					<td>19</td>
+					<td>https://www.forum-depression.com/viewtopic.php?t=17091</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/francais/fr_19.html">fr_19.html</a></td>
+					<td><a href="../dumps-text/francais/fr_19.txt">fr_19.txt</a></td>
+					<td>4</td>
+					<td><a href='../contextes/francais/fr_19.txt'>fr_19.txt</a></td>
+				</tr>
+				<tr>
+					<td>20</td>
+					<td>https://forum.doctissimo.fr/psychologie/bonheur-et-joie-de-vivre/rend-heureux-sujet_3771_1.htm</td>
+					<td>200</td>
+					<td>utf-8</td>
+					<td><a href="../aspirations/francais/fr_20.html">fr_20.html</a></td>
+					<td><a href="../dumps-text/francais/fr_20.txt">fr_20.txt</a></td>
+					<td>7</td>
+					<td><a href='../contextes/francais/fr_20.txt'>fr_20.txt</a></td>
+				</tr>
+				<tr>
+					<td>21</td>
+					<td>http://www.psychomedia.qc.ca/forum/25998</td>
+					<td>200</td>
+					<td>utf-8</td>
+					<td><a href="../aspirations/francais/fr_21.html">fr_21.html</a></td>
+					<td><a href="../dumps-text/francais/fr_21.txt">fr_21.txt</a></td>
+					<td>18</td>
+					<td><a href='../contextes/francais/fr_21.txt'>fr_21.txt</a></td>
+				</tr>
+				<tr>
+					<td>22</td>
+					<td>https://www.congopage.com/forums//viewtopic.php?f=3&t=12101&start=100</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/francais/fr_22.html">fr_22.html</a></td>
+					<td><a href="../dumps-text/francais/fr_22.txt">fr_22.txt</a></td>
+					<td>28</td>
+					<td><a href='../contextes/francais/fr_22.txt'>fr_22.txt</a></td>
+				</tr>
+				<tr>
+					<td>23</td>
+					<td>https://www.forumphotoparis.fr/topic/7360-le-bonheur/</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/francais/fr_23.html">fr_23.html</a></td>
+					<td><a href="../dumps-text/francais/fr_23.txt">fr_23.txt</a></td>
+					<td>0</td>
+					<td><a href='../contextes/francais/fr_23.txt'>fr_23.txt</a></td>
+				</tr>
+				<tr>
+					<td>24</td>
+					<td>https://www.pokepedia.fr/Discussion:Bonheur</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/francais/fr_24.html">fr_24.html</a></td>
+					<td><a href="../dumps-text/francais/fr_24.txt">fr_24.txt</a></td>
+					<td>13</td>
+					<td><a href='../contextes/francais/fr_24.txt'>fr_24.txt</a></td>
+				</tr>
+				<tr>
+					<td>25</td>
+					<td>https://www.etudes-litteraires.fr/d/67601-67601</td>
+					<td>200</td>
+					<td>utf-8</td>
+					<td><a href="../aspirations/francais/fr_25.html">fr_25.html</a></td>
+					<td><a href="../dumps-text/francais/fr_25.txt">fr_25.txt</a></td>
+					<td>21</td>
+					<td><a href='../contextes/francais/fr_25.txt'>fr_25.txt</a></td>
+				</tr>
+				<tr>
+					<td>26</td>
+					<td>https://www.jeunesecrivains.com/t50511-le-bonheur-debat-entre-deux-imbeciles</td>
+					<td>200</td>
+					<td>utf-8</td>
+					<td><a href="../aspirations/francais/fr_26.html">fr_26.html</a></td>
+					<td><a href="../dumps-text/francais/fr_26.txt">fr_26.txt</a></td>
+					<td>71</td>
+					<td><a href='../contextes/francais/fr_26.txt'>fr_26.txt</a></td>
+				</tr>
+				<tr>
+					<td>27</td>
+					<td>https://www.quintonic.fr/forum/valence/amour-sexualite/trouver-le-bonheur</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/francais/fr_27.html">fr_27.html</a></td>
+					<td><a href="../dumps-text/francais/fr_27.txt">fr_27.txt</a></td>
+					<td>0</td>
+					<td><a href='../contextes/francais/fr_27.txt'>fr_27.txt</a></td>
+				</tr>
+				<tr>
+					<td>28</td>
+					<td>https://www.andlil.com/forum/qu-est-ce-que-le-bonheur-pour-vous-t2235.html</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/francais/fr_28.html">fr_28.html</a></td>
+					<td><a href="../dumps-text/francais/fr_28.txt">fr_28.txt</a></td>
+					<td>37</td>
+					<td><a href='../contextes/francais/fr_28.txt'>fr_28.txt</a></td>
+				</tr>
+				<tr>
+					<td>29</td>
+					<td>https://forum.doctissimo.fr/psychologie/bonheur-et-joie-de-vivre/comment-etre-heureux-sujet_800_1.htm</td>
+					<td>200</td>
+					<td>utf-8</td>
+					<td><a href="../aspirations/francais/fr_29.html">fr_29.html</a></td>
+					<td><a href="../dumps-text/francais/fr_29.txt">fr_29.txt</a></td>
+					<td>7</td>
+					<td><a href='../contextes/francais/fr_29.txt'>fr_29.txt</a></td>
+				</tr>
+				<tr>
+					<td>30</td>
+					<td>https://forum.psychologies.com/t/etre-heureux</td>
+					<td>200</td>
+					<td>utf-8</td>
+					<td><a href="../aspirations/francais/fr_30.html">fr_30.html</a></td>
+					<td><a href="../dumps-text/francais/fr_30.txt">fr_30.txt</a></td>
+					<td>1</td>
+					<td><a href='../contextes/francais/fr_30.txt'>fr_30.txt</a></td>
+				</tr>
+				<tr>
+					<td>31</td>
+					<td>https://sante-medecine.journaldesfemmes.fr/forum/affich-991856-comment-faire-pour-etre-heureuse</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/francais/fr_31.html">fr_31.html</a></td>
+					<td><a href="../dumps-text/francais/fr_31.txt">fr_31.txt</a></td>
+					<td>13</td>
+					<td><a href='../contextes/francais/fr_31.txt'>fr_31.txt</a></td>
+				</tr>
+				<tr>
+					<td>32</td>
+					<td>https://www.forum-metaphysique.com/t4715-etre-heureux-dans-sa-vie-depend-des</td>
+					<td>200</td>
+					<td>utf-8</td>
+					<td><a href="../aspirations/francais/fr_32.html">fr_32.html</a></td>
+					<td><a href="../dumps-text/francais/fr_32.txt">fr_32.txt</a></td>
+					<td>40</td>
+					<td><a href='../contextes/francais/fr_32.txt'>fr_32.txt</a></td>
+				</tr>
+				<tr>
+					<td>33</td>
+					<td>http://spinozaetnous.org/forum/viewtopic.php?t=789</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/francais/fr_33.html">fr_33.html</a></td>
+					<td><a href="../dumps-text/francais/fr_33.txt">fr_33.txt</a></td>
+					<td>38</td>
+					<td><a href='../contextes/francais/fr_33.txt'>fr_33.txt</a></td>
+				</tr>
+				<tr>
+					<td>34</td>
+					<td>https://www.etudes-litteraires.fr/d/51299-51299/13</td>
+					<td>200</td>
+					<td>utf-8</td>
+					<td><a href="../aspirations/francais/fr_34.html">fr_34.html</a></td>
+					<td><a href="../dumps-text/francais/fr_34.txt">fr_34.txt</a></td>
+					<td>16</td>
+					<td><a href='../contextes/francais/fr_34.txt'>fr_34.txt</a></td>
+				</tr>
+				<tr>
+					<td>35</td>
+					<td>https://www.andlil.com/forum/etre-heureux-selon-aristote-t41035.html</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/francais/fr_35.html">fr_35.html</a></td>
+					<td><a href="../dumps-text/francais/fr_35.txt">fr_35.txt</a></td>
+					<td>5</td>
+					<td><a href='../contextes/francais/fr_35.txt'>fr_35.txt</a></td>
+				</tr>
+				<tr>
+					<td>36</td>
+					<td>https://forums.madmoizelle.com/sujets/et-si-le-bonheur-ne-tenait-qua-un-gene.55873/</td>
+					<td>200</td>
+					<td>utf-8</td>
+					<td><a href="../aspirations/francais/fr_36.html">fr_36.html</a></td>
+					<td><a href="../dumps-text/francais/fr_36.txt">fr_36.txt</a></td>
+					<td>18</td>
+					<td><a href='../contextes/francais/fr_36.txt'>fr_36.txt</a></td>
+				</tr>
+				<tr>
+					<td>37</td>
+					<td>https://www.ciao.ch/forum/c-est-quoi-le-bonheur-pour-vous/</td>
+					<td>200</td>
+					<td>utf-8</td>
+					<td><a href="../aspirations/francais/fr_37.html">fr_37.html</a></td>
+					<td><a href="../dumps-text/francais/fr_37.txt">fr_37.txt</a></td>
+					<td>39</td>
+					<td><a href='../contextes/francais/fr_37.txt'>fr_37.txt</a></td>
+				</tr>
+				<tr>
+					<td>38</td>
+					<td>https://www.ciao.ch/forum/quest-ce-ce-que-le-malheur/</td>
+					<td>200</td>
+					<td>utf-8</td>
+					<td><a href="../aspirations/francais/fr_38.html">fr_38.html</a></td>
+					<td><a href="../dumps-text/francais/fr_38.txt">fr_38.txt</a></td>
+					<td>10</td>
+					<td><a href='../contextes/francais/fr_38.txt'>fr_38.txt</a></td>
+				</tr>
+				<tr>
+					<td>39</td>
+					<td>https://bebes.aufeminin.com/forum/l-amour-le-couple-le-bonheur-etes-vous-heureux-dans-votre-couple-fd2826598</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/francais/fr_39.html">fr_39.html</a></td>
+					<td><a href="../dumps-text/francais/fr_39.txt">fr_39.txt</a></td>
+					<td>14</td>
+					<td><a href='../contextes/francais/fr_39.txt'>fr_39.txt</a></td>
+				</tr>
+				<tr>
+					<td>40</td>
+					<td>https://forum.doctissimo.fr/psychologie/bonheur-et-joie-de-vivre/bonheur-existe-sujet_3816_1.htm</td>
+					<td>200</td>
+					<td>utf-8</td>
+					<td><a href="../aspirations/francais/fr_40.html">fr_40.html</a></td>
+					<td><a href="../dumps-text/francais/fr_40.txt">fr_40.txt</a></td>
+					<td>23</td>
+					<td><a href='../contextes/francais/fr_40.txt'>fr_40.txt</a></td>
+				</tr>
+				<tr>
+					<td>41</td>
+					<td>https://fr.wikipedia.org/wiki/Discussion:Bonheur</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/francais/fr_41.html">fr_41.html</a></td>
+					<td><a href="../dumps-text/francais/fr_41.txt">fr_41.txt</a></td>
+					<td>47</td>
+					<td><a href='../contextes/francais/fr_41.txt'>fr_41.txt</a></td>
+				</tr>
+				<tr>
+					<td>42</td>
+					<td>https://www.routard.com/forums/t/camping-car-le-bonheur/12756/17</td>
+					<td>200</td>
+					<td></td>
+					<td><a href="../aspirations/francais/fr_42.html">fr_42.html</a></td>
+					<td><a href="../dumps-text/francais/fr_42.txt">fr_42.txt</a></td>
+					<td>23</td>
+					<td><a href='../contextes/francais/fr_42.txt'>fr_42.txt</a></td>
+				</tr>
+				<tr>
+					<td>43</td>
+					<td>https://www.ligue-cancer.net/forum/autres-temoignages-et-questions/bonjour-aux-copainscopines-de-galere</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/francais/fr_43.html">fr_43.html</a></td>
+					<td><a href="../dumps-text/francais/fr_43.txt">fr_43.txt</a></td>
+					<td>5</td>
+					<td><a href='../contextes/francais/fr_43.txt'>fr_43.txt</a></td>
+				</tr>
+				<tr>
+					<td>44</td>
+					<td>https://www.ligue-cancer.net/forum/cancer-du-colon-et-du-rectum/nouvelle-sur-le-forum</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/francais/fr_44.html">fr_44.html</a></td>
+					<td><a href="../dumps-text/francais/fr_44.txt">fr_44.txt</a></td>
+					<td>2</td>
+					<td><a href='../contextes/francais/fr_44.txt'>fr_44.txt</a></td>
+				</tr>
+				<tr>
+					<td>45</td>
+					<td>https://forum.sports-sante.com/resserrer-les-dents-du-bonheur-avis-prix-appareil-forum-t20488.html</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/francais/fr_45.html">fr_45.html</a></td>
+					<td><a href="../dumps-text/francais/fr_45.txt">fr_45.txt</a></td>
+					<td>11</td>
+					<td><a href='../contextes/francais/fr_45.txt'>fr_45.txt</a></td>
+				</tr>
+				<tr>
+					<td>46</td>
+					<td>https://forums.madmoizelle.com/sujets/comment-les-appareils-dentaires-ont-impacte-nos-adolescences.122187/</td>
+					<td>200</td>
+					<td>utf-8</td>
+					<td><a href="../aspirations/francais/fr_46.html">fr_46.html</a></td>
+					<td><a href="../dumps-text/francais/fr_46.txt">fr_46.txt</a></td>
+					<td>3</td>
+					<td><a href='../contextes/francais/fr_46.txt'>fr_46.txt</a></td>
+				</tr>
+				<tr>
+					<td>47</td>
+					<td>https://www.reussirmavie.net/forum/Le-plaisir-est-ce-un-frein-ou-un-tremplin-pour-le-bonheur_m48912.html</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/francais/fr_47.html">fr_47.html</a></td>
+					<td><a href="../dumps-text/francais/fr_47.txt">fr_47.txt</a></td>
+					<td>19</td>
+					<td><a href='../contextes/francais/fr_47.txt'>fr_47.txt</a></td>
+				</tr>
+				<tr>
+					<td>48</td>
+					<td>https://www.vivelesrondes.com/forum/viewtopic_45844.htm</td>
+					<td>200</td>
+					<td>utf-8</td>
+					<td><a href="../aspirations/francais/fr_48.html">fr_48.html</a></td>
+					<td><a href="../dumps-text/francais/fr_48.txt">fr_48.txt</a></td>
+					<td>11</td>
+					<td><a href='../contextes/francais/fr_48.txt'>fr_48.txt</a></td>
+				</tr>
+				<tr>
+					<td>49</td>
+					<td>https://forum.doctissimo.fr/psychologie/bonheur-et-joie-de-vivre/bonheur-sujet_2156_1.htm</td>
+					<td>200</td>
+					<td>utf-8</td>
+					<td><a href="../aspirations/francais/fr_49.html">fr_49.html</a></td>
+					<td><a href="../dumps-text/francais/fr_49.txt">fr_49.txt</a></td>
+					<td>22</td>
+					<td><a href='../contextes/francais/fr_49.txt'>fr_49.txt</a></td>
+				</tr>
+				<tr>
+					<td>50</td>
+					<td>https://forum.doctissimo.fr/psychologie/Philosophie/bonheur-sujet_3247_1.htm</td>
+					<td>200</td>
+					<td>utf-8</td>
+					<td><a href="../aspirations/francais/fr_50.html">fr_50.html</a></td>
+					<td><a href="../dumps-text/francais/fr_50.txt">fr_50.txt</a></td>
+					<td>36</td>
+					<td><a href='../contextes/francais/fr_50.txt'>fr_50.txt</a></td>
+				</tr>
+				<tr>
+					<td>51</td>
+					<td>https://forum.doctissimo.fr/psychologie/depression-deprime-stress/envieux-bonheur-sujet_272841_1.htm</td>
+					<td>200</td>
+					<td>utf-8</td>
+					<td><a href="../aspirations/francais/fr_51.html">fr_51.html</a></td>
+					<td><a href="../dumps-text/francais/fr_51.txt">fr_51.txt</a></td>
+					<td>5</td>
+					<td><a href='../contextes/francais/fr_51.txt'>fr_51.txt</a></td>
+				</tr>
+				<tr>
+					<td>52</td>
+					<td>https://forum.doctissimo.fr/psychologie/bonheur-et-joie-de-vivre/sentiment-perdu-sujet_4090_1.htm</td>
+					<td>200</td>
+					<td>utf-8</td>
+					<td><a href="../aspirations/francais/fr_52.html">fr_52.html</a></td>
+					<td><a href="../dumps-text/francais/fr_52.txt">fr_52.txt</a></td>
+					<td>2</td>
+					<td><a href='../contextes/francais/fr_52.txt'>fr_52.txt</a></td>
+				</tr>
+				<tr>
+					<td>53</td>
+					<td>https://forum.doctissimo.fr/sante/dents/enlever-dents-bonheur-sujet_178244_1.htm</td>
+					<td>200</td>
+					<td>utf-8</td>
+					<td><a href="../aspirations/francais/fr_53.html">fr_53.html</a></td>
+					<td><a href="../dumps-text/francais/fr_53.txt">fr_53.txt</a></td>
+					<td>4</td>
+					<td><a href='../contextes/francais/fr_53.txt'>fr_53.txt</a></td>
+				</tr>
+				<tr>
+					<td>54</td>
+					<td>https://www.allocine.fr/film/fichefilm-263709/critiques/spectateurs/</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/francais/fr_54.html">fr_54.html</a></td>
+					<td><a href="../dumps-text/francais/fr_54.txt">fr_54.txt</a></td>
+					<td>19</td>
+					<td><a href='../contextes/francais/fr_54.txt'>fr_54.txt</a></td>
+				</tr>
+				<tr>
+					<td>55</td>
+					<td>https://forums.madmoizelle.com/sujets/que-du-bonheur-une-enquete-qui-donne-la-parole-aux-18-35-ans.120621/page-2</td>
+					<td>200</td>
+					<td>utf-8</td>
+					<td><a href="../aspirations/francais/fr_55.html">fr_55.html</a></td>
+					<td><a href="../dumps-text/francais/fr_55.txt">fr_55.txt</a></td>
+					<td>4</td>
+					<td><a href='../contextes/francais/fr_55.txt'>fr_55.txt</a></td>
+				</tr>
+				<tr>
+					<td>56</td>
+					<td>https://forums.madmoizelle.com/sujets/comment-jai-arrete-detre-jalouse-du-bonheur-des-autres.132293/</td>
+					<td>200</td>
+					<td>utf-8</td>
+					<td><a href="../aspirations/francais/fr_56.html">fr_56.html</a></td>
+					<td><a href="../dumps-text/francais/fr_56.txt">fr_56.txt</a></td>
+					<td>6</td>
+					<td><a href='../contextes/francais/fr_56.txt'>fr_56.txt</a></td>
+				</tr>
+				<tr>
+					<td>57</td>
+					<td>https://forum.doctissimo.fr/forme-beaute/beaute-dents/dents-bonheur-marre-sujet_2472_1.htm</td>
+					<td>200</td>
+					<td>utf-8</td>
+					<td><a href="../aspirations/francais/fr_57.html">fr_57.html</a></td>
+					<td><a href="../dumps-text/francais/fr_57.txt">fr_57.txt</a></td>
+					<td>6</td>
+					<td><a href='../contextes/francais/fr_57.txt'>fr_57.txt</a></td>
+				</tr>
+				<tr>
+					<td>58</td>
+					<td>https://forum.doctissimo.fr/sante/dents/dents-bonheur-deteste-sujet_176364_1.htm</td>
+					<td>200</td>
+					<td>utf-8</td>
+					<td><a href="../aspirations/francais/fr_58.html">fr_58.html</a></td>
+					<td><a href="../dumps-text/francais/fr_58.txt">fr_58.txt</a></td>
+					<td>6</td>
+					<td><a href='../contextes/francais/fr_58.txt'>fr_58.txt</a></td>
+				</tr>
+				<tr>
+					<td>59</td>
+					<td>https://forum.doctissimo.fr/psychologie/depression-deprime-stress/renoncer-bonheur-sujet_265774_1.htm</td>
+					<td>200</td>
+					<td>utf-8</td>
+					<td><a href="../aspirations/francais/fr_59.html">fr_59.html</a></td>
+					<td><a href="../dumps-text/francais/fr_59.txt">fr_59.txt</a></td>
+					<td>8</td>
+					<td><a href='../contextes/francais/fr_59.txt'>fr_59.txt</a></td>
+				</tr>
+				<tr>
+					<td>60</td>
+					<td>https://forum-seduction.artdeseduire.com/debats/66172-un-couple-sain-rend-il-heureux-ou-plus-heureux-et-le-bonheur-seul-est-il-possible.html</td>
+					<td>200</td>
+					<td>utf-8</td>
+					<td><a href="../aspirations/francais/fr_60.html">fr_60.html</a></td>
+					<td><a href="../dumps-text/francais/fr_60.txt">fr_60.txt</a></td>
+					<td>22</td>
+					<td><a href='../contextes/francais/fr_60.txt'>fr_60.txt</a></td>
+				</tr>
+
+			</table>
+		</div>
+	</body>
+</html>

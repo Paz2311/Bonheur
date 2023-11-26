@@ -1,0 +1,556 @@
+<html>
+	<head>
+		<meta charset=UTF-8/>
+		<title>Tableau</title>
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css">
+        <link href='https://fonts.googleapis.com/css2?family=Abel&family=Bad+Script&display=swap' rel="stylesheet">
+        <style>
+            html{
+                background: #FAF0E6;
+            }
+
+            body {
+                font-family: Abel;
+
+            }
+
+            p {
+                font-size : 20px;
+            }
+
+            table {
+                box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.8);
+            }
+
+            tr {
+                transition: all .2s ease-in;
+                cursor: pointer;
+            }
+
+            tr:hover {
+                color: #FBFFFF;
+                background-color: black;
+                transform: scale(1.01);
+            }
+        </style>
+	</head>
+	<body>
+
+			 <div class="content m-3">
+				<h1 class="has-text-centered notification has-background-warning-light">Résultat du tableau</h1>
+				<p>Voici le résultat final du tableaux. Pour cela vous trouverez : </p>
+				<ul>
+					<li>Le numéro de la ligne</li>
+					<li>Le lien URL de la page web</li>
+					<li>Le code HTTP, c'est-à-dire la réponse du navigateur lorsque l'utilisateur se trouve sur le site</li>
+					<li>L'encodage de la page</li>
+					<li>Le lien des pages aspirées au format HTML</li>
+					<li>Le lien des dumps-text en .txt</li>
+					<li>Le nombre d'occurrences</li>
+					<li>Le contexte droit et gauche en .txt</li>
+				</ul>
+				<table class="table is-bordered">
+				<tr>
+                    <th>Ligne</th>
+                    <th>URL</th>
+                    <th>Code HTTP</th>
+                    <th>Encodage</th>
+                    <th>Aspiration</th>
+                    <th>Dump-text</th>
+                    <th>Compte</th>
+                    <th>Contexte</th></tr> 
+				<tr>
+					<td>1</td>
+					<td>https://www.nerwica.com/topic/47933-jak-mozna-opisac-szczescie/</td>
+					<td>000</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/polonais/pl_1.html">pl_1.html</a></td>
+					<td><a href="../dumps-text/polonais/pl_1.txt">pl_1.txt</a></td>
+					<td>14</td>
+					<td><a href='../contextes/polonais/pl_1.txt'>pl_1.txt</a></td>
+				</tr>
+				<tr>
+					<td>2</td>
+					<td>https://www.goldenline.pl/grupy/Literatura_kino_sztuka/ludzie-wiersze-pisza/szczescie,670260/</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/polonais/pl_2.html">pl_2.html</a></td>
+					<td><a href="../dumps-text/polonais/pl_2.txt">pl_2.txt</a></td>
+					<td>28</td>
+					<td><a href='../contextes/polonais/pl_2.txt'>pl_2.txt</a></td>
+				</tr>
+				<tr>
+					<td>3</td>
+					<td>https://forum.gazeta.pl/forum/w,276296,176718483,176718483,Jesienne_szczescie.html</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/polonais/pl_3.html">pl_3.html</a></td>
+					<td><a href="../dumps-text/polonais/pl_3.txt">pl_3.txt</a></td>
+					<td>3</td>
+					<td><a href='../contextes/polonais/pl_3.txt'>pl_3.txt</a></td>
+				</tr>
+				<tr>
+					<td>4</td>
+					<td>https://4programmers.net/Forum/Flame/342046-czy_jestes_szczesliwyszczesliwa?page=4</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/polonais/pl_4.html">pl_4.html</a></td>
+					<td><a href="../dumps-text/polonais/pl_4.txt">pl_4.txt</a></td>
+					<td>2</td>
+					<td><a href='../contextes/polonais/pl_4.txt'>pl_4.txt</a></td>
+				</tr>
+				<tr>
+					<td>5</td>
+					<td>https://f.kafeteria.pl/temat-3426906-szczescie/</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/polonais/pl_5.html">pl_5.html</a></td>
+					<td><a href="../dumps-text/polonais/pl_5.txt">pl_5.txt</a></td>
+					<td>2</td>
+					<td><a href='../contextes/polonais/pl_5.txt'>pl_5.txt</a></td>
+				</tr>
+				<tr>
+					<td>6</td>
+					<td>https://www.netkobiety.pl/t6416.html</td>
+					<td>200</td>
+					<td>utf-8</td>
+					<td><a href="../aspirations/polonais/pl_6.html">pl_6.html</a></td>
+					<td><a href="../dumps-text/polonais/pl_6.txt">pl_6.txt</a></td>
+					<td>32</td>
+					<td><a href='../contextes/polonais/pl_6.txt'>pl_6.txt</a></td>
+				</tr>
+				<tr>
+					<td>7</td>
+					<td>https://www.netkobiety.pl/t124074.html</td>
+					<td>200</td>
+					<td>utf-8</td>
+					<td><a href="../aspirations/polonais/pl_7.html">pl_7.html</a></td>
+					<td><a href="../dumps-text/polonais/pl_7.txt">pl_7.txt</a></td>
+					<td>17</td>
+					<td><a href='../contextes/polonais/pl_7.txt'>pl_7.txt</a></td>
+				</tr>
+				<tr>
+					<td>8</td>
+					<td>https://forum.mfo2.pl/viewtopic.php?t=18753</td>
+					<td>200</td>
+					<td>iso-8859-2</td>
+					<td><a href="../aspirations/polonais/pl_8.html">pl_8.html</a></td>
+					<td><a href="../dumps-text/polonais/pl_8.txt">pl_8.txt</a></td>
+					<td>13</td>
+					<td><a href='../contextes/polonais/pl_8.txt'>pl_8.txt</a></td>
+				</tr>
+				<tr>
+					<td>9</td>
+					<td>https://forum.abczdrowie.pl/topic/826753-brak-sensu-i-szczescia-w-zyciu/</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/polonais/pl_9.html">pl_9.html</a></td>
+					<td><a href="../dumps-text/polonais/pl_9.txt">pl_9.txt</a></td>
+					<td>0</td>
+					<td><a href='../contextes/polonais/pl_9.txt'>pl_9.txt</a></td>
+				</tr>
+				<tr>
+					<td>10</td>
+					<td>https://www.katolik.pl/forum/read.php?f=1&i=39529&t=39513</td>
+					<td>200</td>
+					<td>iso-8859-2</td>
+					<td><a href="../aspirations/polonais/pl_10.html">pl_10.html</a></td>
+					<td><a href="../dumps-text/polonais/pl_10.txt">pl_10.txt</a></td>
+					<td>2</td>
+					<td><a href='../contextes/polonais/pl_10.txt'>pl_10.txt</a></td>
+				</tr>
+				<tr>
+					<td>11</td>
+					<td>https://wizaz.pl/forum/showthread.php?t=1206231</td>
+					<td>200</td>
+					<td>ISO-8859-2</td>
+					<td><a href="../aspirations/polonais/pl_11.html">pl_11.html</a></td>
+					<td><a href="../dumps-text/polonais/pl_11.txt">pl_11.txt</a></td>
+					<td>31</td>
+					<td><a href='../contextes/polonais/pl_11.txt'>pl_11.txt</a></td>
+				</tr>
+				<tr>
+					<td>12</td>
+					<td>https://f.kafeteria.pl/temat-7688557-szczescie/</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/polonais/pl_12.html">pl_12.html</a></td>
+					<td><a href="../dumps-text/polonais/pl_12.txt">pl_12.txt</a></td>
+					<td>8</td>
+					<td><a href='../contextes/polonais/pl_12.txt'>pl_12.txt</a></td>
+				</tr>
+				<tr>
+					<td>13</td>
+					<td>https://forum.pclab.pl/topic/85407-twoja-recepta-na-szcz%C4%99%C5%9Bcie/</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/polonais/pl_13.html">pl_13.html</a></td>
+					<td><a href="../dumps-text/polonais/pl_13.txt">pl_13.txt</a></td>
+					<td>13</td>
+					<td><a href='../contextes/polonais/pl_13.txt'>pl_13.txt</a></td>
+				</tr>
+				<tr>
+					<td>14</td>
+					<td>https://wizaz.pl/forum/showthread.php?t=654660</td>
+					<td>200</td>
+					<td>ISO-8859-2</td>
+					<td><a href="../aspirations/polonais/pl_14.html">pl_14.html</a></td>
+					<td><a href="../dumps-text/polonais/pl_14.txt">pl_14.txt</a></td>
+					<td>40</td>
+					<td><a href='../contextes/polonais/pl_14.txt'>pl_14.txt</a></td>
+				</tr>
+				<tr>
+					<td>15</td>
+					<td>https://f.kafeteria.pl/temat-3911128-co-daje-wam-szczescie/</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/polonais/pl_15.html">pl_15.html</a></td>
+					<td><a href="../dumps-text/polonais/pl_15.txt">pl_15.txt</a></td>
+					<td>4</td>
+					<td><a href='../contextes/polonais/pl_15.txt'>pl_15.txt</a></td>
+				</tr>
+				<tr>
+					<td>16</td>
+					<td>https://f.kafeteria.pl/temat-7238761-co-wam-daje-szczescie/</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/polonais/pl_16.html">pl_16.html</a></td>
+					<td><a href="../dumps-text/polonais/pl_16.txt">pl_16.txt</a></td>
+					<td>4</td>
+					<td><a href='../contextes/polonais/pl_16.txt'>pl_16.txt</a></td>
+				</tr>
+				<tr>
+					<td>17</td>
+					<td>https://forum.gazeta.pl/forum/w,567,167993676,167993676,Pieniadze_daja_szczescie.html</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/polonais/pl_17.html">pl_17.html</a></td>
+					<td><a href="../dumps-text/polonais/pl_17.txt">pl_17.txt</a></td>
+					<td>81</td>
+					<td><a href='../contextes/polonais/pl_17.txt'>pl_17.txt</a></td>
+				</tr>
+				<tr>
+					<td>18</td>
+					<td>https://www.gry-online.pl/S043.asp?ID=14956324</td>
+					<td>200</td>
+					<td></td>
+					<td><a href="../aspirations/polonais/pl_18.html">pl_18.html</a></td>
+					<td><a href="../dumps-text/polonais/pl_18.txt">pl_18.txt</a></td>
+					<td>17</td>
+					<td><a href='../contextes/polonais/pl_18.txt'>pl_18.txt</a></td>
+				</tr>
+				<tr>
+					<td>19</td>
+					<td>https://4programmers.net/Forum/Off-Topic/361717-czy_praca_w_it_daje_szczescie</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/polonais/pl_19.html">pl_19.html</a></td>
+					<td><a href="../dumps-text/polonais/pl_19.txt">pl_19.txt</a></td>
+					<td>22</td>
+					<td><a href='../contextes/polonais/pl_19.txt'>pl_19.txt</a></td>
+				</tr>
+				<tr>
+					<td>20</td>
+					<td>https://www.goldenline.pl/grupy/Kobiety_zdrowie_uroda/aby-byc-szczesliwym/definicja-szczescia-czym-jest-dla-ciebie,1240964/</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/polonais/pl_20.html">pl_20.html</a></td>
+					<td><a href="../dumps-text/polonais/pl_20.txt">pl_20.txt</a></td>
+					<td>20</td>
+					<td><a href='../contextes/polonais/pl_20.txt'>pl_20.txt</a></td>
+				</tr>
+				<tr>
+					<td>21</td>
+					<td>https://zapytaj.onet.pl/Category/001,001/2,2577642,Co_to_jest_szczescie_.html</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/polonais/pl_21.html">pl_21.html</a></td>
+					<td><a href="../dumps-text/polonais/pl_21.txt">pl_21.txt</a></td>
+					<td>24</td>
+					<td><a href='../contextes/polonais/pl_21.txt'>pl_21.txt</a></td>
+				</tr>
+				<tr>
+					<td>22</td>
+					<td>https://zapytaj.onet.pl/Category/002,002/2,17272521,Co_to_znaczy_szczescie.html</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/polonais/pl_22.html">pl_22.html</a></td>
+					<td><a href="../dumps-text/polonais/pl_22.txt">pl_22.txt</a></td>
+					<td>3</td>
+					<td><a href='../contextes/polonais/pl_22.txt'>pl_22.txt</a></td>
+				</tr>
+				<tr>
+					<td>23</td>
+					<td>https://forum.gazeta.pl/forum/w,567,174056872,174056872,Poczucie_szczescia.html</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/polonais/pl_23.html">pl_23.html</a></td>
+					<td><a href="../dumps-text/polonais/pl_23.txt">pl_23.txt</a></td>
+					<td>3</td>
+					<td><a href='../contextes/polonais/pl_23.txt'>pl_23.txt</a></td>
+				</tr>
+				<tr>
+					<td>24</td>
+					<td>https://forum.gazeta.pl/forum/w,567,166803978,166803978,Poczucie_szczescia.html</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/polonais/pl_24.html">pl_24.html</a></td>
+					<td><a href="../dumps-text/polonais/pl_24.txt">pl_24.txt</a></td>
+					<td>2</td>
+					<td><a href='../contextes/polonais/pl_24.txt'>pl_24.txt</a></td>
+				</tr>
+				<tr>
+					<td>25</td>
+					<td>https://forum.gazeta.pl/forum/w,16,148946124,148946124,Poczucie_szczescia.html</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/polonais/pl_25.html">pl_25.html</a></td>
+					<td><a href="../dumps-text/polonais/pl_25.txt">pl_25.txt</a></td>
+					<td>2</td>
+					<td><a href='../contextes/polonais/pl_25.txt'>pl_25.txt</a></td>
+				</tr>
+				<tr>
+					<td>26</td>
+					<td>https://forum.gazeta.pl/forum/w,3000,109068209,109068209,szczescie.html</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/polonais/pl_26.html">pl_26.html</a></td>
+					<td><a href="../dumps-text/polonais/pl_26.txt">pl_26.txt</a></td>
+					<td>22</td>
+					<td><a href='../contextes/polonais/pl_26.txt'>pl_26.txt</a></td>
+				</tr>
+				<tr>
+					<td>27</td>
+					<td>https://prawoprzyciagania.net/viewtopic.php?f=6&p=20317</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/polonais/pl_27.html">pl_27.html</a></td>
+					<td><a href="../dumps-text/polonais/pl_27.txt">pl_27.txt</a></td>
+					<td>6</td>
+					<td><a href='../contextes/polonais/pl_27.txt'>pl_27.txt</a></td>
+				</tr>
+				<tr>
+					<td>28</td>
+					<td>https://zapytaj.onet.pl/Category/002,018/2,10337227,Co_daje_ci_szczescie_Czym_dla_ciebie_jest_szczescie.html</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/polonais/pl_28.html">pl_28.html</a></td>
+					<td><a href="../dumps-text/polonais/pl_28.txt">pl_28.txt</a></td>
+					<td>31</td>
+					<td><a href='../contextes/polonais/pl_28.txt'>pl_28.txt</a></td>
+				</tr>
+				<tr>
+					<td>29</td>
+					<td>https://www.depresja.ws/topic/13479-jak-znalezc-szczescie/</td>
+					<td>200</td>
+					<td>ISO-8859-2</td>
+					<td><a href="../aspirations/polonais/pl_29.html">pl_29.html</a></td>
+					<td><a href="../dumps-text/polonais/pl_29.txt">pl_29.txt</a></td>
+					<td>22</td>
+					<td><a href='../contextes/polonais/pl_29.txt'>pl_29.txt</a></td>
+				</tr>
+				<tr>
+					<td>30</td>
+					<td>https://pl.pokerstrategy.com/forum/thread.php?threadid=98864</td>
+					<td>200</td>
+					<td>utf-8</td>
+					<td><a href="../aspirations/polonais/pl_30.html">pl_30.html</a></td>
+					<td><a href="../dumps-text/polonais/pl_30.txt">pl_30.txt</a></td>
+					<td>0</td>
+					<td><a href='../contextes/polonais/pl_30.txt'>pl_30.txt</a></td>
+				</tr>
+				<tr>
+					<td>31</td>
+					<td>https://www.ipon.pl/forum/topic/5998-szcz%C4%99%C5%9Bcie-co-lub-kto-przynosi-szcz%C4%99%C5%9Bcie/</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/polonais/pl_31.html">pl_31.html</a></td>
+					<td><a href="../dumps-text/polonais/pl_31.txt">pl_31.txt</a></td>
+					<td>23</td>
+					<td><a href='../contextes/polonais/pl_31.txt'>pl_31.txt</a></td>
+				</tr>
+				<tr>
+					<td>32</td>
+					<td>https://fotka.com/grupa/868732/Fotkapl_Klub_Gwiazd/Forum/180013/Szczescie?strona=1</td>
+					<td>200</td>
+					<td>utf-8</td>
+					<td><a href="../aspirations/polonais/pl_32.html">pl_32.html</a></td>
+					<td><a href="../dumps-text/polonais/pl_32.txt">pl_32.txt</a></td>
+					<td>21</td>
+					<td><a href='../contextes/polonais/pl_32.txt'>pl_32.txt</a></td>
+				</tr>
+				<tr>
+					<td>33</td>
+					<td>https://wizaz.pl/forum/showthread.php?t=1193881</td>
+					<td>200</td>
+					<td>ISO-8859-2</td>
+					<td><a href="../aspirations/polonais/pl_33.html">pl_33.html</a></td>
+					<td><a href="../dumps-text/polonais/pl_33.txt">pl_33.txt</a></td>
+					<td>26</td>
+					<td><a href='../contextes/polonais/pl_33.txt'>pl_33.txt</a></td>
+				</tr>
+				<tr>
+					<td>34</td>
+					<td>https://f.kafeteria.pl/temat-5843265-pieniadze-daja-szczescie/</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/polonais/pl_34.html">pl_34.html</a></td>
+					<td><a href="../dumps-text/polonais/pl_34.txt">pl_34.txt</a></td>
+					<td>6</td>
+					<td><a href='../contextes/polonais/pl_34.txt'>pl_34.txt</a></td>
+				</tr>
+				<tr>
+					<td>35</td>
+					<td>https://www.nasze-sanatorium.pl/forum/viewtopic.php?t=6746&start=50</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/polonais/pl_35.html">pl_35.html</a></td>
+					<td><a href="../dumps-text/polonais/pl_35.txt">pl_35.txt</a></td>
+					<td>19</td>
+					<td><a href='../contextes/polonais/pl_35.txt'>pl_35.txt</a></td>
+				</tr>
+				<tr>
+					<td>36</td>
+					<td>http://www.racjonalista.pl/forum.php/s,623338</td>
+					<td>200</td>
+					<td>ISO-8859-2</td>
+					<td><a href="../aspirations/polonais/pl_36.html">pl_36.html</a></td>
+					<td><a href="../dumps-text/polonais/pl_36.txt">pl_36.txt</a></td>
+					<td>20</td>
+					<td><a href='../contextes/polonais/pl_36.txt'>pl_36.txt</a></td>
+				</tr>
+				<tr>
+					<td>37</td>
+					<td>https://www.familie.pl/Forum-5-172/m1369466-1,Midzynarodowy-dzie-Szczcia.html</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/polonais/pl_37.html">pl_37.html</a></td>
+					<td><a href="../dumps-text/polonais/pl_37.txt">pl_37.txt</a></td>
+					<td>1</td>
+					<td><a href='../contextes/polonais/pl_37.txt'>pl_37.txt</a></td>
+				</tr>
+				<tr>
+					<td>38</td>
+					<td>https://kobiety-kobietom.com/forum/viewtopic.php?t=1932</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/polonais/pl_38.html">pl_38.html</a></td>
+					<td><a href="../dumps-text/polonais/pl_38.txt">pl_38.txt</a></td>
+					<td>5</td>
+					<td><a href='../contextes/polonais/pl_38.txt'>pl_38.txt</a></td>
+				</tr>
+				<tr>
+					<td>39</td>
+					<td>https://dolinamodlitwy.pl/forum/viewtopic.php?f=16&p=13117</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/polonais/pl_39.html">pl_39.html</a></td>
+					<td><a href="../dumps-text/polonais/pl_39.txt">pl_39.txt</a></td>
+					<td>6</td>
+					<td><a href='../contextes/polonais/pl_39.txt'>pl_39.txt</a></td>
+				</tr>
+				<tr>
+					<td>40</td>
+					<td>https://forum.gazeta.pl/forum/w,176,77045564,77045564,Co_to_jest_szczescie_.html</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/polonais/pl_40.html">pl_40.html</a></td>
+					<td><a href="../dumps-text/polonais/pl_40.txt">pl_40.txt</a></td>
+					<td>60</td>
+					<td><a href='../contextes/polonais/pl_40.txt'>pl_40.txt</a></td>
+				</tr>
+				<tr>
+					<td>41</td>
+					<td>https://f.kafeteria.pl/temat-6431968-co-to-jest-szczescie/</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/polonais/pl_41.html">pl_41.html</a></td>
+					<td><a href="../dumps-text/polonais/pl_41.txt">pl_41.txt</a></td>
+					<td>4</td>
+					<td><a href='../contextes/polonais/pl_41.txt'>pl_41.txt</a></td>
+				</tr>
+				<tr>
+					<td>42</td>
+					<td>https://facetpo40.pl/forum/co-znaczy-w-dzisiejszych-czasach-byc-szczesliwym,podsumuj-40,186,35</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/polonais/pl_42.html">pl_42.html</a></td>
+					<td><a href="../dumps-text/polonais/pl_42.txt">pl_42.txt</a></td>
+					<td>10</td>
+					<td><a href='../contextes/polonais/pl_42.txt'>pl_42.txt</a></td>
+				</tr>
+				<tr>
+					<td>43</td>
+					<td>https://www.familie.pl/Forum-5-172/m351442-1,definicja-szczescia.html</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/polonais/pl_43.html">pl_43.html</a></td>
+					<td><a href="../dumps-text/polonais/pl_43.txt">pl_43.txt</a></td>
+					<td>9</td>
+					<td><a href='../contextes/polonais/pl_43.txt'>pl_43.txt</a></td>
+				</tr>
+				<tr>
+					<td>44</td>
+					<td>https://www.nasze-sanatorium.pl/forum/viewtopic.php?p=131220</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/polonais/pl_44.html">pl_44.html</a></td>
+					<td><a href="../dumps-text/polonais/pl_44.txt">pl_44.txt</a></td>
+					<td>14</td>
+					<td><a href='../contextes/polonais/pl_44.txt'>pl_44.txt</a></td>
+				</tr>
+				<tr>
+					<td>45</td>
+					<td>https://www.nasze-sanatorium.pl/forum/viewtopic.php?p=430790</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/polonais/pl_45.html">pl_45.html</a></td>
+					<td><a href="../dumps-text/polonais/pl_45.txt">pl_45.txt</a></td>
+					<td>18</td>
+					<td><a href='../contextes/polonais/pl_45.txt'>pl_45.txt</a></td>
+				</tr>
+				<tr>
+					<td>46</td>
+					<td>https://www.katolik.pl/forum/read.php?f=1&t=57204&a=1</td>
+					<td>200</td>
+					<td>iso-8859-2</td>
+					<td><a href="../aspirations/polonais/pl_46.html">pl_46.html</a></td>
+					<td><a href="../dumps-text/polonais/pl_46.txt">pl_46.txt</a></td>
+					<td>11</td>
+					<td><a href='../contextes/polonais/pl_46.txt'>pl_46.txt</a></td>
+				</tr>
+				<tr>
+					<td>47</td>
+					<td>https://f.kafeteria.pl/temat-4921398-recepta-na-szczesciewasze-rady-na-nia/</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/polonais/pl_47.html">pl_47.html</a></td>
+					<td><a href="../dumps-text/polonais/pl_47.txt">pl_47.txt</a></td>
+					<td>2</td>
+					<td><a href='../contextes/polonais/pl_47.txt'>pl_47.txt</a></td>
+				</tr>
+				<tr>
+					<td>48</td>
+					<td>https://f.kafeteria.pl/temat-6070244-jak-byc-szczesliwym/</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/polonais/pl_48.html">pl_48.html</a></td>
+					<td><a href="../dumps-text/polonais/pl_48.txt">pl_48.txt</a></td>
+					<td>7</td>
+					<td><a href='../contextes/polonais/pl_48.txt'>pl_48.txt</a></td>
+				</tr>
+				<tr>
+					<td>49</td>
+					<td>https://forum.gazeta.pl/forum/w,210,70671801,70671801,Szczescie_w_zyciu_jak_je_zdobyc_.html#p70736511</td>
+					<td>200</td>
+					<td>UTF-8</td>
+					<td><a href="../aspirations/polonais/pl_49.html">pl_49.html</a></td>
+					<td><a href="../dumps-text/polonais/pl_49.txt">pl_49.txt</a></td>
+					<td>8</td>
+					<td><a href='../contextes/polonais/pl_49.txt'>pl_49.txt</a></td>
+				</tr>
+
+			</table>
+		</div>
+	</body>
+</html>
