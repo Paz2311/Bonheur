@@ -9,7 +9,7 @@
 ## Séance du 22 novembre 2022
 
 ### Agata :
-blabla
+Au cours du développement du script de table pour le polonais, j'ai rencontré un obstacle lié à la complexité de la grammaire polonaise. En effet, il existe des conjugaisons de cas pour les noms en polonais, ce qui n'est pas le cas en français et en espagnol. Par conséquent, trouver le nombre d'occurrences du mot "szczęście" est plus compliqué car il faut prendre en compte non seulement toutes les conjugaisons du nom. Mais aussi, les conjugaisons de ce nom sont sans caractères polonais, car beaucoup de gens ne les utilisent pas, surtout sur des sites tels que les forums où le style d'écriture est plutôt informel. En conséquence, j'ai dû envisager huit possibilités afin de trouver le plus grand nombre possible de contextes liés à ce mot.
 
 ### Patricia :
 Cette séance a eu pour but de commencer notre projet. Au cours de la séance, nous avons accompli plusieurs tâches :
