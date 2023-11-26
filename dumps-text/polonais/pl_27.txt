@@ -324,9 +324,11 @@ Re: Szczęście
 Kto przegląda forum
 
    Użytkownicy przeglądający ten dział: Brak zidentyfikowanych
-   użytkowników i 9 gości
+   użytkowników i 18 gości
      * Strona główna forum
      * Ekipa • Usuń ciasteczka • Strefa czasowa: UTC + 1
 
    Powered by phpBB® Forum Software © phpBB Group
    Przyjazne użytkownikom polskie wsparcie phpBB3 - phpBB3.PL
+
+   cron

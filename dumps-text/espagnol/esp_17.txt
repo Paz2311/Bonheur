@@ -247,7 +247,7 @@ Nueva Estudiante 02 Mar 2021 20:49 #61273
    UNED - General
    Iniciación a los estudios
    Nueva Estudiante
-   Tiempo de carga de la página: 0.237 segundos
+   Tiempo de carga de la página: 0.180 segundos
    Gracias a Foro Kunena
      * Contactar
      * Quiénes Somos

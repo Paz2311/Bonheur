@@ -329,7 +329,7 @@ somekind napisał(a):
    Liczba odpowiedzi na stronę [30]
    [Flame_______________________]
 
-1 użytkowników online, w tym zalogowanych: 0, gości: 1
+0 użytkowników online, w tym zalogowanych: 0, gości: 0
 
      * Zakończ obserwację Obserwuj wątek
 
@@ -411,4 +411,4 @@ Skontaktuj się z nami
 
    Copyright © 2000-2023 4programmers.net - programowanie i tworzenie
    stron WWW
-   Coyote 2.5: 132 ms
+   Coyote 2.5: 124 ms

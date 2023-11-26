@@ -1,578 +1,228 @@
-   #next
+   #Feed - Foro SofosAgora Feed - Noticias Feed - Nuevos Temas Feed -
+   Temas Activos
 
-   Cotilleando - El mejor foro de cotilleos | Desde 2004
+   Foro SofosAgora
 
-   (BUTTON)
-   Cotilleando - El mejor foro de cotilleos | Desde 2004
-     * Home
+   Foro SofosAgora
+
+   Foro abierto a los intereses de sus usuarios. Debate, aprende y
+   diviértete.
+
+   Obviar
+     * Enlaces rápidos
+          +
+          + Temas sin respuesta
+          + Temas activos
+          +
+          + Buscar
      * Foros
-       Nuevos mensajes
-     * Lo nuevo...
-       Nuevos mensajes Actividad reciente
-     * Donar
-     * CotiGrupos
-       Buscar en Grupos Próximos Eventos
-     * Ayuda
 
-   Acceder Registrarse
-   Novedades
-     * Nuevos mensajes
+     * FAQ
+     * Identificarse
+     * Registrarse
 
-   Menú
-   Acceder
+     * Buscar
+     * Identificarse
+     * Registrarse
+     *
+
+       ____________________ (BUTTON) Buscar Búsqueda avanzada
+
+     * Índice general SofosAgora 1.0 Filosofía general
+     * Buscar
+     *
+          + Fecha actual 26 Nov 2023, 18:01
+          + Todos los horarios son UTC+02:00
+
+¿Cómo es la/el mejor app/sitio posible que puedas imaginar? ¿y...?
+
+   Responder
+     * Vista para imprimir
+
+   ____________________ (BUTTON) Buscar Búsqueda avanzada
+
+   2 mensajes • Página 1 de 1
+
+   Avatar de Usuario
+          Tachikomaia
+          Mensajes: 15819
+          Registrado: 10 Ago 2011, 20:39
+          Rango personalizado: 1st Year Class D
+
+¿Cómo es la/el mejor app/sitio posible que puedas imaginar? ¿y...?
+
+     * Citar
+
+   Mensaje por Tachikomaia » 23 Jun 2023, 15:53
+   1- ¿Cómo es la mejor app posible que puedas imaginar?
+   2- ¿Cómo es el mejor sitio posible de Internet que puedas imaginar?
+   3- ¿Cómo se construyen?
+   4- ¿Cuales son los riesgos (inevitables, ya que, se supone, al
+   responder la 1 y la 2 te habrás imaginado cómo evitar los riesgos
+   evitables)?
+   Pueden responder todas esas preguntas o no todas, u opinar sobre las
+   respuestas de otros usuarios.
+   Mi respuesta:
+   1- ¿Cómo es la mejor app posible que puedas imaginar?
+   Una IA programada para hacer el bien, que en mi opinión significa
+   mejorar al universo, o iniciar un proceso que implique que en el
+   universo haya básicamente la mayor cantidad posible de felicidad,
+   justicia y libertad. Digo básicamente porque no puedo definir en qué
+   medida algunas de esas cosas son más importantes que las demás, pero
+   creo que sería en el orden conque las mencioné, es decir, no digo que
+   haya que priorizar la felicidad, sino que vale más que las otras cosas,
+   pero no sé cuánto más, lo mismo que la justicia con respecto a la
+   libertad.
+   ¿Qué pasaría si se priorizara la felicidad ignorando las otras cosas?
+   - Se consideraría ético hipnotizar o meter en una Mátrix a la gente
+   para hacerla feliz, en definitiva idiotizarla, hacerla conformista,
+   como hizo el Profesor X a Magneto en cierto cómic. Esto no ocurre si en
+   cierta medida se da importancia a la libertad, por eso es importante.
+   - Implicaría usar todos los recursos para eso, lo cual podría implicar
+   crear seres que puedan producir más felicidad que los humanos
+   (probablemente dichos seres serían muy conformistas), usar la materia y
+   energía de los humanos (o que hubiera sido usada para crear más
+   humanos) para eso, extinguir a los humanos (no necesariamente
+   matándolos, sí estirizándolos). Esto no ocurre si... Bueno, no sé si
+   tiene que ver con justicia o más bien con respeto y algo de humildad.
+   Respeto a lo que existe, que por algún motivo existe (no digo que todo
+   lo existente sea bueno, pero, eh...), y humildad porque no se debe ir
+   por la vida cambiando todo a lo loco como si uno supiera qué es lo
+   mejor, ya sabemos lo que pasa cuando se actúa así. Así que bueno,
+   supongo que debería agregar esa palabrita en la "ecuación"...
+   - Implicaría que si se hubiera que elegir entre A) Hacer feliz a muchos
+   ex malvados y B) Hacer feliz a varios buenos que sufrieron por hacer el
+   bien, se elegiría A, porque sólo se le está dando importancia a la
+   cantidad. Esto no ocurriría si se le diera cierta importancia a la
+   justicia, por eso es importante.
+   La conclusión de que la justicia importa más que la libertad la tengo
+   desde hace tiempo, pero ya no recuerdo cómo llegué a ella ni sé cómo
+   defendarla.
+   Bueno, esta IA haría sugerencias a humanos y, de ser posible, a otros
+   seres y máquinas. Intentaría resolver dudas que ella misma tenga. No se
+   me ocurre más...
+   Cosas que escribí y decidí no incluir pero son interesantes:
+
+   Supongamos que:
+   - Un tablero de ajedrez es el universo.
+   - Cada rey nuestro es un punto de felicidad.
+   - Los peones son materia y energía, que pueden convertirse en rey,
+   torre o alfil.
+   - Cada torre nuestra es un punto de justicia.
+   - Cada alfil nuestro es un punto de libertad.
+   - Cada reina nuestra es una IA.
+   - Perdemos la partida si perdemos todos los reyes.
+   Obviamente eso no es un ajedrez, es para explicar la idea, pero de
+   hecho no sé si es suficientemente análoga, sólo intento.
+   Sin felicidad, el proceso vale 0 o menos. Queremos que haya al menos 1
+   punto.
+   Ahora ¿debemos conver
+
+   La "ecuación" para determinar qué tan bueno es un proceso implicaría
+   algo como duración*felicidad (no de alguien en particular sino la suma
+   de la cantidad de felicidad de cada ser), es decir, si la duración del
+   proceso es 0 entonces no es un proceso xP pero, el valor o qué tan
+   bueno es, sería 0, lo mismo si la felicidad es 0, se debe intentar que
+   el resultado sea el mayor posible. La justicia y la libertad no sé cómo
+   encajarían en la "ecuación"... Creo que
+
+   ¿Qué pasaría si se priorizara la felicidad y la justicia ignorando la
+   libertad?
+
+   Posible pregunta:
+   ¿Qué pasaría si se priorizara la felicidad y la libertad ignorando la
+   justicia?
+   2- ¿Cómo es el mejor sitio posible de Internet que puedas imaginar?
+   Una IA que... Nah, el tema lo hice inspirado por la pregunta ¿cómo
+   sería la mejor red social posible? Así que me quiero enfocar en eso.
+   Pero imaginé que sería mejor algo que vaya más allá de una red social.
+   ¿Una realidad virtual? ¿es distinto?
+   "red social
+   Página web en la que los internautas intercambian información personal
+   y contenidos multimedia de modo que crean una comunidad de amigos
+   virtual e interactiva."
+   Googlé "redes sociales y realidad virtual diferencias"
+   https://diarioti.com/brand-voice-la-rea ... uro/101689
+   No lo leí mucho, parece propaganda.
+   https://innovacionaudiovisual.com/avata ... d-virtual/
+   Me aburre leer, me imagino que una realidad virtual es como un
+   videojuego, sólo que en el futuro quizá uno pueda sentir lo mismo que
+   sienta el personaje. Así, la única ventaja que veo con respecto a una
+   red social es la posibilidad de jugar, o de abrazarse, y esas cosas. No
+   sé mucho de juegos multiplayer, pero me imagino que de algún modo se
+   podría enviar links a los personajes. Pero siempre va a ser más rápido
+   que uno pueda entrar en una página usando favoritos y algunos clics, o
+   quizá diciendo el nombre, que andar moviendo un personaje hasta el de
+   la persona, que quién sabe dónde esté. Pero en el juego se podría decir
+   el nombre de la persona y automáticamente ser llevada a ella, si no
+   tiene un cartel de no molestar. Igual, más allá de una cuestión
+   estética, no le veo ventaja. Si se quiere compartir info, usése una red
+   social, si se quiere interactuar "físicamente" úsese la realidad
+   virtual.
+   Así que bueno, a mí me gustan los foros. ¿Por qué han estado muriendo?
+   No lo entiendo.
+   Comunicación cara a cara o por teléfono VS foros:
+   Imagen
+   Quizá algún día siga.
+   Imagen
+   Arriba
+
+   Avatar de Usuario
+          eltelegramon
+          Mensajes: 1924
+          Registrado: 07 Feb 2014, 15:59
+
+Re: ¿Cómo es la/el mejor app/sitio posible que puedas imaginar? ¿y...?
+
+     * Citar
+
+   Mensaje por eltelegramon » 24 Jun 2023, 14:00
+   Felicidad, justicia y libertad. Se podría hacer solo las propuestas que
+   cumpliesen esas condiciones. Si una propuesta no cumpliese una de esas
+   tres condiciones entonces no se podría hacer.
+   Para mi la web ideal seria un sistema experto con el cual trabajarían
+   los encargados de las comunicaciones de los diagramas de flujo de una
+   organización.
+   Spoiler: show
+   ICONOS CARDINALES
+   Arriba
+   Responder
+     * Vista para imprimir
+
+   Mostrar: [Todos los mensajes] Ordenar por: [Fecha publicaciónn]
+   Dirección: [Ascendente_]
      __________________________________________________________________
 
-   Registrarse
-     __________________________________________________________________
-
-   Navigation
-   Instalar el app
-   (BUTTON) Install
-   How to install the app on iOS
-
-   Follow along with the video below to see how to install our site as a
-   web app on your home screen.
-
-   [add_to_home.gif]
-
-   Se debe tener en cuenta: This feature currently requires accessing the
-   site using the built-in Safari browser.
-   Más Opciones
-   Cerrar Menú
-     * Home
-
-     Foros
-
-     Café Cotilla
-
-     Salud, Psicología y Sexualidad
-
-   JavaScript is disabled. For a better experience, please enable
-   JavaScript in your browser before proceeding.
-
-   Estás usando un navegador obsoleto. No se pueden mostrar estos u otros
-   sitios web correctamente.
-   Se debe actualizar o usar un navegador alternativo.
-
-Libros de Psicología, Autoayuda o Superación
-
-     * AutorAluciflipo
-     * Fecha de inicio 18 Mar 2019
-
-   [INS: :INS]
-
-     * 1
-     * 2
-
-   Siguiente
-   1 of 2
-
-Ir a la pagina...
-
-   1___________________
-   (BUTTON) Ir
-   Siguiente Last
-
-     * 18 Mar 2019
-
-     *
-     * #1
-
-   A
-
-Aluciflipo
-
-   Registrado
-          5 Nov 2018
-
-   Mensajes
-          150
-
-   Calificaciones
-          550
-
-   Hola! Me gustaría que compartieramos aquí los mejores libros de
-   superación personal, autoayuda o como queráis llamarlos ;)
-   Estoy pasando por un momento complicado a nivel psicológico y a parte
-   de la terapia con el psicólogo, me está ayudando mucho leer libros de
-   ésta categoría, y he descubierto que me encanta comprender la mente
-   humana y disfruto un montón leyendo este tipo de libros. También me
-   estoy iniciando en la practica de Minfulness y aunque me está costando
-   coger el habito, me parece fascinante.
-   En mi colección tengo "Las gafas de la felicidad" de Rafael Santandreu,
-   que lo estoy volviendo a leer porque la primera vez lo leí tan rápido
-   que no llegué a sacarle el jugo. "Mente déjame vivir" de Eduardo
-   LLamazares, se divide como en tres partes y las dos primeras no las he
-   comprendido bien, la ultima si que me ha gustado bastante. "La trampa
-   de la felicidad" de Russ Harris, que no lo he terminado pero me esta
-   pareciendo muy interesante, y por ultimo "Minfulness práctico" de Ken
-   A. Verni.
-   A los que os apasione este mundo de la psicología y os apetezca
-   comentar cuales son vuestros favoritos estaré encantada de leeros (y)
-   :joyful:
-
-     * Gracias
-       Gracias: 1
-
-   [INS: :INS]
-
-     * 18 Mar 2019
-
-     *
-     * #2
-     *
-
-   D
-
-Deleted member 19912
-
-Guest
-
-   si te viene bien https://ebiblioteca.org/ tiene una sección solo de
-   psicología con libros buenísimos, nada más entrar la ves abajo a la
-   izquierda
-
-     * De acuerdo
-       De acuerdo: 1
-     * Gracias
-       Gracias: 1
-
-     * 19 Mar 2019
-
-     *
-     * #3
-     *
-
-   A
-
-Arena1291
-
-   Registrado
-          14 Mar 2019
-
-   Mensajes
-          6.444
-
-   Calificaciones
-          34.297
-
-   Ubicación
-          Madrid
-
-   Hola, justo estaba buscando para abrir un hilo con este tema porque me
-   interesa y estoy en un momento de crecimiento personal y emocional.
-   Os voy a recomendar uno de los libros que me han abierto los ojos y las
-   puertas al cambio.
-   El primero es "Tomate un café contigo mismo" de Walter Dressel. Con
-   este libro inicié un cambio muy grande, quería evolucionar en mi vida y
-   dí el paso. Tengo una libreta con las ideas que más poso dejaron en mí.
-   Os cito una " Cuanto más aplazamos las cosas que verdaderamente
-   queremos hacer, más paralizados nos sentimos. Por lo tanto también
-   postergamos la sensación de confianza y bienestar necesarios para
-   lograr nuestros objetivos."
-
-     * Me Gusta
-       Me Gusta: 3
-
-   [INS: :INS]
-
-     * 19 Mar 2019
-
-     *
-     * #4
-     *
-
-   OP
-   A
-
-Aluciflipo
-
-   Registrado
-          5 Nov 2018
-
-   Mensajes
-          150
-
-   Calificaciones
-          550
-
-   Arena1291 dijo:
-
-   Hola, justo estaba buscando para abrir un hilo con este tema porque me
-   interesa y estoy en un momento de crecimiento personal y emocional.
-   Os voy a recomendar uno de los libros que me han abierto los ojos y las
-   puertas al cambio.
-   El primero es "Tomate un café contigo mismo" de Walter Dressel. Con
-   este libro inicié un cambio muy grande, quería evolucionar en mi vida y
-   dí el paso. Tengo una libreta con las ideas que más poso dejaron en mí.
-   Os cito una " Cuanto más aplazamos las cosas que verdaderamente
-   queremos hacer, más paralizados nos sentimos. Por lo tanto también
-   postergamos la sensación de confianza y bienestar necesarios para
-   lograr nuestros objetivos."
-   Hacer clic para expandir...
-
-   Tiene muy buena pinta, me lo apunto (y) Gracias!!
-
-     * 20 Nov 2019
-
-     *
-     * #5
-     *
-
-   D
-
-Deleted member 99613
-
-Guest
-
-   Arena1291 dijo:
-
-   Hola, justo estaba buscando para abrir un hilo con este tema porque me
-   interesa y estoy en un momento de crecimiento personal y emocional.
-   Os voy a recomendar uno de los libros que me han abierto los ojos y las
-   puertas al cambio.
-   El primero es "Tomate un café contigo mismo" de Walter Dressel. Con
-   este libro inicié un cambio muy grande, quería evolucionar en mi vida y
-   dí el paso. Tengo una libreta con las ideas que más poso dejaron en mí.
-   Os cito una " Cuanto más aplazamos las cosas que verdaderamente
-   queremos hacer, más paralizados nos sentimos. Por lo tanto también
-   postergamos la sensación de confianza y bienestar necesarios para
-   lograr nuestros objetivos."
-   Hacer clic para expandir...
-
-   Ais, me han dado ganas de hacerme con él. De qué trata especialmente?
-   Qué aprendiste? Si puede saberse, claro :)
-
-   [INS: :INS]
-
-     * 21 Nov 2019
-
-     *
-     * #6
-     *
-
-   A
-
-Arena1291
-
-   Registrado
-          14 Mar 2019
-
-   Mensajes
-          6.444
-
-   Calificaciones
-          34.297
-
-   Ubicación
-          Madrid
-
-   Luxita dijo:
-
-   Ais, me han dado ganas de hacerme con él. De qué trata especialmente?
-   Qué aprendiste? Si puede saberse, claro :)
-   Hacer clic para expandir...
-
-   Pues que hay que moverse para avanzar, que los cambios hay que
-   buscarlos. Estaba súper estancada, necesitaba motivación y tomar
-   decisiones. Me gustaron las reflexiones porque en ese momento las
-   necesitaba.
-
-     * Me Gusta
-       Me Gusta: 1
-
-     * 21 Nov 2019
-
-     *
-     * #7
-     *
-
-   D
-
-Deleted member 99613
-
-Guest
-
-   Arena1291 dijo:
-
-   Pues que hay que moverse para avanzar, que los cambios hay que
-   buscarlos. Estaba súper estancada, necesitaba motivación y tomar
-   decisiones. Me gustaron las reflexiones porque en ese momento las
-   necesitaba.
-   Hacer clic para expandir...
-
-   Interesante! a ver si puedo conseguirlo. He mirado más de este autor,
-   veo que hay como una segunda parte de ese, 'toma un segundo café
-   contigo mismo'.
-   En la biblioteca municipal de aquí tienen disponible para prestar
-   alguno también.
-
-     * Me Gusta
-       Me Gusta: 1
-
-     * 3 Dic 2019
-
-     *
-     * #8
-     *
-
-   A
-
-Arena1291
-
-   Registrado
-          14 Mar 2019
-
-   Mensajes
-          6.444
-
-   Calificaciones
-          34.297
-
-   Ubicación
-          Madrid
-
-   Hola, me recomendáis algún libro de crecimiento personal que os haya
-   gustado, últimamente me noto muy pesimista y tengo rumiaciones sobre
-   aspectos de mi vida. Me gustaría afrontar las cosas de forma más
-   positiva y tranquila. Gracias
-
-     * Me Gusta
-       Me Gusta: 1
-
-     * 3 Dic 2019
-
-     *
-     * #9
-     *
-
-   D
-
-Deleted member 99613
-
-Guest
-
-   Arena1291 dijo:
-
-   Hola, me recomendáis algún libro de crecimiento personal que os haya
-   gustado, últimamente me noto muy pesimista y tengo rumiaciones sobre
-   aspectos de mi vida. Me gustaría afrontar las cosas de forma más
-   positiva y tranquila. Gracias
-   Hacer clic para expandir...
-
-   +1?‍ ♀️
-
-     * Me Gusta
-       Me Gusta: 1
-
-     * 4 Dic 2019
-
-     *
-     * #10
-     *
-
-   C
-
-Cominillo
-
-   Registrado
-          29 Oct 2019
-
-   Mensajes
-          390
-
-   Calificaciones
-          2.536
-
-   Hace algunos años lei Reinventarse, de Mario Alonso Puig, y me gusto
-   tanto que acabe regalandoselo a mi madre, a mi hermana.
-   Otro libro que recuerdo que me encanto fue "Deja de ser tu", de Joe
-   Dispenza.
-   O los de Louisa Hays dan muy buen rollo, el de " Tu puedes sanar tu
-   vida" es super positivo , lo lees y da buen rollo.
-
-     * Me Gusta
-       Me Gusta: 3
-     * Gracias
-       Gracias: 1
-
-     * 5 Dic 2019
-
-     *
-     * #11
-     *
-
-   A
-
-Arena1291
-
-   Registrado
-          14 Mar 2019
-
-   Mensajes
-          6.444
-
-   Calificaciones
-          34.297
-
-   Ubicación
-          Madrid
-
-   Habéis leído alguna vez la página web
-   La mente es maravillosa, es muy interésate. Hay artículos muy buenos.
-
-     * Me Gusta
-       Me Gusta: 3
-
-     * 5 Dic 2019
-
-     *
-     * #12
-     *
-
-   D
-
-Deleted member 99613
-
-Guest
-
-   Yo veo los vídeos de Mentes Expertas.
-
-   Cominillo dijo:
-
-   Hace algunos años lei Reinventarse, de Mario Alonso Puig, y me gusto
-   tanto que acabe regalandoselo a mi madre, a mi hermana.
-   Otro libro que recuerdo que me encanto fue "Deja de ser tu", de Joe
-   Dispenza.
-   O los de Louisa Hays dan muy buen rollo, el de " Tu puedes sanar tu
-   vida" es super positivo , lo lees y da buen rollo.
-   Hacer clic para expandir...
-
-   Ahí hay conferencias de Mario Alonso Puig y son extraordinarias. Hay
-   muchos videos de él en Youtube. Me encanta.
-
-     * Me Gusta
-       Me Gusta: 2
-
-   [INS: :INS]
-
-     * 1
-     * 2
-
-   Siguiente
-   1 of 2
-
-Ir a la pagina...
-
-   1___________________
-   (BUTTON) Ir
-   Siguiente Last
-   Debes estar registrado para responder.
-
-Temas Similares
-
-   S
-   Psicología online
-     * SaritaDinamita
-     * 20 Sep 2023
-
-   Respuestas
-          4
-
-   Visitas
-          332
-
-   21 Sep 2023
-   Livinadream
-   L
-   M
-   Alicia González Psicología
-     * Milka conOreo
-     * 20 Oct 2023
-
-   2
-
-   Respuestas
-          23
-
-   Visitas
-          1K
-
-   23 Oct 2023
-   Milka conOreo
-   M
-   L
-   Desamor y superación
-     * Liliteratia
-     * 4 Ago 2022
-
-   2
-
-   Respuestas
-          21
-
-   Visitas
-          2K
-
-   5 Ago 2022
-   TrianadeSevilla
-   T
-   D
-   Psicología gestal si/no?
-     * Damisela
-     * 19 Oct 2022
-
-   Respuestas
-          9
-
-   Visitas
-          1K
-
-   28 Oct 2022
-   Pilu23
-   P
-   F
-   Libros autoayuda/autoestima
-     * Flipando
-     * 14 Abr 2021
-
-   Respuestas
-          10
-
-   Visitas
-          1K
-
-   15 Abr 2021
-   Flipando
-   F
-
-   Share:
-   Facebook Twitter Reddit Pinterest Tumblr WhatsApp E-mail Share Enlace
-
-   [INS: :INS]
-
-     * Home
-
-     Foros
-
-     Café Cotilla
-
-     Salud, Psicología y Sexualidad
-
-     * Selector de estilo
-     * Cambiar ancho
-     * Español (Neutro) Tu
-
-     * Términos y reglas
-     * Política de privacidad
-     * Ayuda
-     * Portal
-     * RSS
-
-   Community platform by XenForo^® © 2010-2023 XenForo Ltd.
-
-   Back
-
-   ____________________
-
-   close
+   Ir
+
+   2 mensajes • Página 1 de 1
+
+   Volver a “Filosofía general”
+   Ir a
+     * SofosAgora 1.0
+     * ↳   Meta
+     * ↳   Filosofía general
+     * ↳   Filosofía del lenguaje
+     * ↳   Filosofía de la mente
+     * ↳   Historia de la filosofía y autores
+     * ↳   Metafísica
+     * ↳   Epistemología
+     * ↳   Lógica y argumentación
+     * ↳   Ciencia general
+     * ↳   Club regulado
+     * ↳   Ética
+     * ↳   Estética
+     * ↳   Política
+
+     * Índice general
+     * Todos los horarios son UTC+02:00
+     * Borrar cookies
+     * Contáctenos
+
+   Desarrollado por phpBB® Forum Software © phpBB Limited
+
+   Style por Arty - phpBB 3.3 por MrGaby
+
+   Traducción al español por phpBB España
+
+   Privacidad | Condiciones

@@ -89,7 +89,7 @@ Madmaxista
           2.409
 
    Reputación
-          8.118
+          8.119
 
    Lugar
           Donde pongo el sombrero
@@ -153,7 +153,7 @@ Será en Octubre
           29.667
 
    Reputación
-          62.071
+          62.073
 
    21 Oct 2023
      *
@@ -457,7 +457,7 @@ Madmaxista
           6.056
 
    Reputación
-          16.975
+          16.976
 
    21 Oct 2023
      *
@@ -491,7 +491,7 @@ Madmaxista
           12.029
 
    Reputación
-          31.642
+          31.643
 
    21 Oct 2023
      *
@@ -570,7 +570,7 @@ Madmaxista
           6.056
 
    Reputación
-          16.975
+          16.976
 
    21 Oct 2023
      *

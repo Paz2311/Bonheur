@@ -86,10 +86,10 @@ El puñetero Amo
           27 Ene 2012
 
    Mensajes
-          44.749
+          44.750
 
    Reputación
-          129.895
+          129.903
 
    2 Nov 2023
      *
@@ -123,7 +123,7 @@ Madmaxista
           6.299
 
    Reputación
-          27.950
+          27.958
 
    2 Nov 2023
      *
@@ -273,7 +273,7 @@ Monja Freelance
           29 Jul 2019
 
    Mensajes
-          59.604
+          59.613
 
    Reputación
           59.868
@@ -329,10 +329,10 @@ Ojo de cuervo
           28 Jun 2018
 
    Mensajes
-          16.616
+          16.618
 
    Reputación
-          47.446
+          47.452
 
    Lugar
           En la frontera
@@ -363,10 +363,10 @@ Madmaxista
           8 Nov 2018
 
    Mensajes
-          3.151
+          3.155
 
    Reputación
-          10.409
+          10.425
 
    2 Nov 2023
      *
@@ -429,10 +429,10 @@ P V R A S A N G R E
           10 Dic 2017
 
    Mensajes
-          4.364
+          4.366
 
    Reputación
-          11.917
+          11.919
 
    2 Nov 2023
      *
@@ -460,7 +460,7 @@ Será en Octubre
           41.944
 
    Reputación
-          42.091
+          42.092
 
    2 Nov 2023
      *
@@ -557,7 +557,7 @@ Himbersor
           1.552
 
    Reputación
-          3.482
+          3.490
 
    2 Nov 2023
      *

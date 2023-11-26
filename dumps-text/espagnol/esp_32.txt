@@ -81,7 +81,7 @@ Y yo que sé tio.
           466
 
    Reputación
-          608
+          610
 
    28 Oct 2023
      *
@@ -138,7 +138,7 @@ Himbersor
           1.072
 
    Reputación
-          526
+          528
 
    2 Nov 2023
      *
@@ -204,7 +204,7 @@ Y yo que sé tio.
           466
 
    Reputación
-          608
+          610
 
    2 Nov 2023
      *
@@ -234,7 +234,7 @@ Himbersor
           1.072
 
    Reputación
-          526
+          528
 
    2 Nov 2023
      *
@@ -259,7 +259,7 @@ Y yo que sé tio.
           466
 
    Reputación
-          608
+          610
 
    2 Nov 2023
      *
@@ -289,7 +289,7 @@ Y yo que sé tio.
           466
 
    Reputación
-          608
+          610
 
    2 Nov 2023
      *
@@ -315,7 +315,7 @@ Himbersor
           1.072
 
    Reputación
-          526
+          528
 
    2 Nov 2023
      *
@@ -345,7 +345,7 @@ Himbersor
           1.072
 
    Reputación
-          526
+          528
 
    2 Nov 2023
      *
@@ -370,7 +370,7 @@ Himbersor
           1.072
 
    Reputación
-          526
+          528
 
    2 Nov 2023
      *
@@ -401,7 +401,7 @@ Y yo que sé tio.
           466
 
    Reputación
-          608
+          610
 
    2 Nov 2023
      *
@@ -442,7 +442,7 @@ Botifler
           6.272
 
    Reputación
-          25.830
+          25.832
 
    2 Nov 2023
      *
@@ -498,7 +498,7 @@ Y yo que sé tio.
           466
 
    Reputación
-          608
+          610
 
    2 Nov 2023
      *
@@ -517,10 +517,10 @@ Será en Octubre
           6 Sep 2006
 
    Mensajes
-          40.429
+          40.432
 
    Reputación
-          131.917
+          131.925
 
    2 Nov 2023
      *

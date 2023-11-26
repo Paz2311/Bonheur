@@ -1230,65 +1230,77 @@ Udostępnij na innych stronach
 
      *
      * Tematy
-          + Jodła54
-            2
-            Głośne wiatraki
-            Przez Jodła54
-            Napisano 19 minut temu
-          + Keyser_Soze
-            142232
-            Off Polityczny
-            Przez Keyser_Soze
-            Napisano 8 Marca 2012
-          + Camis
-            34735
-            Ukraina - Rosyjska inwazja 2022
-            Przez Camis
-            Napisano 11 Kwietnia 2021
-          + azgan
-            5669
-            Battlefield 2042 PC, XSX, PS5 - wątek zbiorczy
-            Przez azgan
-            Napisano 24 Maja 2021
-          + Argent89
-            38
-            Grafika do 700 zł
-            Przez Argent89
-            Napisano 9 Czerwca
+          + fic
+            3
+            Jaka to wtyczka?
+            Przez fic
+            Napisano 19 godzin temu
+          + kamilkusio
+            1662
+            Baldur's Gate 3
+            Przez kamilkusio
+            Napisano 24 Stycznia 2014
+          + MateuszTbg
+            9
+            Pomoc w zakupie laptopa do ok 4500zł Programy Filmy Internet
+            Przez MateuszTbg
+            Napisano Czwartek o 14:42
+          + Somebody101
+            1
+            Laptop do 6tys, z bdb matrycą
+            Przez Somebody101
+            Napisano 1 godzinę temu
+          + Ciachus4040
+            1196
+            VR - temat główny
+            Przez Ciachus4040
+            Napisano 17 Stycznia 2020
      * Odpowiedzi
-          + Keken
-            Ukraina - Rosyjska inwazja 2022
-            Przez Keken · Napisano teraz
-            Nie pamiętam. W wywiadach na popularnych kanałach. Abrams 55t
-            a T72 - 41t. Dawno nie widziałem wywiadów z walczącymi na
-            froncie np. z Damianem Dudą ale chyba jeszcze żyje bo wrzuca
-            coś na twittera.
-          + cruze
-            Battlefield 2042 PC, XSX, PS5 - wątek zbiorczy
-            Przez cruze · Napisano teraz
-            BF V czy 2042 ? Jakie są Wasze opinie ?
-          + Argent89
-            Grafika do 700 zł
-            Przez Argent89 · Napisano teraz
-            Czesc Tutaj piszesz że nie potrzebnie, na innym forum zaś
-            piszą że tego elementuma nie podpieli by pod komputer, ciężko
-            czasami nadążyć za ludźmi, jedni pisza tak inni zas inaczej,
-            trudno. Ja jestem zadowolony z obu zakupów, ten zasilacz nawet
-            lepszy bo w pełni modularny co za tym idzie mniej kablologi w
-            obudowie ktora i tak juz jest mała .
-          + Kris194
-            GTA VI / Grand Theft Auto VI
-            Przez Kris194 · Napisano 1 minutę temu
-            Być może, nie wiem, jestem dopiero na etapie poziomu "Wnętrze
-            góry" także bez spoilerów proszę Uzyskasz w ten sposób jedynie
-            efekt taki, że zarżniesz sprzęt bo GTA V używa starych
-            rozwiązań, które nijak się skalują z obecnym sprzętem.
-          + Ronson
-            Ukraina - Rosyjska inwazja 2022
-            Przez Ronson · Napisano 5 minut temu
-            Za ciężki tam, gdzie może ugrząznąć, ale nie za ciężki tam,
-            gdzie tego ryzyka nie ma. Zaraz wszystko pozamarza to się
-            pewnie więcej tego pojawi.
+          + MarcinMagic
+            Pomoc w zakupie laptopa do ok 4500zł Programy Filmy Internet
+            Przez MarcinMagic · Napisano 1 minutę temu
+            Ja Ci poleciłem bardzo dobry sprzęt. Ale jak chcesz, to
+            kombinuj po swojemu.
+          + Qrdello
+            Laptop do 6tys, z bdb matrycą
+            Przez Qrdello · Napisano 2 minuty temu
+            Legiony mają porządne matryce, szczególnie w wersji PRO.
+            Alternatywą będą TUFy gaming, i w tych pieniądzach jesteś w
+            stanie kupić model taki jak mój z sygnatury. Tutaj matryca też
+            ma pokrycie srgb 100%, ale jest tylko 1080p i 144hz. Jeżeli
+            chodzi o wydajność, to ten Twój wybrany model spokojnie da
+            radę w grach, nawet obsługując czasem najwyższe detale -
+            jedyne co będzie go tutaj nieco ograniczać to wyższa niż
+            nominalna dla tej karty rozdzielczość matrycy. W 1600p nie
+            pograsz na maks detalach w bardzo wymagające tytuły, chyba że
+            dlss włączysz na balanced albo performance. Poza tym,
+            powinieneś być zadowolony. 👌
+          + marioking
+            VR - temat główny
+            Przez marioking · Napisano 2 minuty temu
+            Ja  bym sie bardziej obawiał ze raczej do jutra jest promka na
+            pico 4 meta quest 2 to szrot
+          + skunRace
+            Sprzedaż karty RTX 3070 Tuf
+            Przez skunRace · Napisano 8 minut temu
+            Tego nie wiesz, wiele z nich jest nie dawno wystawionych. Jak
+            pisałem ja sprzedałem bez problemu 2070 Super za 1100zł ponad
+            miesiąc temu, pytało o nią kilka osób, a ogłoszenie wisiało
+            równe 9 dni. Tutaj karta ma tylko pół roku i jak ma papiery to
+            pójdzie bez problemu za więcej.
+          + bbandi
+            Niesamowita oprawa graficzna i artystyczna czyli screeny z
+            najpiękniejszych gier
+            Przez bbandi · Napisano 10 minut temu
+            Fabuła niezbyt odkrywcza, na ziemi kończą się zasoby i lecimy
+            w kosmos szukać rozwiązania problemu - sam gameplay bardzo
+            przyjemny, poruszamy się po bazie kosmicznej, kosmosie i
+            robimy puzzle - rozwiązujemy zagadki, grałem niezbyt długo ale
+            mi ta forma pasuje - graficznie jest sztos, optymalizacja
+            bardzo dobra, gram z DLSS Quality który jest świetnie
+            zaimplementowany i do tego full RT i działa mi nadzwyczaj
+            dobrze - i do tego to indyk, inni się od nich powinni uczyć.
+
      * Aktywni użytkownicy
           + Tydzień
           + Miesiąc
@@ -1309,11 +1321,11 @@ Udostępnij na innych stronach
          4. 4
             Send1N
             Send1N
-            51
+            54
          5. 5
             LeBomB
             LeBomB
-            41
+            40
        Pokaż więcej
 
      * Cała aktywność

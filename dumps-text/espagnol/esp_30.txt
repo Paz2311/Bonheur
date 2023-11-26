@@ -55,10 +55,10 @@ Etiquetas
    (BUTTON)
    Voto negativo Más información
    Comunidad destacada de hoy
-   communty actualidad
-   Actualidad
-   Actualidad y sociedad
-   actualidad
+   communty ocio
+   Ocio
+   Ocio, entretenimiento y humor
+   ocio
    (BUTTON) Loguéate si deseas escribircomentarios. O crea tu cuenta
    (BUTTON) aquí.
 
