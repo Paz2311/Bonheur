@@ -1,611 +1,4516 @@
-
-
-
-<html>
+<!DOCTYPE html>
+<html id="XenForo" lang="es-LA" dir="LTR" class="Public NoJs GalleryLazyLoader LoggedOut NoSidebar  Responsive" xmlns:fb="http://www.facebook.com/2008/fbml">
 <head>
 
-<meta name="copyright" content="Instituto Cervantes">
-<meta name="author" content="Centro Virtual Cervantes">
-<meta name="developer" content="Centro Virtual Cervantes">
-<meta name="robots" content="INDEX, NOFOLLOW">
-<meta name="description" content="Foros moderados de debate sobre tres ejes fundamentales: el presente y futuro de la lengua espaÒola, su dispersiÛn y variedades (Foro del espaÒol de hoy y maÒana); su did·ctica como lengua extranjera (Foro did·ctico); su historia, su literatura y sobre la cultura expresada en el dominio ling¸Ìstico hisp·nico (Foro del hispanista).">
-<meta name="keywords" content="espaÒa, espaÒol, spain, spanish, castellano, espaÒola, cultura, hisp·nico, hispanoamÈrica, iberoamÈrica, latinoamÈrica, lengua, filologÌa, enseÒanza, literatura, ling¸Ìstica, foros, forum, historia, arte, bibliografÌa, hispanista, traductor, maestro, profesor, debate, terminologÌa, gram·tica, traducciÛn, ortografÌa, lÈxico, anglicismos, barbarismos, spanglish, did·ctica, docencia, extranjeros, aula, materiales, metodologÌa">
-<meta name="lang" content="es-es">
-<meta name="lm-id" content="spain">
-<meta name="date" content="Marzo 2000">
-<meta name="version" content="1.00">
-<meta name="generator" content="Microsoft Visual InterDev 1.0">
-
-
-	<script language="JavaScript">
-		<!--
-			//top.location.href = "default.htm"
-		//-->
-	</script>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
 	
-<script language="JavaScript">
-<!--
-var p1=null;
-var p2=null;
-var p3=null;
-var p4=null;
-
-function vincular(p)
-	{
-		location=direccion[p];
-	};
-
-var direccion = new Array(4);
-direccion[0]="foro_tic/";
-direccion[1]="foro_esp/";
-direccion[2]="foro_did/";
-direccion[3]="foro_his/";
-
-imagen = new Array(8);
-	{
-		imagen[1]= new Image (53,21);
-		imagen[1].src="./imagenes/foro_tic_b.gif";
-		imagen[2]= new Image (53,21);
-		imagen[2].src="./imagenes/foro_tic_n.gif";
-		imagen[3]= new Image (100,21);
-		imagen[3].src="./imagenes/foro_esp_b.gif";
-		imagen[4]= new Image (100,21);
-		imagen[4].src="./imagenes/foro_esp_n.gif";
-		imagen[5]= new Image (85,21);
-		imagen[5].src="./imagenes/foro_didactico_b.gif";
-		imagen[6]= new Image (85,21);
-		imagen[6].src="./imagenes/foro_didactico_n.gif";
-		imagen[7]= new Image (112,21);
-		imagen[7].src="./imagenes/foro_hispa_b.gif";
-		imagen[8]= new Image (112,21);
-		imagen[8].src="./imagenes/foro_hispa_n.gif";
-
-	}
-
-function cambiar(loc,img)
-	{
-		defaultStatus=(" ");
-		loc.src=imagen[img].src;
-	}
-// -->
-</script>
-
-<script language="JavaScript">
-<!--
-
-function enviar() {
-
-	var ok = 0;
-
-	if (document.form_enviar.titulo.value == "") {
-		alert("Debe escribir el tÌtulo, por favor.");
-		ok = 1;
-	}
-
-	if ( ok == 0 ) {
-		if (document.form_enviar.nombre.value == "") {
-			alert("Debe escribir su nombre, por favor.");
-			ok = 1;
-		}
-	}
-
-	if ( ok == 0 ) {
-		if (document.form_enviar.apellidos.value == "") {
-			alert("Debe escribir sus apellidos, por favor.");
-			ok = 1;
-		}
-	}
-
-	if ( ok == 0 ) {
-		if (document.form_enviar.email.value == "") {
-			alert("Debe escribir su direcciÛn de correo electrÛnico, por favor.");
-			ok = 1;
-		}
-	}
-
-	if ( ok == 0 ) {
-		if (document.form_enviar.email.value.indexOf('@',0) == -1) {
-			alert("Debe introducir una direcciÛn de correo electrÛnico correcta, por favor.");
-			ok = 1;
-		}
-	}
-
-	if ( ok == 0 ) {
-		if (document.form_enviar.texto.value == "") {
-			alert("Debe escribir el texto del mensaje, por favor.");
-			ok = 1;
-		}
-	}
-
-	if (ok == 0) {
-		var vvNivel;
-		vvNivel = document.form_enviar.vNivel.value;
-		if (vvNivel == "11") {
-			alert("No se admiten m·s subniveles de respuesta. Por favor, conteste al mensaje anterior en la escala.");
-			return;
-		}
-		else {
-			document.form_enviar.submit();
-		}
-	}
-}
-//function leer(vvId) {
-	//	document.Form_leer.vId.value = vvId;
-	//	document.Form_leer.submit();
-//	}
-	function leer(vvId) {
-	enlace="leer1.asp?vId=" + vvId
-	window.location=enlace
-	}
-	function responder() {
-
-	}
-
-
-	function leer_original(vvId) {
-		document.Form_leer_original.vId.value = vvId;
-		document.Form_leer_original.submit();
-	}
-
-
-	function ir_mensaje(pagina) {
-		if (pagina == "primero") {
-			document.Form_ir_mensaje.Leer_PagingMove.value = "Primero";
-		}
-		else if (pagina == "anterior") {
-			document.Form_ir_mensaje.Leer_PagingMove.value = "Anterior";
-		}
-		else if (pagina == "siguiente") {
-			document.Form_ir_mensaje.Leer_PagingMove.value = "Siguiente";
-		}
-		else {
-			document.Form_ir_mensaje.Leer_PagingMove.value = "Ultimo";
-		}
-		document.Form_ir_mensaje.submit();
-	}
-
-
-	function mensajes() {
-		document.Form_mensajes.submit();
-	}
-
-	function nuevo() {
-		document.Form_nuevo.submit();
-	}
-
-	function buscar() {
-		document.Form_buscar.submit();
-	}
-
-//-->
-</script>
-
-
-<script language="JavaScript">
-<!--
-function cerrar() {
-     self.close()
-}
-
-// -->
-</script>
-
-<script language="JavaScript">
-<!--
-function cerrar() {
-     self.close()
-}
-function ampliar_01() {
-	ven = open("leer.htm","01_default","width=438,height=400,status=no,toolbar=no,menubar=no,scrollbars=yes");
-}
-
-// -->
-</script>
-
-<meta name="GENERATOR" content="Microsoft FrontPage 3.0">
-<title>CVC. Foros</title>
-<SCRIPT language="JavaScript">
-	function fecha(){
-		d=new Date();
-		f = d.getFullYear();
-		return f;
-	}
-</SCRIPT>
-</HEAD>
-
-<form name="Form_leer_original" action="leer.asp" target method="POST">
-	<input type="hidden" name="vId">
-	<input type="hidden" name="vForo" value="">
-	<input type="hidden" name="vOrden" value="">
-	<input type="hidden" name="vCodigo" value="39251">
-</form>
-
-<form name="Form_leer" action="leer.asp" target method="POST">
-	<input type="hidden" name="vId">
-	<input type="hidden" name="vForo" value="">
-	<input type="hidden" name="vOrden" value="">
-</form>
-
-
-<form name="Form_ir_mensaje" action="leer.asp" method="POST">
-	<input type="hidden" name="Leer_PagingMove" value>
-	<input type="hidden" name="vForo" value="">
-	<input type="hidden" name="vOrden" value="">
-	<input type="hidden" name="vCodigo" value="39251">
-</form>
-
-<form name="Form_nuevo" action="nuevo.asp" target method="POST">
-	<input type="hidden" name="vForo" value="">
-	<input type="hidden" name="vOrden" value="">
-</form>
-
-<form name="Form_mensajes" action="default.asp" target method="POST">
-	<input type="hidden" name="vForo" value="">
-	<input type="hidden" name="vOrden" value="">
-</form>
-
-<form name="Form_buscar" action="buscar.asp" target method="POST">
-	<input type="hidden" name="vForo" value="">
-	<input type="hidden" name="vOrden" value="">
-</form>
-
-
-
-<body text="#000000" bgcolor="#FFFFFF" link="#FF0000" vlink="#800000" alink="#FF0000">
-
-<table border="0" width="583" cellpadding="0" cellspacing="0" bgcolor="#FF0000">
-  <tr>
-    <td colspan="4" width="260"><a name="Arriba"></a></td>
-  </tr>
-  <tr>    
-    <td width="270" colspan="2"><a href="/portada.htm" BORDER="0"><img src="../imagenes/barra/barra_centro_virtual.gif" alt="Centro Virtual Cervantes" BORDER="0" WIDTH="250" HEIGHT="34"></a></td>
-    <td width="313" align="right" valign="bottom" colspan="2">&nbsp;<a name="Arriba"></a></td>
-  </tr>
-  <tr>
-    <td width="270" colspan="2">
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
 	
-	<img src="./imagenes/barra_18_archivo_esp.gif" alt="Foro del espaÒol" WIDTH="284" HEIGHT="22"></td>
 	
-    <td width="313" align="right" colspan="2"><img src="../../imagenes/iconos/espaciador.gif" alt="espaciador.gif (43 bytes)" WIDTH="1" HEIGHT="1"></td>
-  </tr>
-  <tr>
-
-	    <td width="146" bgcolor="#DD0000" valign="top" align="center"><a href="javascript:vincular(1)" onMouseOver="cambiar(p2,4);return true" onMouseOut="cambiar(p2,3);return true"><img src="./imagenes/foro_esp_b.gif" name="p2" alt="Foro del espaÒol" border="0" WIDTH="100" HEIGHT="21"></a></td>
-
-
-    <td width="156" bgcolor="#DD0000" valign="top" align="center"><a href="javascript:vincular(2)" onMouseOver="cambiar(p3,6);return true" onMouseOut="cambiar(p3,5);return true"><img src="./imagenes/foro_didactico_b.gif" name="p3" alt="Foro did·ctico" border="0" WIDTH="85" HEIGHT="21"></a></td>
-
-    <td width="153" bgcolor="#DD0000" valign="top" align="center"><a href="javascript:vincular(3)" onMouseOver="cambiar(p4,8);return true" onMouseOut="cambiar(p4,7);return true"><img src="./imagenes/foro_hispa_b.gif" name="p4" alt="Foro del hispanista" border="0" WIDTH="112" HEIGHT="21"></a></td>
-
-
-    <td width="128" bgcolor="#DD0000" valign="top" align="center"><font color="#FFFFFF">&nbsp;</font><a href="javascript:vincular(0)" onMouseOver="cambiar(p1,2);return true" onMouseOut="cambiar(p1,1);return true"><img src="./imagenes/foro_tic_b.gif" name="p1" alt="Foro TIC" border="0" WIDTH="53" HEIGHT="21"></a></td>
-
-  </tr>
-</table>
-
-<table border="0" cellpadding="0" cellspacing="0" width="583">
-  <tr>
-    <td width="15" bgcolor="#DD0000"><img src="../../imagenes/iconos/espaciador.gif" width="15" height="1" alt="espaciador.gif (43 bytes)"></td>
-    <td width="27"></td>
-    <td width="541">
-<table border="0" cellpadding="0" width="541" cellspacing="0">
-  <tr>
-    <td width="1%" valign="top"><br>
-    <br>
-    </td>
-    <td width="99%" valign="top"><br>
-    <b><font face="Times New Roman" size="3">Asunto:</font>
-    <font face="Times New Roman" size="4"><font color="#ff0000">Significado de ´felicidad colectivaª<br>
-	</font></b><font face="Times New Roman" size="2">La direcciÛn de este hilo es: http://cvc.cervantes.es/foros/leer_asunto1.asp?vCodigo=39251</font>
-    </font></td>
-  </tr>
-
-
- 
-	<tr>
-    <td width="1%" valign="top"></td>
-    <td width="99%" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="100%">
-            <td width="100%" colspan="11"><br>
-            </td>
-          </tr>
-            <td width="100%" colspan="11"><font face="Times New Roman"></font><b><font size="3" color="#ff0000" face="Times New Roman"> </font><font face="Times New Roman" size="3" color="#F99500">
-           </b> </font></td>
-		</tr><tr>
-
+		<base href="https://www.forosperu.net/" />
+		<script>
+			var _b = document.getElementsByTagName('base')[0], _bH = "https://www.forosperu.net/";
+			if (_b && _b.href != _bH) _b.href = _bH;
+		</script>
 	
-		<td valign="TOP" colspan="11">	<font face="Times New Roman" size="3">
-			<b><a href="#156789">156789</b>.</a>
 
-			</font>
-			<font face="Times New Roman" size="2">
-			<b>Marcela Croitoru</b>
-
-		</td>
-
-
-
-          </tr>
+	<title>¬øQue opinas que tu pareja siga hablando con su ex? - Foros Per√∫</title>
+	
+	<noscript><style>.JsOnly, .jsOnly { display: none !important; }</style></noscript>
+	<link rel="stylesheet" href="css.php?css=xenforo,form,public&amp;style=1&amp;dir=LTR&amp;d=1639888978" />
+	
+	<link rel="stylesheet" href="css.php?css=bb_code,facebook,font_awesome,likes_summary,login_bar,message,message_user_info,thread_view,toggleme_auto,toggleme_purecss,xengallery_tab_links&amp;style=1&amp;dir=LTR&amp;d=1639888978" />
+	
+	
 
 
-		<td valign="TOP" width="3%">&nbsp;</td>
+	<script>
+
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	
+	ga('create', 'UA-2378560-3', 'auto');
+	ga('require', 'displayfeatures');
+	
+		var Section = 'Foro Libre';
+		ga('set', 'dimension1', Section);
+	
+	
+		ga('set', 'dimension3', 'Guest');
+	
+	ga('send', 'pageview');
+	setTimeout("ga('send','event','Adjusted bounce rate','More than 15 seconds')",15000);
+
+</script>
+		<script src="js/jquery/jquery-1.11.0.min.js"></script>	
 		
-		<td valign="TOP" colspan="10">	<font face="Times New Roman" size="3">
-			<b><a href="#156790">156790</b>.</a>
+	<script src="js/xenforo/xenforo.js?_v=47bc0535"></script>
+	<script src="js/sedo/toggleme/toggleME.js?_v=47bc0535"></script>
 
-			</font>
-			<font face="Times New Roman" size="2">
-			<b>Luis Vivanco</b>
+	
+	<link rel="apple-touch-icon" href="https://www.forosperu.net/styles/fp/xenforo/logo.og.png" />
+	
+	
+	<link rel="next" href="temas/que-opinas-que-tu-pareja-siga-hablando-con-su-ex.1460414/pagina-2" />
+	<link rel="canonical" href="https://www.forosperu.net/temas/que-opinas-que-tu-pareja-siga-hablando-con-su-ex.1460414/" />
+	<meta name="description" content="Normal √≥ le dices que no lo haga." />	<meta property="og:site_name" content="Foros Per√∫" />
+	<meta property="og:image" content="https://www.forosperu.net/data/avatars/m/333/333875.jpg?1599751969" />
+	<meta property="og:image" content="https://www.forosperu.net/styles/fp/xenforo/logo.og.png" />
+	<meta property="og:type" content="article" />
+	<meta property="og:url" content="https://www.forosperu.net/temas/que-opinas-que-tu-pareja-siga-hablando-con-su-ex.1460414/" />
+	<meta property="og:title" content="¬øQue opinas que tu pareja siga hablando con su ex?" />
+	<meta property="og:description" content="Normal √≥ le dices que no lo haga." />
+	
+	<meta property="fb:app_id" content="359943794451293" />
+	
 
-		</td>
+
+	
 
 
-
-          </tr>
-
-
-		<td valign="TOP" width="3%">&nbsp;</td>
 		
-		<td valign="TOP" colspan="10">	<font face="Times New Roman" size="3">
-			<b><a href="#156791">156791</b>.</a>
-
-			</font>
-			<font face="Times New Roman" size="2">
-			<b>Sebasti·n Santoyo GarcÌa</b>
-
-		</td>
 
 
 
-          </tr>
 
 
-		<td valign="TOP" width="3%">&nbsp;</td>
+
+</head>
+
+<body class="node149 node148">
+
+
+
+	
+
+<div id="loginBar">
+	<div class="pageWidth">
+		<div class="pageContent">	
+			<h3 id="loginBarHandle">
+				<label for="LoginControl"><a href="ingresar/" class="concealed noOutline">Ingresar / Registrarme</a></label>
+			</h3>
+			
+			<span class="helper"></span>
+
+			
+		</div>
+	</div>
+</div>
+
+
+<div id="headerMover">
+	<div id="headerProxy"></div>
+
+<div id="content" class="thread_view">
+	<div class="pageWidth">
+		<div class="pageContent">
+			<!-- main content area -->
+			
+			
+			
+			
+						
+						
+						
+						
+						<div class="breadBoxTop ">
+							
+							
+
+<nav>
+	
 		
-		<td valign="TOP" colspan="10">	<font face="Times New Roman" size="3">
-			<b><a href="#156868">156868</b>.</a>
+			
+				
+			
+		
+			
+				
+			
+		
+	
 
-			</font>
-			<font face="Times New Roman" size="2">
-			<b>Luis Fern·ndez</b>
+	<fieldset class="breadcrumb">
+		<a href="misc/quick-navigation-menu?selected=node-149" class="OverlayTrigger jumpMenuTrigger" data-cacheOverlay="true" title="Men√∫ de navegaci√≥n r√°pida"><!--Jump to...--></a>
+			
+		<div class="boardTitle"><strong>Foros Per√∫</strong></div>
+		
+		<span class="crumbs">
+			
+			
+			
+				<span class="crust selectedTabCrumb" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+					<a href="https://www.forosperu.net/" class="crumb" rel="up" itemprop="url"><span itemprop="title">Foros</span></a>
+					<span class="arrow"><span>&gt;</span></span>
+				</span>
+			
+			
+			
+				
+					<span class="crust" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+						<a href="https://www.forosperu.net/categorias/comunidad.148/" class="crumb" rel="up" itemprop="url"><span itemprop="title">Comunidad</span></a>
+						<span class="arrow"><span>&gt;</span></span>
+					</span>
+				
+					<span class="crust" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+						<a href="https://www.forosperu.net/secciones/foro-libre.149/" class="crumb" rel="up" itemprop="url"><span itemprop="title">Foro Libre</span></a>
+						<span class="arrow"><span>&gt;</span></span>
+					</span>
+				
+			
+		</span>
+	</fieldset>
+</nav>
+						</div>
+						
+						
+						
 
-		</td>
+
+
+<br />
+<script type="text/javascript">
+    google_ad_client = "ca-pub-7456696877366437";
+    /* fp 200x90 for guests - threadview */
+    google_ad_slot = "4712674259";
+    google_ad_width = 200;
+    google_ad_height = 90;
+</script>
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<br />
+<br />
+
+
+					
+						<!--[if lt IE 8]>
+							<p class="importantMessage">You are using an out of date browser. It  may not display this or other websites correctly.<br />You should upgrade or use an <a href="https://www.google.com/chrome/browser/" target="_blank">alternative browser</a>.</p>
+						<![endif]-->
+
+						
+						
+	
+
+	
+						
+						
+						
+						
+												
+							<!-- h1 title, description -->
+							<div class="titleBar">
+								
+								<h1>¬øQue opinas que tu pareja siga hablando con su ex?</h1>
+								
+								<p id="pageDescription" class="muted ">
+	Publicado en '<a href="secciones/foro-libre.149/">Foro Libre</a>' por <a href="usuarios/juancamaney.333875/" class="username" dir="auto">JuanCamaney</a>, <a href="temas/que-opinas-que-tu-pareja-siga-hablando-con-su-ex.1460414/"><span class="DateTime" title="3 Set 2021, 00:09">3 Set 2021</span></a>.
+</p>
+							</div>
+						
+						
+						
+						
 
 
 
-          </tr>
 
 
-</table>
-   </td>
-</tr>
-  <tr>
-    <td width="1%" valign="top"></td>
-    <td width="99%" valign="top">&nbsp;<p></td>
-  </tr>
 
-<tr>
-    <td width="5%" valign="middle"><a href="#Arriba"><img src="/imagenes/iconos/flecha8x8.gif" border="0" WIDTH="8" HEIGHT="8"></a></td>
-    <td width="95%" valign="top"><table border="0" cellspacing="1" width="60%">
 
-      <tr>
-        <td width="50%" bgcolor="#FFF1DD"><font size="3" color="#FF0000" face="Times New Roman"><b><a name="156789">156789.</a></b></font></td>
-        <td width="50%" bgcolor="#FFF1DD"><font face="Times New Roman"></font></a></td>
-      </tr>
-    </table>
-    </td>
-  </tr>
-  <tr>
-    <td width="1%" valign="top"></td>
-    <td width="99%" valign="top"><font face="Times New Roman"><b><font color="#000000">Autor: </font></b>Marcela Croitoru </font></td>
-  </tr>
-<tr>
-    <td width="1%" valign="top"></td>
-    <td width="99%" valign="top"><font face="Times New Roman"><b><font color="#000000">TÌtulo: </font></b>Significado de ´felicidad colectivaª </font></td>
-  </tr>
-  <tr>
-    <td width="1%" valign="top"></td>
-    <td width="99%" valign="top"><font face="Times New Roman"><b><font color="#000000">Fecha y hora: </font></b>
-   
-	viernes,&nbsp;12 de noviembre de 2010, 10:33 h</font></td>
-  
-  </tr>
-  <tr>
-    <td width="1%" valign="top"></td>
-    <td width="99%" valign="top"><font face="Times New Roman"><br>
-<div style="display:none">edf40wrjww2foros:texto</div><div style="display:none">fiogf49gjkf0d</div>Buenos dÌas, estimados amigos foristas:<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						
+						<!-- main template -->
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+<div class="pageNavLinkGroup">
+	<div class="linkGroup SelectionCountContainer">
+		
+		
+
+	</div>
+
+	
+
+
+<div class="PageNav"
+	data-page="1"
+	data-range="2"
+	data-start="2"
+	data-end="2"
+	data-last="2"
+	data-sentinel="{{sentinel}}"
+	data-baseurl="temas/que-opinas-que-tu-pareja-siga-hablando-con-su-ex.1460414/page-{{sentinel}}">
+	
+	<span class="pageNavHeader">P√°gina 1 de 2</span>
+	
+	<nav>
+		
+		
+		<a href="temas/que-opinas-que-tu-pareja-siga-hablando-con-su-ex.1460414/" class="currentPage " rel="start">1</a>
+		
+		
+		
+		
+		
+		
+		
+		<a href="temas/que-opinas-que-tu-pareja-siga-hablando-con-su-ex.1460414/pagina-2" class="">2</a>
+		
+		
+			<a href="temas/que-opinas-que-tu-pareja-siga-hablando-con-su-ex.1460414/pagina-2" class="text">Siguiente &gt;</a>
+			
+		
+	</nav>	
+	
+	
+</div>
+
+</div>
+
+
+
+
+<script type="text/javascript">
+    google_ad_client = "ca-pub-7456696877366437";
+    /* fp 336x280 for guests - threadview */
+    google_ad_slot = "4047184256";
+    google_ad_width = 336;
+    google_ad_height = 280;
+</script>
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
 <br>
-En <i>El PaÌs</i> de hoy he leÌdo un artÌculo titulado "El 'derecho a la felicidad' pasa su primera votaciÛn en Brasil".<br>
-El artÌculo 6 de la ConstituciÛn Federal asegurar· el derecho de sus ciudadanos a la felicidad ,  garantizando el cumplimiento de los dem·s derechos.<br>
-El senador que promueve la iniciativa, Cristovam Buarque, ha declarado :"No sÛlo mejor educaciÛn, salud, trabajo, etc. sino mejores ocasiones, en todos los ·mbitos, para promover la felicidad individual y colectiva".<br>
 <br>
-El texto integral se puede leer en este <a href="http://www.elpais.com/articulo/internacional/derecho/felicidad/pasa/primera/votacion/Brasil/elpepuintlat/20101110elpepuint_21/Tes" target="_blank">enlace</a>.<br>
+<script type="text/javascript">
+    google_ad_client = "ca-pub-7456696877366437";
+    /* fp 336x280 for guests - threadview */
+    google_ad_slot = "4047184256";
+    google_ad_width = 336;
+    google_ad_height = 280;
+</script>
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
 <br>
-Quisiera saber quÈ es la felicidad colectiva.<br>
-<br>
-Un buen fin de semana.<br>
-Saludos amistosos.<br>
-Marcela <br>
-<br>
-
-</font><br></td>
-  </tr>
-<tr>
-    <td width="1%" valign="top" height="21"></td>
-    <td width="99%" valign="top" height="21"><br>
-
-    </td>
-</tr>
-
-<tr>
-    <td width="5%" valign="middle"><a href="#Arriba"><img src="/imagenes/iconos/flecha8x8.gif" border="0" WIDTH="8" HEIGHT="8"></a></td>
-    <td width="95%" valign="top"><table border="0" cellspacing="1" width="60%">
-
-      <tr>
-        <td width="50%" bgcolor="#FFF1DD"><font size="3" color="#FF0000" face="Times New Roman"><b><a name="156790">156790.</a></b></font></td>
-        <td width="50%" bgcolor="#FFF1DD"><font face="Times New Roman"></font></a></td>
-      </tr>
-    </table>
-    </td>
-  </tr>
-  <tr>
-    <td width="1%" valign="top"></td>
-    <td width="99%" valign="top"><font face="Times New Roman"><b><font color="#000000">Autor: </font></b>Luis Vivanco </font></td>
-  </tr>
-<tr>
-    <td width="1%" valign="top"></td>
-    <td width="99%" valign="top"><font face="Times New Roman"><b><font color="#000000">TÌtulo: </font></b>A mi entender </font></td>
-  </tr>
-  <tr>
-    <td width="1%" valign="top"></td>
-    <td width="99%" valign="top"><font face="Times New Roman"><b><font color="#000000">Fecha y hora: </font></b>
-   
-	viernes,&nbsp;12 de noviembre de 2010, 11:03 h</font></td>
-  
-  </tr>
-  <tr>
-    <td width="1%" valign="top"></td>
-    <td width="99%" valign="top"><font face="Times New Roman"><br>
-<div style="display:none">edf40wrjww2foros:texto</div><div style="display:none">fiogf49gjkf0d</div>Hola Marcela,<br>
-<br>
-A mi entender la felicidad colectiva es aquella en la se dan los factores para que la sociedad en su conjunto sea feliz, m·s all· de la felicidad individual de cada uno de sus integrantes. <br>
-<br>
-Sin saber m·s de la mencionada consituciÛn brasileÒa, por un lado, parece ser una copia con ambiciones de la frase de la incluida en la DeclaraciÛn de Independencia de los EEUU como uno de los derechos fundamentales: vida, libertad y la b˙squeda de la felicidad. Por otro lado, me parece una frase vacÌa por incumplible que suena bonita pero que, en todo caso, resta credibilidad y seriedad al resto del documento que la incluya. øSe imagina uno a un ciudadano brasileÒo yendo a un funcionario para decirle "Pues fÌjese usted que mis derechos no se est·n cumpliendo por que no soy feliz. AsÌ que aquÌ le traigo una lista de cositas que necesito para serlo, para que empiecen a trabajar en ellas. Por cierto, que el yate venga con su tripulaciÛn y todo". NÛtese que en el caso de EEUU lo que se garantiza es el derecho a la b˙squeda de la felicidad, no a la felicidad misma. <br>
-<br>
-Saludos,<br>
-<br>
-Luis<br>
 <br>
 
-</font><br></td>
-  </tr>
-<tr>
-    <td width="1%" valign="top" height="21"></td>
-    <td width="99%" valign="top" height="21"><br>
 
-    </td>
-</tr>
 
-<tr>
-    <td width="5%" valign="middle"><a href="#Arriba"><img src="/imagenes/iconos/flecha8x8.gif" border="0" WIDTH="8" HEIGHT="8"></a></td>
-    <td width="95%" valign="top"><table border="0" cellspacing="1" width="60%">
 
-      <tr>
-        <td width="50%" bgcolor="#FFF1DD"><font size="3" color="#FF0000" face="Times New Roman"><b><a name="156791">156791.</a></b></font></td>
-        <td width="50%" bgcolor="#FFF1DD"><font face="Times New Roman"></font></a></td>
-      </tr>
-    </table>
-    </td>
-  </tr>
-  <tr>
-    <td width="1%" valign="top"></td>
-    <td width="99%" valign="top"><font face="Times New Roman"><b><font color="#000000">Autor: </font></b>Sebasti·n Santoyo GarcÌa </font></td>
-  </tr>
-<tr>
-    <td width="1%" valign="top"></td>
-    <td width="99%" valign="top"><font face="Times New Roman"><b><font color="#000000">TÌtulo: </font></b>En un contexto polÌtico </font></td>
-  </tr>
-  <tr>
-    <td width="1%" valign="top"></td>
-    <td width="99%" valign="top"><font face="Times New Roman"><b><font color="#000000">Fecha y hora: </font></b>
-   
-	viernes,&nbsp;12 de noviembre de 2010, 11:05 h</font></td>
-  
-  </tr>
-  <tr>
-    <td width="1%" valign="top"></td>
-    <td width="99%" valign="top"><font face="Times New Roman"><br>
-<div style="display:none">edf40wrjww2foros:texto</div><div style="display:none">fiogf49gjkf0d</div>Hola, <br>
-<br>
- Se trata de un contexto polÌtico en el que, se quiera reconocer o no, la realidad es relativa. En este contexto la felidiad es lo que dicen: educaciÛn, salud, trabajo, ... O  sea, <i>Un mundo feliz</i>, que dirÌa Aldous Huxley.<br>
-<br>
- Un saludo, <br>
-Sebasti·n
-</font><br></td>
-  </tr>
-<tr>
-    <td width="1%" valign="top" height="21"></td>
-    <td width="99%" valign="top" height="21"><br>
 
-    </td>
-</tr>
 
-<tr>
-    <td width="5%" valign="middle"><a href="#Arriba"><img src="/imagenes/iconos/flecha8x8.gif" border="0" WIDTH="8" HEIGHT="8"></a></td>
-    <td width="95%" valign="top"><table border="0" cellspacing="1" width="60%">
+<form action="inline-mod/post/switch" method="post"
+	class="InlineModForm section"
+	data-cookieName="posts"
+	data-controls="#InlineModControls"
+	data-imodOptions="#ModerationSelect option">
 
-      <tr>
-        <td width="50%" bgcolor="#FFF1DD"><font size="3" color="#FF0000" face="Times New Roman"><b><a name="156868">156868.</a></b></font></td>
-        <td width="50%" bgcolor="#FFF1DD"><font face="Times New Roman"></font></a></td>
-      </tr>
-    </table>
-    </td>
-  </tr>
-  <tr>
-    <td width="1%" valign="top"></td>
-    <td width="99%" valign="top"><font face="Times New Roman"><b><font color="#000000">Autor: </font></b>Luis Fern·ndez </font></td>
-  </tr>
-<tr>
-    <td width="1%" valign="top"></td>
-    <td width="99%" valign="top"><font face="Times New Roman"><b><font color="#000000">TÌtulo: </font></b>Bienestar </font></td>
-  </tr>
-  <tr>
-    <td width="1%" valign="top"></td>
-    <td width="99%" valign="top"><font face="Times New Roman"><b><font color="#000000">Fecha y hora: </font></b>
-   
-	miÈrcoles,&nbsp;17 de noviembre de 2010, 00:02 h</font></td>
-  
-  </tr>
-  <tr>
-    <td width="1%" valign="top"></td>
-    <td width="99%" valign="top"><font face="Times New Roman"><br>
-<div style="display:none">edf40wrjww2foros:texto</div><div style="display:none">fiogf49gjkf0d</div>Hola Marcela,<br>
-<br>
-Creo que la "felicidad" en tÈrminos jurÌdicos, o constitucionales, puede ser traducido como "bienestar". El bienestar colectivo es un derecho intangible e indefinible, pero que tiene que ver con otros derechos mas pr·cticos, a pesar de que jam·s se llevan a efecto, como el derecho a una sanidad de calidad, o a una vivienda o a un trabajo digno.<br>
-<br>
-El bienestar o felicidad colectivo es, en teoria, el objetivo de toda constituciÛn o gobierno, incluso de los autoritarios, aunque en realidad tras la bonita m·scara sÛlo se esconda el interÈs por mantener los privilegios tal y como est·n, el status quo inalterado.<br>
-<br>
-Saludos a todos.
-</font><br></td>
-  </tr>
-<tr>
-    <td width="1%" valign="top" height="21"></td>
-    <td width="99%" valign="top" height="21"><br>
+	<ol class="messageList" id="messageList">
+		
+			
+				
 
-    </td>
-</tr>
 
-  <tr>
-    <td width="1%" valign="top" height="21"></td>
-    <td width="99%" valign="top" height="21"><br>
-    <hr noshade size="1" color="#FBCE7F">
-    </td>
-  </tr>
-  <tr>
-    <td width="1%" valign="top" height="131"></td>
-    <td width="99%" valign="top" align="center" height="131"><a href="leer_asunto1.asp?vCodigo=39251#Arriba"><font face="Times New Roman"><img src="../../imagenes/iconos/flecha.gif" alt="Subir" border="0" WIDTH="45" HEIGHT="45"></font></a>
-<p align="center"><font face="Times New Roman" size="2"><strong>| <a href="../portada.htm" target="_top">Portada del CVC</a> | <br>
-| <a href="../obref/" target="_top">Obras de referencia</a> | <a href="../actcult/" target="_top">Actos culturales</a> | <a target="_top" href="../foros/">Foros</a> | <a target="_top" href="../aula/">Aula de lengua</a> | <a target="_top" href="../oteador/default.asp">Oteador</a> |<br>
-| <a target="_top" href="../el_rinconete/">Rinconete</a> | <a target="_top" href="../aula/rayuela/">Rayuela</a> | <a target="_top" href="../trujaman/">El
-trujam·n</a> | <a target="_top" href="../aula/didactired/">DidactiRed</a> |</strong></font></p>
+<li id="post-32814640" class="message   " data-author="JuanCamaney">
 
-<p align="center"><strong><font face="Times New Roman" size="2">| <a href="../comentarios/" target="_top">Enviar comentarios</a> |</font></strong></p>
+	
 
-<p align="center"><font size="2" face="Times New Roman" color="#000000"><strong>Centro
-Virtual Cervantes<br>
+<div class="messageUserInfo">	
+<div class="messageUserBlock ">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="usuarios/juancamaney.333875/" class="avatar Av333875m" data-avatarhtml="true"><img src="data/avatars/m/333/333875.jpg?1599751969" width="96" height="96" alt="JuanCamaney" /></a>
+			
+			<!-- slot: message_user_info_avatar -->
+		</div>
+	
 
-</strong>© Instituto Cervantes (EspaÒa), 1997-<SCRIPT>document.write(fecha());</SCRIPT>. Reservados todos los derechos.</font></p>
-</td>
-  </tr>
-  <tr>
-    <td width="1%" valign="top" height="35"></td>
-    <td width="99%" valign="top" height="35"></td>
-  </tr>
-</table>
-</td>
-</tr>
-</table>
 
-<table>
-</table>
+	
+		<h3 class="userText"><div class='tglPosbit pos_classic pcss'><span></span></div>
+			<a href="usuarios/juancamaney.333875/" class="username" dir="auto">JuanCamaney</a>
+			<em class="userTitle">
+Miembro diamante
+</em>
+			
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+		
+	
+		<div class="extraUserInfo">
+			
+			
+				
+					<dl class="pairsJustified">
+						<dt>Registro:</dt>
+						<dd>20 Ago 2017</dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Mensajes:</dt>
+						<dd><a href="buscar/member?user_id=333875" class="concealed" rel="nofollow">20,052</a></dd>
+					</dl>
+				
+				
+				
+
+
+
+				
+					<dl class="pairsJustified">
+						<dt>Likes:</dt>
+						<dd>10,804</dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Temas:</dt>
+						<dd><a href="buscar/member?user_id=333875&amp;content=thread" class="concealed" rel="nofollow">580</a></dd>
+					</dl>
+				
+
+			
+				
+				
+				
+				
+				
+			
+				
+							
+						
+			
+			
+		</div>
+	
+		
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+
+
+
+<script type="text/javascript">
+    google_ad_client = "ca-pub-7456696877366437";
+    google_ad_slot = "8477383855";
+    google_ad_width = 336;
+    google_ad_height = 280;
+</script>
+<!-- fp 336x280 for guests - ifp -->
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<br />
+<br />
+<script type="text/javascript">
+    google_ad_client = "ca-pub-7456696877366437";
+    google_ad_slot = "0139629843";
+    google_ad_width = 200;
+    google_ad_height = 90;
+</script>
+<!-- fp 200x90 for guests - ifp -->
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<br />
+<br />
+
+
+					Normal √≥ le dices que no lo haga.
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+		
+		
+		
+		
+				
+		<div class="messageMeta ToggleTriggerAnchor">
+			
+			<div class="privateControls">
+				
+				<span class="item muted">
+					<span class="authorEnd"><a href="usuarios/juancamaney.333875/" class="username author" dir="auto">JuanCamaney</a>,</span>
+					<a href="temas/que-opinas-que-tu-pareja-siga-hablando-con-su-ex.1460414/" title="Enlace directo" class="datePermalink"><span class="DateTime" title="3 Set 2021, 00:09">3 Set 2021</span></a>
+				</span>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			</div>
+			
+			<div class="publicControls">
+				<a href="temas/que-opinas-que-tu-pareja-siga-hablando-con-su-ex.1460414/" title="Enlace directo" class="item muted postNumber hashPermalink OverlayTrigger" data-href="mensajes/32814640/permalink">#1</a>
+				
+				
+				
+				
+			</div>
+		</div>
+	
+		
+		<div id="likes-post-32814640"></div>
+	</div>
+
+	
+	
+	
+
+
+
+<br />
+<br />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7456696877366437"
+     data-ad-slot="8566818655"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-32814643" class="message   " data-author="¬∫_Bruno_¬∫">
+
+	
+
+<div class="messageUserInfo">	
+<div class="messageUserBlock ">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="usuarios/_bruno_.66450/" class="avatar Av66450m" data-avatarhtml="true"><img src="data/avatars/m/66/66450.jpg?1666152625" width="96" height="96" alt="¬∫_Bruno_¬∫" /></a>
+			
+			<!-- slot: message_user_info_avatar -->
+		</div>
+	
+
+
+	
+		<h3 class="userText"><div class='tglPosbit pos_classic pcss'><span></span></div>
+			<a href="usuarios/_bruno_.66450/" class="username" dir="auto">¬∫_Bruno_¬∫</a>
+			<em class="userTitle">
+Miembro legendario
+</em>
+			
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+		
+	
+		<div class="extraUserInfo">
+			
+			
+				
+					<dl class="pairsJustified">
+						<dt>Registro:</dt>
+						<dd>16 Nov 2009</dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Mensajes:</dt>
+						<dd><a href="buscar/member?user_id=66450" class="concealed" rel="nofollow">91,814</a></dd>
+					</dl>
+				
+				
+				
+
+
+
+				
+					<dl class="pairsJustified">
+						<dt>Likes:</dt>
+						<dd>150,099</dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Temas:</dt>
+						<dd><a href="buscar/member?user_id=66450&amp;content=thread" class="concealed" rel="nofollow">2,308</a></dd>
+					</dl>
+				
+
+			
+				
+				
+				
+				
+				
+			
+				
+							
+						
+			
+			
+		</div>
+	
+		
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+
+
+
+
+					Al menos al comienzo no le dir√≠a nada pero le bajo dos puntos de seriedad a la relaci√≥n.
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+		
+		
+		
+		
+				
+		<div class="messageMeta ToggleTriggerAnchor">
+			
+			<div class="privateControls">
+				
+				<span class="item muted">
+					<span class="authorEnd"><a href="usuarios/_bruno_.66450/" class="username author" dir="auto">¬∫_Bruno_¬∫</a>,</span>
+					<a href="temas/que-opinas-que-tu-pareja-siga-hablando-con-su-ex.1460414/#post-32814643" title="Enlace directo" class="datePermalink"><span class="DateTime" title="3 Set 2021, 00:12">3 Set 2021</span></a>
+				</span>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			</div>
+			
+			<div class="publicControls">
+				<a href="temas/que-opinas-que-tu-pareja-siga-hablando-con-su-ex.1460414/#post-32814643" title="Enlace directo" class="item muted postNumber hashPermalink OverlayTrigger" data-href="mensajes/32814643/permalink">#2</a>
+				
+				
+				
+				
+			</div>
+		</div>
+	
+		
+		<div id="likes-post-32814643">
+	
+	<div class="likesSummary secondaryContent">
+		<span class="LikeText">
+			A <a href="usuarios/anarkopin.245785/" class="username" dir="auto">anarkopin</a>, <a href="usuarios/juancamaney.333875/" class="username" dir="auto">JuanCamaney</a> y <a href="usuarios/julitaa.343330/" class="username" dir="auto">Julitaa</a> les gust√≥ este mensaje.
+		</span>
+	</div>
+</div>
+	</div>
+
+	
+	
+	
+
+
+
+
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-32814653" class="message   " data-author="Adepow16">
+
+	
+
+<div class="messageUserInfo">	
+<div class="messageUserBlock ">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="usuarios/adepow16.212822/" class="avatar Av212822m" data-avatarhtml="true"><img src="styles/fp/xenforo/avatars/avatar_m.png" width="96" height="96" alt="Adepow16" /></a>
+			
+			<!-- slot: message_user_info_avatar -->
+		</div>
+	
+
+
+	
+		<h3 class="userText"><div class='tglPosbit pos_classic pcss'><span></span></div>
+			<a href="usuarios/adepow16.212822/" class="username" dir="auto"><span class="style9">Adepow16</span></a>
+			<em class="userTitle">
+Suspendido
+</em>
+			
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+		
+	
+		<div class="extraUserInfo">
+			
+			
+				
+					<dl class="pairsJustified">
+						<dt>Registro:</dt>
+						<dd>6 Mar 2013</dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Mensajes:</dt>
+						<dd><a href="buscar/member?user_id=212822" class="concealed" rel="nofollow">3,730</a></dd>
+					</dl>
+				
+				
+				
+
+
+
+				
+					<dl class="pairsJustified">
+						<dt>Likes:</dt>
+						<dd>2,384</dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Temas:</dt>
+						<dd><a href="buscar/member?user_id=212822&amp;content=thread" class="concealed" rel="nofollow">659</a></dd>
+					</dl>
+				
+
+			
+				
+				
+				
+				
+				
+			
+				
+							
+						
+			
+			
+		</div>
+	
+		
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+
+
+
+
+					<div class="bbCodeBlock bbCodeQuote" data-author="JuanCamaney">
+	<aside>
+		
+			<div class="attribution type">JuanCamaney escribi√≥:
+				
+					<a href="goto/post?id=32814640#post-32814640" class="AttributionLink">&uarr;</a>
+				
+			</div>
+		
+		<blockquote class="quoteContainer"><div class="quote">Normal √≥ le dices que no lo haga.</div><div class="quoteExpand">Clic para expandir...</div></blockquote>
+	</aside>
+</div>eso depende de varios factores,primero si la germa con la que est√°s quieres algo serio o si solo es bacil√≥n,si solo es bacil√≥n me da igual,si es algo serio tienes que ver tambi√©n dos cosas,si es soltera o si tiene hijos,si es soltera y habla con su ex obviamente si me  voy asar,porque ta webon pe,el ex es el pasado,yo soy el presente y el futuro,as√≠ de simple... y si es madre soltera,separada,divorciada,ah√≠ si no puedes hacer nada,porque el padre de los hijos siempre lo ser√°... as√≠ que caballero nom√°s... ya depende
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+		
+		
+		
+		
+				
+		<div class="messageMeta ToggleTriggerAnchor">
+			
+			<div class="privateControls">
+				
+				<span class="item muted">
+					<span class="authorEnd"><a href="usuarios/adepow16.212822/" class="username author" dir="auto">Adepow16</a>,</span>
+					<a href="temas/que-opinas-que-tu-pareja-siga-hablando-con-su-ex.1460414/#post-32814653" title="Enlace directo" class="datePermalink"><span class="DateTime" title="3 Set 2021, 01:10">3 Set 2021</span></a>
+				</span>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			</div>
+			
+			<div class="publicControls">
+				<a href="temas/que-opinas-que-tu-pareja-siga-hablando-con-su-ex.1460414/#post-32814653" title="Enlace directo" class="item muted postNumber hashPermalink OverlayTrigger" data-href="mensajes/32814653/permalink">#3</a>
+				
+				
+				
+				
+			</div>
+		</div>
+	
+		
+		<div id="likes-post-32814653">
+	
+	<div class="likesSummary secondaryContent">
+		<span class="LikeText">
+			A <a href="usuarios/anarkopin.245785/" class="username" dir="auto">anarkopin</a> y <a href="usuarios/julitaa.343330/" class="username" dir="auto">Julitaa</a> les gust√≥ este mensaje.
+		</span>
+	</div>
+</div>
+	</div>
+
+	
+	
+	
+
+
+
+
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-32814654" class="message   " data-author="McMoOis">
+
+	
+
+<div class="messageUserInfo">	
+<div class="messageUserBlock ">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="usuarios/mcmoois.290499/" class="avatar Av290499m" data-avatarhtml="true"><img src="data/avatars/m/290/290499.jpg?1461656168" width="96" height="96" alt="McMoOis" /></a>
+			
+			<!-- slot: message_user_info_avatar -->
+		</div>
+	
+
+
+	
+		<h3 class="userText"><div class='tglPosbit pos_classic pcss'><span></span></div>
+			<a href="usuarios/mcmoois.290499/" class="username" dir="auto">McMoOis</a>
+			<em class="userTitle">
+Miembro de oro
+</em>
+			
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+		
+	
+		<div class="extraUserInfo">
+			
+			
+				
+					<dl class="pairsJustified">
+						<dt>Registro:</dt>
+						<dd>3 Mar 2016</dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Mensajes:</dt>
+						<dd><a href="buscar/member?user_id=290499" class="concealed" rel="nofollow">5,339</a></dd>
+					</dl>
+				
+				
+				
+
+
+
+				
+					<dl class="pairsJustified">
+						<dt>Likes:</dt>
+						<dd>3,162</dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Temas:</dt>
+						<dd><a href="buscar/member?user_id=290499&amp;content=thread" class="concealed" rel="nofollow">210</a></dd>
+					</dl>
+				
+
+			
+				
+				
+				
+				
+				
+			
+				
+							
+						
+			
+			
+		</div>
+	
+		
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+
+
+
+
+					Obviamente que esta mal, hay una l√≥gica para mi el cual tiene fundamento:<br />
+<div style="text-align: center"><br />
+&quot;Antes de estar con tu ex fueron dos personas que  comenzaron a conversar y fue as√≠ que todo dio paso a que tuvieran una relaci√≥n, porque ser√≠a diferente ahora?&quot;&#8203;</div>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+		
+		
+		
+		
+				
+		<div class="messageMeta ToggleTriggerAnchor">
+			
+			<div class="privateControls">
+				
+				<span class="item muted">
+					<span class="authorEnd"><a href="usuarios/mcmoois.290499/" class="username author" dir="auto">McMoOis</a>,</span>
+					<a href="temas/que-opinas-que-tu-pareja-siga-hablando-con-su-ex.1460414/#post-32814654" title="Enlace directo" class="datePermalink"><span class="DateTime" title="3 Set 2021, 01:12">3 Set 2021</span></a>
+				</span>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			</div>
+			
+			<div class="publicControls">
+				<a href="temas/que-opinas-que-tu-pareja-siga-hablando-con-su-ex.1460414/#post-32814654" title="Enlace directo" class="item muted postNumber hashPermalink OverlayTrigger" data-href="mensajes/32814654/permalink">#4</a>
+				
+				
+				
+				
+			</div>
+		</div>
+	
+		
+		<div id="likes-post-32814654"></div>
+	</div>
+
+	
+	
+	
+
+
+
+
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-32814670" class="message   " data-author="LALOXD007">
+
+	
+
+<div class="messageUserInfo">	
+<div class="messageUserBlock ">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="usuarios/laloxd007.343427/" class="avatar Av343427m" data-avatarhtml="true"><img src="data/avatars/m/343/343427.jpg?1595429912" width="96" height="96" alt="LALOXD007" /></a>
+			
+			<!-- slot: message_user_info_avatar -->
+		</div>
+	
+
+
+	
+		<h3 class="userText"><div class='tglPosbit pos_classic pcss'><span></span></div>
+			<a href="usuarios/laloxd007.343427/" class="username" dir="auto">LALOXD007</a>
+			<em class="userTitle">
+Miembro diamante
+</em>
+			
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+		
+	
+		<div class="extraUserInfo">
+			
+			
+				
+					<dl class="pairsJustified">
+						<dt>Registro:</dt>
+						<dd>6 Feb 2018</dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Mensajes:</dt>
+						<dd><a href="buscar/member?user_id=343427" class="concealed" rel="nofollow">15,349</a></dd>
+					</dl>
+				
+				
+				
+
+
+
+				
+					<dl class="pairsJustified">
+						<dt>Likes:</dt>
+						<dd>8,781</dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Temas:</dt>
+						<dd><a href="buscar/member?user_id=343427&amp;content=thread" class="concealed" rel="nofollow">385</a></dd>
+					</dl>
+				
+
+			
+				
+				
+				
+				
+				
+			
+				
+							
+						
+			
+			
+		</div>
+	
+		
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+
+
+
+
+					Que no lo supera
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+		
+		
+		
+		
+				
+		<div class="messageMeta ToggleTriggerAnchor">
+			
+			<div class="privateControls">
+				
+				<span class="item muted">
+					<span class="authorEnd"><a href="usuarios/laloxd007.343427/" class="username author" dir="auto">LALOXD007</a>,</span>
+					<a href="temas/que-opinas-que-tu-pareja-siga-hablando-con-su-ex.1460414/#post-32814670" title="Enlace directo" class="datePermalink"><span class="DateTime" title="3 Set 2021, 07:51">3 Set 2021</span></a>
+				</span>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			</div>
+			
+			<div class="publicControls">
+				<a href="temas/que-opinas-que-tu-pareja-siga-hablando-con-su-ex.1460414/#post-32814670" title="Enlace directo" class="item muted postNumber hashPermalink OverlayTrigger" data-href="mensajes/32814670/permalink">#5</a>
+				
+				
+				
+				
+			</div>
+		</div>
+	
+		
+		<div id="likes-post-32814670"></div>
+	</div>
+
+	
+	
+	
+
+
+
+
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-32814682" class="message   " data-author="luchito ciencia">
+
+	
+
+<div class="messageUserInfo">	
+<div class="messageUserBlock ">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="usuarios/luchito-ciencia.391388/" class="avatar Av391388m" data-avatarhtml="true"><img src="data/avatars/m/391/391388.jpg?1646232457" width="96" height="96" alt="luchito ciencia" /></a>
+			
+			<!-- slot: message_user_info_avatar -->
+		</div>
+	
+
+
+	
+		<h3 class="userText"><div class='tglPosbit pos_classic pcss'><span></span></div>
+			<a href="usuarios/luchito-ciencia.391388/" class="username" dir="auto">luchito ciencia</a>
+			<em class="userTitle">
+Miembro maestro
+</em>
+			
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+		
+	
+		<div class="extraUserInfo">
+			
+			
+				
+					<dl class="pairsJustified">
+						<dt>Registro:</dt>
+						<dd>30 Ago 2021</dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Mensajes:</dt>
+						<dd><a href="buscar/member?user_id=391388" class="concealed" rel="nofollow">274</a></dd>
+					</dl>
+				
+				
+				
+
+
+
+				
+					<dl class="pairsJustified">
+						<dt>Likes:</dt>
+						<dd>119</dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Temas:</dt>
+						<dd><a href="buscar/member?user_id=391388&amp;content=thread" class="concealed" rel="nofollow">12</a></dd>
+					</dl>
+				
+
+			
+				
+				
+				
+				
+				
+			
+				
+							
+						
+			
+			
+		</div>
+	
+		
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+
+
+
+
+					Si es para pedirle plata y ella invitarme a comer, entonces me quedo calladito...
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+		
+		
+		
+		
+				
+		<div class="messageMeta ToggleTriggerAnchor">
+			
+			<div class="privateControls">
+				
+				<span class="item muted">
+					<span class="authorEnd"><a href="usuarios/luchito-ciencia.391388/" class="username author" dir="auto">luchito ciencia</a>,</span>
+					<a href="temas/que-opinas-que-tu-pareja-siga-hablando-con-su-ex.1460414/#post-32814682" title="Enlace directo" class="datePermalink"><span class="DateTime" title="3 Set 2021, 09:12">3 Set 2021</span></a>
+				</span>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			</div>
+			
+			<div class="publicControls">
+				<a href="temas/que-opinas-que-tu-pareja-siga-hablando-con-su-ex.1460414/#post-32814682" title="Enlace directo" class="item muted postNumber hashPermalink OverlayTrigger" data-href="mensajes/32814682/permalink">#6</a>
+				
+				
+				
+				
+			</div>
+		</div>
+	
+		
+		<div id="likes-post-32814682"></div>
+	</div>
+
+	
+	
+	
+
+
+
+
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-32814700" class="message   " data-author="acuariano90">
+
+	
+
+<div class="messageUserInfo">	
+<div class="messageUserBlock ">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="usuarios/acuariano90.289355/" class="avatar Av289355m" data-avatarhtml="true"><img src="data/avatars/m/289/289355.jpg?1647911545" width="96" height="96" alt="acuariano90" /></a>
+			
+			<!-- slot: message_user_info_avatar -->
+		</div>
+	
+
+
+	
+		<h3 class="userText"><div class='tglPosbit pos_classic pcss'><span></span></div>
+			<a href="usuarios/acuariano90.289355/" class="username" dir="auto">acuariano90</a>
+			<em class="userTitle">
+Miembro de oro
+</em>
+			
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+		
+	
+		<div class="extraUserInfo">
+			
+			
+				
+					<dl class="pairsJustified">
+						<dt>Registro:</dt>
+						<dd>13 Feb 2016</dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Mensajes:</dt>
+						<dd><a href="buscar/member?user_id=289355" class="concealed" rel="nofollow">5,556</a></dd>
+					</dl>
+				
+				
+				
+
+
+
+				
+					<dl class="pairsJustified">
+						<dt>Likes:</dt>
+						<dd>2,245</dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Temas:</dt>
+						<dd><a href="buscar/member?user_id=289355&amp;content=thread" class="concealed" rel="nofollow">547</a></dd>
+					</dl>
+				
+
+			
+				
+				
+				
+				
+				
+			
+				
+							
+						
+			
+			
+		</div>
+	
+		
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+
+
+
+
+					Algo parecido le acaba de pasar al mamerto de mi amigo, parece q ser infiel lo lleva en la sangre, tiene su flaca pero el chatea con amigas cari√±osamente, hasta q su flaca le descubri√≥ y a terminado con √©l. Lo peor q no es la primera vez q le descubre pero esta vez si a terminado con √©l. Mi amigo si reconoce esos chats y bueno si fuera la flaca no le perdono.<br />
+Le hecho saber q el webon fue √©l y si ella no lo perdona se lo tiene bien merecido.
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+		
+		
+		
+		
+				
+		<div class="messageMeta ToggleTriggerAnchor">
+			
+			<div class="privateControls">
+				
+				<span class="item muted">
+					<span class="authorEnd"><a href="usuarios/acuariano90.289355/" class="username author" dir="auto">acuariano90</a>,</span>
+					<a href="temas/que-opinas-que-tu-pareja-siga-hablando-con-su-ex.1460414/#post-32814700" title="Enlace directo" class="datePermalink"><span class="DateTime" title="3 Set 2021, 10:00">3 Set 2021</span></a>
+				</span>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			</div>
+			
+			<div class="publicControls">
+				<a href="temas/que-opinas-que-tu-pareja-siga-hablando-con-su-ex.1460414/#post-32814700" title="Enlace directo" class="item muted postNumber hashPermalink OverlayTrigger" data-href="mensajes/32814700/permalink">#7</a>
+				
+				
+				
+				
+			</div>
+		</div>
+	
+		
+		<div id="likes-post-32814700"></div>
+	</div>
+
+	
+	
+	
+
+
+
+
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-32814701" class="message   " data-author="Viajero_Rojo">
+
+	
+
+<div class="messageUserInfo">	
+<div class="messageUserBlock ">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="usuarios/viajero_rojo.366957/" class="avatar Av366957m" data-avatarhtml="true"><img src="data/avatars/m/366/366957.jpg?1649808242" width="96" height="96" alt="Viajero_Rojo" /></a>
+			
+			<!-- slot: message_user_info_avatar -->
+		</div>
+	
+
+
+	
+		<h3 class="userText"><div class='tglPosbit pos_classic pcss'><span></span></div>
+			<a href="usuarios/viajero_rojo.366957/" class="username" dir="auto">Viajero_Rojo</a>
+			<em class="userTitle">
+Miembro de bronce
+</em>
+			
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+		
+	
+		<div class="extraUserInfo">
+			
+			
+				
+					<dl class="pairsJustified">
+						<dt>Registro:</dt>
+						<dd>20 May 2019</dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Mensajes:</dt>
+						<dd><a href="buscar/member?user_id=366957" class="concealed" rel="nofollow">2,321</a></dd>
+					</dl>
+				
+				
+				
+
+
+
+				
+					<dl class="pairsJustified">
+						<dt>Likes:</dt>
+						<dd>2,272</dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Temas:</dt>
+						<dd><a href="buscar/member?user_id=366957&amp;content=thread" class="concealed" rel="nofollow">3</a></dd>
+					</dl>
+				
+
+			
+				
+				
+				
+				
+				
+			
+				
+							
+						
+			
+			
+		</div>
+	
+		
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+
+
+
+
+					Depende, si ha pasado un tiempo relativamente extenso en el cual haya terminado con su ex, y me haya demostrado que me ama ,no solo con palabras sino con hechos , pues no le veo ning√∫n problema.<br />
+<br />
+M√°s apertura y madurez mental gente y tratemos de no ver fantasmas donde no los hay , finalmente queramos o no la verdad siempre sale a la luz.
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+		
+		
+		
+		
+				
+		<div class="messageMeta ToggleTriggerAnchor">
+			
+			<div class="privateControls">
+				
+				<span class="item muted">
+					<span class="authorEnd"><a href="usuarios/viajero_rojo.366957/" class="username author" dir="auto">Viajero_Rojo</a>,</span>
+					<a href="temas/que-opinas-que-tu-pareja-siga-hablando-con-su-ex.1460414/#post-32814701" title="Enlace directo" class="datePermalink"><span class="DateTime" title="3 Set 2021, 10:07">3 Set 2021</span></a>
+				</span>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			</div>
+			
+			<div class="publicControls">
+				<a href="temas/que-opinas-que-tu-pareja-siga-hablando-con-su-ex.1460414/#post-32814701" title="Enlace directo" class="item muted postNumber hashPermalink OverlayTrigger" data-href="mensajes/32814701/permalink">#8</a>
+				
+				
+				
+				
+			</div>
+		</div>
+	
+		
+		<div id="likes-post-32814701"></div>
+	</div>
+
+	
+	
+	
+
+
+
+
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-32814715" class="message   " data-author="Freakshow">
+
+	
+
+<div class="messageUserInfo">	
+<div class="messageUserBlock ">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="usuarios/freakshow.183098/" class="avatar Av183098m" data-avatarhtml="true"><img src="data/avatars/m/183/183098.jpg?1454648366" width="96" height="96" alt="Freakshow" /></a>
+			
+			<!-- slot: message_user_info_avatar -->
+		</div>
+	
+
+
+	
+		<h3 class="userText"><div class='tglPosbit pos_classic pcss'><span></span></div>
+			<a href="usuarios/freakshow.183098/" class="username" dir="auto">Freakshow</a>
+			<em class="userTitle">
+Miembro diamante
+</em>
+			
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+		
+	
+		<div class="extraUserInfo">
+			
+			
+				
+					<dl class="pairsJustified">
+						<dt>Registro:</dt>
+						<dd>5 Mar 2012</dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Mensajes:</dt>
+						<dd><a href="buscar/member?user_id=183098" class="concealed" rel="nofollow">22,327</a></dd>
+					</dl>
+				
+				
+				
+
+
+
+				
+					<dl class="pairsJustified">
+						<dt>Likes:</dt>
+						<dd>17,154</dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Temas:</dt>
+						<dd><a href="buscar/member?user_id=183098&amp;content=thread" class="concealed" rel="nofollow">23</a></dd>
+					</dl>
+				
+
+			
+				
+				
+				
+				
+				
+			
+				
+							
+						
+			
+			
+		</div>
+	
+		
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+
+
+
+
+					Pues depende. Que termines con una enamorado(a) no quiere decir que no puedas tener un relaci√≥n cordial con esa persona.<br />
+<br />
+Tambi√©n depende mucho del tono con el que se hablen.
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+		
+		
+		
+		
+				
+		<div class="messageMeta ToggleTriggerAnchor">
+			
+			<div class="privateControls">
+				
+				<span class="item muted">
+					<span class="authorEnd"><a href="usuarios/freakshow.183098/" class="username author" dir="auto">Freakshow</a>,</span>
+					<a href="temas/que-opinas-que-tu-pareja-siga-hablando-con-su-ex.1460414/#post-32814715" title="Enlace directo" class="datePermalink"><span class="DateTime" title="3 Set 2021, 10:23">3 Set 2021</span></a>
+				</span>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			</div>
+			
+			<div class="publicControls">
+				<a href="temas/que-opinas-que-tu-pareja-siga-hablando-con-su-ex.1460414/#post-32814715" title="Enlace directo" class="item muted postNumber hashPermalink OverlayTrigger" data-href="mensajes/32814715/permalink">#9</a>
+				
+				
+				
+				
+			</div>
+		</div>
+	
+		
+		<div id="likes-post-32814715"></div>
+	</div>
+
+	
+	
+	
+
+
+
+
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-32814744" class="message   " data-author="ANYONGHASEYO">
+
+	
+
+<div class="messageUserInfo">	
+<div class="messageUserBlock ">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="usuarios/anyonghaseyo.205736/" class="avatar Av205736m" data-avatarhtml="true"><img src="data/avatars/m/205/205736.jpg?1456232581" width="96" height="96" alt="ANYONGHASEYO" /></a>
+			
+			<!-- slot: message_user_info_avatar -->
+		</div>
+	
+
+
+	
+		<h3 class="userText"><div class='tglPosbit pos_classic pcss'><span></span></div>
+			<a href="usuarios/anyonghaseyo.205736/" class="username" dir="auto">ANYONGHASEYO</a>
+			<em class="userTitle">
+Miembro de bronce
+</em>
+			
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+		
+	
+		<div class="extraUserInfo">
+			
+			
+				
+					<dl class="pairsJustified">
+						<dt>Registro:</dt>
+						<dd>10 Dic 2012</dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Mensajes:</dt>
+						<dd><a href="buscar/member?user_id=205736" class="concealed" rel="nofollow">2,436</a></dd>
+					</dl>
+				
+				
+				
+
+
+
+				
+					<dl class="pairsJustified">
+						<dt>Likes:</dt>
+						<dd>2,375</dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Temas:</dt>
+						<dd><a href="buscar/member?user_id=205736&amp;content=thread" class="concealed" rel="nofollow">33</a></dd>
+					</dl>
+				
+
+			
+				
+				
+				
+				
+				
+			
+				
+							
+						
+			
+			
+		</div>
+	
+		
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+
+
+
+
+					Pero es que nadie en el mundo que am√≥, acaba bien con los ex&#039;s. Puede haber un resentimiento, incomodidad, etc ... Y si se termina con automaticamente &quot;cordialidad&quot; es porque se acab√≥ el amor o nunca lo hubo.<br />
+<br />
+Si me incomoda que hable con su ex, le digo. No hay m√°s
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+		
+		
+		
+		
+				
+		<div class="messageMeta ToggleTriggerAnchor">
+			
+			<div class="privateControls">
+				
+				<span class="item muted">
+					<span class="authorEnd"><a href="usuarios/anyonghaseyo.205736/" class="username author" dir="auto">ANYONGHASEYO</a>,</span>
+					<a href="temas/que-opinas-que-tu-pareja-siga-hablando-con-su-ex.1460414/#post-32814744" title="Enlace directo" class="datePermalink"><span class="DateTime" title="3 Set 2021, 11:37">3 Set 2021</span></a>
+				</span>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			</div>
+			
+			<div class="publicControls">
+				<a href="temas/que-opinas-que-tu-pareja-siga-hablando-con-su-ex.1460414/#post-32814744" title="Enlace directo" class="item muted postNumber hashPermalink OverlayTrigger" data-href="mensajes/32814744/permalink">#10</a>
+				
+				
+				
+				
+			</div>
+		</div>
+	
+		
+		<div id="likes-post-32814744"></div>
+	</div>
+
+	
+	
+	
+
+
+
+
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-32814752" class="message   " data-author="JuanCamaney">
+
+	
+
+<div class="messageUserInfo">	
+<div class="messageUserBlock ">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="usuarios/juancamaney.333875/" class="avatar Av333875m" data-avatarhtml="true"><img src="data/avatars/m/333/333875.jpg?1599751969" width="96" height="96" alt="JuanCamaney" /></a>
+			
+			<!-- slot: message_user_info_avatar -->
+		</div>
+	
+
+
+	
+		<h3 class="userText"><div class='tglPosbit pos_classic pcss'><span></span></div>
+			<a href="usuarios/juancamaney.333875/" class="username" dir="auto">JuanCamaney</a>
+			<em class="userTitle">
+Miembro diamante
+</em>
+			
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+		
+	
+		<div class="extraUserInfo">
+			
+			
+				
+					<dl class="pairsJustified">
+						<dt>Registro:</dt>
+						<dd>20 Ago 2017</dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Mensajes:</dt>
+						<dd><a href="buscar/member?user_id=333875" class="concealed" rel="nofollow">20,052</a></dd>
+					</dl>
+				
+				
+				
+
+
+
+				
+					<dl class="pairsJustified">
+						<dt>Likes:</dt>
+						<dd>10,804</dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Temas:</dt>
+						<dd><a href="buscar/member?user_id=333875&amp;content=thread" class="concealed" rel="nofollow">580</a></dd>
+					</dl>
+				
+
+			
+				
+				
+				
+				
+				
+			
+				
+							
+						
+			
+			
+		</div>
+	
+		
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+
+
+
+
+					<div class="bbCodeBlock bbCodeQuote" data-author="¬∫_Bruno_¬∫">
+	<aside>
+		
+			<div class="attribution type">¬∫_Bruno_¬∫ escribi√≥:
+				
+					<a href="goto/post?id=32814643#post-32814643" class="AttributionLink">&uarr;</a>
+				
+			</div>
+		
+		<blockquote class="quoteContainer"><div class="quote">Al menos al comienzo no le dir√≠a nada pero le bajo dos puntos de seriedad a la relaci√≥n.</div><div class="quoteExpand">Clic para expandir...</div></blockquote>
+	</aside>
+</div>
+
+
+<div class="bbCodeBlock bbCodeQuote" data-author="Adepow16">
+	<aside>
+		
+			<div class="attribution type">Adepow16 escribi√≥:
+				
+					<a href="goto/post?id=32814653#post-32814653" class="AttributionLink">&uarr;</a>
+				
+			</div>
+		
+		<blockquote class="quoteContainer"><div class="quote">eso depende de varios factores,primero si la germa con la que est√°s quieres algo serio o si solo es bacil√≥n,si solo es bacil√≥n me da igual,si es algo serio tienes que ver tambi√©n dos cosas,si es soltera o si tiene hijos,si es soltera y habla con su ex obviamente si me  voy asar,porque ta webon pe,el ex es el pasado,yo soy el presente y el futuro,as√≠ de simple... y si es madre soltera,separada,divorciada,ah√≠ si no puedes hacer nada,porque el padre de los hijos siempre lo ser√°... as√≠ que caballero nom√°s... ya depende</div><div class="quoteExpand">Clic para expandir...</div></blockquote>
+	</aside>
+</div>
+
+
+<div class="bbCodeBlock bbCodeQuote" data-author="McMoOis">
+	<aside>
+		
+			<div class="attribution type">McMoOis escribi√≥:
+				
+					<a href="goto/post?id=32814654#post-32814654" class="AttributionLink">&uarr;</a>
+				
+			</div>
+		
+		<blockquote class="quoteContainer"><div class="quote">Obviamente que esta mal, hay una l√≥gica para mi el cual tiene fundamento:<br />
+<div style="text-align: center"><br />
+&quot;Antes de estar con tu ex fueron dos personas que  comenzaron a conversar y fue as√≠ que todo dio paso a que tuvieran una relaci√≥n, porque ser√≠a diferente ahora?&quot;&#8203;</div></div><div class="quoteExpand">Clic para expandir...</div></blockquote>
+	</aside>
+</div>
+
+
+<div class="bbCodeBlock bbCodeQuote" data-author="LALOXD007">
+	<aside>
+		
+			<div class="attribution type">LALOXD007 escribi√≥:
+				
+					<a href="goto/post?id=32814670#post-32814670" class="AttributionLink">&uarr;</a>
+				
+			</div>
+		
+		<blockquote class="quoteContainer"><div class="quote">Que no lo supera</div><div class="quoteExpand">Clic para expandir...</div></blockquote>
+	</aside>
+</div>
+
+
+<div class="bbCodeBlock bbCodeQuote" data-author="luchito ciencia">
+	<aside>
+		
+			<div class="attribution type">luchito ciencia escribi√≥:
+				
+					<a href="goto/post?id=32814682#post-32814682" class="AttributionLink">&uarr;</a>
+				
+			</div>
+		
+		<blockquote class="quoteContainer"><div class="quote">Si es para pedirle plata y ella invitarme a comer, entonces me quedo calladito...</div><div class="quoteExpand">Clic para expandir...</div></blockquote>
+	</aside>
+</div>
+
+
+<div class="bbCodeBlock bbCodeQuote" data-author="acuariano90">
+	<aside>
+		
+			<div class="attribution type">acuariano90 escribi√≥:
+				
+					<a href="goto/post?id=32814700#post-32814700" class="AttributionLink">&uarr;</a>
+				
+			</div>
+		
+		<blockquote class="quoteContainer"><div class="quote">Algo parecido le acaba de pasar al mamerto de mi amigo, parece q ser infiel lo lleva en la sangre, tiene su flaca pero el chatea con amigas cari√±osamente, hasta q su flaca le descubri√≥ y a terminado con √©l. Lo peor q no es la primera vez q le descubre pero esta vez si a terminado con √©l. Mi amigo si reconoce esos chats y bueno si fuera la flaca no le perdono.<br />
+Le hecho saber q el webon fue √©l y si ella no lo perdona se lo tiene bien merecido.</div><div class="quoteExpand">Clic para expandir...</div></blockquote>
+	</aside>
+</div>
+
+
+<div class="bbCodeBlock bbCodeQuote" data-author="Viajero_Rojo">
+	<aside>
+		
+			<div class="attribution type">Viajero_Rojo escribi√≥:
+				
+					<a href="goto/post?id=32814701#post-32814701" class="AttributionLink">&uarr;</a>
+				
+			</div>
+		
+		<blockquote class="quoteContainer"><div class="quote">Depende, si ha pasado un tiempo relativamente extenso en el cual haya terminado con su ex, y me haya demostrado que me ama ,no solo con palabras sino con hechos , pues no le veo ning√∫n problema.<br />
+<br />
+M√°s apertura y madurez mental gente y tratemos de no ver fantasmas donde no los hay , finalmente queramos o no la verdad siempre sale a la luz.</div><div class="quoteExpand">Clic para expandir...</div></blockquote>
+	</aside>
+</div>
+
+
+<div class="bbCodeBlock bbCodeQuote" data-author="Freakshow">
+	<aside>
+		
+			<div class="attribution type">Freakshow escribi√≥:
+				
+					<a href="goto/post?id=32814715#post-32814715" class="AttributionLink">&uarr;</a>
+				
+			</div>
+		
+		<blockquote class="quoteContainer"><div class="quote">Pues depende. Que termines con una enamorado(a) no quiere decir que no puedas tener un relaci√≥n cordial con esa persona.<br />
+<br />
+Tambi√©n depende mucho del tono con el que se hablen.</div><div class="quoteExpand">Clic para expandir...</div></blockquote>
+	</aside>
+</div>
+
+
+<div class="bbCodeBlock bbCodeQuote" data-author="ANYONGHASEYO">
+	<aside>
+		
+			<div class="attribution type">ANYONGHASEYO escribi√≥:
+				
+					<a href="goto/post?id=32814744#post-32814744" class="AttributionLink">&uarr;</a>
+				
+			</div>
+		
+		<blockquote class="quoteContainer"><div class="quote">Pero es que nadie en el mundo que am√≥, acaba bien con los ex&#039;s. Puede haber un resentimiento, incomodidad, etc ... Y si se termina con automaticamente &quot;cordialidad&quot; es porque se acab√≥ el amor o nunca lo hubo.<br />
+<br />
+Si me incomoda que hable con su ex, le digo. No hay m√°s</div><div class="quoteExpand">Clic para expandir...</div></blockquote>
+	</aside>
+</div>
+
+
+<div class="bbCodeBlock bbCodeQuote" data-author="ANYONGHASEYO">
+	<aside>
+		
+			<div class="attribution type">ANYONGHASEYO escribi√≥:
+				
+					<a href="goto/post?id=32814745#post-32814745" class="AttributionLink">&uarr;</a>
+				
+			</div>
+		
+		<blockquote class="quoteContainer"><div class="quote">Deberian editar ese titulo...</div><div class="quoteExpand">Clic para expandir...</div></blockquote>
+	</aside>
+</div>Cree el tema para ver la opini√≥n de cada uno.<br />
+<br />
+Yo soy hombre y soy algo machista, cuando un hombre habla con su ex en determinado momento va tirar maiz para propiciar el encuentro sexual, peor si es que su ex a peleado con su pareja por algo y hay empieza a tirar letra, si desean diganme que estoy equivocado, pero la experiencia y vida me ense√±o a no ser confiado y cuando sacar la vuelta. ( Siempre que quiera una relacion duradera) Si es bacilon, que hable y tire con quien le de la gana.<br />
+<br />
+Hace mucho cuando empezo la pandemia, tenia una flaca que salia y me conto que habla con su ex y para sumar su ex mantiene comunicaci√≥n con su madre y demas familia y es bien estimado, lo cual me llegaba al guty; Le dije que corte comunicaci√≥n y me metio un florazo, me dijo que era una persona insegura y etc.. bueno ya lo deje hay, la pampa es grande y hay bastantes peses en el mar.<br />
+<br />
+En mi prejuicio me aleje y estoy tranquilo, ya se de esas historias de hablar con el ex, muchas veces a√∫n no tienen su final resuelto y como repito el hombre es hombre.<br />
+<br />
+Hubo un tiempo que salia con una flaca y esta se enfermo y como sabran yo soy minero y viajo bastante, resulta que su ex, en un par de ocaciones le llevaba comida a su casa, porque ella lo normalizaba y me lo conto, a mi eso no me cuadra, jajajaja ya despues de eso, le perdi interes y le dije que siga hablando que no se preocupe.<br />
+<br />
+Ahora sabran porque hay tantas relaciones  abiertas, es mas sencillo, simplemente botas el estres y cada uno a su casa y nadie se conoce y esta esa frase despreciable que todos repiten, EL QUE COME CALLAO, COME 2 VECES.
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+		
+		
+		
+		
+				
+		<div class="messageMeta ToggleTriggerAnchor">
+			
+			<div class="privateControls">
+				
+				<span class="item muted">
+					<span class="authorEnd"><a href="usuarios/juancamaney.333875/" class="username author" dir="auto">JuanCamaney</a>,</span>
+					<a href="temas/que-opinas-que-tu-pareja-siga-hablando-con-su-ex.1460414/#post-32814752" title="Enlace directo" class="datePermalink"><span class="DateTime" title="3 Set 2021, 12:06">3 Set 2021</span></a>
+				</span>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			</div>
+			
+			<div class="publicControls">
+				<a href="temas/que-opinas-que-tu-pareja-siga-hablando-con-su-ex.1460414/#post-32814752" title="Enlace directo" class="item muted postNumber hashPermalink OverlayTrigger" data-href="mensajes/32814752/permalink">#11</a>
+				
+				
+				
+				
+			</div>
+		</div>
+	
+		
+		<div id="likes-post-32814752"></div>
+	</div>
+
+	
+	
+	
+
+
+
+
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-32814764" class="message   " data-author="ANYONGHASEYO">
+
+	
+
+<div class="messageUserInfo">	
+<div class="messageUserBlock ">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="usuarios/anyonghaseyo.205736/" class="avatar Av205736m" data-avatarhtml="true"><img src="data/avatars/m/205/205736.jpg?1456232581" width="96" height="96" alt="ANYONGHASEYO" /></a>
+			
+			<!-- slot: message_user_info_avatar -->
+		</div>
+	
+
+
+	
+		<h3 class="userText"><div class='tglPosbit pos_classic pcss'><span></span></div>
+			<a href="usuarios/anyonghaseyo.205736/" class="username" dir="auto">ANYONGHASEYO</a>
+			<em class="userTitle">
+Miembro de bronce
+</em>
+			
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+		
+	
+		<div class="extraUserInfo">
+			
+			
+				
+					<dl class="pairsJustified">
+						<dt>Registro:</dt>
+						<dd>10 Dic 2012</dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Mensajes:</dt>
+						<dd><a href="buscar/member?user_id=205736" class="concealed" rel="nofollow">2,436</a></dd>
+					</dl>
+				
+				
+				
+
+
+
+				
+					<dl class="pairsJustified">
+						<dt>Likes:</dt>
+						<dd>2,375</dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Temas:</dt>
+						<dd><a href="buscar/member?user_id=205736&amp;content=thread" class="concealed" rel="nofollow">33</a></dd>
+					</dl>
+				
+
+			
+				
+				
+				
+				
+				
+			
+				
+							
+						
+			
+			
+		</div>
+	
+		
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+
+
+
+
+					Ah? Vaya...  Pens√© que te refer√≠as a gente comun y silvestre, no a cacasen@s...
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+		
+		
+		
+		
+				
+		<div class="messageMeta ToggleTriggerAnchor">
+			
+			<div class="privateControls">
+				
+				<span class="item muted">
+					<span class="authorEnd"><a href="usuarios/anyonghaseyo.205736/" class="username author" dir="auto">ANYONGHASEYO</a>,</span>
+					<a href="temas/que-opinas-que-tu-pareja-siga-hablando-con-su-ex.1460414/#post-32814764" title="Enlace directo" class="datePermalink"><span class="DateTime" title="3 Set 2021, 13:00">3 Set 2021</span></a>
+				</span>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			</div>
+			
+			<div class="publicControls">
+				<a href="temas/que-opinas-que-tu-pareja-siga-hablando-con-su-ex.1460414/#post-32814764" title="Enlace directo" class="item muted postNumber hashPermalink OverlayTrigger" data-href="mensajes/32814764/permalink">#12</a>
+				
+				
+				
+				
+			</div>
+		</div>
+	
+		
+		<div id="likes-post-32814764"></div>
+	</div>
+
+	
+	
+	
+
+
+
+
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-32814767" class="message   " data-author="JuanCamaney">
+
+	
+
+<div class="messageUserInfo">	
+<div class="messageUserBlock ">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="usuarios/juancamaney.333875/" class="avatar Av333875m" data-avatarhtml="true"><img src="data/avatars/m/333/333875.jpg?1599751969" width="96" height="96" alt="JuanCamaney" /></a>
+			
+			<!-- slot: message_user_info_avatar -->
+		</div>
+	
+
+
+	
+		<h3 class="userText"><div class='tglPosbit pos_classic pcss'><span></span></div>
+			<a href="usuarios/juancamaney.333875/" class="username" dir="auto">JuanCamaney</a>
+			<em class="userTitle">
+Miembro diamante
+</em>
+			
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+		
+	
+		<div class="extraUserInfo">
+			
+			
+				
+					<dl class="pairsJustified">
+						<dt>Registro:</dt>
+						<dd>20 Ago 2017</dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Mensajes:</dt>
+						<dd><a href="buscar/member?user_id=333875" class="concealed" rel="nofollow">20,052</a></dd>
+					</dl>
+				
+				
+				
+
+
+
+				
+					<dl class="pairsJustified">
+						<dt>Likes:</dt>
+						<dd>10,804</dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Temas:</dt>
+						<dd><a href="buscar/member?user_id=333875&amp;content=thread" class="concealed" rel="nofollow">580</a></dd>
+					</dl>
+				
+
+			
+				
+				
+				
+				
+				
+			
+				
+							
+						
+			
+			
+		</div>
+	
+		
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+
+
+
+
+					<div class="bbCodeBlock bbCodeQuote" data-author="ANYONGHASEYO">
+	<aside>
+		
+			<div class="attribution type">ANYONGHASEYO escribi√≥:
+				
+					<a href="goto/post?id=32814764#post-32814764" class="AttributionLink">&uarr;</a>
+				
+			</div>
+		
+		<blockquote class="quoteContainer"><div class="quote">Ah? Vaya...  Pens√© que te refer√≠as a gente comun y silvestre, no a cacasen@s...</div><div class="quoteExpand">Clic para expandir...</div></blockquote>
+	</aside>
+</div>Hay de todo.<br />
+Por eso tantos suicidios por temas sentinentales y feminicidios.<br />
+<br />
+Todo parte de los celos..
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+		
+		
+		
+		
+				
+		<div class="messageMeta ToggleTriggerAnchor">
+			
+			<div class="privateControls">
+				
+				<span class="item muted">
+					<span class="authorEnd"><a href="usuarios/juancamaney.333875/" class="username author" dir="auto">JuanCamaney</a>,</span>
+					<a href="temas/que-opinas-que-tu-pareja-siga-hablando-con-su-ex.1460414/#post-32814767" title="Enlace directo" class="datePermalink"><span class="DateTime" title="3 Set 2021, 13:19">3 Set 2021</span></a>
+				</span>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			</div>
+			
+			<div class="publicControls">
+				<a href="temas/que-opinas-que-tu-pareja-siga-hablando-con-su-ex.1460414/#post-32814767" title="Enlace directo" class="item muted postNumber hashPermalink OverlayTrigger" data-href="mensajes/32814767/permalink">#13</a>
+				
+				
+				
+				
+			</div>
+		</div>
+	
+		
+		<div id="likes-post-32814767"></div>
+	</div>
+
+	
+	
+	
+
+
+
+
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-32814769" class="message   " data-author="c06m06">
+
+	
+
+<div class="messageUserInfo">	
+<div class="messageUserBlock ">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="usuarios/c06m06.351085/" class="avatar Av351085m" data-avatarhtml="true"><img src="data/avatars/m/351/351085.jpg?1587076438" width="96" height="96" alt="c06m06" /></a>
+			
+			<!-- slot: message_user_info_avatar -->
+		</div>
+	
+
+
+	
+		<h3 class="userText"><div class='tglPosbit pos_classic pcss'><span></span></div>
+			<a href="usuarios/c06m06.351085/" class="username" dir="auto">c06m06</a>
+			<em class="userTitle">
+Miembro de oro
+</em>
+			
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+		
+	
+		<div class="extraUserInfo">
+			
+			
+				
+					<dl class="pairsJustified">
+						<dt>Registro:</dt>
+						<dd>21 Jun 2018</dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Mensajes:</dt>
+						<dd><a href="buscar/member?user_id=351085" class="concealed" rel="nofollow">8,408</a></dd>
+					</dl>
+				
+				
+				
+
+
+
+				
+					<dl class="pairsJustified">
+						<dt>Likes:</dt>
+						<dd>6,488</dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Temas:</dt>
+						<dd><a href="buscar/member?user_id=351085&amp;content=thread" class="concealed" rel="nofollow">56</a></dd>
+					</dl>
+				
+
+			
+				
+				
+				
+				
+				
+			
+				
+							
+						
+			
+			
+		</div>
+	
+		
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+
+
+
+
+					Muchas tonterias leo por aqui. <br />
+Si confiaz en tu pareja, normal.<br />
+Yo recien he tenido comunicacion con mi ex pareja donde estuvimos a√±os juntos y nos separamos porque no eramos compatibles. <br />
+Mi novia dice que no le importa pero se que le molesta. Igual yo le digo de que hablamos y cuantas veces. Y si quiere ella puede hablar con mi ex tambien. <br />
+<br />
+Lo malo es que mi ex es un mujeron y ya mis primos han echo una apuesta a que yo y ella vamos a regresar antes de fin de a√±o y eso incomod√≥ a mi pareja. Asi que me he alejado de mi ex en estos dias. Pero toda relacion debe ser confianza. Si no hay confianza, no es relacion
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+		
+		
+		
+		
+				
+		<div class="messageMeta ToggleTriggerAnchor">
+			
+			<div class="privateControls">
+				
+				<span class="item muted">
+					<span class="authorEnd"><a href="usuarios/c06m06.351085/" class="username author" dir="auto">c06m06</a>,</span>
+					<a href="temas/que-opinas-que-tu-pareja-siga-hablando-con-su-ex.1460414/#post-32814769" title="Enlace directo" class="datePermalink"><span class="DateTime" title="3 Set 2021, 13:41">3 Set 2021</span></a>
+				</span>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			</div>
+			
+			<div class="publicControls">
+				<a href="temas/que-opinas-que-tu-pareja-siga-hablando-con-su-ex.1460414/#post-32814769" title="Enlace directo" class="item muted postNumber hashPermalink OverlayTrigger" data-href="mensajes/32814769/permalink">#14</a>
+				
+				
+				
+				
+			</div>
+		</div>
+	
+		
+		<div id="likes-post-32814769"></div>
+	</div>
+
+	
+	
+	
+
+
+
+
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-32814771" class="message   " data-author="JuanCamaney">
+
+	
+
+<div class="messageUserInfo">	
+<div class="messageUserBlock ">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="usuarios/juancamaney.333875/" class="avatar Av333875m" data-avatarhtml="true"><img src="data/avatars/m/333/333875.jpg?1599751969" width="96" height="96" alt="JuanCamaney" /></a>
+			
+			<!-- slot: message_user_info_avatar -->
+		</div>
+	
+
+
+	
+		<h3 class="userText"><div class='tglPosbit pos_classic pcss'><span></span></div>
+			<a href="usuarios/juancamaney.333875/" class="username" dir="auto">JuanCamaney</a>
+			<em class="userTitle">
+Miembro diamante
+</em>
+			
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+		
+	
+		<div class="extraUserInfo">
+			
+			
+				
+					<dl class="pairsJustified">
+						<dt>Registro:</dt>
+						<dd>20 Ago 2017</dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Mensajes:</dt>
+						<dd><a href="buscar/member?user_id=333875" class="concealed" rel="nofollow">20,052</a></dd>
+					</dl>
+				
+				
+				
+
+
+
+				
+					<dl class="pairsJustified">
+						<dt>Likes:</dt>
+						<dd>10,804</dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Temas:</dt>
+						<dd><a href="buscar/member?user_id=333875&amp;content=thread" class="concealed" rel="nofollow">580</a></dd>
+					</dl>
+				
+
+			
+				
+				
+				
+				
+				
+			
+				
+							
+						
+			
+			
+		</div>
+	
+		
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+
+
+
+
+					<div class="bbCodeBlock bbCodeQuote" data-author="c06m06">
+	<aside>
+		
+			<div class="attribution type">c06m06 escribi√≥:
+				
+					<a href="goto/post?id=32814769#post-32814769" class="AttributionLink">&uarr;</a>
+				
+			</div>
+		
+		<blockquote class="quoteContainer"><div class="quote">Muchas tonterias leo por aqui.<br />
+Si confiaz en tu pareja, normal.<br />
+Yo recien he tenido comunicacion con mi ex pareja donde estuvimos a√±os juntos y nos separamos porque no eramos compatibles.<br />
+Mi novia dice que no le importa pero se que le molesta. Igual yo le digo de que hablamos y cuantas veces. Y si quiere ella puede hablar con mi ex tambien.<br />
+<br />
+Lo malo es que mi ex es un mujeron y ya mis primos han echo una apuesta a que yo y ella vamos a regresar antes de fin de a√±o y eso incomod√≥ a mi pareja. Asi que me he alejado de mi ex en estos dias. Pero toda relacion debe ser confianza. Si no hay confianza, no es relacion</div><div class="quoteExpand">Clic para expandir...</div></blockquote>
+	</aside>
+</div>Si no hay confianza, mejor nada.<br />
+<br />
+Ya depende de cada quien, algunos son felices haciendoce los desentendidos.
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+		
+		
+		
+		
+				
+		<div class="messageMeta ToggleTriggerAnchor">
+			
+			<div class="privateControls">
+				
+				<span class="item muted">
+					<span class="authorEnd"><a href="usuarios/juancamaney.333875/" class="username author" dir="auto">JuanCamaney</a>,</span>
+					<a href="temas/que-opinas-que-tu-pareja-siga-hablando-con-su-ex.1460414/#post-32814771" title="Enlace directo" class="datePermalink"><span class="DateTime" title="3 Set 2021, 14:07">3 Set 2021</span></a>
+				</span>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			</div>
+			
+			<div class="publicControls">
+				<a href="temas/que-opinas-que-tu-pareja-siga-hablando-con-su-ex.1460414/#post-32814771" title="Enlace directo" class="item muted postNumber hashPermalink OverlayTrigger" data-href="mensajes/32814771/permalink">#15</a>
+				
+				
+				
+				
+			</div>
+		</div>
+	
+		
+		<div id="likes-post-32814771"></div>
+	</div>
+
+	
+	
+	
+
+
+
+
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-32814774" class="message   " data-author="McMoOis">
+
+	
+
+<div class="messageUserInfo">	
+<div class="messageUserBlock ">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="usuarios/mcmoois.290499/" class="avatar Av290499m" data-avatarhtml="true"><img src="data/avatars/m/290/290499.jpg?1461656168" width="96" height="96" alt="McMoOis" /></a>
+			
+			<!-- slot: message_user_info_avatar -->
+		</div>
+	
+
+
+	
+		<h3 class="userText"><div class='tglPosbit pos_classic pcss'><span></span></div>
+			<a href="usuarios/mcmoois.290499/" class="username" dir="auto">McMoOis</a>
+			<em class="userTitle">
+Miembro de oro
+</em>
+			
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+		
+	
+		<div class="extraUserInfo">
+			
+			
+				
+					<dl class="pairsJustified">
+						<dt>Registro:</dt>
+						<dd>3 Mar 2016</dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Mensajes:</dt>
+						<dd><a href="buscar/member?user_id=290499" class="concealed" rel="nofollow">5,339</a></dd>
+					</dl>
+				
+				
+				
+
+
+
+				
+					<dl class="pairsJustified">
+						<dt>Likes:</dt>
+						<dd>3,162</dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Temas:</dt>
+						<dd><a href="buscar/member?user_id=290499&amp;content=thread" class="concealed" rel="nofollow">210</a></dd>
+					</dl>
+				
+
+			
+				
+				
+				
+				
+				
+			
+				
+							
+						
+			
+			
+		</div>
+	
+		
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+
+
+
+
+					<div class="bbCodeBlock bbCodeQuote" data-author="c06m06">
+	<aside>
+		
+			<div class="attribution type">c06m06 escribi√≥:
+				
+					<a href="goto/post?id=32814769#post-32814769" class="AttributionLink">&uarr;</a>
+				
+			</div>
+		
+		<blockquote class="quoteContainer"><div class="quote">Muchas tonterias leo por aqui.<br />
+Si confiaz en tu pareja, normal.<br />
+Yo recien he tenido comunicacion con mi ex pareja donde estuvimos a√±os juntos y nos separamos porque no eramos compatibles.<br />
+Mi novia dice que no le importa pero se que le molesta. Igual yo le digo de que hablamos y cuantas veces. Y si quiere ella puede hablar con mi ex tambien.<br />
+<br />
+Lo malo es que mi ex es un mujeron y ya mis primos han echo una apuesta a que yo y ella vamos a regresar antes de fin de a√±o y eso incomod√≥ a mi pareja. Asi que me he alejado de mi ex en estos dias. Pero toda relacion debe ser confianza. Si no hay confianza, no es relacion</div><div class="quoteExpand">Clic para expandir...</div></blockquote>
+	</aside>
+</div>Es que lo que t√∫ describes no es una relaci√≥n de amor, es solo eso, una simple relaci√≥n, una relaci√≥n de pareja puede ser cualquiera.<br />
+El detalle y la verdad es que el verdadero amor significa respeto hacia el otro, y que el tema sentimental y amoroso solo te lo guardes para tu pareja, hablar con tu ex es &quot;poner en riesgo&quot; la relaci√≥n, se que puede sonar a amor novelesco o cuento de hadas pero esa es la verdad del amor, otra cosa es que en la actualidad la gran mayor√≠a de parejas son tan infieles entre ellos que para excusarse dicen &quot;eso es normal&quot; lo cual por supuesto no es.
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+		
+		
+		
+		
+				
+		<div class="messageMeta ToggleTriggerAnchor">
+			
+			<div class="privateControls">
+				
+				<span class="item muted">
+					<span class="authorEnd"><a href="usuarios/mcmoois.290499/" class="username author" dir="auto">McMoOis</a>,</span>
+					<a href="temas/que-opinas-que-tu-pareja-siga-hablando-con-su-ex.1460414/#post-32814774" title="Enlace directo" class="datePermalink"><span class="DateTime" title="3 Set 2021, 14:17">3 Set 2021</span></a>
+				</span>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			</div>
+			
+			<div class="publicControls">
+				<a href="temas/que-opinas-que-tu-pareja-siga-hablando-con-su-ex.1460414/#post-32814774" title="Enlace directo" class="item muted postNumber hashPermalink OverlayTrigger" data-href="mensajes/32814774/permalink">#16</a>
+				
+				
+				
+				
+			</div>
+		</div>
+	
+		
+		<div id="likes-post-32814774"></div>
+	</div>
+
+	
+	
+	
+
+
+
+
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-32814781" class="message   " data-author="ANYONGHASEYO">
+
+	
+
+<div class="messageUserInfo">	
+<div class="messageUserBlock ">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="usuarios/anyonghaseyo.205736/" class="avatar Av205736m" data-avatarhtml="true"><img src="data/avatars/m/205/205736.jpg?1456232581" width="96" height="96" alt="ANYONGHASEYO" /></a>
+			
+			<!-- slot: message_user_info_avatar -->
+		</div>
+	
+
+
+	
+		<h3 class="userText"><div class='tglPosbit pos_classic pcss'><span></span></div>
+			<a href="usuarios/anyonghaseyo.205736/" class="username" dir="auto">ANYONGHASEYO</a>
+			<em class="userTitle">
+Miembro de bronce
+</em>
+			
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+		
+	
+		<div class="extraUserInfo">
+			
+			
+				
+					<dl class="pairsJustified">
+						<dt>Registro:</dt>
+						<dd>10 Dic 2012</dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Mensajes:</dt>
+						<dd><a href="buscar/member?user_id=205736" class="concealed" rel="nofollow">2,436</a></dd>
+					</dl>
+				
+				
+				
+
+
+
+				
+					<dl class="pairsJustified">
+						<dt>Likes:</dt>
+						<dd>2,375</dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Temas:</dt>
+						<dd><a href="buscar/member?user_id=205736&amp;content=thread" class="concealed" rel="nofollow">33</a></dd>
+					</dl>
+				
+
+			
+				
+				
+				
+				
+				
+			
+				
+							
+						
+			
+			
+		</div>
+	
+		
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+
+
+
+
+					<div class="bbCodeBlock bbCodeQuote" data-author="JuanCamaney">
+	<aside>
+		
+			<div class="attribution type">JuanCamaney escribi√≥:
+				
+					<a href="goto/post?id=32814767#post-32814767" class="AttributionLink">&uarr;</a>
+				
+			</div>
+		
+		<blockquote class="quoteContainer"><div class="quote">Hay de todo.<br />
+Por eso tantos suicidios por temas sentinentales y feminicidios.<br />
+<br />
+Todo parte de los celos..</div><div class="quoteExpand">Clic para expandir...</div></blockquote>
+	</aside>
+</div>Si claro, deberian tomar terapia. Todo parte de problemas no resueltos del hogar. Qu√© persona en sus cinco sentidos y bien puestos va tener una relaci√≥n, y por el otro lado, escribe al ex/ otras personas para tener sexo: solo cacasen@s.
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+		
+		
+		
+		
+				
+		<div class="messageMeta ToggleTriggerAnchor">
+			
+			<div class="privateControls">
+				
+				<span class="item muted">
+					<span class="authorEnd"><a href="usuarios/anyonghaseyo.205736/" class="username author" dir="auto">ANYONGHASEYO</a>,</span>
+					<a href="temas/que-opinas-que-tu-pareja-siga-hablando-con-su-ex.1460414/#post-32814781" title="Enlace directo" class="datePermalink"><span class="DateTime" title="3 Set 2021, 14:38">3 Set 2021</span></a>
+				</span>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			</div>
+			
+			<div class="publicControls">
+				<a href="temas/que-opinas-que-tu-pareja-siga-hablando-con-su-ex.1460414/#post-32814781" title="Enlace directo" class="item muted postNumber hashPermalink OverlayTrigger" data-href="mensajes/32814781/permalink">#17</a>
+				
+				
+				
+				
+			</div>
+		</div>
+	
+		
+		<div id="likes-post-32814781"></div>
+	</div>
+
+	
+	
+	
+
+
+
+
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-32814857" class="message   " data-author="luchito ciencia">
+
+	
+
+<div class="messageUserInfo">	
+<div class="messageUserBlock ">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="usuarios/luchito-ciencia.391388/" class="avatar Av391388m" data-avatarhtml="true"><img src="data/avatars/m/391/391388.jpg?1646232457" width="96" height="96" alt="luchito ciencia" /></a>
+			
+			<!-- slot: message_user_info_avatar -->
+		</div>
+	
+
+
+	
+		<h3 class="userText"><div class='tglPosbit pos_classic pcss'><span></span></div>
+			<a href="usuarios/luchito-ciencia.391388/" class="username" dir="auto">luchito ciencia</a>
+			<em class="userTitle">
+Miembro maestro
+</em>
+			
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+		
+	
+		<div class="extraUserInfo">
+			
+			
+				
+					<dl class="pairsJustified">
+						<dt>Registro:</dt>
+						<dd>30 Ago 2021</dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Mensajes:</dt>
+						<dd><a href="buscar/member?user_id=391388" class="concealed" rel="nofollow">274</a></dd>
+					</dl>
+				
+				
+				
+
+
+
+				
+					<dl class="pairsJustified">
+						<dt>Likes:</dt>
+						<dd>119</dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Temas:</dt>
+						<dd><a href="buscar/member?user_id=391388&amp;content=thread" class="concealed" rel="nofollow">12</a></dd>
+					</dl>
+				
+
+			
+				
+				
+				
+				
+				
+			
+				
+							
+						
+			
+			
+		</div>
+	
+		
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+
+
+
+
+					Abriste este tema para saber la opini√≥n de los dem√°s y luego pusiste tu opini√≥n.<br />
+<br />
+Lo que piensas est√° muy bien para t√≠, y al parecer te ha funcionado de lo me√°s bien, es decir, est√°s sin pareja fija, ya que siempre desconf√≠as.<br />
+<br />
+El motivo debe de ser porque viajas mucho y a lo mejor como viajas s√≥lo, luego te entran dudas al regresar a tu pareja. <br />
+<br />
+S√≥lo t√∫ comoces c√≥mo son ellas, cada una con la que sales, y si tal va a ser tu destino, entonces disfruta tu desconfianza y sigue encontrando nuevas parejas, ya alg√∫n dia te encontrar√°s con alguna mujer que te inspire confianza o tal  vez te canses de desconfiar o ya no le tomar√°s tanto inter√©s al asunto y simplemente te arriesgar√°s a amar sin obst√°culos.<br />
+<br />
+Lo que te puedo decir es que los que hemos amado sin obst√°culos y hemos sido enga√±ados, nosotros no hemos perdido nada ya que dimos nuestro coraz√≥n y fuemos felices limpiamente. All√° los que hicieron trampa con sus parejas, hacer enga√±o es lo que los hace felices, la felicidad de ellos es nociva, t√∫ s√≥lo has lo que es correcto.
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+		
+		
+		
+		
+				
+		<div class="messageMeta ToggleTriggerAnchor">
+			
+			<div class="privateControls">
+				
+				<span class="item muted">
+					<span class="authorEnd"><a href="usuarios/luchito-ciencia.391388/" class="username author" dir="auto">luchito ciencia</a>,</span>
+					<a href="temas/que-opinas-que-tu-pareja-siga-hablando-con-su-ex.1460414/#post-32814857" title="Enlace directo" class="datePermalink"><span class="DateTime" title="3 Set 2021, 21:59">3 Set 2021</span></a>
+				</span>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			</div>
+			
+			<div class="publicControls">
+				<a href="temas/que-opinas-que-tu-pareja-siga-hablando-con-su-ex.1460414/#post-32814857" title="Enlace directo" class="item muted postNumber hashPermalink OverlayTrigger" data-href="mensajes/32814857/permalink">#18</a>
+				
+				
+				
+				
+			</div>
+		</div>
+	
+		
+		<div id="likes-post-32814857">
+	
+	<div class="likesSummary secondaryContent">
+		<span class="LikeText">
+			A <a href="usuarios/yorihua25.14851/" class="username" dir="auto">yorihua25</a> le gust√≥ este mensaje.
+		</span>
+	</div>
+</div>
+	</div>
+
+	
+	
+	
+
+
+
+
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-32814984" class="message   " data-author="yorihua25">
+
+	
+
+<div class="messageUserInfo">	
+<div class="messageUserBlock ">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="usuarios/yorihua25.14851/" class="avatar Av14851m" data-avatarhtml="true"><img src="data/avatars/m/14/14851.jpg?1413451974" width="96" height="96" alt="yorihua25" /></a>
+			
+			<!-- slot: message_user_info_avatar -->
+		</div>
+	
+
+
+	
+		<h3 class="userText"><div class='tglPosbit pos_classic pcss'><span></span></div>
+			<a href="usuarios/yorihua25.14851/" class="username" dir="auto">yorihua25</a>
+			<em class="userTitle">
+Miembro diamante
+</em>
+			
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+		
+	
+		<div class="extraUserInfo">
+			
+			
+				
+					<dl class="pairsJustified">
+						<dt>Registro:</dt>
+						<dd>15 Jul 2008</dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Mensajes:</dt>
+						<dd><a href="buscar/member?user_id=14851" class="concealed" rel="nofollow">24,315</a></dd>
+					</dl>
+				
+				
+				
+
+
+
+				
+					<dl class="pairsJustified">
+						<dt>Likes:</dt>
+						<dd>10,880</dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Temas:</dt>
+						<dd><a href="buscar/member?user_id=14851&amp;content=thread" class="concealed" rel="nofollow">383</a></dd>
+					</dl>
+				
+
+			
+				
+				
+				
+				
+				
+			
+				
+							
+						
+			
+			
+		</div>
+	
+		
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+
+
+
+
+					Dificil porque el ex es el ex depende de tu seguridad,ademas prohibiendo no ganas nada,lo digo por experiencia..si te quiere ser infiel con el ex lo hara entonces no valaria la pena como pareja...
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+		
+		
+		
+		
+				
+		<div class="messageMeta ToggleTriggerAnchor">
+			
+			<div class="privateControls">
+				
+				<span class="item muted">
+					<span class="authorEnd"><a href="usuarios/yorihua25.14851/" class="username author" dir="auto">yorihua25</a>,</span>
+					<a href="temas/que-opinas-que-tu-pareja-siga-hablando-con-su-ex.1460414/#post-32814984" title="Enlace directo" class="datePermalink"><span class="DateTime" title="4 Set 2021, 15:44">4 Set 2021</span></a>
+				</span>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			</div>
+			
+			<div class="publicControls">
+				<a href="temas/que-opinas-que-tu-pareja-siga-hablando-con-su-ex.1460414/#post-32814984" title="Enlace directo" class="item muted postNumber hashPermalink OverlayTrigger" data-href="mensajes/32814984/permalink">#19</a>
+				
+				
+				
+				
+			</div>
+		</div>
+	
+		
+		<div id="likes-post-32814984"></div>
+	</div>
+
+	
+	
+	
+
+
+
+
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-32814994" class="message   " data-author="JuanCamaney">
+
+	
+
+<div class="messageUserInfo">	
+<div class="messageUserBlock ">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="usuarios/juancamaney.333875/" class="avatar Av333875m" data-avatarhtml="true"><img src="data/avatars/m/333/333875.jpg?1599751969" width="96" height="96" alt="JuanCamaney" /></a>
+			
+			<!-- slot: message_user_info_avatar -->
+		</div>
+	
+
+
+	
+		<h3 class="userText"><div class='tglPosbit pos_classic pcss'><span></span></div>
+			<a href="usuarios/juancamaney.333875/" class="username" dir="auto">JuanCamaney</a>
+			<em class="userTitle">
+Miembro diamante
+</em>
+			
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+		
+	
+		<div class="extraUserInfo">
+			
+			
+				
+					<dl class="pairsJustified">
+						<dt>Registro:</dt>
+						<dd>20 Ago 2017</dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Mensajes:</dt>
+						<dd><a href="buscar/member?user_id=333875" class="concealed" rel="nofollow">20,052</a></dd>
+					</dl>
+				
+				
+				
+
+
+
+				
+					<dl class="pairsJustified">
+						<dt>Likes:</dt>
+						<dd>10,804</dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Temas:</dt>
+						<dd><a href="buscar/member?user_id=333875&amp;content=thread" class="concealed" rel="nofollow">580</a></dd>
+					</dl>
+				
+
+			
+				
+				
+				
+				
+				
+			
+				
+							
+						
+			
+			
+		</div>
+	
+		
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+
+
+
+
+					<div class="bbCodeBlock bbCodeQuote" data-author="yorihua25">
+	<aside>
+		
+			<div class="attribution type">yorihua25 escribi√≥:
+				
+					<a href="goto/post?id=32814984#post-32814984" class="AttributionLink">&uarr;</a>
+				
+			</div>
+		
+		<blockquote class="quoteContainer"><div class="quote">Dificil porque el ex es el ex depende de tu seguridad,ademas prohibiendo no ganas nada,lo digo por experiencia..si te quiere ser infiel con el ex lo hara entonces no valaria la pena como pareja...</div><div class="quoteExpand">Clic para expandir...</div></blockquote>
+	</aside>
+</div>Uno dice y hace de acuerdo a los probabilidades.<br />
+Prefiero no arriesgar y dormir tranquilo.
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+		
+		
+		
+		
+				
+		<div class="messageMeta ToggleTriggerAnchor">
+			
+			<div class="privateControls">
+				
+				<span class="item muted">
+					<span class="authorEnd"><a href="usuarios/juancamaney.333875/" class="username author" dir="auto">JuanCamaney</a>,</span>
+					<a href="temas/que-opinas-que-tu-pareja-siga-hablando-con-su-ex.1460414/#post-32814994" title="Enlace directo" class="datePermalink"><span class="DateTime" title="4 Set 2021, 16:28">4 Set 2021</span></a>
+				</span>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			</div>
+			
+			<div class="publicControls">
+				<a href="temas/que-opinas-que-tu-pareja-siga-hablando-con-su-ex.1460414/#post-32814994" title="Enlace directo" class="item muted postNumber hashPermalink OverlayTrigger" data-href="mensajes/32814994/permalink">#20</a>
+				
+				
+				
+				
+			</div>
+		</div>
+	
+		
+		<div id="likes-post-32814994"></div>
+	</div>
+
+	
+	
+	
+
+
+
+
+	
+</li>
+			
+		
+		
+	</ol>
+
+	
+
+	<input type="hidden" name="_xfToken" value="" />
+
+</form>
+
+	<div class="pageNavLinkGroup">
+			
+				
+					<div class="linkGroup">
+						
+							<label for="LoginControl"><a href="ingresar/" class="concealed element">(Debes conectarte para poder publicar.)</a></label>
+						
+					</div>
+				
+			
+			<div class="linkGroup" style="display: none"><a href="javascript:" class="muted JsOnly DisplayIgnoredContent Tooltip" title="Mostrar contenido ignorado de ">Mostrar contenido ignorado</a></div>
+
+			
+
+
+<div class="PageNav"
+	data-page="1"
+	data-range="2"
+	data-start="2"
+	data-end="2"
+	data-last="2"
+	data-sentinel="{{sentinel}}"
+	data-baseurl="temas/que-opinas-que-tu-pareja-siga-hablando-con-su-ex.1460414/page-{{sentinel}}">
+	
+	<span class="pageNavHeader">P√°gina 1 de 2</span>
+	
+	<nav>
+		
+		
+		<a href="temas/que-opinas-que-tu-pareja-siga-hablando-con-su-ex.1460414/" class="currentPage " rel="start">1</a>
+		
+		
+		
+		
+		
+		
+		
+		<a href="temas/que-opinas-que-tu-pareja-siga-hablando-con-su-ex.1460414/pagina-2" class="">2</a>
+		
+		
+			<a href="temas/que-opinas-que-tu-pareja-siga-hablando-con-su-ex.1460414/pagina-2" class="text">Siguiente &gt;</a>
+			
+		
+	</nav>	
+	
+	
+</div>
+
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+						
+						
+						
+						
+							<!-- login form, to be moved to the upper drop-down -->
+							
+
+
+
+
+
+
+
+<form action="ingresar/acceso" method="post" class="xenForm eAuth" id="login" style="display:none">
+
+	
+		<ul id="eAuthUnit">
+			
+				
+				
+					
+					<li><a href="registro/facebook?reg=1" class="fbLogin" tabindex="110"><span>Conectar con Facebook</span></a></li>
+				
+				
+				
+				
+				
+				
+			
+		</ul>
+	
+
+	<div class="ctrlWrapper">
+		<dl class="ctrlUnit">
+			<dt><label for="LoginControl">Usuario:</label></dt>
+			<dd><input type="text" name="login" id="LoginControl" class="textCtrl" tabindex="101" /></dd>
+		</dl>
+	
+	
+		<dl class="ctrlUnit">
+			<dt>
+				<label for="ctrl_password">¬øEres usuario?</label>
+			</dt>
+			<dd>
+				<ul>
+					<li><label for="ctrl_not_registered"><input type="radio" name="register" value="1" id="ctrl_not_registered" tabindex="105" />
+						No soy usuario, quiero registrarme.</label></li>
+					<li><label for="ctrl_registered"><input type="radio" name="register" value="0" id="ctrl_registered" tabindex="105" checked="checked" class="Disabler" />
+						S√≠, mi contrase√±a es:</label></li>
+					<li id="ctrl_registered_Disabler">
+						<input type="password" name="password" class="textCtrl" id="ctrl_password" tabindex="102" />
+						<div class="lostPassword"><a href="restablecer-contrasena/" class="OverlayTrigger OverlayCloser" tabindex="106">¬øOlvidaste tu contrase√±a?</a></div>
+					</li>
+				</ul>
+			</dd>
+		</dl>
+	
+		
+		<dl class="ctrlUnit submitUnit">
+			<dt></dt>
+			<dd>
+				<input type="submit" class="button primary" value="Ingresar" tabindex="104" data-loginPhrase="Ingresar" data-signupPhrase="Registro" />
+				<input type="hidden" name="remember" value="1" />
+			</dd>
+		</dl>
+	</div>
+
+	<input type="hidden" name="cookie_check" value="1" />
+	<input type="hidden" name="redirect" value="/temas/que-opinas-que-tu-pareja-siga-hablando-con-su-ex.1460414/" />
+	<input type="hidden" name="_xfToken" value="" />
+
+</form>
+						
+						
+					
+			
+						
+			<div class="breadBoxBottom">
+
+<nav>
+	
+
+	<fieldset class="breadcrumb">
+		<a href="misc/quick-navigation-menu?selected=node-149" class="OverlayTrigger jumpMenuTrigger" data-cacheOverlay="true" title="Men√∫ de navegaci√≥n r√°pida"><!--Jump to...--></a>
+			
+		<div class="boardTitle"><strong>Foros Per√∫</strong></div>
+		
+		<span class="crumbs">
+			
+			
+			
+				<span class="crust selectedTabCrumb">
+					<a href="https://www.forosperu.net/" class="crumb"><span>Foros</span></a>
+					<span class="arrow"><span>&gt;</span></span>
+				</span>
+			
+			
+			
+				
+					<span class="crust">
+						<a href="https://www.forosperu.net/categorias/comunidad.148/" class="crumb"><span>Comunidad</span></a>
+						<span class="arrow"><span>&gt;</span></span>
+					</span>
+				
+					<span class="crust">
+						<a href="https://www.forosperu.net/secciones/foro-libre.149/" class="crumb"><span>Foro Libre</span></a>
+						<span class="arrow"><span>&gt;</span></span>
+					</span>
+				
+			
+		</span>
+	</fieldset>
+</nav></div>
+			
+						
+			
+						
+		</div>
+	</div>
+</div>
+
+<header>
+	
+
+
+<div id="header">
+	<div id="logoBlock">
+	<div class="pageWidth">
+		<div class="pageContent">
+			
+			
+			<div id="logo"><a href="https://www.forosperu.net/">
+				<span></span>
+				<img src="styles/fp/xenforo/logo.png" alt="Foros Per√∫" />
+			</a></div>
+			
+			<span class="helper"></span>
+		</div>
+	</div>
+</div>
+	
+
+<div id="navigation" class="pageWidth withSearch">
+	<div class="pageContent">
+		<nav>
+
+<div class="navTabs">
+	<ul class="publicTabs">
+	
+		<!-- home -->
+		
+		
+		
+		<!-- extra tabs: home -->
+		
+		
+		
+		<!-- forums -->
+		
+			<li class="navTab forums selected">
+			
+				<a href="https://www.forosperu.net/" class="navLink">Foros</a>
+				<a href="https://www.forosperu.net/" class="SplitCtrl" rel="Menu"></a>
+				
+				<div class="tabLinks forumsTabLinks">
+					<div class="primaryContent menuHeader">
+						<h3>Foros</h3>
+						<div class="muted"></div>
+					</div>
+					<ul class="secondaryContent blockLinksList">
+					
+						
+						<li><a href="buscar/?type=post">Buscar mensajes</a></li>
+						
+						
+<li><a href="novedades/mensajes" rel="nofollow">Mensajes recientes</a></li>
+
+
+					
+					</ul>
+				</div>
+			</li>
+		
+		<li class="navTab Popup PopupControl PopupClosed"><a href="https://www.autosperu.net/" class="navLink">Autos</a></li>
+		<li class="navTab Popup PopupControl PopupClosed"><a href="https://www.peruhardware.net/" class="navLink">Tecnolog√≠a</a></li>
+		<li class="navTab Popup PopupControl PopupClosed"><a href="novedades/mensajes" rel="nofollow" class="navLink">Novedades</a></li>
+		
+		
+		<!-- extra tabs: middle -->
+		
+		
+			
+				<li class="navTab xengallery Popup PopupControl PopupClosed">
+			
+				<a href="https://www.forosperu.net/galeria/" class="navLink">Galer√≠a</a>
+				<a href="https://www.forosperu.net/galeria/" class="SplitCtrl" rel="Menu"></a>
+				
+				<div class="Menu JsOnly tabMenu xengalleryTabLinks">
+					<div class="primaryContent menuHeader">
+						<h3>Galer√≠a</h3>
+						<div class="muted"></div>
+					</div>
+					
+
+<ul class="secondaryContent blockLinksList xengallery">
+	
+	
+		<li><a href="buscar/?type=xengallery_media">Buscar fotos</a></li>
+	
+	
+	
+		
+		
+	
+	<li><a href="novedades/fotos" rel="nofollow">Nuevas fotos</a></li>
+</ul>
+				</div>
+			</li>
+			
+		
+		
+		
+		
+		<!-- members -->
+		
+			<li class="navTab members Popup PopupControl PopupClosed">
+			
+				<a href="https://www.forosperu.net/usuarios/" class="navLink">Usuarios</a>
+				<a href="https://www.forosperu.net/usuarios/" class="SplitCtrl" rel="Menu"></a>
+				
+				<div class="Menu JsOnly tabMenu membersTabLinks">
+					<div class="primaryContent menuHeader">
+						<h3>Usuarios</h3>
+						<div class="muted"></div>
+					</div>
+					<ul class="secondaryContent blockLinksList">
+					
+						<li><a href="usuarios/">Usuarios destacados</a></li>
+						
+
+						<li><a href="online/">Visitantes activos</a></li>
+						<li><a href="actividad-reciente/">Actividad reciente</a></li>
+						<li><a href="novedades/mensajes-perfil" rel="nofollow">Nuevos mensajes de perfil</a></li>
+					
+					</ul>
+				</div>
+			</li>
+						
+		
+		<li class="navTab Popup PopupControl PopupClosed"><a href="categorias/272" rel="nofollow" class="navLink">Clasificados</a></li>
+		
+		<!-- extra tabs: end -->
+		
+
+		<!-- responsive popup -->
+		<li class="navTab navigationHiddenTabs Popup PopupControl PopupClosed" style="display:none">	
+						
+			<a rel="Menu" class="navLink NoPopupGadget"><span class="menuIcon">Menu</span></a>
+			
+			<div class="Menu JsOnly blockLinksList primaryContent" id="NavigationHiddenMenu"></div>
+		</li>
+			
+		
+		<!-- no selection -->
+		
+		
+		
+		
+	</ul>
+	
+	
+</div>
+
+<span class="helper"></span>
+			
+		</nav>	
+	</div>
+</div>
+	
+
+<div id="searchBar" class="pageWidth">
+	
+	<span id="QuickSearchPlaceholder" title="Buscar">Buscar</span>
+	<fieldset id="QuickSearch">
+		<form action="buscar/search" method="post" class="formPopup">
+			
+			<div class="primaryControls">
+				<!-- block: primaryControls -->
+				<input type="search" name="keywords" value="" class="textCtrl" placeholder="Buscar..." title="Ingresa tu b√∫squeda y presiona enter" id="QuickSearchQuery" />				
+				<!-- end block: primaryControls -->
+			</div>
+			
+			<div class="secondaryControls">
+				<div class="controlsWrapper">
+				
+					<!-- block: secondaryControls -->
+					<dl class="ctrlUnit">
+						<dt></dt>
+						<dd><ul>
+							<li><label><input type="checkbox" name="title_only" value="1"
+								id="search_bar_title_only" class="AutoChecker"
+								data-uncheck="#search_bar_thread" /> Buscar s√≥lo en t√≠tulos</label></li>
+						</ul></dd>
+					</dl>
+				
+					<dl class="ctrlUnit">
+						<dt><label for="searchBar_users">Publicado por el usuario:</label></dt>
+						<dd>
+							<input type="text" name="users" value="" class="textCtrl AutoComplete" id="searchBar_users" />
+							<p class="explain">Separa los nombres con una coma.</p>
+						</dd>
+					</dl>
+				
+					<dl class="ctrlUnit">
+						<dt><label for="searchBar_date">Publicado desde fecha:</label></dt>
+						<dd><input type="date" name="date" value="" class="textCtrl" id="searchBar_date" /></dd>
+					</dl>
+					
+					
+					<dl class="ctrlUnit">
+						<dt></dt>
+						<dd><ul>
+								
+									<li><label title="Buscar s√≥lo en '¬øQue opinas que tu pareja siga hablando con su ex?'"><input type="checkbox" name="type[post][thread_id]" value="1460414"
+	id="search_bar_thread" class="AutoChecker"
+	data-uncheck="#search_bar_title_only, #search_bar_nodes" /> Buscar s√≥lo en este tema</label></li>
+								
+									<li><label title="Buscar s√≥lo en 'Foro Libre'"><input type="checkbox" name="nodes[]" value="149"
+	id="search_bar_nodes" class="Disabler AutoChecker"
+	data-uncheck="#search_bar_thread" /> Buscar s√≥lo en esta secci√≥n</label>
+	<ul id="search_bar_nodes_Disabler">
+		<li><label><input type="checkbox" name="type[post][group_discussion]" value="1"
+			id="search_bar_group_discussion" class="AutoChecker"
+			data-uncheck="#search_bar_thread" /> Mostrar resultados como temas</label></li>
+	</ul></li>
+								
+						</ul></dd>
+					</dl>
+					
+				</div>
+				<!-- end block: secondaryControls -->
+				
+				<dl class="ctrlUnit submitUnit">
+					<dt></dt>
+					<dd>
+						<input type="submit" value="Buscar" class="button primary Tooltip" title="Buscar ahora" />
+						<div class="Popup" id="commonSearches">
+							<a rel="Menu" class="button NoPopupGadget Tooltip" title="B√∫squedas r√°pidas" data-tipclass="flipped"><span class="arrowWidget"></span></a>
+							<div class="Menu">
+								<div class="primaryContent menuHeader">
+									<h3>B√∫squedas r√°pidas</h3>
+								</div>
+								<ul class="secondaryContent blockLinksList">
+									<!-- block: useful_searches -->
+									<li><a href="novedades/mensajes?recent=1" rel="nofollow">Mensajes recientes</a></li>
+									
+									<!-- end block: useful_searches -->
+								</ul>
+							</div>
+						</div>
+						<a href="buscar/" class="button moreOptions Tooltip" title="B√∫squeda avanzada">M√°s...</a>
+					</dd>
+				</dl>
+				
+			</div>
+			
+			<input type="hidden" name="_xfToken" value="" />
+		</form>		
+	</fieldset>
+	
+</div>
+</div>
+
+	
+	
+</header>
+
+</div>
+
+<footer>
+	
+
+
+<div class="footer">
+	<div class="pageWidth">
+		<div class="pageContent">
+			
+			<dl class="choosers">
+				
+			</dl>
+			
+			
+			<ul class="footerLinks">
+			
+				
+				<li><a href="https://www.forosperu.net/" class="homeLink">Principal</a></li>
+				<li><a href="/temas/que-opinas-que-tu-pareja-siga-hablando-con-su-ex.1460414/#navigation" class="topLink">Arriba</a></li>
+				
+			
+			</ul>
+			
+			<span class="helper"></span>
+		</div>
+	</div>
+</div>
+
+<div class="footerLegal">
+	<div class="pageWidth">
+		<div class="pageContent">
+			<ul id="legal">
+			
+				<li><a href="https://www.forosperu.net/temas/normas-del-foro.2/">Normas del foro</a></li>
+				<li><a href="https://www.forosperu.net/temas/politica-de-privacidad.1171463/">Pol√≠tica de privacidad</a></li>
+			
+			</ul>
+			
+			
+		
+			
+			
+			<span class="helper"></span>
+		</div>
+	</div>	
+</div>
+
+
+
+
+</footer>
+
+<div class="bottomFixer">
+	
+	
+
+</div>
+
+<script>
+
+
+jQuery.extend(true, XenForo,
+{
+	visitor: { user_id: 0 },
+	serverTimeInfo:
+	{
+		now: 1701014520,
+		today: 1700974800,
+		todayDow: 0
+	},
+	_lightBoxUniversal: "0",
+	_enableOverlays: "1",
+	_animationSpeedMultiplier: "0",
+	_overlayConfig:
+	{
+		top: "10%",
+		speed: 0,
+		closeSpeed: 0,
+		mask:
+		{
+			color: "rgb(255, 255, 255)",
+			opacity: "0.6",
+			loadSpeed: 0,
+			closeSpeed: 0
+		}
+	},
+	toogleMeConfig:{ effect: "easeOutQuad", duration: 250, postbit_state: 0 },
+	_ignoredUsers: [],
+	_loadedScripts: {"thread_view":true,"message":true,"bb_code":true,"message_user_info":true,"likes_summary":true,"font_awesome":true,"toggleme_auto":true,"toggleme_purecss":true,"login_bar":true,"facebook":true,"xengallery_tab_links":true,"js\/sedo\/toggleme\/toggleME.js?_v=47bc0535":true},
+	_cookieConfig: { path: "/", domain: "", prefix: "xf_"},
+	_csrfToken: "",
+	_csrfRefreshUrl: "ingresar/csrf-token-refresh",
+	_jsVersion: "47bc0535",
+	_noRtnProtect: false,
+	_noSocialLogin: false
+});
+jQuery.extend(XenForo.phrases,
+{
+	xengallery_lightbox_loading:	"Loading...",
+	xengallery_lightbox_close:	"Close (Esc)",
+	xengallery_lightbox_previous:	"Previous (Left arrow key)",
+	xengallery_lightbox_next:	"Next (Right arrow key)",
+	xengallery_lightbox_counter:	"%curr% of %total%",
+	xengallery_lightbox_error:	"The <a href=\"%url%\">media<\/a> could not be loaded.",
+	xengallery_touch_error:		"This operation will not work from a touch enabled device.",
+	cancel: "Cancelar",
+
+	a_moment_ago:    "hace un momento",
+	one_minute_ago:  "hace 1 minuto",
+	x_minutes_ago:   "hace %minutes% minutos",
+	today_at_x:      "Hoy, %time%",
+	yesterday_at_x:  "Ayer, %time%",
+	day_x_at_time_y: "%day%, %time%",
+
+	day0: "Domingo",
+	day1: "Lunes",
+	day2: "Martes",
+	day3: "Mi√©rcoles",
+	day4: "Jueves",
+	day5: "Viernes",
+	day6: "S√°bado",
+
+	_months: "Enero,Febrero,Marzo,Abril,Mayo,Junio,Julio,Agosto,Setiembre,Octubre,Noviembre,Diciembre",
+	_daysShort: "Dom,Lun,Mar,Mi√©,Jue,Vie,S√°b",
+
+	following_error_occurred: "Error",
+	server_did_not_respond_in_time_try_again: "El servidor no respondi√≥ a tiempo. Por favor intenta nuevamente.",
+	logging_in: "Ingresando",
+	click_image_show_full_size_version: "Haz clic en la imagen para mostrarla en tama√±o completo.",
+	show_hidden_content_by_x: "Mostrar contenido ignorado de {names}"
+});
+
+// Facebook Javascript SDK
+XenForo.Facebook.appId = "359943794451293";
+XenForo.Facebook.forceInit = false;
+
+
+
+</script>
+
+
+
+
 </body>
 </html>

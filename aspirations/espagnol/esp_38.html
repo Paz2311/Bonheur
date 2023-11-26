@@ -1,1 +1,603 @@
-<!doctype html><html><head><title>DDoS-Guard</title><meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/><link rel="stylesheet" href="/.well-known/ddos-guard/js-challenge/index.css"><script defer="defer" src="/.well-known/ddos-guard/js-challenge/view.js"></script><script defer="defer" src="/.well-known/ddos-guard/js-challenge/index.js"></script><script src="https://check.ddos-guard.net/check.js"></script></head><body><div class="container"><div class="logo"><img id="img-logo" src="" alt="logo"/></div><div id="title"></div><div id="description"></div><div id="link-ddg"><a href="" target="_blank" id="link"></a></div><div class="lds"><img id="img-loading" src="" alt="loading"/></div></div></body></html>
+<!DOCTYPE html>
+<html dir="ltr" lang="es">
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+<title>¿Cómo es la lógica de los objetivos y las recompensas? - Foro SofosAgora</title>
+
+
+
+
+	<link rel="alternate" type="application/atom+xml" title="Feed - Foro SofosAgora" href="/app.php/feed?sid=5f282818a5a1b5110926c4276a0bd05c">	<link rel="alternate" type="application/atom+xml" title="Feed - Noticias" href="/app.php/feed/news?sid=5f282818a5a1b5110926c4276a0bd05c">		<link rel="alternate" type="application/atom+xml" title="Feed - Nuevos Temas" href="/app.php/feed/topics?sid=5f282818a5a1b5110926c4276a0bd05c">	<link rel="alternate" type="application/atom+xml" title="Feed - Temas Activos" href="/app.php/feed/topics_active?sid=5f282818a5a1b5110926c4276a0bd05c">			
+	<link rel="canonical" href="https://sofosagora.net/viewtopic.php?t=17092">
+
+<!--
+	phpBB style name: simplicity
+	Based on style:   prosilver
+	Original author:  Arty ( https://www.artodia.com )
+	Modified by: 	  MrGaby
+-->
+
+
+<link href="./assets/css/font-awesome.min.css?assets_version=13" rel="stylesheet">
+<link href="./styles/simplicity_darkblue/theme/stylesheet.css?assets_version=13" rel="stylesheet">
+
+
+
+
+<!--[if lte IE 9]>
+	<link href="./styles/simplicity_darkblue/theme/tweaks.css?assets_version=13" rel="stylesheet">
+<![endif]-->
+
+
+
+
+
+</head>
+<body id="phpbb" class="nojs notouch section-viewtopic ltr " data-online-text="Conectado">
+
+
+	<a id="top" class="top-anchor" accesskey="t"></a>
+	<div id="page-header" class="page-width">
+		<div class="headerbar" role="banner">
+					<div class="inner">
+
+			<div id="site-description" class="site-description">
+				<a id="logo" class="logo" href="./index.php?sid=5f282818a5a1b5110926c4276a0bd05c" title="Índice general">
+					<img src="./styles/simplicity_darkblue/theme/images/logo.png" data-src-hd="./styles/simplicity_darkblue/theme/images/logo_hd.png" alt="Foro SofosAgora"/>
+				</a>
+				<p class="sitename">Foro SofosAgora</p>
+				<p>Foro abierto a los intereses de sus usuarios. Debate, aprende y diviértete.</p>
+				<p class="skiplink"><a href="#start_here">Obviar</a></p>
+			</div>
+
+																		
+			</div>
+					</div>
+
+
+				
+
+
+<div class="navbar tabbed not-static" role="navigation">
+	<div class="inner page-width">
+		<div class="nav-tabs" data-current-page="viewtopic">
+			<ul class="leftside">
+				<li id="quick-links" class="quick-links tab responsive-menu dropdown-container">
+					<a href="#" class="nav-link dropdown-trigger">Enlaces rápidos</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<ul class="dropdown-contents" role="menu">
+								
+			<li class="separator"></li>
+													<li>
+								<a href="./search.php?search_id=unanswered&amp;sid=5f282818a5a1b5110926c4276a0bd05c" role="menuitem">
+									<i class="icon fa-file-o fa-fw icon-gray" aria-hidden="true"></i><span>Temas sin respuesta</span>
+								</a>
+							</li>
+							<li>
+								<a href="./search.php?search_id=active_topics&amp;sid=5f282818a5a1b5110926c4276a0bd05c" role="menuitem">
+									<i class="icon fa-file-o fa-fw icon-blue" aria-hidden="true"></i><span>Temas activos</span>
+								</a>
+							</li>
+							<li class="separator"></li>
+							<li>
+								<a href="./search.php?sid=5f282818a5a1b5110926c4276a0bd05c" role="menuitem">
+									<i class="icon fa-search fa-fw" aria-hidden="true"></i><span>Buscar</span>
+								</a>
+							</li>	
+	
+													</ul>
+					</div>
+				</li>
+												<li class="tab forums selected" data-responsive-class="small-icon icon-forums">
+					<a class="nav-link" href="./index.php?sid=5f282818a5a1b5110926c4276a0bd05c">Foros</a>
+				</li>
+											</ul>
+			<ul class="rightside" role="menu">
+								<li class="tab faq" data-select-match="faq" data-responsive-class="small-icon icon-faq">
+					<a class="nav-link" href="/app.php/help/faq?sid=5f282818a5a1b5110926c4276a0bd05c" rel="help" title="Preguntas Frecuentes" role="menuitem">
+						<i class="icon fa-question-circle fa-fw" aria-hidden="true"></i><span>FAQ</span>
+					</a>
+				</li>
+																									<li class="tab login"  data-skip-responsive="true" data-select-match="login"><a class="nav-link" href="./ucp.php?mode=login&amp;redirect=viewtopic.php%3Fhilit%3Dfelicidad%26p%3D343778&amp;sid=5f282818a5a1b5110926c4276a0bd05c" title="Identificarse" accesskey="x" role="menuitem">Identificarse</a></li>
+											<li class="tab register" data-skip-responsive="true" data-select-match="register"><a class="nav-link" href="./ucp.php?mode=register&amp;sid=5f282818a5a1b5110926c4276a0bd05c" role="menuitem">Registrarse</a></li>
+																	</ul>
+		</div>
+	</div>
+</div>
+
+<div class="navbar secondary with-search">
+	<ul role="menubar">
+											<li class="small-icon icon-search responsive-hide"><a href="./search.php?sid=5f282818a5a1b5110926c4276a0bd05c">Buscar</a></li>
+														<li class="small-icon icon-login"><a href="./ucp.php?mode=login&amp;redirect=viewtopic.php%3Fhilit%3Dfelicidad%26p%3D343778&amp;sid=5f282818a5a1b5110926c4276a0bd05c" title="Identificarse">Identificarse</a></li>
+									<li class="small-icon icon-register"><a href="./ucp.php?mode=register&amp;sid=5f282818a5a1b5110926c4276a0bd05c">Registrarse</a></li>
+									
+					<li class="search-box not-responsive">			<div id="search-box" class="search-box search-header" role="search">
+				<form action="./search.php?sid=5f282818a5a1b5110926c4276a0bd05c" method="get" id="search">
+				<fieldset>
+					<input name="keywords" id="keywords" type="search" maxlength="128" title="Buscar palabras clave" class="inputbox search tiny" size="20" value="" placeholder="Buscar…" />
+					<button class="button button-search" type="submit" title="Buscar">
+						<i class="icon fa-search fa-fw" aria-hidden="true"></i><span class="sr-only">Buscar</span>
+					</button>
+					<a href="./search.php?sid=5f282818a5a1b5110926c4276a0bd05c" class="button button-search-end" title="Búsqueda avanzada">
+						<i class="icon fa-cog fa-fw" aria-hidden="true"></i><span class="sr-only">Búsqueda avanzada</span>
+					</a>
+					<input type="hidden" name="sid" value="5f282818a5a1b5110926c4276a0bd05c" />
+
+				</fieldset>
+				</form>
+			</div>
+			</li>
+			</ul>
+</div>
+
+	</div>
+
+<div id="wrap" class="page-width">
+
+	
+	<a id="start_here" class="top-anchor"></a>
+	<div id="page-body" class="page-body" role="main">
+		<div class="navbar">
+	<ul id="nav-breadcrumbs" class="nav-breadcrumbs linklist navlinks" role="menubar">
+								<li class="breadcrumbs" itemscope itemtype="http://schema.org/BreadcrumbList">
+										<span class="crumb"  itemtype="http://schema.org/ListItem" itemprop="itemListElement" itemscope><a href="./index.php?sid=5f282818a5a1b5110926c4276a0bd05c" itemtype="https://schema.org/Thing" itemscope itemprop="item" accesskey="h" data-navbar-reference="index"><i class="icon fa-home fa-fw"></i><span itemprop="name">Índice general</span></a><meta itemprop="position" content="1" /></span>
+
+																			<span class="crumb"  itemtype="http://schema.org/ListItem" itemprop="itemListElement" itemscope data-forum-id="7"><a href="./viewforum.php?f=7&amp;sid=5f282818a5a1b5110926c4276a0bd05c" itemtype="https://schema.org/Thing" itemscope itemprop="item"><span itemprop="name">SofosAgora 1.0</span></a><meta itemprop="position" content="2" /></span>
+																							<span class="crumb"  itemtype="http://schema.org/ListItem" itemprop="itemListElement" itemscope data-forum-id="14"><a href="./viewforum.php?f=14&amp;sid=5f282818a5a1b5110926c4276a0bd05c" itemtype="https://schema.org/Thing" itemscope itemprop="item"><span itemprop="name">Epistemología</span></a><meta itemprop="position" content="3" /></span>
+																							<span class="crumb"  itemtype="http://schema.org/ListItem" itemprop="itemListElement" itemscope data-forum-id="54"><a href="./viewforum.php?f=54&amp;sid=5f282818a5a1b5110926c4276a0bd05c" itemtype="https://schema.org/Thing" itemscope itemprop="item"><span itemprop="name">Lógica y argumentación</span></a><meta itemprop="position" content="4" /></span>
+												</li>
+		
+					<li class="rightside responsive-search">
+				<a href="./search.php?sid=5f282818a5a1b5110926c4276a0bd05c" title="Ver opciones de búsqueda avanzada" role="menuitem">
+					<i class="icon fa-search fa-fw" aria-hidden="true"></i><span class="sr-only">Buscar</span>
+				</a>
+			</li>
+				<li class="rightside dropdown-container icon-only">
+			<a href="#" class="dropdown-trigger time" title="Fecha actual 26 Nov 2023, 18:02"><i class="fa fa-clock-o"></i></a>
+			<div class="dropdown">
+				<div class="pointer"><div class="pointer-inner"></div></div>
+				<ul class="dropdown-contents">
+					<li>Fecha actual 26 Nov 2023, 18:02</li>
+					<li>Todos los horarios son <span title="UTC+2">UTC+02:00</span></li>
+				</ul>
+			</div>
+		</li>
+	</ul>
+</div>
+
+		
+		
+<h2 class="topic-title"><a href="./viewtopic.php?t=17092&amp;sid=5f282818a5a1b5110926c4276a0bd05c">¿Cómo es la lógica de los objetivos y las recompensas?</a></h2>
+<!-- NOTE: remove the style="display: none" when you want to have the forum description on the topic body -->
+
+
+
+<div class="action-bar bar-top">
+	
+			<a href="./posting.php?mode=reply&amp;t=17092&amp;sid=5f282818a5a1b5110926c4276a0bd05c" class="button" title="Publicar una respuesta">
+							<span>Responder</span> <i class="icon fa-reply fa-fw" aria-hidden="true"></i>
+					</a>
+	
+			<div class="dropdown-container dropdown-button-control topic-tools">
+		<span title="Herramientas de Tema" class="button button-secondary dropdown-trigger dropdown-select">
+			<i class="icon fa-wrench fa-fw" aria-hidden="true"></i>
+			<span class="caret"><i class="icon fa-sort-down fa-fw" aria-hidden="true"></i></span>
+		</span>
+		<div class="dropdown">
+			<div class="pointer"><div class="pointer-inner"></div></div>
+			<ul class="dropdown-contents">
+																												<li>
+					<a href="./viewtopic.php?t=17092&amp;hilit=felicidad&amp;sid=5f282818a5a1b5110926c4276a0bd05c&amp;view=print" title="Vista para imprimir" accesskey="p">
+						<i class="icon fa-print fa-fw" aria-hidden="true"></i><span>Vista para imprimir</span>
+					</a>
+				</li>
+											</ul>
+		</div>
+	</div>
+	
+			<div class="search-box" role="search">
+			<form method="get" id="topic-search" action="./search.php?sid=5f282818a5a1b5110926c4276a0bd05c">
+			<fieldset>
+				<input class="inputbox search tiny"  type="search" name="keywords" id="search_keywords" size="20" placeholder="Buscar este tema…" />
+				<button class="button button-search" type="submit" title="Buscar">
+					<i class="icon fa-search fa-fw" aria-hidden="true"></i><span class="sr-only">Buscar</span>
+				</button>
+				<a href="./search.php?sid=5f282818a5a1b5110926c4276a0bd05c" class="button button-search-end" title="Búsqueda avanzada">
+					<i class="icon fa-cog fa-fw" aria-hidden="true"></i><span class="sr-only">Búsqueda avanzada</span>
+				</a>
+				<input type="hidden" name="t" value="17092" />
+<input type="hidden" name="sf" value="msgonly" />
+<input type="hidden" name="sid" value="5f282818a5a1b5110926c4276a0bd05c" />
+
+			</fieldset>
+			</form>
+		</div>
+	
+			<div class="pagination">
+			3 mensajes
+							&bull; Página <strong>1</strong> de <strong>1</strong>
+					</div>
+		</div>
+
+
+
+
+			<div id="p343764" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile343764">
+			<dt class="no-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=1336&amp;sid=5f282818a5a1b5110926c4276a0bd05c" class="avatar"><img class="avatar" src="https://atalmastalseguntal.000webhostapp.com/myfiles/logica.png" width="140" height="80" alt="Avatar de Usuario" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=1336&amp;sid=5f282818a5a1b5110926c4276a0bd05c" class="username">eltelegramon</a>							</dt>
+
+									
+		<dd class="profile-posts"><strong>Mensajes:</strong> <a href="./search.php?author_id=1336&amp;sr=posts&amp;sid=5f282818a5a1b5110926c4276a0bd05c">1924</a></dd>		<dd class="profile-joined"><strong>Registrado:</strong> 07 Feb 2014, 15:59</dd>		
+		
+						
+						
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content343764">
+
+						<h3 class="first"><a href="./viewtopic.php?p=343764&amp;sid=5f282818a5a1b5110926c4276a0bd05c#p343764">¿Cómo es la lógica de los objetivos y las recompensas?</a></h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;p=343764&amp;sid=5f282818a5a1b5110926c4276a0bd05c" title="Responder citando" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citar</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="./viewtopic.php?p=343764&amp;sid=5f282818a5a1b5110926c4276a0bd05c#p343764" title="Mensaje">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Mensaje</span>
+					</a>
+								<span class="responsive-hide">por <strong><a href="./memberlist.php?mode=viewprofile&amp;u=1336&amp;sid=5f282818a5a1b5110926c4276a0bd05c" class="username">eltelegramon</a></strong> &raquo; </span><time datetime="2023-08-17T09:16:23+00:00">17 Ago 2023, 11:16</time>
+			</p>
+			
+			
+			
+			<div class="content">¿Cómo es la lógica de los objetivos y las recompensas?</div>
+
+			
+			
+									
+									<div id="sig343764" class="signature"><div style="margin:1rem"><div style="border-style:dotted;padding-left:1rem;border-width:1px;display:block" onclick="var elem = this.parentNode.getElementsByTagName('div')[1]; if (elem.style.display != '') {elem.style.display = ''; this.innerHTML = 'Spoiler: &lt;a href=\'#\' onClick=\'return false;\'&gt;hide&lt;/a&gt;'; } else { elem.style.display = 'none'; this.innerHTML = 'Spoiler: &lt;a href=\'#\' onClick=\'return false;\'&gt;show&lt;/a&gt;'; }">Spoiler: <a href="#" onclick="return false;">show</a></div><div style="border-style:dotted;padding:1rem;border-width:1px;display:none"><span style="color:#0000FF"><strong class="text-strong"><span style="font-size:150%;line-height:116%">ICONOS CARDINALES</span></strong></span></div></div></div>
+						</div>
+
+		</div>
+
+		</div>
+				<div class="back2top">
+						<a href="#top" class="top" title="Arriba">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Arriba</span>
+			</a>
+					</div>
+			</div>
+
+				<div id="p343778" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile343778">
+			<dt class="no-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=160&amp;sid=5f282818a5a1b5110926c4276a0bd05c" class="avatar"><img class="avatar" src="https://64.media.tumblr.com/829cb79473e21eed19986efa1a62083f/e3edb0f485721a3c-b0/s1280x1920/8606dde24edf06d371d5ee10203fd836e16b55ba.png" width="140" height="233" alt="Avatar de Usuario" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=160&amp;sid=5f282818a5a1b5110926c4276a0bd05c" class="username">Dr. Manhattan</a>							</dt>
+
+									
+		<dd class="profile-posts"><strong>Mensajes:</strong> <a href="./search.php?author_id=160&amp;sr=posts&amp;sid=5f282818a5a1b5110926c4276a0bd05c">314</a></dd>		<dd class="profile-joined"><strong>Registrado:</strong> 10 Abr 2011, 16:04</dd>		
+		
+											
+							<dd class="profile-contact">
+				<strong>Contactar:</strong>
+				<div class="dropdown-container dropdown-right dropdown-down">
+					<a href="#" class="dropdown-trigger" title="Contactar Dr. Manhattan">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contactar Dr. Manhattan</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="http://twitter.com/ksjetd" title="Sitio web" class="last-cell">
+										<span class="contact-icon phpbb_website-icon">Sitio web</span>
+									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content343778">
+
+						<h3 ><a href="./viewtopic.php?p=343778&amp;sid=5f282818a5a1b5110926c4276a0bd05c#p343778">Re: ¿Cómo es la lógica de los objetivos y las recompensas?</a></h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;p=343778&amp;sid=5f282818a5a1b5110926c4276a0bd05c" title="Responder citando" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citar</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="./viewtopic.php?p=343778&amp;sid=5f282818a5a1b5110926c4276a0bd05c#p343778" title="Mensaje">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Mensaje</span>
+					</a>
+								<span class="responsive-hide">por <strong><a href="./memberlist.php?mode=viewprofile&amp;u=160&amp;sid=5f282818a5a1b5110926c4276a0bd05c" class="username">Dr. Manhattan</a></strong> &raquo; </span><time datetime="2023-08-17T17:09:47+00:00">17 Ago 2023, 19:09</time>
+			</p>
+			
+			
+			
+			<div class="content">La lógica de los objetivos y las recompensas es fundamental en diversos contextos, como la psicología, la motivación, los videojuegos, la educación y la toma de decisiones. Se basa en el principio de que las personas (o sistemas) tienden a esforzarse para alcanzar metas específicas debido a la promesa de obtener recompensas que satisfagan sus necesidades, deseos o intereses. Aquí hay una descripción general de cómo funciona esta lógica:<ol style="list-style-type:decimal"><li><strong class="text-strong">Establecimiento de objetivos:</strong><ul><li>Los objetivos son metas específicas que una persona o entidad desea alcanzar.</li><li>Estos pueden variar desde objetivos a corto plazo, como completar una tarea en el trabajo, hasta objetivos a largo plazo, como tener éxito en una carrera profesional.</li><li>Establecer objetivos proporciona dirección y propósito, lo que puede aumentar la motivación y el enfoque.</li></ul></li><li><strong class="text-strong">Motivación:</strong><ul><li>Los objetivos actúan como incentivos para la acción.</li><li>Una vez que se establecen objetivos, las personas sienten una motivación intrínseca o extrínseca para trabajar hacia su logro.</li><li>La motivación intrínseca proviene de la satisfacción personal y la sensación de logro que se obtiene al alcanzar un objetivo.</li><li>La motivación extrínseca se deriva de recompensas tangibles o reconocimiento externo asociado con el logro del objetivo.</li></ul></li><li><strong class="text-strong">Acción y esfuerzo:</strong><ul><li>Para alcanzar un objetivo, las personas necesitan tomar medidas y hacer un esfuerzo consciente.</li><li>Este esfuerzo puede incluir la dedicación de tiempo, energía y recursos para superar obstáculos y desafíos en el camino hacia el logro del objetivo.</li></ul></li><li><strong class="text-strong">Recompensas:</strong><ul><li>Las recompensas son los resultados positivos que se obtienen al alcanzar un objetivo.</li><li>Estas pueden ser de naturaleza diversa, como recompensas materiales (dinero, regalos), recompensas emocionales (satisfacción, <span class="posthilit">felicidad</span>), recompensas sociales (reconocimiento, elogios) o recompensas personales (crecimiento personal, desarrollo de habilidades).</li></ul></li><li><strong class="text-strong">Refuerzo positivo:</strong><ul><li>Las recompensas actúan como refuerzos positivos que refuerzan el comportamiento que condujo al logro del objetivo.</li><li>Cuando las personas experimentan una recompensa satisfactoria después de alcanzar un objetivo, es más probable que asocien ese comportamiento con resultados positivos y estén motivadas para repetirlo en el futuro.</li></ul></li><li><strong class="text-strong">Ajuste y adaptación:</strong><ul><li>A medida que las personas experimentan la lógica de los objetivos y las recompensas, pueden ajustar y adaptar sus objetivos según sus necesidades cambiantes.</li><li>Si una estrategia particular no produce las recompensas deseadas, es posible que busquen nuevos enfoques y objetivos para obtener mejores resultados.</li></ul></li></ol>En resumen, la lógica de los objetivos y las recompensas se basa en la idea de que las personas están motivadas para alcanzar metas específicas debido a las recompensas positivas asociadas con el logro de esos objetivos. Esta lógica impulsa la acción, el esfuerzo y la toma de decisiones en una variedad de contextos.</div>
+
+			
+			
+									
+									<div id="sig343778" class="signature"><div style="margin:1rem"><div style="border-style:dotted;padding-left:1rem;border-width:1px;display:block" onclick="var elem = this.parentNode.getElementsByTagName('div')[1]; if (elem.style.display != '') {elem.style.display = ''; this.innerHTML = 'Spoiler: &lt;a href=\'#\' onClick=\'return false;\'&gt;hide&lt;/a&gt;'; } else { elem.style.display = 'none'; this.innerHTML = 'Spoiler: &lt;a href=\'#\' onClick=\'return false;\'&gt;show&lt;/a&gt;'; }">Spoiler: <a href="#" onclick="return false;">show</a></div><div style="border-style:dotted;padding:1rem;border-width:1px;display:none"><img src="https://i.pinimg.com/originals/42/f7/8a/42f78aa62d919c41354fa0c9785df2b0.jpg" class="postimage" alt="Imagen"></div></div>Es indicativo de una mente bien formada el ser capaz de analizar una idea sin aceptarla ni rechazarla.</div>
+						</div>
+
+		</div>
+
+		</div>
+				<div class="back2top">
+						<a href="#top" class="top" title="Arriba">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Arriba</span>
+			</a>
+					</div>
+			</div>
+
+				<div id="p343810" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile343810">
+			<dt class="no-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=261&amp;sid=5f282818a5a1b5110926c4276a0bd05c" class="avatar"><img class="avatar" src="https://i.im.ge/2022/09/26/1NXkqY.COTE7.png" width="140" height="140" alt="Avatar de Usuario" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=261&amp;sid=5f282818a5a1b5110926c4276a0bd05c" class="username">Tachikomaia</a>							</dt>
+
+									
+		<dd class="profile-posts"><strong>Mensajes:</strong> <a href="./search.php?author_id=261&amp;sr=posts&amp;sid=5f282818a5a1b5110926c4276a0bd05c">15819</a></dd>		<dd class="profile-joined"><strong>Registrado:</strong> 10 Ago 2011, 20:39</dd>		
+		
+											<dd class="profile-custom-field profile-persrank"><strong>Rango personalizado:</strong> 1st Year Class D</dd>
+							
+						
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content343810">
+
+						<h3 ><a href="./viewtopic.php?p=343810&amp;sid=5f282818a5a1b5110926c4276a0bd05c#p343810">Re: ¿Cómo es la lógica de los objetivos y las recompensas?</a></h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;p=343810&amp;sid=5f282818a5a1b5110926c4276a0bd05c" title="Responder citando" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citar</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="./viewtopic.php?p=343810&amp;sid=5f282818a5a1b5110926c4276a0bd05c#p343810" title="Mensaje">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Mensaje</span>
+					</a>
+								<span class="responsive-hide">por <strong><a href="./memberlist.php?mode=viewprofile&amp;u=261&amp;sid=5f282818a5a1b5110926c4276a0bd05c" class="username">Tachikomaia</a></strong> &raquo; </span><time datetime="2023-08-17T23:36:51+00:00">18 Ago 2023, 01:36</time>
+			</p>
+			
+			
+			
+			<div class="content">Pues yo había googleado:<br>
+"Lógica" "objetivos" "recompensas"<br>
+Y nada relevante apareció.<br>
+<br>
+También leí el artículo de Wikipedia sobre Lógica y la que dicen no aparece.<br>
+<br>
+Una lógica es un conjunto de reglas que se siguen para razonar, no veo relación entre eso y lo que están hablando.<br>
+<br>
+Tipos de lógica<br>
+<a href="https://medicoplus.com/ciencia/tipos-logica" class="postlink">https://medicoplus.com/ciencia/tipos-logica</a><br>
+<br>
+Parece que lo que el chat respondió fuese "¿cual es la relación entre los objetivos y las recompensas?", pregunta que para mí sí tiene sentido, pero la que se planteó aquí no, relación no es lo mismo que lógica.</div>
+
+			
+			
+									
+									<div id="sig343810" class="signature"><img src="https://i.ibb.co/HFbdbGP/Firma2.gif" class="postimage" alt="Imagen"></div>
+						</div>
+
+		</div>
+
+		</div>
+				<div class="back2top">
+						<a href="#top" class="top" title="Arriba">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Arriba</span>
+			</a>
+					</div>
+			</div>
+
+	
+
+	<div class="action-bar bar-bottom">
+	
+			<a href="./posting.php?mode=reply&amp;t=17092&amp;sid=5f282818a5a1b5110926c4276a0bd05c" class="button" title="Publicar una respuesta">
+							<span>Responder</span> <i class="icon fa-reply fa-fw" aria-hidden="true"></i>
+					</a>
+		
+		<div class="dropdown-container dropdown-button-control topic-tools">
+		<span title="Herramientas de Tema" class="button button-secondary dropdown-trigger dropdown-select">
+			<i class="icon fa-wrench fa-fw" aria-hidden="true"></i>
+			<span class="caret"><i class="icon fa-sort-down fa-fw" aria-hidden="true"></i></span>
+		</span>
+		<div class="dropdown">
+			<div class="pointer"><div class="pointer-inner"></div></div>
+			<ul class="dropdown-contents">
+																												<li>
+					<a href="./viewtopic.php?t=17092&amp;hilit=felicidad&amp;sid=5f282818a5a1b5110926c4276a0bd05c&amp;view=print" title="Vista para imprimir" accesskey="p">
+						<i class="icon fa-print fa-fw" aria-hidden="true"></i><span>Vista para imprimir</span>
+					</a>
+				</li>
+											</ul>
+		</div>
+	</div>
+
+			<form method="post" action="./viewtopic.php?t=17092&amp;sid=5f282818a5a1b5110926c4276a0bd05c">
+		<div class="dropdown-container dropdown-container-left dropdown-button-control sort-tools">
+	<span title="Opciones de ordenar y mostrar" class="button button-secondary dropdown-trigger dropdown-select">
+		<i class="icon fa-sort-amount-asc fa-fw" aria-hidden="true"></i>
+		<span class="caret"><i class="icon fa-sort-down fa-fw" aria-hidden="true"></i></span>
+	</span>
+	<div class="dropdown hidden">
+		<div class="pointer"><div class="pointer-inner"></div></div>
+		<div class="dropdown-contents">
+			<fieldset class="display-options">
+							<label>Mostrar: <select name="st" id="st"><option value="0" selected="selected">Todos los mensajes</option><option value="1">1 día</option><option value="7">7 días</option><option value="14">2 semanas</option><option value="30">1 mes</option><option value="90">3 meses</option><option value="180">6 meses</option><option value="365">1 año</option></select></label>
+								<label>Ordenar por: <select name="sk" id="sk"><option value="a">Autor</option><option value="t" selected="selected">Fecha publicación</option><option value="s">Asunto</option></select></label>
+				<label>Dirección: <select name="sd" id="sd"><option value="a" selected="selected">Ascendente</option><option value="d">Descendente</option></select></label>
+								<hr class="dashed" />
+				<input type="submit" class="button2" name="sort" value="Ir" />
+						</fieldset>
+		</div>
+	</div>
+</div>
+		</form>
+	
+	
+	
+			<div class="pagination">
+			3 mensajes
+							&bull; Página <strong>1</strong> de <strong>1</strong>
+					</div>
+	</div>
+
+
+<div class="action-bar actions-jump">
+		<p class="jumpbox-return">
+		<a href="./viewforum.php?f=54&amp;sid=5f282818a5a1b5110926c4276a0bd05c" class="left-box arrow-left" accesskey="r">
+			<i class="icon fa-angle-left fa-fw icon-black" aria-hidden="true"></i><span>Volver a  “Lógica y argumentación”</span>
+		</a>
+	</p>
+	
+		<div class="jumpbox dropdown-container dropdown-container-right dropdown-up dropdown-left dropdown-button-control" id="jumpbox">
+			<span title="Ir a" class="button button-secondary dropdown-trigger dropdown-select">
+				<span>Ir a</span>
+				<span class="caret"><i class="icon fa-sort-down fa-fw" aria-hidden="true"></i></span>
+			</span>
+		<div class="dropdown">
+			<div class="pointer"><div class="pointer-inner"></div></div>
+			<ul class="dropdown-contents">
+																				<li><a href="./viewforum.php?f=7&amp;sid=5f282818a5a1b5110926c4276a0bd05c" class="jumpbox-cat-link"> <span> SofosAgora 1.0</span></a></li>
+																<li><a href="./viewforum.php?f=9&amp;sid=5f282818a5a1b5110926c4276a0bd05c" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Meta</span></a></li>
+																<li><a href="./viewforum.php?f=12&amp;sid=5f282818a5a1b5110926c4276a0bd05c" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Filosofía general</span></a></li>
+																<li><a href="./viewforum.php?f=57&amp;sid=5f282818a5a1b5110926c4276a0bd05c" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Filosofía del lenguaje</span></a></li>
+																<li><a href="./viewforum.php?f=27&amp;sid=5f282818a5a1b5110926c4276a0bd05c" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Filosofía de la mente</span></a></li>
+																<li><a href="./viewforum.php?f=19&amp;sid=5f282818a5a1b5110926c4276a0bd05c" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Historia de la filosofía y autores</span></a></li>
+																<li><a href="./viewforum.php?f=13&amp;sid=5f282818a5a1b5110926c4276a0bd05c" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Metafísica</span></a></li>
+																<li><a href="./viewforum.php?f=14&amp;sid=5f282818a5a1b5110926c4276a0bd05c" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Epistemología</span></a></li>
+																<li><a href="./viewforum.php?f=54&amp;sid=5f282818a5a1b5110926c4276a0bd05c" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Lógica y argumentación</span></a></li>
+																<li><a href="./viewforum.php?f=20&amp;sid=5f282818a5a1b5110926c4276a0bd05c" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Ciencia general</span></a></li>
+																<li><a href="./viewforum.php?f=62&amp;sid=5f282818a5a1b5110926c4276a0bd05c" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Club regulado</span></a></li>
+																<li><a href="./viewforum.php?f=15&amp;sid=5f282818a5a1b5110926c4276a0bd05c" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Ética</span></a></li>
+																<li><a href="./viewforum.php?f=16&amp;sid=5f282818a5a1b5110926c4276a0bd05c" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Estética</span></a></li>
+																<li><a href="./viewforum.php?f=18&amp;sid=5f282818a5a1b5110926c4276a0bd05c" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Política</span></a></li>
+											</ul>
+		</div>
+	</div>
+
+	</div>
+
+
+			</div>
+
+
+	<div class="navbar" role="navigation">
+	<div class="inner">
+
+	<ul id="nav-footer" class="nav-footer linklist" role="menubar">
+		<li class="breadcrumbs">
+									<span class="crumb"><a href="./index.php?sid=5f282818a5a1b5110926c4276a0bd05c" data-navbar-reference="index"><i class="icon fa-home fa-fw" aria-hidden="true"></i><span>Índice general</span></a></span>					</li>
+		
+				<li class="rightside">Todos los horarios son <span title="UTC+2">UTC+02:00</span></li>
+							<li class="rightside">
+				<a href="./ucp.php?mode=delete_cookies&amp;sid=5f282818a5a1b5110926c4276a0bd05c" data-ajax="true" data-refresh="true" role="menuitem">
+					<i class="icon fa-trash fa-fw" aria-hidden="true"></i><span>Borrar cookies</span>
+				</a>
+			</li>
+																<li class="rightside" data-last-responsive="true">
+				<a href="./memberlist.php?mode=contactadmin&amp;sid=5f282818a5a1b5110926c4276a0bd05c" role="menuitem">
+					<i class="icon fa-envelope fa-fw" aria-hidden="true"></i><span>Contáctenos</span>
+				</a>
+			</li>
+			</ul>
+
+	</div>
+</div>
+</div>
+
+<div id="page-footer" class="page-width" role="contentinfo">
+	
+	<div class="copyright">
+				<p class="footer-row">
+			<span class="footer-copyright">Desarrollado por <a href="https://www.phpbb.com/">phpBB</a>&reg; Forum Software &copy; phpBB Limited</span>
+		</p>
+		<p class="footer-row">
+			<span class="footer-copyright">Style por <a href="https://www.artodia.com/">Arty</a> - phpBB 3.3 por MrGaby</span>
+		</p>
+				<p class="footer-row">
+			<span class="footer-copyright">Traducción al español por <a href="https://www.phpbb-es.com/">phpBB España</a></span>
+		</p>
+						<p class="footer-row" role="menu">
+			<a class="footer-link" href="./ucp.php?mode=privacy&amp;sid=5f282818a5a1b5110926c4276a0bd05c" title="Privacidad" role="menuitem">
+				<span class="footer-link-text">Privacidad</span>
+			</a>
+			|
+			<a class="footer-link" href="./ucp.php?mode=terms&amp;sid=5f282818a5a1b5110926c4276a0bd05c" title="Condiciones" role="menuitem">
+				<span class="footer-link-text">Condiciones</span>
+			</a>
+		</p>
+					</div>
+
+	<div id="darkenwrapper" class="darkenwrapper" data-ajax-error-title="Error AJAX" data-ajax-error-text="Algo salió mal al procesar su solicitud." data-ajax-error-text-abort="Solicitud abortada por el usuario." data-ajax-error-text-timeout="Su solicitud ha agotado el tiempo, por favor, inténtelo de nuevo." data-ajax-error-text-parsererror="Algo salió mal con la solicitud y el servidor devuelve una respuesta no válida.">
+		<div id="darken" class="darken">&nbsp;</div>
+	</div>
+
+	<div id="phpbb_alert" class="phpbb_alert" data-l-err="Error" data-l-timeout-processing-req="Tiempo de espera agotado.">
+		<a href="#" class="alert_close">
+		</a>
+		<h3 class="alert_title">&nbsp;</h3><p class="alert_text"></p>
+	</div>
+	<div id="phpbb_confirm" class="phpbb_alert">
+		<a href="#" class="alert_close">
+		</a>
+		<div class="alert_text"></div>
+	</div>
+</div>
+
+
+<div>
+	<a id="bottom" class="top-anchor" accesskey="z"></a>
+	</div>
+
+<script src="./assets/javascript/jquery-3.6.0.min.js?assets_version=13"></script>
+<script src="./assets/javascript/core.js?assets_version=13"></script>
+
+
+
+<script src="./styles/simplicity/template/forum_fn.js?assets_version=13"></script>
+<script src="./styles/simplicity/template/ajax.js?assets_version=13"></script>
+
+
+
+</body>
+</html>
