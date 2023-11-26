@@ -1,56 +1,56 @@
-   #[1]alternate [2]alternate [3]Ética | Canal RSS de la Actividad de la
-   comunidad [4]Ética | Relaciones interpersonales | Canal RSS de la
-   Actividad del Grupo
+   #alternate alternate Ética | Canal RSS de la Actividad de la comunidad
+   Ética | Relaciones interpersonales | Canal RSS de la Actividad del
+   Grupo
 
    (BUTTON) Menú de Navegación
-     * [5]Reglamento
-     * [6]Preguntas frecuentes
-     * [7]Herramientas
-     * [8]Aviso de privacidad
+     * Reglamento
+     * Preguntas frecuentes
+     * Herramientas
+     * Aviso de privacidad
 
-     * [9]Inicio
-     * [10]Comunidad
-          + [11]Actividad global
-          + [12]Miembros
-     * [13]Ámbitos de Acción
-     * [14]Clases
-     * [15]Materiales
-          + [16]Materiales 1
-          + [17]Materiales 2
-          + [18]Materiales 3
-          + [19]Audios
-     * [20]Vocabulario
+     * Inicio
+     * Comunidad
+          + Actividad global
+          + Miembros
+     * Ámbitos de Acción
+     * Clases
+     * Materiales
+          + Materiales 1
+          + Materiales 2
+          + Materiales 3
+          + Audios
+     * Vocabulario
 
-     * [21]Registrarse
-     * [22]Acceder
+     * Registrarse
+     * Acceder
        Nombre de usuario o dirección de correo electrónico
        ____________________
        Contraseña ____________________
        Acceder
 
-   [23]Secretaría de Educación Pública
+   Secretaría de Educación Pública
 
-     * [24]Inicio
-     * [25]Comunidad
-          + [26]Actividad global
-          + [27]Miembros
-     * [28]Ámbitos de Acción
-     * [29]Clases
-     * [30]Materiales
-          + [31]Materiales 1
-          + [32]Materiales 2
-          + [33]Materiales 3
-          + [34]Audios
-     * [35]Vocabulario
+     * Inicio
+     * Comunidad
+          + Actividad global
+          + Miembros
+     * Ámbitos de Acción
+     * Clases
+     * Materiales
+          + Materiales 1
+          + Materiales 2
+          + Materiales 3
+          + Audios
+     * Vocabulario
 
-[36]Ética
+Ética
 
-    1. [37]Inicio
+    1. Inicio
     2. Relaciones interpersonales
 
 Relaciones interpersonales
 
-   [38]Logo del grupo Relaciones interpersonales
+   Logo del grupo Relaciones interpersonales
    Grupo público activo hace 3 años, 2 meses
 
    El ejercicio de la libertad frente al respeto a los demás en las
@@ -58,31 +58,31 @@ Relaciones interpersonales
 
 Administradores de grupo
 
-     * [39]Foto del perfil de José Francisco Barrón Tovar
+     * Foto del perfil de José Francisco Barrón Tovar
 
 Moderadores del Grupo
 
-     * [40]Foto del perfil de Uriel hernández
+     * Foto del perfil de Uriel hernández
 
-     * [41]Inicio
-     * [42]Foro
-     * [43]Miembros 430
-     * [44]Multimedia 38
+     * Inicio
+     * Foro
+     * Miembros 430
+     * Multimedia 38
 
 ¿La felicidad está en uno mismo?
 
-   Etiquetado: [45]https://www.youtube.com/watch?v=looUBhyZtOs
+   Etiquetado: https://www.youtube.com/watch?v=looUBhyZtOs
 
    Este debate contiene 21 respuestas, tiene 7 mensajes y lo actualizó
-   [46]Imagen de perfil de Sebastián Lomelí  [47]sebastianlomeli [48]hace
-   7 años, 6 meses.
+   Imagen de perfil de Sebastián Lomelí  sebastianlomeli hace 7 años, 6
+   meses.
    Viendo 15 publicaciones - del 1 al 15 (de un total de 22)
-   1 [49]2 [50]→
+   1 2 →
      * Autor
        Publicaciones
-     * 2 Septiembre, 2015 a las 10:11 am [51]#1913
-       [52]Imagen de perfil de Sebastián Lomelí
-       [53]sebastianlomeli
+     * 2 Septiembre, 2015 a las 10:11 am #1913
+       Imagen de perfil de Sebastián Lomelí
+       sebastianlomeli
        Participante
        Una de las cuestiones más viejas en filosofía es por la felicidad:
        ¿qué necesitamos para ser felices?, ¿amigos?, ¿buena suerte?,
@@ -92,11 +92,11 @@ Moderadores del Grupo
        esperar que las cosas mejoren, en no temer a la muerte.
        Quisiera preguntarles si creen que es posible ser felices, y qué
        necesitamos para llegar a serlo.
-       2 Septiembre, 2015 a las 10:25 am [54]#1915
-       [55]Imagen de perfil de Mauricio Sosa Santibáñez
-       [56]lecontrefacteur
+       2 Septiembre, 2015 a las 10:25 am #1915
+       Imagen de perfil de Mauricio Sosa Santibáñez
+       lecontrefacteur
        Participante
-       Hola [57]@sebastianlomeli, vaya con qué pregunta nos recibes jeje
+       Hola @sebastianlomeli, vaya con qué pregunta nos recibes jeje
        Creo que en la actualidad la búsqueda de la felicidad tiene una
        gran importancia en la vida de muchas personas, incluso hay una
        industria que se dedica ello pero la filosofía la ha dejado un poco
@@ -105,8 +105,8 @@ Moderadores del Grupo
        Actualmente sólo tengo noticias del filósofo francés André
        Comte-sponville que trata el tema y buscando un poco me encontré
        esta entrevista:
-       [58]http://www.huffingtonpost.es/2012/11/23/andre-compte-sponville-
-       _n_2176897.html
+       http://www.huffingtonpost.es/2012/11/23/andre-compte-sponville-_n_2
+       176897.html
        No se, pienso que podríamos retomar algunos textos clásicos al
        respecto pero yo diría que la felicidad proviene de una cierta
        aceptación de las circunstancias en las que se vive. Esto es
@@ -125,25 +125,24 @@ Moderadores del Grupo
        sobre la persona.”
        Tal vez esta paradoja nos de un panorama actual mas claro.
        ¿qué opinan ustedes?
-       [59]@yierva [60]@malinalli [61]@yeyetzicardiel
-       [62]@paolarochonherrera [63]@jignacioibarra [64]@pedrocrdz
-       [65]@romansuarez
-       [66]@geraxastello [67]@zaidp [68]@lugones [69]@antoniocota
-       3 Septiembre, 2015 a las 7:57 am [70]#1926
-       [71]Imagen de perfil de Sebastián Lomelí
-       [72]sebastianlomeli
+       @yierva @malinalli @yeyetzicardiel @paolarochonherrera
+       @jignacioibarra @pedrocrdz @romansuarez
+       @geraxastello @zaidp @lugones @antoniocota
+       3 Septiembre, 2015 a las 7:57 am #1926
+       Imagen de perfil de Sebastián Lomelí
+       sebastianlomeli
        Participante
-       [73]@lecontrefacteur,gracias por el texto. En efecto la ética
-       enfocada a la felicidad o eudaimonía es un tema de filosofía
-       clásica, pero lo elegí porque me parece que ahora la pregunta por
-       la felicidad está estancada en el problema de la riqueza y las
-       mercancías. Por ejemplo, en la tentrevista, resulta interesante que
-       en estos tiempos de clara injusticia social se afirme que no se
-       puede ser feliz sin dinero. Por otro lado, y como bien lo dices, la
-       industria del entretenimiento ha logrado amasar una gran fortuna al
-       vender diversión. Pero es muy probable que ninguno de nosotros
-       confundiría la alegría que produce un buen programa de televisión
-       con la felicidad. Finalmente, quisiera recordar aquí las ideas de
+       @lecontrefacteur,gracias por el texto. En efecto la ética enfocada
+       a la felicidad o eudaimonía es un tema de filosofía clásica, pero
+       lo elegí porque me parece que ahora la pregunta por la felicidad
+       está estancada en el problema de la riqueza y las mercancías. Por
+       ejemplo, en la tentrevista, resulta interesante que en estos
+       tiempos de clara injusticia social se afirme que no se puede ser
+       feliz sin dinero. Por otro lado, y como bien lo dices, la industria
+       del entretenimiento ha logrado amasar una gran fortuna al vender
+       diversión. Pero es muy probable que ninguno de nosotros confundiría
+       la alegría que produce un buen programa de televisión con la
+       felicidad. Finalmente, quisiera recordar aquí las ideas de
        Aristóteles sobre la amistad. El filósofo de Estagira le dedica dos
        libros de su Ética Nicomáquea al tema de la felicidad, y concluye
        que sin amigos (aunque se tuviesen los demás bienes) nadie querría
@@ -153,12 +152,11 @@ Moderadores del Grupo
        apoyo y cariño.
        Les dejo el link para descargar los libros VIII y IX de Ética
        Nicomáquea
-       [74]https://www.dropbox.com/s/ye7nhau2bpqj2yr/Arist%C3%B3teles%2C%2
-       0%C3%89tica%20Nicom%C3%A1quea%2C%20VIII%20y%20IX%2C%20amistad.pdf?d
-       l=0
-       3 Septiembre, 2015 a las 3:02 pm [75]#1942
-       [76]Imagen de perfil de ASTARTEMIRTALA
-       [77]ASTARTEMIRTALA
+       https://www.dropbox.com/s/ye7nhau2bpqj2yr/Arist%C3%B3teles%2C%20%C3
+       %89tica%20Nicom%C3%A1quea%2C%20VIII%20y%20IX%2C%20amistad.pdf?dl=0
+       3 Septiembre, 2015 a las 3:02 pm #1942
+       Imagen de perfil de ASTARTEMIRTALA
+       ASTARTEMIRTALA
        Participante
        Creo que si, la felicidad no puede estar fuera de nosotros, para
        ello debemos partir de conocernos, identificar nuestras creencias,
@@ -169,9 +167,9 @@ Moderadores del Grupo
        felicidad ya que el sentimiento quedara sujeto a lo externo. Sin
        embargo no debe convertirse en un sentimiento egoista pues lo que y
        quien existe alrededor mío son importantes, mas no determinantes.
-       4 Septiembre, 2015 a las 8:26 am [78]#1953
-       [79]Imagen de perfil de Román Suárez
-       [80]RomanSuarez
+       4 Septiembre, 2015 a las 8:26 am #1953
+       Imagen de perfil de Román Suárez
+       RomanSuarez
        Participante
        Me resulta interesante el tema de la felicidad porque es un ejemplo
        claro de cómo ciertas ideas que han adquirido carta de
@@ -196,12 +194,12 @@ Moderadores del Grupo
        proyecto de vida de la felicidad, eso nos daría la pauta para saber
        que la felicidad no es la única forma de llevar una vida.
        Saludos y gracias por la invitación!
-       5 Septiembre, 2015 a las 1:24 am [81]#1982
-       [82]Imagen de perfil de Sebastián Lomelí
-       [83]sebastianlomeli
+       5 Septiembre, 2015 a las 1:24 am #1982
+       Imagen de perfil de Sebastián Lomelí
+       sebastianlomeli
        Participante
-       [84]@astartemirtala dices cosas muy interesantes. Pero me pregunto
-       si acaso es posible conocerse correctamente si, como dices, sólo
+       @astartemirtala dices cosas muy interesantes. Pero me pregunto si
+       acaso es posible conocerse correctamente si, como dices, sólo
        pensamos en nuestra unicidad frente al universo. ¿No crees que esta
        diferencia sea muy poco detallada? Por el contrario, la interacción
        intensa con las personas nos permite conocer detalles inesperados
@@ -216,43 +214,43 @@ Moderadores del Grupo
        didáctica para discutir la cuestión con los estudiantes.
        Filosofía para profanos en el programa Para todos la 2, por Maite
        Larrauri.
-       [85]http://www.rtve.es/alacarta/videos/para-todos-la-2/para-todos-2
-       -filosofia-para-profanos-estoicamente/3143838/
-       5 Septiembre, 2015 a las 10:18 am [86]#1983
-       [87]Imagen de perfil de Mauricio Sosa Santibáñez
-       [88]lecontrefacteur
+       http://www.rtve.es/alacarta/videos/para-todos-la-2/para-todos-2-fil
+       osofia-para-profanos-estoicamente/3143838/
+       5 Septiembre, 2015 a las 10:18 am #1983
+       Imagen de perfil de Mauricio Sosa Santibáñez
+       lecontrefacteur
        Participante
-       [89]@sebastianlomeli coincido en mucho de lo que dices, lo
-       problemático que resulta sostener que no se puede ser feliz sin
-       dinero; en particular en nuestro contexto y creo que esta es la
-       contradicción que da origen a la industria de la felicidad (libros
-       de autoayuda, coaching, etc.)
+       @sebastianlomeli coincido en mucho de lo que dices, lo problemático
+       que resulta sostener que no se puede ser feliz sin dinero; en
+       particular en nuestro contexto y creo que esta es la contradicción
+       que da origen a la industria de la felicidad (libros de autoayuda,
+       coaching, etc.)
        Por cierto, ¡gracias por la cápsula y el texto de Aristóteles!
-       [90]@astartemirtala [91]@sebastianlomeli a mi me llama mucho la
-       atención el “cónocete a ti mismo”, me parece la base de un ethos y
-       de una episteme; pero no había considerad que fuera el origen de la
+       @astartemirtala @sebastianlomeli a mi me llama mucho la atención el
+       “cónocete a ti mismo”, me parece la base de un ethos y de una
+       episteme; pero no había considerad que fuera el origen de la
        felicidad. En parte porque el conocimiento no garantiza la
        felicidad (incluso algunos pensadores sostendrían lo contrario me
        parece) aunque debería facilitarla en la medida que no nos permita
        vivir en el engaño.
-       [92]@romansuarez cuando hablas de que pocos aceptan otros
-       horizontes mas allá de la felicidad me recordó posturas como el
-       estoicismo y el budismo que anteponen una cierta paz interior más
-       allá de la alegría; que consideran efímera y problemática. Creo que
-       habría que reconsiderar el lugar que tiene la felicidad en nuestro
-       proceso formativo como bien señalas, de entrada para ser mas
-       congruentes al respecto.
+       @romansuarez cuando hablas de que pocos aceptan otros horizontes
+       mas allá de la felicidad me recordó posturas como el estoicismo y
+       el budismo que anteponen una cierta paz interior más allá de la
+       alegría; que consideran efímera y problemática. Creo que habría que
+       reconsiderar el lugar que tiene la felicidad en nuestro proceso
+       formativo como bien señalas, de entrada para ser mas congruentes al
+       respecto.
        ¡saludos a los tres y gracias por la discusión!
-       5 Septiembre, 2015 a las 1:57 pm [93]#1986
-       [94]Imagen de perfil de Sebastián Lomelí
-       [95]sebastianlomeli
+       5 Septiembre, 2015 a las 1:57 pm #1986
+       Imagen de perfil de Sebastián Lomelí
+       sebastianlomeli
        Participante
-       [96]@romansuarez me parece muy atinado tu comentario. No sólo
-       propones analizar la felicidad desde el tema de la ética, sino
-       sociológica y críticamente. Concuerdo con tu enfoque. La ética no
-       debería ser pensada como un ámbito meramente personal. Nuestros
-       valores y deseos surgen, en gran medida, del ámbito social. Además,
-       al reconocer esta implicación entre sociedad y ética, tenemos la
+       @romansuarez me parece muy atinado tu comentario. No sólo propones
+       analizar la felicidad desde el tema de la ética, sino sociológica y
+       críticamente. Concuerdo con tu enfoque. La ética no debería ser
+       pensada como un ámbito meramente personal. Nuestros valores y
+       deseos surgen, en gran medida, del ámbito social. Además, al
+       reconocer esta implicación entre sociedad y ética, tenemos la
        posibilidad de analizar en qué sentido nuestros valores colaboran o
        se deben a las estructuras económicas y las relaciones de poder.
        Así, las razones de la felicidad ya no son sólo una cuestión del
@@ -264,8 +262,8 @@ Moderadores del Grupo
        criticado todo el tiempo. Sobre todo debido a la lectura de la
        felicidad como estado de “bienaventuranza”. Muy cercano a la
        santidad, pero no necesariamente identificable. Pero ahora como
-       recuerdan [97]@lecontrefacteur y tú, la felicidad también se
-       entiende como el “resultado” o cualidad de una vida de consumo y
+       recuerdan @lecontrefacteur y tú, la felicidad también se entiende
+       como el “resultado” o cualidad de una vida de consumo y
        “tranquilidad” económica. Sin embargo, ni el consumo se detiene con
        la satisfacción (¿felicidad?), ni es posible establecer un límite
        económico (¿con cuánto dinero se alcanza la felicidad?). Así, si
@@ -273,14 +271,14 @@ Moderadores del Grupo
        espera conseguirla es imposible. Esta contradicción ha sido
        analizada recientemente por el filósofo coreano Byung-Chul Han.
        Acá des dejo una reseña de su libro en video
-       [98]https://www.youtube.com/watch?v=9A-bBSucLi0
+       https://www.youtube.com/watch?v=9A-bBSucLi0
        Y un fragmento del libro La sociedad del cansancio de Byun-Chul Han
        publicado en español por la editorial Herder.
-       [99]https://www.dropbox.com/s/z5z2anssh6gqgg1/Byung%20Chul%20Han%20
-       La%20sociedad%20del%20cansancio%20pp%2045-51.pdf?dl=0
-       7 Septiembre, 2015 a las 6:51 pm [100]#2003
-       [101]Imagen de perfil de Adriana Yeyetzi Cardiel Pérez
-       [102]YeyetziCardiel
+       https://www.dropbox.com/s/z5z2anssh6gqgg1/Byung%20Chul%20Han%20La%2
+       0sociedad%20del%20cansancio%20pp%2045-51.pdf?dl=0
+       7 Septiembre, 2015 a las 6:51 pm #2003
+       Imagen de perfil de Adriana Yeyetzi Cardiel Pérez
+       YeyetziCardiel
        Participante
        Este debate es sumamente interesante. Pienso que además de la
        problemática que señalan sobre la relación entre la felicidad y el
@@ -292,19 +290,17 @@ Moderadores del Grupo
        dado sobre la felicidad. Tal vez podría servir de material
        didáctico. Espero lo disfruten. ¡Saludos!
 
-       IFRAME:
-       [103]https://www.youtube.com/embed/0EMdyd5JTwQ?feature=oembed
+       IFRAME: https://www.youtube.com/embed/0EMdyd5JTwQ?feature=oembed
 
-       IFRAME:
-       [104]https://www.youtube.com/embed/LRpQG4fPSeo?feature=oembed
+       IFRAME: https://www.youtube.com/embed/LRpQG4fPSeo?feature=oembed
 
-       8 Septiembre, 2015 a las 9:42 am [105]#2006
-       [106]Imagen de perfil de Sebastián Lomelí
-       [107]sebastianlomeli
+       8 Septiembre, 2015 a las 9:42 am #2006
+       Imagen de perfil de Sebastián Lomelí
+       sebastianlomeli
        Participante
-       Muchas gracias a [108]@yeyetzicardiel por los videos, son de gran
-       ayuda, y están muy bien hechos. Acá estructuro algunos de los
-       puntos tratados por el programa:
+       Muchas gracias a @yeyetzicardiel por los videos, son de gran ayuda,
+       y están muy bien hechos. Acá estructuro algunos de los puntos
+       tratados por el programa:
        Preguntas acerca de la felicidad:
        1- ¿Es un estado alcanzable o una búsqueda constante?
        2- ¿La felicidad se asocia al consumo (propiedades materiales)? De
@@ -340,37 +336,37 @@ Moderadores del Grupo
        últimas. Por eso es que Camus propuso el mito de Sísifo para pensar
        la condición humana.
        Aquí podrán encontrar el libro de Camus:
-       [109]http://www.correocpc.cl/sitio/doc/el_mito_de_sisifo.pdf
-          + Esta respuesta fue modificada hace 8 años, 2 meses por
-            [110]Imagen de perfil de Sebastián Lomelí  .
-       8 Septiembre, 2015 a las 1:00 pm [111]#2013
-       [112]Imagen de perfil de Adriana Yeyetzi Cardiel Pérez
-       [113]YeyetziCardiel
+       http://www.correocpc.cl/sitio/doc/el_mito_de_sisifo.pdf
+          + Esta respuesta fue modificada hace 8 años, 2 meses por Imagen
+            de perfil de Sebastián Lomelí  .
+       8 Septiembre, 2015 a las 1:00 pm #2013
+       Imagen de perfil de Adriana Yeyetzi Cardiel Pérez
+       YeyetziCardiel
        Participante
-       Gracias [114]@sebastianlomeli, por organizar y estructurar las
-       preguntas y posturas expuestas en el programa, creo que permiten
-       continuar el debate. Aunada a la lectura de Camus que propones,
-       estas preguntas me hace pensar también que, si la condición humana
-       es la finitud y la búsqueda interminable que no tiene respuesta,
-       así como una existencia sin finalidad preestablecida
-       ontológicamente garantizada, entonces nos topamos también con la
-       necesidad de darle un sentido a la existencia por más que éste sea
-       provisional, así como con la libertad. ¿Qué relación hay entre la
-       felicidad y la libertad? ¿Cualquier sentido que se de a la
-       existencia humana es válido desde una perspectiva ética? ¡Saludos!
-       9 Septiembre, 2015 a las 9:51 am [115]#2025
-       [116]Imagen de perfil de Sebastián Lomelí
-       [117]sebastianlomeli
+       Gracias @sebastianlomeli, por organizar y estructurar las preguntas
+       y posturas expuestas en el programa, creo que permiten continuar el
+       debate. Aunada a la lectura de Camus que propones, estas preguntas
+       me hace pensar también que, si la condición humana es la finitud y
+       la búsqueda interminable que no tiene respuesta, así como una
+       existencia sin finalidad preestablecida ontológicamente
+       garantizada, entonces nos topamos también con la necesidad de darle
+       un sentido a la existencia por más que éste sea provisional, así
+       como con la libertad. ¿Qué relación hay entre la felicidad y la
+       libertad? ¿Cualquier sentido que se de a la existencia humana es
+       válido desde una perspectiva ética? ¡Saludos!
+       9 Septiembre, 2015 a las 9:51 am #2025
+       Imagen de perfil de Sebastián Lomelí
+       sebastianlomeli
        Participante
        @yeyetzicardie, ¡qué preguntas haces! En principio sólo tengo una
        respuesta…
-       [118]http://mla-s2-p.mlstatic.com/revista-condorito-coleccion-lote-
-       x-3-especiales-humor-plop-4017-MLA126463147_6312-O.jpg
-          + Esta respuesta fue modificada hace 8 años, 2 meses por
-            [119]Imagen de perfil de Sebastián Lomelí  .
-       9 Septiembre, 2015 a las 11:05 am [120]#2028
-       [121]Imagen de perfil de Sebastián Lomelí
-       [122]sebastianlomeli
+       http://mla-s2-p.mlstatic.com/revista-condorito-coleccion-lote-x-3-e
+       speciales-humor-plop-4017-MLA126463147_6312-O.jpg
+          + Esta respuesta fue modificada hace 8 años, 2 meses por Imagen
+            de perfil de Sebastián Lomelí  .
+       9 Septiembre, 2015 a las 11:05 am #2028
+       Imagen de perfil de Sebastián Lomelí
+       sebastianlomeli
        Participante
        Intentemos pensar lo que nos preguntas desde los elementos que
        hemos acumulado en el foro. En principio diría que si no somos
@@ -382,9 +378,9 @@ Moderadores del Grupo
        fortuna puede traernos alegría, sólo podemos aspirar a una
        bienaventuranza si logramos separarnos de lo que nos ha llegado por
        suerte, y en cambio nos cultivamos a nosotros mismos.
-       Pero sospecho que [123]@yeyetzicardiel se trae algo entre manos. Y
-       la cuestión sobre la libertad aquí no se refiere a si somos libres
-       o no. Creo que se pregunta si podemos ser libres. Me explico: no es
+       Pero sospecho que @yeyetzicardiel se trae algo entre manos. Y la
+       cuestión sobre la libertad aquí no se refiere a si somos libres o
+       no. Creo que se pregunta si podemos ser libres. Me explico: no es
        lo mismo decir que el ser humano no es libre (está determinado por
        los apetitos, las circunstancias o los genes), a que no seamos
        libres porque vivamos en sociedades enajenadas, atrapadas en el
@@ -413,11 +409,11 @@ Moderadores del Grupo
        censura, debe haber diálogo y discusión. Huir a la confrontación
        nunca ha sido la mejor manera de probar las razones que nos
        respaldan.
-       9 Septiembre, 2015 a las 7:24 pm [124]#2046
-       [125]Imagen de perfil de Adriana Yeyetzi Cardiel Pérez
-       [126]YeyetziCardiel
+       9 Septiembre, 2015 a las 7:24 pm #2046
+       Imagen de perfil de Adriana Yeyetzi Cardiel Pérez
+       YeyetziCardiel
        Participante
-       Jajajaja, qué imagen tan graciosa subiste, [127]@sebastianlomeli.
+       Jajajaja, qué imagen tan graciosa subiste, @sebastianlomeli.
        Gracias por tu amplia respuesta y reflexión. Me parece que das en
        el clavo cuando mencionas la distinción entre lo que nos ha llegado
        por azar y el cultivarnos a nosotros mismos, así como la libertad
@@ -440,9 +436,9 @@ Moderadores del Grupo
        dolor del otro como piedra de toque para los sentidos de la
        felicidad que pudiesen darse; lo pienso sobre todo por los ejemplos
        que propones, como el totalitarismo. ¡Saludos a tod@s!
-       17 Septiembre, 2015 a las 8:30 pm [128]#2173
-       [129]Imagen de perfil de Karla Alday
-       [130]karlaalday
+       17 Septiembre, 2015 a las 8:30 pm #2173
+       Imagen de perfil de Karla Alday
+       karlaalday
        Participante
        Hola, chicos, a propósito de este tema quisiera compartir la charla
        que dio el filósofo Óscar de la Borbolla en la cafebrería el
@@ -452,14 +448,13 @@ Moderadores del Grupo
        algunas situaciones que nos ponen a pensar su realmente ¿la
        felicidad está en uno mismo?
 
-       IFRAME:
-       [131]https://www.youtube.com/embed/4GqhTbREy3Q?feature=oembed
+       IFRAME: https://www.youtube.com/embed/4GqhTbREy3Q?feature=oembed
 
      * Autor
        Publicaciones
 
    Viendo 15 publicaciones - del 1 al 15 (de un total de 22)
-   1 [132]2 [133]→
+   1 2 →
 
    Debes estar registrado para responder a este debate.
    Buscar: ____________________ Buscar
@@ -470,223 +465,49 @@ Quién está en línea
 
 Textos
 
-     * [134]Bordando la vida
-     * [135]La voluntad de ser libres
-     * [136]Ser humano y hacerse humano en un mundo de relaciones
+     * Bordando la vida
+     * La voluntad de ser libres
+     * Ser humano y hacerse humano en un mundo de relaciones
        interpersonales
-     * [137]Dos dilemas
-     * [138]¿Cumplir con el deber o alcanzar la felicidad?
-     * [139]No quiero avisarle a nadie…
+     * Dos dilemas
+     * ¿Cumplir con el deber o alcanzar la felicidad?
+     * No quiero avisarle a nadie…
 
 Planes
 
-     * [140]Bordando la vida
-     * [141]La voluntad de ser libres
-     * [142]Ser humano y hacerse humano en un mundo de relaciones
+     * Bordando la vida
+     * La voluntad de ser libres
+     * Ser humano y hacerse humano en un mundo de relaciones
        interpersonales
-     * [143]No quiero avisarle a nadie…
+     * No quiero avisarle a nadie…
 
 Ejercicios
 
-     * [144]Bordando la vida
-     * [145]Ejercicios relacionados con algunos conceptos que aborda la
-       lectura “Bordando la vida”
-     * [146]La voluntad de ser libres
-     * [147]Ser humano y hacerse humano en un mundo de relaciones
+     * Bordando la vida
+     * Ejercicios relacionados con algunos conceptos que aborda la lectura
+       “Bordando la vida”
+     * La voluntad de ser libres
+     * Ser humano y hacerse humano en un mundo de relaciones
        interpersonales
-     * [148]No quiero avisarle a nadie…
+     * No quiero avisarle a nadie…
 
 Debates recientes del ámbito
 
-     * [149]Ejercicio con "La Zarpa" de José Emilio Pacheco por
-       [150]Imagen de perfil de Karla Alday  [151]karlaalday
+     * Ejercicio con "La Zarpa" de José Emilio Pacheco por Imagen de
+       perfil de Karla Alday  karlaalday
        hace 4 años, 11 meses
-     * [152]Estrategia. Autonomía. por [153]Imagen de perfil de Karla
-       Alday  [154]karlaalday
+     * Estrategia. Autonomía. por Imagen de perfil de Karla Alday
+       karlaalday
        hace 5 años
-     * [155]El ejercicio de la libertad frente al respeto a los demás por
-       [156]Imagen de perfil de Karla Alday  [157]karlaalday
+     * El ejercicio de la libertad frente al respeto a los demás por
+       Imagen de perfil de Karla Alday  karlaalday
        hace 5 años
-     * [158]El vengador anónimo por [159]Imagen de perfil de Uriel
-       hernández  [160]urielhernandez
-       hace 6 años, 11 meses
-     * [161]Repositorio de estrategias para el ámbito de acción Relaciones
-       Interpersonales por [162]Imagen de perfil de Uriel hernández
-       [163]urielhernandez
+     * El vengador anónimo por Imagen de perfil de Uriel hernández
+       urielhernandez
+       hace 6 años, 12 meses
+     * Repositorio de estrategias para el ámbito de acción Relaciones
+       Interpersonales por Imagen de perfil de Uriel hernández
+       urielhernandez
        hace 5 años, 5 meses
 
    2023 © Ética.
-
-References
-
-   Visible links:
-   1. http://humanidades.cosfac.sems.gob.mx/etica/wp-json/oembed/1.0/embed?url
-   2. http://humanidades.cosfac.sems.gob.mx/etica/wp-json/oembed/1.0/embed?url&format=xml
-   3. http://humanidades.cosfac.sems.gob.mx/etica/actividad/feed/
-   4. http://humanidades.cosfac.sems.gob.mx/etica/grupos/relaciones-interpersonales/feed/
-   5. http://humanidades.cosfac.sems.gob.mx/etica/reglamento/
-   6. http://humanidades.cosfac.sems.gob.mx/etica/preguntas/
-   7. http://humanidades.cosfac.sems.gob.mx/etica/herramientas/
-   8. http://cosdac.sems.gob.mx/portal/images/AVISOS-DE-PRIVACIDAD/Junio-2018/Aviso Privac SIMPLIFICADO PLATAFORMA DIGITALDisciplinar de Humanidades.pdf
-   9. http://humanidades.cosdac.sems.gob.mx/etica/
-  10. http://humanidades.cosfac.sems.gob.mx/etica/actividad/
-  11. http://humanidades.cosfac.sems.gob.mx/etica/actividad/
-  12. http://humanidades.cosfac.sems.gob.mx/etica/miembros/
-  13. http://humanidades.cosfac.sems.gob.mx/etica/grupos/
-  14. http://humanidades.cosfac.sems.gob.mx/etica/clases/
-  15. http://humanidades.cosfac.sems.gob.mx/etica/materiales/
-  16. http://humanidades.cosfac.sems.gob.mx/etica/materiales/
-  17. http://humanidades.cosfac.sems.gob.mx/etica/materiales/materiales-2/
-  18. http://humanidades.cosfac.sems.gob.mx/etica/materiales/materiales-3/
-  19. https://soundcloud.com/francisco-esc-vola/sets/plataforma
-  20. http://humanidades.cosfac.sems.gob.mx/etica/vocabulario/
-  21. http://humanidades.cosfac.sems.gob.mx/etica/registrar/
-  22. http://humanidades.cosfac.sems.gob.mx/etica/wp-login.php?redirect_to=http://humanidades.cosfac.sems.gob.mx/etica
-  23. http://cosdac.sems.gob.mx/
-  24. http://humanidades.cosdac.sems.gob.mx/etica/
-  25. http://humanidades.cosfac.sems.gob.mx/etica/actividad/
-  26. http://humanidades.cosfac.sems.gob.mx/etica/actividad/
-  27. http://humanidades.cosfac.sems.gob.mx/etica/miembros/
-  28. http://humanidades.cosfac.sems.gob.mx/etica/grupos/
-  29. http://humanidades.cosfac.sems.gob.mx/etica/clases/
-  30. http://humanidades.cosfac.sems.gob.mx/etica/materiales/
-  31. http://humanidades.cosfac.sems.gob.mx/etica/materiales/
-  32. http://humanidades.cosfac.sems.gob.mx/etica/materiales/materiales-2/
-  33. http://humanidades.cosfac.sems.gob.mx/etica/materiales/materiales-3/
-  34. https://soundcloud.com/francisco-esc-vola/sets/plataforma
-  35. http://humanidades.cosfac.sems.gob.mx/etica/vocabulario/
-  36. http://humanidades.cosfac.sems.gob.mx/etica
-  37. http://humanidades.cosfac.sems.gob.mx/etica
-  38. http://humanidades.cosfac.sems.gob.mx/etica/grupos/relaciones-interpersonales/
-  39. http://humanidades.cosfac.sems.gob.mx/etica/miembros/yierva/
-  40. http://humanidades.cosfac.sems.gob.mx/etica/miembros/urielhernandez/
-  41. http://humanidades.cosfac.sems.gob.mx/etica/grupos/relaciones-interpersonales/
-  42. http://humanidades.cosfac.sems.gob.mx/etica/grupos/relaciones-interpersonales/forum/
-  43. http://humanidades.cosfac.sems.gob.mx/etica/grupos/relaciones-interpersonales/members/
-  44. http://humanidades.cosfac.sems.gob.mx/etica/grupos/relaciones-interpersonales/media
-  45. http://humanidades.cosfac.sems.gob.mx/etica/forums/topic-tag/httpswww-youtube-comwatchvlooubhyztos/
-  46. http://humanidades.cosfac.sems.gob.mx/etica/miembros/sebastianlomeli/
-  47. http://humanidades.cosfac.sems.gob.mx/etica/miembros/sebastianlomeli/
-  48. http://humanidades.cosfac.sems.gob.mx/etica/grupos/relaciones-interpersonales/forum/topic/la-felicidad-esta-en-uno-mismo/page/2/#post-3486
-  49. http://humanidades.cosfac.sems.gob.mx/etica/grupos/relaciones-interpersonales/forum/topic/la-felicidad-esta-en-uno-mismo/page/2/
-  50. http://humanidades.cosfac.sems.gob.mx/etica/grupos/relaciones-interpersonales/forum/topic/la-felicidad-esta-en-uno-mismo/page/2/
-  51. http://humanidades.cosfac.sems.gob.mx/etica/grupos/relaciones-interpersonales/forum/topic/la-felicidad-esta-en-uno-mismo/#post-1913
-  52. http://humanidades.cosfac.sems.gob.mx/etica/miembros/sebastianlomeli/
-  53. http://humanidades.cosfac.sems.gob.mx/etica/miembros/sebastianlomeli/
-  54. http://humanidades.cosfac.sems.gob.mx/etica/grupos/relaciones-interpersonales/forum/topic/la-felicidad-esta-en-uno-mismo/#post-1915
-  55. http://humanidades.cosfac.sems.gob.mx/etica/miembros/lecontrefacteur/
-  56. http://humanidades.cosfac.sems.gob.mx/etica/miembros/lecontrefacteur/
-  57. http://humanidades.cosfac.sems.gob.mx/etica/miembros/sebastianlomeli/
-  58. http://www.huffingtonpost.es/2012/11/23/andre-compte-sponville-_n_2176897.html
-  59. http://humanidades.cosfac.sems.gob.mx/etica/miembros/yierva/
-  60. http://humanidades.cosfac.sems.gob.mx/etica/miembros/malinalli/
-  61. http://humanidades.cosfac.sems.gob.mx/etica/miembros/yeyetzicardiel/
-  62. http://humanidades.cosfac.sems.gob.mx/etica/miembros/paolarochonherrera/
-  63. http://humanidades.cosfac.sems.gob.mx/etica/miembros/jignacioibarra/
-  64. http://humanidades.cosfac.sems.gob.mx/etica/miembros/pedrocrdz/
-  65. http://humanidades.cosfac.sems.gob.mx/etica/miembros/romansuarez/
-  66. http://humanidades.cosfac.sems.gob.mx/etica/miembros/geraxastello/
-  67. http://humanidades.cosfac.sems.gob.mx/etica/miembros/zaidp/
-  68. http://humanidades.cosfac.sems.gob.mx/etica/miembros/lugones/
-  69. http://humanidades.cosfac.sems.gob.mx/etica/miembros/antoniocota/
-  70. http://humanidades.cosfac.sems.gob.mx/etica/grupos/relaciones-interpersonales/forum/topic/la-felicidad-esta-en-uno-mismo/#post-1926
-  71. http://humanidades.cosfac.sems.gob.mx/etica/miembros/sebastianlomeli/
-  72. http://humanidades.cosfac.sems.gob.mx/etica/miembros/sebastianlomeli/
-  73. http://humanidades.cosfac.sems.gob.mx/etica/miembros/lecontrefacteur/
-  74. https://www.dropbox.com/s/ye7nhau2bpqj2yr/Aristóteles, Ética Nicomáquea, VIII y IX, amistad.pdf?dl=0
-  75. http://humanidades.cosfac.sems.gob.mx/etica/grupos/relaciones-interpersonales/forum/topic/la-felicidad-esta-en-uno-mismo/#post-1942
-  76. http://humanidades.cosfac.sems.gob.mx/etica/miembros/astartemirtala/
-  77. http://humanidades.cosfac.sems.gob.mx/etica/miembros/astartemirtala/
-  78. http://humanidades.cosfac.sems.gob.mx/etica/grupos/relaciones-interpersonales/forum/topic/la-felicidad-esta-en-uno-mismo/#post-1953
-  79. http://humanidades.cosfac.sems.gob.mx/etica/miembros/romansuarez/
-  80. http://humanidades.cosfac.sems.gob.mx/etica/miembros/romansuarez/
-  81. http://humanidades.cosfac.sems.gob.mx/etica/grupos/relaciones-interpersonales/forum/topic/la-felicidad-esta-en-uno-mismo/#post-1982
-  82. http://humanidades.cosfac.sems.gob.mx/etica/miembros/sebastianlomeli/
-  83. http://humanidades.cosfac.sems.gob.mx/etica/miembros/sebastianlomeli/
-  84. http://humanidades.cosfac.sems.gob.mx/etica/miembros/astartemirtala/
-  85. http://www.rtve.es/alacarta/videos/para-todos-la-2/para-todos-2-filosofia-para-profanos-estoicamente/3143838/
-  86. http://humanidades.cosfac.sems.gob.mx/etica/grupos/relaciones-interpersonales/forum/topic/la-felicidad-esta-en-uno-mismo/#post-1983
-  87. http://humanidades.cosfac.sems.gob.mx/etica/miembros/lecontrefacteur/
-  88. http://humanidades.cosfac.sems.gob.mx/etica/miembros/lecontrefacteur/
-  89. http://humanidades.cosfac.sems.gob.mx/etica/miembros/sebastianlomeli/
-  90. http://humanidades.cosfac.sems.gob.mx/etica/miembros/astartemirtala/
-  91. http://humanidades.cosfac.sems.gob.mx/etica/miembros/sebastianlomeli/
-  92. http://humanidades.cosfac.sems.gob.mx/etica/miembros/romansuarez/
-  93. http://humanidades.cosfac.sems.gob.mx/etica/grupos/relaciones-interpersonales/forum/topic/la-felicidad-esta-en-uno-mismo/#post-1986
-  94. http://humanidades.cosfac.sems.gob.mx/etica/miembros/sebastianlomeli/
-  95. http://humanidades.cosfac.sems.gob.mx/etica/miembros/sebastianlomeli/
-  96. http://humanidades.cosfac.sems.gob.mx/etica/miembros/romansuarez/
-  97. http://humanidades.cosfac.sems.gob.mx/etica/miembros/lecontrefacteur/
-  98. https://www.youtube.com/watch?v=9A-bBSucLi0
-  99. https://www.dropbox.com/s/z5z2anssh6gqgg1/Byung Chul Han La sociedad del cansancio pp 45-51.pdf?dl=0
- 100. http://humanidades.cosfac.sems.gob.mx/etica/grupos/relaciones-interpersonales/forum/topic/la-felicidad-esta-en-uno-mismo/#post-2003
- 101. http://humanidades.cosfac.sems.gob.mx/etica/miembros/yeyetzicardiel/
- 102. http://humanidades.cosfac.sems.gob.mx/etica/miembros/yeyetzicardiel/
- 103. https://www.youtube.com/embed/0EMdyd5JTwQ?feature=oembed
- 104. https://www.youtube.com/embed/LRpQG4fPSeo?feature=oembed
- 105. http://humanidades.cosfac.sems.gob.mx/etica/grupos/relaciones-interpersonales/forum/topic/la-felicidad-esta-en-uno-mismo/#post-2006
- 106. http://humanidades.cosfac.sems.gob.mx/etica/miembros/sebastianlomeli/
- 107. http://humanidades.cosfac.sems.gob.mx/etica/miembros/sebastianlomeli/
- 108. http://humanidades.cosfac.sems.gob.mx/etica/miembros/yeyetzicardiel/
- 109. http://www.correocpc.cl/sitio/doc/el_mito_de_sisifo.pdf
- 110. http://humanidades.cosfac.sems.gob.mx/etica/miembros/sebastianlomeli/
- 111. http://humanidades.cosfac.sems.gob.mx/etica/grupos/relaciones-interpersonales/forum/topic/la-felicidad-esta-en-uno-mismo/#post-2013
- 112. http://humanidades.cosfac.sems.gob.mx/etica/miembros/yeyetzicardiel/
- 113. http://humanidades.cosfac.sems.gob.mx/etica/miembros/yeyetzicardiel/
- 114. http://humanidades.cosfac.sems.gob.mx/etica/miembros/sebastianlomeli/
- 115. http://humanidades.cosfac.sems.gob.mx/etica/grupos/relaciones-interpersonales/forum/topic/la-felicidad-esta-en-uno-mismo/#post-2025
- 116. http://humanidades.cosfac.sems.gob.mx/etica/miembros/sebastianlomeli/
- 117. http://humanidades.cosfac.sems.gob.mx/etica/miembros/sebastianlomeli/
- 118. http://mla-s2-p.mlstatic.com/revista-condorito-coleccion-lote-x-3-especiales-humor-plop-4017-MLA126463147_6312-O.jpg
- 119. http://humanidades.cosfac.sems.gob.mx/etica/miembros/sebastianlomeli/
- 120. http://humanidades.cosfac.sems.gob.mx/etica/grupos/relaciones-interpersonales/forum/topic/la-felicidad-esta-en-uno-mismo/#post-2028
- 121. http://humanidades.cosfac.sems.gob.mx/etica/miembros/sebastianlomeli/
- 122. http://humanidades.cosfac.sems.gob.mx/etica/miembros/sebastianlomeli/
- 123. http://humanidades.cosfac.sems.gob.mx/etica/miembros/yeyetzicardiel/
- 124. http://humanidades.cosfac.sems.gob.mx/etica/grupos/relaciones-interpersonales/forum/topic/la-felicidad-esta-en-uno-mismo/#post-2046
- 125. http://humanidades.cosfac.sems.gob.mx/etica/miembros/yeyetzicardiel/
- 126. http://humanidades.cosfac.sems.gob.mx/etica/miembros/yeyetzicardiel/
- 127. http://humanidades.cosfac.sems.gob.mx/etica/miembros/sebastianlomeli/
- 128. http://humanidades.cosfac.sems.gob.mx/etica/grupos/relaciones-interpersonales/forum/topic/la-felicidad-esta-en-uno-mismo/#post-2173
- 129. http://humanidades.cosfac.sems.gob.mx/etica/miembros/karlaalday/
- 130. http://humanidades.cosfac.sems.gob.mx/etica/miembros/karlaalday/
- 131. https://www.youtube.com/embed/4GqhTbREy3Q?feature=oembed
- 132. http://humanidades.cosfac.sems.gob.mx/etica/grupos/relaciones-interpersonales/forum/topic/la-felicidad-esta-en-uno-mismo/page/2/
- 133. http://humanidades.cosfac.sems.gob.mx/etica/grupos/relaciones-interpersonales/forum/topic/la-felicidad-esta-en-uno-mismo/page/2/
- 134. http://humanidades.cosfac.sems.gob.mx/etica/materiales/relaciones-interpersonales/bordando-la-vida/
- 135. http://humanidades.cosfac.sems.gob.mx/etica/materiales/relaciones-interpersonales/voluntad-ser-libres/
- 136. http://humanidades.cosfac.sems.gob.mx/etica/materiales/relaciones-interpersonales/ser-humano-hacerse-humano/
- 137. http://humanidades.cosfac.sems.gob.mx/etica/materiales/materiales-2/dos-dilemas/
- 138. http://humanidades.cosfac.sems.gob.mx/etica/materiales/materiales-2/cumplir-deber-alcanzar-felicidad/
- 139. http://humanidades.cosfac.sems.gob.mx/etica/materiales/relaciones-interpersonales/no-quiero-avisarle-a-nadie/
- 140. http://humanidades.cosfac.sems.gob.mx/etica/materiales/relaciones-interpersonales/bordando-la-vida-2/
- 141. http://humanidades.cosfac.sems.gob.mx/etica/materiales/relaciones-interpersonales/voluntad-ser-libres-2/
- 142. http://humanidades.cosfac.sems.gob.mx/etica/materiales/relaciones-interpersonales/ser-humano-hacerse-humano-2/
- 143. http://humanidades.cosfac.sems.gob.mx/etica/materiales/relaciones-interpersonales/no-quiero-avisarle-a-nadie-2/
- 144. http://humanidades.cosfac.sems.gob.mx/etica/materiales/relaciones-interpersonales/bordando-la-vida-3/
- 145. http://humanidades.cosfac.sems.gob.mx/etica/materiales/materiales-2/ejercicios-relaciones-interpersonales/
- 146. http://humanidades.cosfac.sems.gob.mx/etica/materiales/relaciones-interpersonales/voluntad-ser-libres-3/
- 147. http://humanidades.cosfac.sems.gob.mx/etica/materiales/relaciones-interpersonales/ser-humano-hacerse-humano-3/
- 148. http://humanidades.cosfac.sems.gob.mx/etica/materiales/relaciones-interpersonales/no-quiero-avisarle-a-nadie-3/
- 149. http://humanidades.cosfac.sems.gob.mx/etica/grupos/relaciones-interpersonales/forum/topic/ejercicio-con-la-zarpa-de-jose-emilio-pacheco/
- 150. http://humanidades.cosfac.sems.gob.mx/etica/miembros/karlaalday/
- 151. http://humanidades.cosfac.sems.gob.mx/etica/miembros/karlaalday/
- 152. http://humanidades.cosfac.sems.gob.mx/etica/grupos/relaciones-interpersonales/forum/topic/estrategia-autonomia/
- 153. http://humanidades.cosfac.sems.gob.mx/etica/miembros/karlaalday/
- 154. http://humanidades.cosfac.sems.gob.mx/etica/miembros/karlaalday/
- 155. http://humanidades.cosfac.sems.gob.mx/etica/grupos/relaciones-interpersonales/forum/topic/el-ejercicio-de-la-libertad-frente-al-respeto-a-los-demas/
- 156. http://humanidades.cosfac.sems.gob.mx/etica/miembros/karlaalday/
- 157. http://humanidades.cosfac.sems.gob.mx/etica/miembros/karlaalday/
- 158. http://humanidades.cosfac.sems.gob.mx/etica/grupos/relaciones-interpersonales/forum/topic/el-vengador-anonimo/
- 159. http://humanidades.cosfac.sems.gob.mx/etica/miembros/urielhernandez/
- 160. http://humanidades.cosfac.sems.gob.mx/etica/miembros/urielhernandez/
- 161. http://humanidades.cosfac.sems.gob.mx/etica/grupos/relaciones-interpersonales/forum/topic/repositorio-de-estrategias-para-el-ambito-de-accion-relaciones-interpersonales/
- 162. http://humanidades.cosfac.sems.gob.mx/etica/miembros/urielhernandez/
- 163. http://humanidades.cosfac.sems.gob.mx/etica/miembros/urielhernandez/
-
-   Hidden links:
- 165. http://humanidades.cosfac.sems.gob.mx/etica/grupos/relaciones-interpersonales/
- 166. http://humanidades.cosfac.sems.gob.mx/etica/miembros/sebastianlomeli/
- 167. http://humanidades.cosfac.sems.gob.mx/etica/miembros/sebastianlomeli/
- 168. http://cosdac.sems.gob.mx/camposdisciplinares/
- 169. http://cosdac.sems.gob.mx/

@@ -1,69 +1,69 @@
-   #[1]Feed - Foro SofosAgora [2]Feed - Noticias [3]Feed - Nuevos Temas
-   [4]Feed - Temas Activos
+   #Feed - Foro SofosAgora Feed - Noticias Feed - Nuevos Temas Feed -
+   Temas Activos
 
-   [5]Foro SofosAgora
+   Foro SofosAgora
 
    Foro SofosAgora
 
    Foro abierto a los intereses de sus usuarios. Debate, aprende y
    diviértete.
 
-   [6]Obviar
-     * [7]Enlaces rápidos
+   Obviar
+     * Enlaces rápidos
           +
-          + [8]Temas sin respuesta
-          + [9]Temas activos
+          + Temas sin respuesta
+          + Temas activos
           +
-          + [10]Buscar
-     * [11]Foros
+          + Buscar
+     * Foros
 
-     * [12]FAQ
-     * [13]Identificarse
-     * [14]Registrarse
+     * FAQ
+     * Identificarse
+     * Registrarse
 
-     * [15]Buscar
-     * [16]Identificarse
-     * [17]Registrarse
+     * Buscar
+     * Identificarse
+     * Registrarse
      *
 
-       ____________________ (BUTTON) Buscar [18]Búsqueda avanzada
+       ____________________ (BUTTON) Buscar Búsqueda avanzada
 
-     * [19]Índice general [20]SofosAgora 1.0 [21]Metafísica
-     * [22]Buscar
+     * Índice general SofosAgora 1.0 Metafísica
+     * Buscar
      *
-          + Fecha actual 22 Nov 2023, 12:21
+          + Fecha actual 26 Nov 2023, 15:27
           + Todos los horarios son UTC+02:00
 
-[23]Seguro que quieres ser feliz.
+Seguro que quieres ser feliz.
 
-   [24]Responder
-     * [25]Vista para imprimir
+   Responder
+     * Vista para imprimir
 
-   ____________________ (BUTTON) Buscar [26]Búsqueda avanzada
+   ____________________ (BUTTON) Buscar Búsqueda avanzada
 
    15 mensajes
      * 1
-     * [27]2
-     * [28]Siguiente
+     * 2
+     * Siguiente
 
-   [29]Avatar de Usuario
-          [30]Alexandre Xavier
-          Mensajes: [31]2892
+   Avatar de Usuario
+          Alexandre Xavier
+          Mensajes: 2892
           Registrado: 08 Feb 2012, 00:46
           Rango personalizado: Filósofo revolucionario desde la tradición
           metafísica clásica, oriental y occidental.
           Ubicación: Monforte de Lemos, Galicia.
           Contactar:
 
-          [32]Contactar Alexandre Xavier
+          Contactar Alexandre Xavier
 
-          [33]Sitio web [34]Yahoo Messenger
+          Sitio web Yahoo Messenger
 
-[35]Seguro que quieres ser feliz.
+Seguro que quieres ser feliz.
 
-     * [36]Citar
+     * Citar
 
-   [37]Mensaje por [38]Alexandre Xavier » 13 Oct 2014, 19:55
+   Mensaje por Alexandre Xavier » 13 Oct 2014, 19:55
    Seguro que quieres ser feliz.
    Hola a todos.
    Ya ha pasado el tiempo de introducción en que debía dar a conocer, en
@@ -100,23 +100,23 @@
    Bienvenidos al nuevo hilo. Espero vuestras intervenciones.
    Cordialmente, de Alexandre Xavier Casanova Domingo, correo electrónico
    trigrupo @ yahoo . es (trigrupo arroba yahoo punto es).
-   Última edición por [39]Alexandre Xavier el 24 Oct 2014, 17:21, editado
-   1 vez en total.
-   [40]Arriba
+   Última edición por Alexandre Xavier el 24 Oct 2014, 17:21, editado 1
+   vez en total.
+   Arriba
 
-   [41]Avatar de Usuario
-          [42]Siflun
+   Avatar de Usuario
+          Siflun
           Moderador global
-          Mensajes: [43]1692
+          Mensajes: 1692
           Registrado: 12 Oct 2010, 22:46
           Ubicación: Sevilla
 
-[44]Re: Seguro que quieres ser feliz.
+Re: Seguro que quieres ser feliz.
 
-     * [45]Citar
+     * Citar
 
-   [46]Mensaje por [47]Siflun » 13 Oct 2014, 20:12
-   [48]Este artículo desarrolla matemáticamente esta idea:
+   Mensaje por Siflun » 13 Oct 2014, 20:12
+   Este artículo desarrolla matemáticamente esta idea:
    ABSTRACT: We model happiness as a measurement tool used to rank
    alternative actions. Evolution favors happiness functions that measures
    the individual's sucess in relative terms. The optimal function, in
@@ -132,26 +132,26 @@
    momentáneo, sí que parece posible establecer distintos niveles de
    satisfacción vital.
    Así que adelante.
-   [49]Arriba
+   Arriba
 
-   [50]Avatar de Usuario
-          [51]Alexandre Xavier
-          Mensajes: [52]2892
+   Avatar de Usuario
+          Alexandre Xavier
+          Mensajes: 2892
           Registrado: 08 Feb 2012, 00:46
           Rango personalizado: Filósofo revolucionario desde la tradición
           metafísica clásica, oriental y occidental.
           Ubicación: Monforte de Lemos, Galicia.
           Contactar:
 
-          [53]Contactar Alexandre Xavier
+          Contactar Alexandre Xavier
 
-          [54]Sitio web [55]Yahoo Messenger
+          Sitio web Yahoo Messenger
 
-[56]Re: Seguro que quieres ser feliz.
+Re: Seguro que quieres ser feliz.
 
-     * [57]Citar
+     * Citar
 
-   [58]Mensaje por [59]Alexandre Xavier » 13 Oct 2014, 21:06
+   Mensaje por Alexandre Xavier » 13 Oct 2014, 21:06
    Saludos, Siflun.
    El texto en inglés que me citas, y que ya he leído completo, es un
    típico texto de sicología laboral, empresarial y económica. No tiene
@@ -182,17 +182,17 @@
    gallego, pero no hay margen lingüístico para mucho más.
    Cordialmente, de Alexandre Xavier Casanova Domingo, correo electrónico
    trigrupo @ yahoo . es (trigrupo arroba yahoo punto es).
-   [60]Arriba
+   Arriba
 
-   [61]Laura_Gd
-          Mensajes: [62]172
+   Laura_Gd
+          Mensajes: 172
           Registrado: 23 Abr 2014, 14:29
 
-[63]Re: Seguro que quieres ser feliz.
+Re: Seguro que quieres ser feliz.
 
-     * [64]Citar
+     * Citar
 
-   [65]Mensaje por [66]Laura_Gd » 13 Oct 2014, 23:12
+   Mensaje por Laura_Gd » 13 Oct 2014, 23:12
    Sencillamente, no creo que la felicidad dependa sólo de nosotros sino
    tb de lo que nos rodea, así pues es un despropósito tenerla como meta
    ya que nunca sabemos cómo nos corresponderá la vida, siempre hay
@@ -207,20 +207,20 @@
    corresponde y depende sólo de nosotros, y esperar que la vida nos
    regale el entendimiento y las circunstancias propensas para transcender
    a metas tan elevadas como la felicidad.
-   [67]Arriba
+   Arriba
 
-   [68]Avatar de Usuario
-          [69]Siflun
+   Avatar de Usuario
+          Siflun
           Moderador global
-          Mensajes: [70]1692
+          Mensajes: 1692
           Registrado: 12 Oct 2010, 22:46
           Ubicación: Sevilla
 
-[71]Re: Seguro que quieres ser feliz.
+Re: Seguro que quieres ser feliz.
 
-     * [72]Citar
+     * Citar
 
-   [73]Mensaje por [74]Siflun » 14 Oct 2014, 18:37
+   Mensaje por Siflun » 14 Oct 2014, 18:37
 
    Alexandre Xavier escribió:Básicamente, este texto sostiene que la
    felicidad experimenta picos y retrocesos cíclicos en el entorno social
@@ -247,26 +247,26 @@
    Una prueba fisiológica de que esto es así podría ser la habituación a
    fármacos antidepresivos como los inhibidores de recaptación de
    serotonina.
-   [75]Arriba
+   Arriba
 
-   [76]Avatar de Usuario
-          [77]Alexandre Xavier
-          Mensajes: [78]2892
+   Avatar de Usuario
+          Alexandre Xavier
+          Mensajes: 2892
           Registrado: 08 Feb 2012, 00:46
           Rango personalizado: Filósofo revolucionario desde la tradición
           metafísica clásica, oriental y occidental.
           Ubicación: Monforte de Lemos, Galicia.
           Contactar:
 
-          [79]Contactar Alexandre Xavier
+          Contactar Alexandre Xavier
 
-          [80]Sitio web [81]Yahoo Messenger
+          Sitio web Yahoo Messenger
 
-[82]Re: Seguro que quieres ser feliz.
+Re: Seguro que quieres ser feliz.
 
-     * [83]Citar
+     * Citar
 
-   [84]Mensaje por [85]Alexandre Xavier » 21 Oct 2014, 22:45
+   Mensaje por Alexandre Xavier » 21 Oct 2014, 22:45
    Hola de nuevo, Siflun.
    El resumen que haces del artículo en inglés "Evolutionary efficience
    and happiness", escrito por Luis Rayo y Gary Stanley Becker, es
@@ -295,20 +295,20 @@
    los seres humanos, la euforia evolutivamente adaptativa.
    Cordialmente, de Alexandre Xavier Casanova Domingo, correo electrónico
    trigrupo @ yahoo . es (trigrupo arroba yahoo punto es).
-   [86]Arriba
+   Arriba
 
-   [87]Avatar de Usuario
-          [88]Siflun
+   Avatar de Usuario
+          Siflun
           Moderador global
-          Mensajes: [89]1692
+          Mensajes: 1692
           Registrado: 12 Oct 2010, 22:46
           Ubicación: Sevilla
 
-[90]Re: Seguro que quieres ser feliz.
+Re: Seguro que quieres ser feliz.
 
-     * [91]Citar
+     * Citar
 
-   [92]Mensaje por [93]Siflun » 22 Oct 2014, 19:29
+   Mensaje por Siflun » 22 Oct 2014, 19:29
    El problema es que no estamos hablando de un "condicionamiento", sería
    más bien la manera en que funcionamos, fisiológicamente. Y no veo cómo
    es posible modificar eso tratando de cambiar únicamente la manera en
@@ -320,26 +320,26 @@
    inevitables.
    Si todas las acciones reportan el mismo nivel de felicidad no habría
    motivo para hacer ninguna en concreto.
-   [94]Arriba
+   Arriba
 
-   [95]Avatar de Usuario
-          [96]Alexandre Xavier
-          Mensajes: [97]2892
+   Avatar de Usuario
+          Alexandre Xavier
+          Mensajes: 2892
           Registrado: 08 Feb 2012, 00:46
           Rango personalizado: Filósofo revolucionario desde la tradición
           metafísica clásica, oriental y occidental.
           Ubicación: Monforte de Lemos, Galicia.
           Contactar:
 
-          [98]Contactar Alexandre Xavier
+          Contactar Alexandre Xavier
 
-          [99]Sitio web [100]Yahoo Messenger
+          Sitio web Yahoo Messenger
 
-[101]Re: Seguro que quieres ser feliz.
+Re: Seguro que quieres ser feliz.
 
-     * [102]Citar
+     * Citar
 
-   [103]Mensaje por [104]Alexandre Xavier » 24 Oct 2014, 17:26
+   Mensaje por Alexandre Xavier » 24 Oct 2014, 17:26
    Hola de nuevo, Laura_Gd.
    Los severos profesores de filosofía universitaria han despreciado
    tradicionalmente el tema de la felicidad, considerándolo un asunto
@@ -547,21 +547,21 @@
    metafísica. Aunque en la práctica no es después sino al mismo tiempo.
    Cordialmente, de Alexandre Xavier Casanova Domingo, correo electrónico
    trigrupo @ yahoo . es (trigrupo arroba yahoo punto es).
-   Última edición por [105]Alexandre Xavier el 31 Oct 2014, 22:58, editado
-   1 vez en total.
-   [106]Arriba
+   Última edición por Alexandre Xavier el 31 Oct 2014, 22:58, editado 1
+   vez en total.
+   Arriba
 
-   [107]Avatar de Usuario
-          [108]socrates
-          Mensajes: [109]14125
+   Avatar de Usuario
+          socrates
+          Mensajes: 14125
           Registrado: 19 Ago 2014, 04:56
           Rango personalizado: Usuario y moderador.
 
-[110]Re: Seguro que quieres ser feliz.
+Re: Seguro que quieres ser feliz.
 
-     * [111]Citar
+     * Citar
 
-   [112]Mensaje por [113]socrates » 25 Oct 2014, 17:51
+   Mensaje por socrates » 25 Oct 2014, 17:51
    Alexandre Xavier:
    Ante todo muy interesante lo que has escrito, sobre todo en este último
    comentario.
@@ -586,24 +586,24 @@
    Muy interesante lo del ateísmo previo a una comprensión diferente de
    “Dios”.
    Las ideas gatillan acciones.
-   [114]Arriba
+   Arriba
 
-   [115]Avatar de Usuario
-          [116]socrates
-          Mensajes: [117]14125
+   Avatar de Usuario
+          socrates
+          Mensajes: 14125
           Registrado: 19 Ago 2014, 04:56
           Rango personalizado: Usuario y moderador.
 
-[118]Re: Seguro que quieres ser feliz.
+Re: Seguro que quieres ser feliz.
 
-     * [119]Citar
+     * Citar
 
-   [120]Mensaje por [121]socrates » 25 Oct 2014, 19:31
+   Mensaje por socrates » 25 Oct 2014, 19:31
    muy interesante también el análisis de la filosofía de "yo".
    Las ideas gatillan acciones.
-   [122]Arriba
-   [123]Responder
-     * [124]Vista para imprimir
+   Arriba
+   Responder
+     * Vista para imprimir
 
    Mostrar: [Todos los mensajes] Ordenar por: [Fecha publicaciónn]
    Dirección: [Ascendente_]
@@ -613,197 +613,35 @@
 
    15 mensajes
      * 1
-     * [125]2
-     * [126]Siguiente
+     * 2
+     * Siguiente
 
-   [127]Volver a “Metafísica”
+   Volver a “Metafísica”
    Ir a
-     * [128]SofosAgora 1.0
-     * [129]↳   Meta
-     * [130]↳   Filosofía general
-     * [131]↳   Filosofía del lenguaje
-     * [132]↳   Filosofía de la mente
-     * [133]↳   Historia de la filosofía y autores
-     * [134]↳   Metafísica
-     * [135]↳   Epistemología
-     * [136]↳   Lógica y argumentación
-     * [137]↳   Ciencia general
-     * [138]↳   Club regulado
-     * [139]↳   Ética
-     * [140]↳   Estética
-     * [141]↳   Política
+     * SofosAgora 1.0
+     * ↳   Meta
+     * ↳   Filosofía general
+     * ↳   Filosofía del lenguaje
+     * ↳   Filosofía de la mente
+     * ↳   Historia de la filosofía y autores
+     * ↳   Metafísica
+     * ↳   Epistemología
+     * ↳   Lógica y argumentación
+     * ↳   Ciencia general
+     * ↳   Club regulado
+     * ↳   Ética
+     * ↳   Estética
+     * ↳   Política
 
-     * [142]Índice general
+     * Índice general
      * Todos los horarios son UTC+02:00
-     * [143]Borrar cookies
-     * [144]Contáctenos
+     * Borrar cookies
+     * Contáctenos
 
-   Desarrollado por [145]phpBB® Forum Software © phpBB Limited
+   Desarrollado por phpBB® Forum Software © phpBB Limited
 
-   Style por [146]Arty - phpBB 3.3 por MrGaby
+   Style por Arty - phpBB 3.3 por MrGaby
 
-   Traducción al español por [147]phpBB España
+   Traducción al español por phpBB España
 
-   [148]Privacidad | [149]Condiciones
-
-
-
-   cron
-
-References
-
-   Visible links:
-   1. https://sofosagora.net/app.php/feed?sid=fa5dd6211c5236d92a0f637a7add04e8
-   2. https://sofosagora.net/app.php/feed/news?sid=fa5dd6211c5236d92a0f637a7add04e8
-   3. https://sofosagora.net/app.php/feed/topics?sid=fa5dd6211c5236d92a0f637a7add04e8
-   4. https://sofosagora.net/app.php/feed/topics_active?sid=fa5dd6211c5236d92a0f637a7add04e8
-   5. https://sofosagora.net/index.php?sid=fa5dd6211c5236d92a0f637a7add04e8
-   6. https://sofosagora.net/viewtopic.php?f=13&t=6039&view=previous#start_here
-   7. https://sofosagora.net/viewtopic.php?f=13&t=6039&view=previous
-   8. https://sofosagora.net/search.php?search_id=unanswered&sid=fa5dd6211c5236d92a0f637a7add04e8
-   9. https://sofosagora.net/search.php?search_id=active_topics&sid=fa5dd6211c5236d92a0f637a7add04e8
-  10. https://sofosagora.net/search.php?sid=fa5dd6211c5236d92a0f637a7add04e8
-  11. https://sofosagora.net/index.php?sid=fa5dd6211c5236d92a0f637a7add04e8
-  12. https://sofosagora.net/app.php/help/faq?sid=fa5dd6211c5236d92a0f637a7add04e8
-  13. https://sofosagora.net/ucp.php?mode=login&redirect=viewtopic.php?f=13&t=6039&view=previous&sid=fa5dd6211c5236d92a0f637a7add04e8
-  14. https://sofosagora.net/ucp.php?mode=register&sid=fa5dd6211c5236d92a0f637a7add04e8
-  15. https://sofosagora.net/search.php?sid=fa5dd6211c5236d92a0f637a7add04e8
-  16. https://sofosagora.net/ucp.php?mode=login&redirect=viewtopic.php?f=13&t=6039&view=previous&sid=fa5dd6211c5236d92a0f637a7add04e8
-  17. https://sofosagora.net/ucp.php?mode=register&sid=fa5dd6211c5236d92a0f637a7add04e8
-  18. https://sofosagora.net/search.php?sid=fa5dd6211c5236d92a0f637a7add04e8
-  19. https://sofosagora.net/index.php?sid=fa5dd6211c5236d92a0f637a7add04e8
-  20. https://sofosagora.net/viewforum.php?f=7&sid=fa5dd6211c5236d92a0f637a7add04e8
-  21. https://sofosagora.net/viewforum.php?f=13&sid=fa5dd6211c5236d92a0f637a7add04e8
-  22. https://sofosagora.net/search.php?sid=fa5dd6211c5236d92a0f637a7add04e8
-  23. https://sofosagora.net/viewtopic.php?t=4304&sid=fa5dd6211c5236d92a0f637a7add04e8
-  24. https://sofosagora.net/posting.php?mode=reply&t=4304&sid=fa5dd6211c5236d92a0f637a7add04e8
-  25. https://sofosagora.net/viewtopic.php?t=4304&sid=fa5dd6211c5236d92a0f637a7add04e8&view=print
-  26. https://sofosagora.net/search.php?sid=fa5dd6211c5236d92a0f637a7add04e8
-  27. https://sofosagora.net/viewtopic.php?t=4304&sid=fa5dd6211c5236d92a0f637a7add04e8&start=10
-  28. https://sofosagora.net/viewtopic.php?t=4304&sid=fa5dd6211c5236d92a0f637a7add04e8&start=10
-  29. https://sofosagora.net/memberlist.php?mode=viewprofile&u=672&sid=fa5dd6211c5236d92a0f637a7add04e8
-  30. https://sofosagora.net/memberlist.php?mode=viewprofile&u=672&sid=fa5dd6211c5236d92a0f637a7add04e8
-  31. https://sofosagora.net/search.php?author_id=672&sr=posts&sid=fa5dd6211c5236d92a0f637a7add04e8
-  32. https://sofosagora.net/viewtopic.php?f=13&t=6039&view=previous
-  33. https://filosofiomultilingua.foroactivo.com/
-  34. ymsgr:sendim?trigrupo@yahoo.es
-  35. https://sofosagora.net/viewtopic.php?p=83900&sid=fa5dd6211c5236d92a0f637a7add04e8#p83900
-  36. https://sofosagora.net/posting.php?mode=quote&p=83900&sid=fa5dd6211c5236d92a0f637a7add04e8
-  37. https://sofosagora.net/viewtopic.php?p=83900&sid=fa5dd6211c5236d92a0f637a7add04e8#p83900
-  38. https://sofosagora.net/memberlist.php?mode=viewprofile&u=672&sid=fa5dd6211c5236d92a0f637a7add04e8
-  39. https://sofosagora.net/memberlist.php?mode=viewprofile&u=672&sid=fa5dd6211c5236d92a0f637a7add04e8
-  40. https://sofosagora.net/viewtopic.php?f=13&t=6039&view=previous#top
-  41. https://sofosagora.net/memberlist.php?mode=viewprofile&u=54&sid=fa5dd6211c5236d92a0f637a7add04e8
-  42. https://sofosagora.net/memberlist.php?mode=viewprofile&u=54&sid=fa5dd6211c5236d92a0f637a7add04e8
-  43. https://sofosagora.net/search.php?author_id=54&sr=posts&sid=fa5dd6211c5236d92a0f637a7add04e8
-  44. https://sofosagora.net/viewtopic.php?p=83910&sid=fa5dd6211c5236d92a0f637a7add04e8#p83910
-  45. https://sofosagora.net/posting.php?mode=quote&p=83910&sid=fa5dd6211c5236d92a0f637a7add04e8
-  46. https://sofosagora.net/viewtopic.php?p=83910&sid=fa5dd6211c5236d92a0f637a7add04e8#p83910
-  47. https://sofosagora.net/memberlist.php?mode=viewprofile&u=54&sid=fa5dd6211c5236d92a0f637a7add04e8
-  48. http://home.uchicago.edu/gbecker/RayoBeckerLSE1.pdf
-  49. https://sofosagora.net/viewtopic.php?f=13&t=6039&view=previous#top
-  50. https://sofosagora.net/memberlist.php?mode=viewprofile&u=672&sid=fa5dd6211c5236d92a0f637a7add04e8
-  51. https://sofosagora.net/memberlist.php?mode=viewprofile&u=672&sid=fa5dd6211c5236d92a0f637a7add04e8
-  52. https://sofosagora.net/search.php?author_id=672&sr=posts&sid=fa5dd6211c5236d92a0f637a7add04e8
-  53. https://sofosagora.net/viewtopic.php?f=13&t=6039&view=previous
-  54. https://filosofiomultilingua.foroactivo.com/
-  55. ymsgr:sendim?trigrupo@yahoo.es
-  56. https://sofosagora.net/viewtopic.php?p=83924&sid=fa5dd6211c5236d92a0f637a7add04e8#p83924
-  57. https://sofosagora.net/posting.php?mode=quote&p=83924&sid=fa5dd6211c5236d92a0f637a7add04e8
-  58. https://sofosagora.net/viewtopic.php?p=83924&sid=fa5dd6211c5236d92a0f637a7add04e8#p83924
-  59. https://sofosagora.net/memberlist.php?mode=viewprofile&u=672&sid=fa5dd6211c5236d92a0f637a7add04e8
-  60. https://sofosagora.net/viewtopic.php?f=13&t=6039&view=previous#top
-  61. https://sofosagora.net/memberlist.php?mode=viewprofile&u=1393&sid=fa5dd6211c5236d92a0f637a7add04e8
-  62. https://sofosagora.net/search.php?author_id=1393&sr=posts&sid=fa5dd6211c5236d92a0f637a7add04e8
-  63. https://sofosagora.net/viewtopic.php?p=83949&sid=fa5dd6211c5236d92a0f637a7add04e8#p83949
-  64. https://sofosagora.net/posting.php?mode=quote&p=83949&sid=fa5dd6211c5236d92a0f637a7add04e8
-  65. https://sofosagora.net/viewtopic.php?p=83949&sid=fa5dd6211c5236d92a0f637a7add04e8#p83949
-  66. https://sofosagora.net/memberlist.php?mode=viewprofile&u=1393&sid=fa5dd6211c5236d92a0f637a7add04e8
-  67. https://sofosagora.net/viewtopic.php?f=13&t=6039&view=previous#top
-  68. https://sofosagora.net/memberlist.php?mode=viewprofile&u=54&sid=fa5dd6211c5236d92a0f637a7add04e8
-  69. https://sofosagora.net/memberlist.php?mode=viewprofile&u=54&sid=fa5dd6211c5236d92a0f637a7add04e8
-  70. https://sofosagora.net/search.php?author_id=54&sr=posts&sid=fa5dd6211c5236d92a0f637a7add04e8
-  71. https://sofosagora.net/viewtopic.php?p=84013&sid=fa5dd6211c5236d92a0f637a7add04e8#p84013
-  72. https://sofosagora.net/posting.php?mode=quote&p=84013&sid=fa5dd6211c5236d92a0f637a7add04e8
-  73. https://sofosagora.net/viewtopic.php?p=84013&sid=fa5dd6211c5236d92a0f637a7add04e8#p84013
-  74. https://sofosagora.net/memberlist.php?mode=viewprofile&u=54&sid=fa5dd6211c5236d92a0f637a7add04e8
-  75. https://sofosagora.net/viewtopic.php?f=13&t=6039&view=previous#top
-  76. https://sofosagora.net/memberlist.php?mode=viewprofile&u=672&sid=fa5dd6211c5236d92a0f637a7add04e8
-  77. https://sofosagora.net/memberlist.php?mode=viewprofile&u=672&sid=fa5dd6211c5236d92a0f637a7add04e8
-  78. https://sofosagora.net/search.php?author_id=672&sr=posts&sid=fa5dd6211c5236d92a0f637a7add04e8
-  79. https://sofosagora.net/viewtopic.php?f=13&t=6039&view=previous
-  80. https://filosofiomultilingua.foroactivo.com/
-  81. ymsgr:sendim?trigrupo@yahoo.es
-  82. https://sofosagora.net/viewtopic.php?p=84481&sid=fa5dd6211c5236d92a0f637a7add04e8#p84481
-  83. https://sofosagora.net/posting.php?mode=quote&p=84481&sid=fa5dd6211c5236d92a0f637a7add04e8
-  84. https://sofosagora.net/viewtopic.php?p=84481&sid=fa5dd6211c5236d92a0f637a7add04e8#p84481
-  85. https://sofosagora.net/memberlist.php?mode=viewprofile&u=672&sid=fa5dd6211c5236d92a0f637a7add04e8
-  86. https://sofosagora.net/viewtopic.php?f=13&t=6039&view=previous#top
-  87. https://sofosagora.net/memberlist.php?mode=viewprofile&u=54&sid=fa5dd6211c5236d92a0f637a7add04e8
-  88. https://sofosagora.net/memberlist.php?mode=viewprofile&u=54&sid=fa5dd6211c5236d92a0f637a7add04e8
-  89. https://sofosagora.net/search.php?author_id=54&sr=posts&sid=fa5dd6211c5236d92a0f637a7add04e8
-  90. https://sofosagora.net/viewtopic.php?p=84504&sid=fa5dd6211c5236d92a0f637a7add04e8#p84504
-  91. https://sofosagora.net/posting.php?mode=quote&p=84504&sid=fa5dd6211c5236d92a0f637a7add04e8
-  92. https://sofosagora.net/viewtopic.php?p=84504&sid=fa5dd6211c5236d92a0f637a7add04e8#p84504
-  93. https://sofosagora.net/memberlist.php?mode=viewprofile&u=54&sid=fa5dd6211c5236d92a0f637a7add04e8
-  94. https://sofosagora.net/viewtopic.php?f=13&t=6039&view=previous#top
-  95. https://sofosagora.net/memberlist.php?mode=viewprofile&u=672&sid=fa5dd6211c5236d92a0f637a7add04e8
-  96. https://sofosagora.net/memberlist.php?mode=viewprofile&u=672&sid=fa5dd6211c5236d92a0f637a7add04e8
-  97. https://sofosagora.net/search.php?author_id=672&sr=posts&sid=fa5dd6211c5236d92a0f637a7add04e8
-  98. https://sofosagora.net/viewtopic.php?f=13&t=6039&view=previous
-  99. https://filosofiomultilingua.foroactivo.com/
- 100. ymsgr:sendim?trigrupo@yahoo.es
- 101. https://sofosagora.net/viewtopic.php?p=84573&sid=fa5dd6211c5236d92a0f637a7add04e8#p84573
- 102. https://sofosagora.net/posting.php?mode=quote&p=84573&sid=fa5dd6211c5236d92a0f637a7add04e8
- 103. https://sofosagora.net/viewtopic.php?p=84573&sid=fa5dd6211c5236d92a0f637a7add04e8#p84573
- 104. https://sofosagora.net/memberlist.php?mode=viewprofile&u=672&sid=fa5dd6211c5236d92a0f637a7add04e8
- 105. https://sofosagora.net/memberlist.php?mode=viewprofile&u=672&sid=fa5dd6211c5236d92a0f637a7add04e8
- 106. https://sofosagora.net/viewtopic.php?f=13&t=6039&view=previous#top
- 107. https://sofosagora.net/memberlist.php?mode=viewprofile&u=1472&sid=fa5dd6211c5236d92a0f637a7add04e8
- 108. https://sofosagora.net/memberlist.php?mode=viewprofile&u=1472&sid=fa5dd6211c5236d92a0f637a7add04e8
- 109. https://sofosagora.net/search.php?author_id=1472&sr=posts&sid=fa5dd6211c5236d92a0f637a7add04e8
- 110. https://sofosagora.net/viewtopic.php?p=84613&sid=fa5dd6211c5236d92a0f637a7add04e8#p84613
- 111. https://sofosagora.net/posting.php?mode=quote&p=84613&sid=fa5dd6211c5236d92a0f637a7add04e8
- 112. https://sofosagora.net/viewtopic.php?p=84613&sid=fa5dd6211c5236d92a0f637a7add04e8#p84613
- 113. https://sofosagora.net/memberlist.php?mode=viewprofile&u=1472&sid=fa5dd6211c5236d92a0f637a7add04e8
- 114. https://sofosagora.net/viewtopic.php?f=13&t=6039&view=previous#top
- 115. https://sofosagora.net/memberlist.php?mode=viewprofile&u=1472&sid=fa5dd6211c5236d92a0f637a7add04e8
- 116. https://sofosagora.net/memberlist.php?mode=viewprofile&u=1472&sid=fa5dd6211c5236d92a0f637a7add04e8
- 117. https://sofosagora.net/search.php?author_id=1472&sr=posts&sid=fa5dd6211c5236d92a0f637a7add04e8
- 118. https://sofosagora.net/viewtopic.php?p=84621&sid=fa5dd6211c5236d92a0f637a7add04e8#p84621
- 119. https://sofosagora.net/posting.php?mode=quote&p=84621&sid=fa5dd6211c5236d92a0f637a7add04e8
- 120. https://sofosagora.net/viewtopic.php?p=84621&sid=fa5dd6211c5236d92a0f637a7add04e8#p84621
- 121. https://sofosagora.net/memberlist.php?mode=viewprofile&u=1472&sid=fa5dd6211c5236d92a0f637a7add04e8
- 122. https://sofosagora.net/viewtopic.php?f=13&t=6039&view=previous#top
- 123. https://sofosagora.net/posting.php?mode=reply&t=4304&sid=fa5dd6211c5236d92a0f637a7add04e8
- 124. https://sofosagora.net/viewtopic.php?t=4304&sid=fa5dd6211c5236d92a0f637a7add04e8&view=print
- 125. https://sofosagora.net/viewtopic.php?t=4304&sid=fa5dd6211c5236d92a0f637a7add04e8&start=10
- 126. https://sofosagora.net/viewtopic.php?t=4304&sid=fa5dd6211c5236d92a0f637a7add04e8&start=10
- 127. https://sofosagora.net/viewforum.php?f=13&sid=fa5dd6211c5236d92a0f637a7add04e8
- 128. https://sofosagora.net/viewforum.php?f=7&sid=fa5dd6211c5236d92a0f637a7add04e8
- 129. https://sofosagora.net/viewforum.php?f=9&sid=fa5dd6211c5236d92a0f637a7add04e8
- 130. https://sofosagora.net/viewforum.php?f=12&sid=fa5dd6211c5236d92a0f637a7add04e8
- 131. https://sofosagora.net/viewforum.php?f=57&sid=fa5dd6211c5236d92a0f637a7add04e8
- 132. https://sofosagora.net/viewforum.php?f=27&sid=fa5dd6211c5236d92a0f637a7add04e8
- 133. https://sofosagora.net/viewforum.php?f=19&sid=fa5dd6211c5236d92a0f637a7add04e8
- 134. https://sofosagora.net/viewforum.php?f=13&sid=fa5dd6211c5236d92a0f637a7add04e8
- 135. https://sofosagora.net/viewforum.php?f=14&sid=fa5dd6211c5236d92a0f637a7add04e8
- 136. https://sofosagora.net/viewforum.php?f=54&sid=fa5dd6211c5236d92a0f637a7add04e8
- 137. https://sofosagora.net/viewforum.php?f=20&sid=fa5dd6211c5236d92a0f637a7add04e8
- 138. https://sofosagora.net/viewforum.php?f=62&sid=fa5dd6211c5236d92a0f637a7add04e8
- 139. https://sofosagora.net/viewforum.php?f=15&sid=fa5dd6211c5236d92a0f637a7add04e8
- 140. https://sofosagora.net/viewforum.php?f=16&sid=fa5dd6211c5236d92a0f637a7add04e8
- 141. https://sofosagora.net/viewforum.php?f=18&sid=fa5dd6211c5236d92a0f637a7add04e8
- 142. https://sofosagora.net/index.php?sid=fa5dd6211c5236d92a0f637a7add04e8
- 143. https://sofosagora.net/ucp.php?mode=delete_cookies&sid=fa5dd6211c5236d92a0f637a7add04e8
- 144. https://sofosagora.net/memberlist.php?mode=contactadmin&sid=fa5dd6211c5236d92a0f637a7add04e8
- 145. https://www.phpbb.com/
- 146. https://www.artodia.com/
- 147. https://www.phpbb-es.com/
- 148. https://sofosagora.net/ucp.php?mode=privacy&sid=fa5dd6211c5236d92a0f637a7add04e8
- 149. https://sofosagora.net/ucp.php?mode=terms&sid=fa5dd6211c5236d92a0f637a7add04e8
-
-   Hidden links:
- 151. https://sofosagora.net/viewtopic.php?f=13&t=6039&view=previous
- 152. https://sofosagora.net/viewtopic.php?f=13&t=6039&view=previous
- 153. https://sofosagora.net/viewtopic.php?f=13&t=6039&view=previous
+   Privacidad | Condiciones

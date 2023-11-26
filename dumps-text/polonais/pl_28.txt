@@ -1,775 +1,775 @@
-    #[1]Najnowsze Pytanie - Zapytaj.onet.pl
+    #Najnowsze Pytanie - Zapytaj.onet.pl
 
-   IFRAME: [2]https://www.googletagmanager.com/ns.html?id=GTM-KCWTGZ7
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-KCWTGZ7
 
-   [_logoBorder_.gif?59026]
+   [_logoBorder_.gif?6725]
 
      *
-     * [3]Pytania
-          + [4]Wszystkie pytania
-          + [5]Sondy&Ankiety
-     * [6]Kategorie
-          + Szkoła - zapytaj eksperta (1969)
+     * Pytania
+          + Wszystkie pytania
+          + Sondy&Ankiety
+     * Kategorie
+          + Szkoła - zapytaj eksperta (1973)
 
-Szkoła - zapytaj eksperta (1969)
-               o [7]Wszystkie (1969)
-               o [8]Język angielski (853)
-               o [9]Język polski (609)
-               o [10]Matematyka (507)
-          + Biznes i Finanse (37494)
+Szkoła - zapytaj eksperta (1973)
+               o Wszystkie (1973)
+               o Język angielski (853)
+               o Język polski (611)
+               o Matematyka (509)
+          + Biznes i Finanse (37502)
 
-Biznes i Finanse (37494)
-               o [11]Wszystkie (37494)
-               o [12]Banki (8019)
-               o [13]Bankowość Elektroniczna (367)
-               o [14]E-biznes (4145)
-               o [15]Ekonomia (2017)
-               o [16]Fundusze UE (636)
-               o [17]Giełda (828)
-               o [18]Inwestowanie (4456)
-               o [19]Kredyty (1329)
-               o [20]Lokaty (266)
-               o [21]Marketing i Reklama (2804)
-               o [22]Media (1426)
-               o [23]Nieruchomości (1261)
-               o [24]Oszczędzanie (477)
-               o [25]Podatki (2261)
-               o [26]Ubezpieczenia (1767)
-               o [27]Waluty (5386)
+Biznes i Finanse (37502)
+               o Wszystkie (37502)
+               o Banki (8020)
+               o Bankowość Elektroniczna (366)
+               o E-biznes (4149)
+               o Ekonomia (2017)
+               o Fundusze UE (636)
+               o Giełda (829)
+               o Inwestowanie (4458)
+               o Kredyty (1329)
+               o Lokaty (266)
+               o Marketing i Reklama (2804)
+               o Media (1426)
+               o Nieruchomości (1261)
+               o Oszczędzanie (477)
+               o Podatki (2261)
+               o Ubezpieczenia (1768)
+               o Waluty (5386)
           + Dla Dorosłych (109991)
 
 Dla Dorosłych (109991)
-               o [28]Wszystkie (109991)
-               o [29]Orientacje Seksualne (12003)
-               o [30]Papierosy i E-papierosy (2041)
-               o [31]Portale Randkowe (238)
-               o [32]Pozostałe 18+ (48097)
-               o [33]Seks (47534)
-          + Dom i Ogród (77688)
+               o Wszystkie (109991)
+               o Orientacje Seksualne (12003)
+               o Papierosy i E-papierosy (2044)
+               o Portale Randkowe (237)
+               o Pozostałe 18+ (48100)
+               o Seks (47529)
+          + Dom i Ogród (77696)
 
-Dom i Ogród (77688)
-               o [34]Wszystkie (77688)
-               o [35]Budownictwo (3503)
-               o [36]Dom - Pozostałe (13730)
-               o [37]Kody Pocztowe (254)
-               o [38]Kolory w Domu (5912)
-               o [39]Kuchnia (2371)
-               o [40]Kupno Domu lub Mieszkania (1373)
-               o [41]Majsterkowanie (1477)
-               o [42]Materiały Budowlane (580)
-               o [43]Meble (3378)
-               o [44]Naprawy i Konserwacja (1386)
-               o [45]Pielęgnacja i Uprawa Ogrodu (4518)
-               o [46]Poczta i Przesyłki Kurierskie (6984)
-               o [47]Przeprowadzka (1425)
-               o [48]Remont i Odświeżanie (2609)
-               o [49]Sprzątanie (4078)
-               o [50]Sprzęt Ogrodniczy (66)
-               o [51]Urządzanie Pokoju (13026)
-               o [52]Wystrój Wnętrz (6868)
-               o [53]Zrób to Sam (4132)
-          + Gry (1451272)
+Dom i Ogród (77696)
+               o Wszystkie (77696)
+               o Budownictwo (3503)
+               o Dom - Pozostałe (13733)
+               o Kody Pocztowe (254)
+               o Kolory w Domu (5913)
+               o Kuchnia (2371)
+               o Kupno Domu lub Mieszkania (1373)
+               o Majsterkowanie (1477)
+               o Materiały Budowlane (580)
+               o Meble (3378)
+               o Naprawy i Konserwacja (1388)
+               o Pielęgnacja i Uprawa Ogrodu (4518)
+               o Poczta i Przesyłki Kurierskie (6985)
+               o Przeprowadzka (1425)
+               o Remont i Odświeżanie (2609)
+               o Sprzątanie (4078)
+               o Sprzęt Ogrodniczy (66)
+               o Urządzanie Pokoju (13027)
+               o Wystrój Wnętrz (6868)
+               o Zrób to Sam (4132)
+          + Gry (1451289)
 
-Gry (1451272)
-               o [54]Wszystkie (1451272)
-               o [55]CS:GO (0)
-               o [56]E-Sport (617)
-               o [57]Gry - Nintendo (1876)
-               o [58]Gry - Oddam/Przyjmę/Wymienię Konto (42450)
-               o [59]Gry - PlayStation (40919)
-               o [60]Gry - Pozostałe (110681)
-               o [61]Gry - XBOX (27087)
-               o [62]Gry Akcji (67600)
-               o [63]Gry Karciane (2847)
-               o [64]Gry Komputerowe (434102)
-               o [65]Gry Mobilne (30156)
-               o [66]Gry Multiplayer (115940)
-               o [67]Gry Planszowe (3122)
-               o [68]Gry Przeglądarkowe (172634)
-               o [69]Gry RPG (34527)
-               o [70]League of Legends (0)
-               o [71]Metin (15283)
-               o [72]Minecraft (92502)
-               o [73]MMO (23004)
-               o [74]MMORPG (51867)
-               o [75]Platformy Gamingowe (300)
-               o [76]Serwery gier (14956)
-               o [77]The Sims (167804)
-          + Hobby (511818)
+Gry (1451289)
+               o Wszystkie (1451289)
+               o CS:GO (0)
+               o E-Sport (616)
+               o Gry - Nintendo (1876)
+               o Gry - Oddam/Przyjmę/Wymienię Konto (42450)
+               o Gry - PlayStation (40924)
+               o Gry - Pozostałe (110682)
+               o Gry - XBOX (27089)
+               o Gry Akcji (67604)
+               o Gry Karciane (2847)
+               o Gry Komputerowe (434089)
+               o Gry Mobilne (30157)
+               o Gry Multiplayer (115941)
+               o Gry Planszowe (3122)
+               o Gry Przeglądarkowe (172631)
+               o Gry RPG (34529)
+               o League of Legends (0)
+               o Metin (15283)
+               o Minecraft (92509)
+               o MMO (23005)
+               o MMORPG (51869)
+               o Platformy Gamingowe (301)
+               o Serwery gier (14957)
+               o The Sims (167808)
+          + Hobby (511800)
 
-Hobby (511818)
-               o [78]Wszystkie (511818)
-               o [79]Broń i Militaria (10322)
-               o [80]Harcerstwo (11671)
-               o [81]Hobby - Ogólne (142372)
-               o [82]Karaoke (5535)
-               o [83]Kolekcje (14413)
-               o [84]Krzyżówki (1348)
-               o [85]Śpiew (45724)
-               o [86]Manga i Anime (166241)
-               o [87]Robótki Ręczne i Rękodzielnictwo (17850)
-               o [88]Rysunek i Malarstwo (44514)
-               o [89]Sztuki Cyrkowe (656)
-               o [90]Taniec (40194)
-               o [91]Wędkarstwo (10466)
-          + Inne (4095696)
+Hobby (511800)
+               o Wszystkie (511800)
+               o Broń i Militaria (10325)
+               o Harcerstwo (11672)
+               o Hobby - Ogólne (142373)
+               o Karaoke (5535)
+               o Kolekcje (14415)
+               o Krzyżówki (1349)
+               o Śpiew (45722)
+               o Manga i Anime (166216)
+               o Robótki Ręczne i Rękodzielnictwo (17850)
+               o Rysunek i Malarstwo (44516)
+               o Sztuki Cyrkowe (655)
+               o Taniec (40194)
+               o Wędkarstwo (10466)
+          + Inne (4095749)
 
-Inne (4095696)
-               o [92]Wszystkie (4095696)
-               o [93]Bezsensowne (354257)
-               o [94]Dziwactwa (276230)
-               o [95]Śmieszne (162157)
-               o [96]Metody na Nudę (354167)
-               o [97]Pozostałe (2674192)
-               o [98]Pytania z m.zapytaj (206593)
-               o [99]Upodobania (57611)
-          + Ja i O Mnie (1945581)
+Inne (4095749)
+               o Wszystkie (4095749)
+               o Bezsensowne (354282)
+               o Dziwactwa (276234)
+               o Śmieszne (162148)
+               o Metody na Nudę (354160)
+               o Pozostałe (2674231)
+               o Pytania z m.zapytaj (206592)
+               o Upodobania (57613)
+          + Ja i O Mnie (1945682)
 
-Ja i O Mnie (1945581)
-               o [100]Wszystkie (1945581)
-               o [101]Awatar (41778)
-               o [102]Charakter (25284)
-               o [103]Emigracja (3619)
-               o [104]Imię (149575)
-               o [105]Inne (67187)
-               o [106]Jak Namówić Rodziców? (50320)
-               o [107]Mój Wygląd (510670)
-               o [108]Moja Klasa (75414)
-               o [109]Nick lub Pseudonim (80655)
-               o [110]Problemy (885420)
-               o [111]Rozwój Osobisty (3270)
-               o [112]Sny (47202)
-               o [113]Subkultury (3065)
-               o [114]Tożsamość Płciowa (564)
-          + Jedzenie i Napoje (242634)
+Ja i O Mnie (1945682)
+               o Wszystkie (1945682)
+               o Awatar (41778)
+               o Charakter (25289)
+               o Emigracja (3620)
+               o Imię (149576)
+               o Inne (67209)
+               o Jak Namówić Rodziców? (50320)
+               o Mój Wygląd (510690)
+               o Moja Klasa (75412)
+               o Nick lub Pseudonim (80653)
+               o Problemy (885453)
+               o Rozwój Osobisty (3278)
+               o Sny (47215)
+               o Subkultury (3067)
+               o Tożsamość Płciowa (564)
+          + Jedzenie i Napoje (242665)
 
-Jedzenie i Napoje (242634)
-               o [115]Wszystkie (242634)
-               o [116]Ciasta i Desery (27393)
-               o [117]Fast Food (17709)
-               o [118]Jedzenie i Napoje - Pozostałe (4145)
-               o [119]Kuchnia Regionalna (5907)
-               o [120]Kuchnia Wegańska (119)
-               o [121]Kuchnia Wegetariańska (5314)
-               o [122]Kuchnie Świata (9340)
-               o [123]Napoje Alkoholowe (9709)
-               o [124]Napoje Bezalkoholowe (28466)
-               o [125]Owoce i Warzywa (14867)
-               o [126]Piwo (3248)
-               o [127]Przepisy i Porady (32281)
-               o [128]Słodycze (8110)
-               o [129]Slow Food (1724)
-               o [130]Smaki i Upodobania (73510)
-               o [131]Zdrowa Żywność (696)
-          + Komputery i Internet (1850251)
+Jedzenie i Napoje (242665)
+               o Wszystkie (242665)
+               o Ciasta i Desery (27393)
+               o Fast Food (17709)
+               o Jedzenie i Napoje - Pozostałe (4150)
+               o Kuchnia Regionalna (5907)
+               o Kuchnia Wegańska (119)
+               o Kuchnia Wegetariańska (5314)
+               o Kuchnie Świata (9344)
+               o Napoje Alkoholowe (9709)
+               o Napoje Bezalkoholowe (28471)
+               o Owoce i Warzywa (14867)
+               o Piwo (3248)
+               o Przepisy i Porady (32281)
+               o Słodycze (8111)
+               o Slow Food (1724)
+               o Smaki i Upodobania (73526)
+               o Zdrowa Żywność (696)
+          + Komputery i Internet (1850229)
 
-Komputery i Internet (1850251)
-               o [132]Wszystkie (1850251)
-               o [133]Aplikacje Mobilne (2023)
-               o [134]Apple (17153)
-               o [135]Bezpieczeństwo (17857)
-               o [136]Blogi i Fotoblogi (179835)
-               o [137]Demotywatory, Komixy i Memy (8879)
-               o [138]E-mail (8059)
-               o [139]Facebook (105970)
-               o [140]Fora Internetowe (15931)
-               o [141]Gadu-gadu (71018)
-               o [142]Grafika Komputerowa (59753)
-               o [143]Informatyka (58423)
-               o [144]Inne (206141)
-               o [145]Instagram (1198)
-               o [146]Internet (160119)
-               o [147]Komputery Stacjonarne (74264)
-               o [148]Komunikatory (14639)
-               o [149]Laptopy i Notebooki (22967)
-               o [150]Messenger (644)
-               o [151]Nasza-klasa (67395)
-               o [152]Niespodzianka.pl (181)
-               o [153]Opisy GG (10767)
-               o [154]Programowanie (16332)
-               o [155]Programowanie Webowe (3331)
-               o [156]Programy Komputerowe (116585)
-               o [157]Sieci Komputerowe (10956)
-               o [158]Smartfony i Tablety (52785)
-               o [159]Snapchat (435)
-               o [160]Społeczności Internetowe (25303)
-               o [161]Sprzęt (84510)
-               o [162]Strony Internetowe (176340)
-               o [163]Sygnatury (2424)
-               o [164]Systemy Operacyjne (17413)
-               o [165]Tik Tok (497)
-               o [166]Webmastering (tworzenie stron internetowych) (3707)
-               o [167]WhatsApp (46)
-               o [168]Wykop.pl (188)
-               o [169]YouTube (68084)
-               o [170]Zapytaj.onet.pl (95033)
-               o [171]Zapytaj.onet.pl - Kluby (6646)
-               o [172]Zapytaj.onet.pl - Mój Profil (61115)
-               o [173]Zapytaj.onet.pl - Pojedynki (287)
-               o [174]Zapytaj.onet.pl - Poradniki, Quizy i Zabawy Quizowe
+Komputery i Internet (1850229)
+               o Wszystkie (1850229)
+               o Aplikacje Mobilne (2028)
+               o Apple (17159)
+               o Bezpieczeństwo (17856)
+               o Blogi i Fotoblogi (179827)
+               o Demotywatory, Komixy i Memy (8880)
+               o E-mail (8059)
+               o Facebook (105965)
+               o Fora Internetowe (15931)
+               o Gadu-gadu (71018)
+               o Grafika Komputerowa (59751)
+               o Informatyka (58433)
+               o Inne (206130)
+               o Instagram (1199)
+               o Internet (160117)
+               o Komputery Stacjonarne (74269)
+               o Komunikatory (14638)
+               o Laptopy i Notebooki (22969)
+               o Messenger (644)
+               o Nasza-klasa (67393)
+               o Niespodzianka.pl (181)
+               o Opisy GG (10766)
+               o Programowanie (16334)
+               o Programowanie Webowe (3331)
+               o Programy Komputerowe (116574)
+               o Sieci Komputerowe (10958)
+               o Smartfony i Tablety (52791)
+               o Snapchat (434)
+               o Społeczności Internetowe (25303)
+               o Sprzęt (84512)
+               o Strony Internetowe (176332)
+               o Sygnatury (2424)
+               o Systemy Operacyjne (17413)
+               o Tik Tok (501)
+               o Webmastering (tworzenie stron internetowych) (3707)
+               o WhatsApp (48)
+               o Wykop.pl (188)
+               o YouTube (68068)
+               o Zapytaj.onet.pl (95033)
+               o Zapytaj.onet.pl - Kluby (6647)
+               o Zapytaj.onet.pl - Mój Profil (61113)
+               o Zapytaj.onet.pl - Pojedynki (287)
+               o Zapytaj.onet.pl - Poradniki, Quizy i Zabawy Quizowe
                  (4430)
-               o [175]Zapytaj.onet.pl - Wersja Mobilna (34)
-          + Magia (18359)
+               o Zapytaj.onet.pl - Wersja Mobilna (34)
+          + Magia (18361)
 
-Magia (18359)
-               o [176]Wszystkie (18359)
-               o [177]Astrologia (540)
-               o [178]Feng shui (120)
-               o [179]Horoskopy (760)
-               o [180]Magia - Ogólne (10094)
-               o [181]Numerologia (286)
-               o [182]Sennik (3187)
-               o [183]Spirytyzm (1544)
-               o [184]Tarot (347)
-               o [185]Wróżbiarstwo (1478)
-          + Miłość i Relacje (1178210)
+Magia (18361)
+               o Wszystkie (18361)
+               o Astrologia (540)
+               o Feng shui (120)
+               o Horoskopy (760)
+               o Magia - Ogólne (10095)
+               o Numerologia (286)
+               o Sennik (3188)
+               o Spirytyzm (1544)
+               o Tarot (347)
+               o Wróżbiarstwo (1478)
+          + Miłość i Relacje (1178253)
 
-Miłość i Relacje (1178210)
-               o [186]Wszystkie (1178210)
-               o [187]Ceremonie w Życiu (3589)
-               o [188]Dzieci (9993)
-               o [189]Jak Zerwać? (7266)
-               o [190]Ślub i Wesele (5926)
-               o [191]Miłość i Zakochanie (333089)
-               o [192]Podryw i Flirt (142861)
-               o [193]Prezenty i Okazje (31152)
-               o [194]Problemy Miłosne (252191)
-               o [195]Przyjaciele i Znajomi (153091)
-               o [196]Randki (29777)
-               o [197]Rodzeństwo (10304)
-               o [198]Rodzina i Rodzicielstwo (35587)
-               o [199]Single (11238)
-               o [200]Tylko dla Chłopaków (45377)
-               o [201]Tylko dla Dziewczyn (82768)
-               o [202]Walentynki (10461)
-               o [203]Wspomnienia (12790)
-          + Motoryzacja i Lotnictwo (118322)
+Miłość i Relacje (1178253)
+               o Wszystkie (1178253)
+               o Ceremonie w Życiu (3588)
+               o Dzieci (9994)
+               o Jak Zerwać? (7266)
+               o Ślub i Wesele (5925)
+               o Miłość i Zakochanie (333105)
+               o Podryw i Flirt (142869)
+               o Prezenty i Okazje (31156)
+               o Problemy Miłosne (252192)
+               o Przyjaciele i Znajomi (153099)
+               o Randki (29778)
+               o Rodzeństwo (10304)
+               o Rodzina i Rodzicielstwo (35588)
+               o Single (11239)
+               o Tylko dla Chłopaków (45379)
+               o Tylko dla Dziewczyn (82768)
+               o Walentynki (10461)
+               o Wspomnienia (12792)
+          + Motoryzacja i Lotnictwo (118333)
 
-Motoryzacja i Lotnictwo (118322)
-               o [204]Wszystkie (118322)
-               o [205]Autobusy i Autokary (1394)
-               o [206]Bezpieczeństwo (1135)
-               o [207]Ciężarówki (888)
-               o [208]Części Zamienne (1044)
-               o [209]Formuła 1 (F1) (1407)
-               o [210]Gokarty (441)
-               o [211]Helikoptery (455)
-               o [212]Inne (2622)
-               o [213]Koleje i Pociągi (1686)
-               o [214]Komunikacja Miejska (2546)
-               o [215]Łodzie (560)
-               o [216]Lotnictwo (6134)
-               o [217]Motocykle (35920)
-               o [218]Obsługa i Naprawy (3271)
-               o [219]Opony i Felgi (668)
-               o [220]Przyczepy (200)
-               o [221]Quady (4624)
-               o [222]Samochody (31567)
-               o [223]Skutery (20325)
-               o [224]Wypadki (1404)
-          + Muzyka i Film (2219956)
+Motoryzacja i Lotnictwo (118333)
+               o Wszystkie (118333)
+               o Autobusy i Autokary (1394)
+               o Bezpieczeństwo (1135)
+               o Ciężarówki (888)
+               o Części Zamienne (1044)
+               o Formuła 1 (F1) (1407)
+               o Gokarty (441)
+               o Helikoptery (455)
+               o Inne (2622)
+               o Koleje i Pociągi (1686)
+               o Komunikacja Miejska (2546)
+               o Łodzie (561)
+               o Lotnictwo (6134)
+               o Motocykle (35922)
+               o Obsługa i Naprawy (3271)
+               o Opony i Felgi (668)
+               o Przyczepy (200)
+               o Quady (4624)
+               o Samochody (31574)
+               o Skutery (20325)
+               o Wypadki (1405)
+          + Muzyka i Film (2219922)
 
-Muzyka i Film (2219956)
-               o [225]Wszystkie (2219956)
-               o [226]Aktorzy i Aktorki (57896)
-               o [227]Amazon Prime Video (0)
-               o [228]Beatbox (435)
-               o [229]Canal+ (6)
-               o [230]Cinemax (0)
-               o [231]Disney+ (0)
-               o [232]Film (420829)
-               o [233]Filmiki (42372)
-               o [234]HBO (0)
-               o [235]Instrumenty i Sprzęt (47734)
-               o [236]Jaka to Piosenka? (185357)
-               o [237]Jaki to Film? (48550)
-               o [238]Kino (26806)
-               o [239]Kompozytorzy (6176)
-               o [240]Muzyka (820967)
-               o [241]Muzyka Filmowa i Serialowa (26207)
-               o [242]Netflix (317)
-               o [243]Nuty i Tabulatury (7228)
-               o [244]Piosenkarze i Piosenkarki (183722)
-               o [245]Platformy Streamingowe (275)
-               o [246]Polsat Box (0)
-               o [247]Radio (7947)
-               o [248]Reklamy (9830)
-               o [249]SkyShowtime (0)
-               o [250]Teksty Piosenek (39826)
-               o [251]Teledyski (8853)
-               o [252]Telewizja i Seriale (256200)
-               o [253]Zespoły (21897)
-          + Nauki (975077)
+Muzyka i Film (2219922)
+               o Wszystkie (2219922)
+               o Aktorzy i Aktorki (57897)
+               o Amazon Prime Video (0)
+               o Beatbox (435)
+               o Canal+ (6)
+               o Cinemax (0)
+               o Disney+ (0)
+               o Film (420822)
+               o Filmiki (42368)
+               o HBO (0)
+               o Instrumenty i Sprzęt (47734)
+               o Jaka to Piosenka? (185357)
+               o Jaki to Film? (48551)
+               o Kino (26805)
+               o Kompozytorzy (6176)
+               o Muzyka (820976)
+               o Muzyka Filmowa i Serialowa (26206)
+               o Netflix (317)
+               o Nuty i Tabulatury (7228)
+               o Piosenkarze i Piosenkarki (183717)
+               o Platformy Streamingowe (275)
+               o Polsat Box (0)
+               o Radio (7947)
+               o Reklamy (9820)
+               o SkyShowtime (0)
+               o Teksty Piosenek (39826)
+               o Teledyski (8853)
+               o Telewizja i Seriale (256183)
+               o Zespoły (21897)
+          + Nauki (975062)
 
-Nauki (975077)
-               o [254]Wszystkie (975077)
-               o [255]Anatomia (1223)
-               o [256]Astronomia (9355)
-               o [257]Biologia (68409)
-               o [258]Chemia (78137)
-               o [259]Ekologia (3272)
-               o [260]Fizyka (92035)
-               o [261]Geografia (67436)
-               o [262]Geologia (1056)
-               o [263]Gramatyka i Ortografia (8040)
-               o [264]Inne Nauki (134938)
-               o [265]Leśnictwo (843)
-               o [266]Matematyka (357097)
-               o [267]Mechanika (1882)
-               o [268]Medycyna (5858)
-               o [269]Meteorologia i Pogoda (10962)
-               o [270]Paleontologia i archeologia (244)
-               o [271]Przedmioty Zawodowe (182)
-               o [272]Przyroda (89578)
-               o [273]Technika (12112)
-               o [274]WOS (32098)
+Nauki (975062)
+               o Wszystkie (975062)
+               o Anatomia (1222)
+               o Astronomia (9355)
+               o Biologia (68407)
+               o Chemia (78137)
+               o Ekologia (3272)
+               o Fizyka (92034)
+               o Geografia (67436)
+               o Geologia (1056)
+               o Gramatyka i Ortografia (8039)
+               o Inne Nauki (134941)
+               o Leśnictwo (843)
+               o Matematyka (357083)
+               o Mechanika (1882)
+               o Medycyna (5857)
+               o Meteorologia i Pogoda (10965)
+               o Paleontologia i archeologia (244)
+               o Przedmioty Zawodowe (183)
+               o Przyroda (89578)
+               o Technika (12111)
+               o WOS (32097)
           + Onet (2)
 
 Onet (2)
-               o [275]Wszystkie (2)
-               o [276]Onet Wakacje (2)
+               o Wszystkie (2)
+               o Onet Wakacje (2)
           + Podróże (107284)
 
 Podróże (107284)
-               o [277]Wszystkie (107284)
-               o [278]Afryka (1599)
-               o [279]Ameryka Środkowa (303)
-               o [280]Ameryka Północna (2525)
-               o [281]Ameryka Południowa (625)
-               o [282]Antarktyda (183)
-               o [283]Australia (572)
-               o [284]Azja (2917)
-               o [285]Bliski Wschód (438)
-               o [286]Europa (22242)
-               o [287]Podróże - Ogólne (39755)
-               o [288]Polska (35037)
-               o [289]Skandynawia (764)
-               o [290]Zakwaterowanie i Nocleg (220)
+               o Wszystkie (107284)
+               o Afryka (1599)
+               o Ameryka Środkowa (303)
+               o Ameryka Północna (2525)
+               o Ameryka Południowa (625)
+               o Antarktyda (183)
+               o Australia (572)
+               o Azja (2917)
+               o Bliski Wschód (439)
+               o Europa (22239)
+               o Podróże - Ogólne (39756)
+               o Polska (35038)
+               o Skandynawia (764)
+               o Zakwaterowanie i Nocleg (220)
           + Polityka i Rząd (130494)
 
 Polityka i Rząd (130494)
-               o [291]Wszystkie (130494)
-               o [292]Aktualne wydarzenia (11605)
-               o [293]Gospodarka (3630)
-               o [294]Parlament (2873)
-               o [295]Partie i Ugrupowania (16513)
-               o [296]Polityka Zagraniczna (14144)
-               o [297]Polska (20004)
-               o [298]Prawo i Etyka (40751)
-               o [299]Prezydent (9251)
-               o [300]Rząd (6186)
-               o [301]Samorząd (1063)
-               o [302]Unia Europejska (4448)
-          + Praca i Kariera (91452)
+               o Wszystkie (130494)
+               o Aktualne wydarzenia (11607)
+               o Gospodarka (3630)
+               o Parlament (2873)
+               o Partie i Ugrupowania (16513)
+               o Polityka Zagraniczna (14144)
+               o Polska (20003)
+               o Prawo i Etyka (40751)
+               o Prezydent (9248)
+               o Rząd (6187)
+               o Samorząd (1063)
+               o Unia Europejska (4449)
+          + Praca i Kariera (91466)
 
-Praca i Kariera (91452)
-               o [303]Wszystkie (91452)
-               o [304]Kariera (14488)
-               o [305]Praca (46391)
-               o [306]Prace sezonowe i Wakacyjne (313)
-               o [307]Praktyki i Staże (181)
-               o [308]Rolnictwo (1596)
-               o [309]Rozwój Zawodowy (10225)
-               o [310]Szkolenia i Kursy (78)
-               o [311]Wojsko (5368)
-               o [312]Wolontariat (433)
-               o [313]Zarobki (12349)
-          + Prawo Jazdy (17302)
+Praca i Kariera (91466)
+               o Wszystkie (91466)
+               o Kariera (14490)
+               o Praca (46403)
+               o Prace sezonowe i Wakacyjne (313)
+               o Praktyki i Staże (181)
+               o Rolnictwo (1596)
+               o Rozwój Zawodowy (10223)
+               o Szkolenia i Kursy (78)
+               o Wojsko (5369)
+               o Wolontariat (434)
+               o Zarobki (12349)
+          + Prawo Jazdy (17304)
 
-Prawo Jazdy (17302)
-               o [314]Wszystkie (17302)
-               o [315]Egzamin - Miasto (751)
-               o [316]Egzamin - Plac (270)
-               o [317]Egzamin - Teoria (956)
-               o [318]Inne (2996)
-               o [319]Karta Rowerowa i Motorowerowa (4117)
-               o [320]Ośrodki Egzaminacyjne (326)
-               o [321]Prawo Jazdy - Pozostałe (5854)
-               o [322]Sytuacje na Drodze (1363)
-               o [323]Szkoły Jazdy (663)
-          + Prezenty i Święta (149790)
+Prawo Jazdy (17304)
+               o Wszystkie (17304)
+               o Egzamin - Miasto (751)
+               o Egzamin - Plac (270)
+               o Egzamin - Teoria (957)
+               o Inne (2997)
+               o Karta Rowerowa i Motorowerowa (4117)
+               o Ośrodki Egzaminacyjne (326)
+               o Prawo Jazdy - Pozostałe (5854)
+               o Sytuacje na Drodze (1363)
+               o Szkoły Jazdy (663)
+          + Prezenty i Święta (149804)
 
-Prezenty i Święta (149790)
-               o [324]Wszystkie (149790)
-               o [325]Bez okazji (15609)
-               o [326]Imieniny (3060)
-               o [327]Święta - pozostałe (10249)
-               o [328]Mikołajki (16830)
-               o [329]Prezenty - Pozostałe (550)
-               o [330]Rocznice (4920)
-               o [331]Urodziny (54133)
-               o [332]Walentynki (5055)
-               o [333]Wielkanoc (107)
-               o [334]Wigilia (39227)
+Prezenty i Święta (149804)
+               o Wszystkie (149804)
+               o Bez okazji (15609)
+               o Imieniny (3060)
+               o Święta - pozostałe (10251)
+               o Mikołajki (16833)
+               o Prezenty - Pozostałe (554)
+               o Rocznice (4920)
+               o Urodziny (54136)
+               o Walentynki (5055)
+               o Wielkanoc (107)
+               o Wigilia (39229)
           + Pytania z GG (4642)
 
 Pytania z GG (4642)
-               o [335]Wszystkie (4642)
-               o [336]Nowe (4637)
-          + Regionalne (38984)
+               o Wszystkie (4642)
+               o Nowe (4637)
+          + Regionalne (38987)
 
-Regionalne (38984)
-               o [337]Wszystkie (38984)
-               o [338]Cała Polska (5167)
-               o [339]Dolnośląskie (1896)
-               o [340]Francja (701)
-               o [341]Hiszpania i Portugalia (1119)
-               o [342]Holandia (182)
-               o [343]Kujawsko-pomorskie (1291)
-               o [344]Łódzkie (1393)
-               o [345]Śląskie (2966)
-               o [346]Lubelskie (1576)
-               o [347]Lubuskie (685)
-               o [348]Świętokrzyskie (1007)
-               o [349]Małopolskie (2554)
-               o [350]Mazowieckie (2982)
-               o [351]Niemcy (1990)
-               o [352]Opolskie (613)
-               o [353]Podkarpackie (1297)
-               o [354]Podlaskie (888)
-               o [355]Pomorskie (1963)
-               o [356]Szwecja (136)
-               o [357]USA i Kanada (2382)
-               o [358]Warmińsko-mazurskie (983)
-               o [359]Wielka Brytania i Irlandia (1755)
-               o [360]Wielkopolskie (1831)
-               o [361]Włochy (500)
-               o [362]Zachodniopomorskie (1113)
-          + Religia i wierzenia (151306)
+Regionalne (38987)
+               o Wszystkie (38987)
+               o Cała Polska (5169)
+               o Dolnośląskie (1896)
+               o Francja (701)
+               o Hiszpania i Portugalia (1119)
+               o Holandia (182)
+               o Kujawsko-pomorskie (1291)
+               o Łódzkie (1393)
+               o Śląskie (2966)
+               o Lubelskie (1577)
+               o Lubuskie (685)
+               o Świętokrzyskie (1007)
+               o Małopolskie (2554)
+               o Mazowieckie (2982)
+               o Niemcy (1990)
+               o Opolskie (613)
+               o Podkarpackie (1297)
+               o Podlaskie (888)
+               o Pomorskie (1963)
+               o Szwecja (136)
+               o USA i Kanada (2382)
+               o Warmińsko-mazurskie (983)
+               o Wielka Brytania i Irlandia (1754)
+               o Wielkopolskie (1832)
+               o Włochy (500)
+               o Zachodniopomorskie (1113)
+          + Religia i wierzenia (151322)
 
-Religia i wierzenia (151306)
-               o [363]Wszystkie (151306)
-               o [364]Religia - poglądy (135868)
-               o [365]Religia - wiedza (12928)
-               o [366]Religie Świata (369)
-               o [367]Sakramenty (474)
-               o [368]Zadania domowe (1669)
+Religia i wierzenia (151322)
+               o Wszystkie (151322)
+               o Religia - poglądy (135878)
+               o Religia - wiedza (12936)
+               o Religie Świata (369)
+               o Sakramenty (472)
+               o Zadania domowe (1669)
           + Rośliny (23774)
 
 Rośliny (23774)
-               o [369]Wszystkie (23774)
-               o [370]Botanika - Ogólne (7006)
-               o [371]Doniczkowe (3029)
-               o [372]Drzewa (3429)
-               o [373]Jaka to Roślina? (152)
-               o [374]Krzewy (1069)
-               o [375]Kwiaty (4758)
-               o [376]Ogrodowe (1856)
-               o [377]Pielęgnacja i Uprawa (2419)
-          + Rozrywka (270766)
+               o Wszystkie (23774)
+               o Botanika - Ogólne (7006)
+               o Doniczkowe (3029)
+               o Drzewa (3429)
+               o Jaka to Roślina? (152)
+               o Krzewy (1069)
+               o Kwiaty (4758)
+               o Ogrodowe (1856)
+               o Pielęgnacja i Uprawa (2419)
+          + Rozrywka (270765)
 
-Rozrywka (270766)
-               o [378]Wszystkie (270766)
-               o [379]Bilety i Wejściówki (97)
-               o [380]Clubbing (1080)
-               o [381]Czas wolny (113827)
-               o [382]Fankluby i Gwiazdy (94819)
-               o [383]Imprezy (48601)
-               o [384]Kabarety (6602)
-               o [385]Koncerty i Festiwale (5248)
-          + Sklepy i Zakupy (311805)
+Rozrywka (270765)
+               o Wszystkie (270765)
+               o Bilety i Wejściówki (97)
+               o Clubbing (1080)
+               o Czas wolny (113829)
+               o Fankluby i Gwiazdy (94817)
+               o Imprezy (48600)
+               o Kabarety (6602)
+               o Koncerty i Festiwale (5248)
+          + Sklepy i Zakupy (311816)
 
-Sklepy i Zakupy (311805)
-               o [386]Wszystkie (311805)
-               o [387]Allegro (30688)
-               o [388]Amazon (0)
-               o [389]Bagaż i Sprzęt Sportowy (5239)
-               o [390]Buty i Akcesoria (88959)
-               o [391]Do Domu (5178)
-               o [392]Ekologiczne Produkty (586)
-               o [393]Elektronika (RTV) (8348)
-               o [394]Kupno Samochodu (686)
-               o [395]Kupno Samochodu Używanego (439)
-               o [396]Meble (1963)
-               o [397]Promocje i Wyprzedaże (3955)
-               o [398]Reklamacje i Zwroty (223)
-               o [399]Sklepy - Ogólne (21415)
-               o [400]Styl Scene (5856)
-               o [401]Ubrania (98294)
-               o [402]Zakup Gier i Programów (3260)
-               o [403]Zakupy Online (36716)
-               o [404]Zalando (0)
-          + Sport i Rekreacja (492891)
+Sklepy i Zakupy (311816)
+               o Wszystkie (311816)
+               o Allegro (30688)
+               o Amazon (0)
+               o Bagaż i Sprzęt Sportowy (5239)
+               o Buty i Akcesoria (88960)
+               o Do Domu (5178)
+               o Ekologiczne Produkty (586)
+               o Elektronika (RTV) (8350)
+               o Kupno Samochodu (686)
+               o Kupno Samochodu Używanego (440)
+               o Meble (1963)
+               o Promocje i Wyprzedaże (3955)
+               o Reklamacje i Zwroty (223)
+               o Sklepy - Ogólne (21416)
+               o Styl Scene (5856)
+               o Ubrania (98296)
+               o Zakup Gier i Programów (3260)
+               o Zakupy Online (36720)
+               o Zalando (0)
+          + Sport i Rekreacja (492899)
 
-Sport i Rekreacja (492891)
-               o [405]Wszystkie (492891)
-               o [406]Bilard i Snooker (339)
-               o [407]Fingerboard i Handboard (359)
-               o [408]Gimnastyka (10954)
-               o [409]Gimnastyka Artystyczna (2146)
-               o [410]Golf (209)
-               o [411]Hokej (854)
-               o [412]Jazda Konna (36604)
-               o [413]Kajakarstwo (10)
-               o [414]Kitesurfing (145)
-               o [415]Kolarstwo (119)
-               o [416]Koszykówka (5616)
-               o [417]Lekkoatletyka (5630)
-               o [418]Żeglarstwo (5)
-               o [419]Żużel (1248)
-               o [420]Łucznictwo (17)
-               o [421]Łyżwiarstwo (1080)
-               o [422]Nurkowanie (291)
-               o [423]Olimpiada (1587)
-               o [424]Parkour (1748)
-               o [425]Piłka Nożna (125891)
-               o [426]Piłka Ręczna (6155)
-               o [427]Pływanie (5570)
-               o [428]Rolki i Akcesoria (4564)
-               o [429]Rower i Akcesoria (13870)
-               o [430]Siatkówka (24446)
-               o [431]Siłownia (20423)
-               o [432]Skateboarding (17376)
-               o [433]Skoki Narciarskie (4735)
-               o [434]Sport - Pozostałe (32818)
-               o [435]Sportowcy (3919)
-               o [436]Sporty Drużynowe (63)
-               o [437]Sporty Ekstremalne (5172)
-               o [438]Sporty Samochodowe (726)
-               o [439]Sporty Towarzyskie (18)
-               o [440]Sporty Walki (15583)
-               o [441]Sporty Wodne (25)
-               o [442]Sporty Zimowe (8523)
-               o [443]Tenis (4202)
-               o [444]Windsurfing (223)
-               o [445]Wrestling (117225)
-               o [446]Wspinaczka (17)
-               o [447]Wychowanie Fizyczne (WF) (12309)
-          + Sprzęt RTV/AGD (523665)
+Sport i Rekreacja (492899)
+               o Wszystkie (492899)
+               o Bilard i Snooker (339)
+               o Fingerboard i Handboard (359)
+               o Gimnastyka (10955)
+               o Gimnastyka Artystyczna (2146)
+               o Golf (209)
+               o Hokej (854)
+               o Jazda Konna (36604)
+               o Kajakarstwo (10)
+               o Kitesurfing (145)
+               o Kolarstwo (119)
+               o Koszykówka (5617)
+               o Lekkoatletyka (5630)
+               o Żeglarstwo (5)
+               o Żużel (1248)
+               o Łucznictwo (17)
+               o Łyżwiarstwo (1080)
+               o Nurkowanie (291)
+               o Olimpiada (1587)
+               o Parkour (1748)
+               o Piłka Nożna (125892)
+               o Piłka Ręczna (6155)
+               o Pływanie (5570)
+               o Rolki i Akcesoria (4564)
+               o Rower i Akcesoria (13869)
+               o Siatkówka (24449)
+               o Siłownia (20425)
+               o Skateboarding (17375)
+               o Skoki Narciarskie (4735)
+               o Sport - Pozostałe (32819)
+               o Sportowcy (3919)
+               o Sporty Drużynowe (63)
+               o Sporty Ekstremalne (5172)
+               o Sporty Samochodowe (726)
+               o Sporty Towarzyskie (18)
+               o Sporty Walki (15584)
+               o Sporty Wodne (25)
+               o Sporty Zimowe (8523)
+               o Tenis (4202)
+               o Windsurfing (223)
+               o Wrestling (117225)
+               o Wspinaczka (17)
+               o Wychowanie Fizyczne (WF) (12309)
+          + Sprzęt RTV/AGD (523667)
 
-Sprzęt RTV/AGD (523665)
-               o [448]Wszystkie (523665)
-               o [449]AGD (5478)
-               o [450]Kino Domowe (1323)
-               o [451]Konsole do Gier (36811)
-               o [452]Odtwarzacze MP3 i MP4 (12718)
-               o [453]Pozostała Elektronika (27318)
-               o [454]Sieci Komórkowe (26200)
-               o [455]Sprzęt Audio (17689)
-               o [456]Sprzęt Fotograficzny (29919)
-               o [457]Sprzęt Video (4447)
-               o [458]Telefony Komórkowe (351846)
-               o [459]Telewizory (9878)
-          + Szkoła i Edukacja (1192762)
+Sprzęt RTV/AGD (523667)
+               o Wszystkie (523667)
+               o AGD (5478)
+               o Kino Domowe (1323)
+               o Konsole do Gier (36812)
+               o Odtwarzacze MP3 i MP4 (12718)
+               o Pozostała Elektronika (27320)
+               o Sieci Komórkowe (26200)
+               o Sprzęt Audio (17689)
+               o Sprzęt Fotograficzny (29919)
+               o Sprzęt Video (4447)
+               o Telefony Komórkowe (351845)
+               o Telewizory (9878)
+          + Szkoła i Edukacja (1192761)
 
-Szkoła i Edukacja (1192762)
-               o [460]Wszystkie (1192762)
-               o [461]Egzamin Ósmoklasisty (416)
-               o [462]Egzamin Zawodowy (198)
-               o [463]Ferie (8203)
-               o [464]Gimnazjum (276269)
-               o [465]Języki obce (251057)
-               o [466]Kartkówki i Sprawdziany (20601)
-               o [467]Matura (10027)
-               o [468]Nauczanie (35355)
-               o [469]Nauczyciele (15689)
-               o [470]Nauka w Domu (39504)
-               o [471]Oceny (41491)
-               o [472]Przedszkole (1203)
-               o [473]Przybory Szkolne (8638)
-               o [474]Studia (24308)
-               o [475]Szkoła - Ogólne (85953)
-               o [476]Szkoła Podstawowa (215402)
-               o [477]Szkoły Branżowe (428)
-               o [478]Szkoły Średnie (97379)
-               o [479]Szkoły Muzyczne (3792)
-               o [480]Szkoły Policealne (1549)
-               o [481]Szkoły Wyższe (10822)
-               o [482]Szkoły z Internatem (139)
-               o [483]Wakacje (42171)
-               o [484]Wybór Szkoły (1369)
-          + Sztuka, Kultura, Książki (1065812)
+Szkoła i Edukacja (1192761)
+               o Wszystkie (1192761)
+               o Egzamin Ósmoklasisty (417)
+               o Egzamin Zawodowy (199)
+               o Ferie (8203)
+               o Gimnazjum (276269)
+               o Języki obce (251040)
+               o Kartkówki i Sprawdziany (20602)
+               o Matura (10028)
+               o Nauczanie (35358)
+               o Nauczyciele (15691)
+               o Nauka w Domu (39503)
+               o Oceny (41490)
+               o Przedszkole (1204)
+               o Przybory Szkolne (8639)
+               o Studia (24310)
+               o Szkoła - Ogólne (85963)
+               o Szkoła Podstawowa (215395)
+               o Szkoły Branżowe (430)
+               o Szkoły Średnie (97381)
+               o Szkoły Muzyczne (3792)
+               o Szkoły Policealne (1550)
+               o Szkoły Wyższe (10822)
+               o Szkoły z Internatem (139)
+               o Wakacje (42167)
+               o Wybór Szkoły (1370)
+          + Sztuka, Kultura, Książki (1065821)
 
-Sztuka, Kultura, Książki (1065812)
-               o [485]Wszystkie (1065812)
-               o [486]Architektura (1739)
-               o [487]Bajki i baśnie (3299)
-               o [488]Cytaty (7552)
-               o [489]Czasopisma (9952)
-               o [490]Człowiek (27352)
-               o [491]Fantastyka i Fantasy (2941)
-               o [492]Filozofia (10377)
-               o [493]Fotografia (39015)
-               o [494]Historia (134206)
-               o [495]Inne (31657)
-               o [496]Język Kaszubski (192)
-               o [497]Język Polski (392080)
-               o [498]Komiksy (174)
-               o [499]Komiksy - Twórczość Własna (129)
-               o [500]Książki (146277)
-               o [501]Kultura (4795)
-               o [502]Lektury (20075)
-               o [503]Literatura (13073)
-               o [504]Obyczaje (3874)
-               o [505]Plastyka (19152)
-               o [506]Poezja (12621)
-               o [507]Poezja - Twórczość Własna (11943)
-               o [508]Proza - Twórczość Własna (15926)
-               o [509]Przysłowia i Powiedzenia (4284)
-               o [510]Psychologia (65867)
-               o [511]Relacje Międzyludzkie (15556)
-               o [512]Rysunek i Malarstwo (13013)
-               o [513]Rzeźba (861)
-               o [514]Społeczeństwo (10825)
-               o [515]Teatr i Spektakle (3454)
-               o [516]Wiedza (14763)
-               o [517]Zjawiska Paranormalne (28716)
-          + TO czy TO (191295)
+Sztuka, Kultura, Książki (1065821)
+               o Wszystkie (1065821)
+               o Architektura (1739)
+               o Bajki i baśnie (3299)
+               o Cytaty (7552)
+               o Czasopisma (9952)
+               o Człowiek (27354)
+               o Fantastyka i Fantasy (2941)
+               o Filozofia (10377)
+               o Fotografia (39015)
+               o Historia (134200)
+               o Inne (31657)
+               o Język Kaszubski (192)
+               o Język Polski (392075)
+               o Komiksy (173)
+               o Komiksy - Twórczość Własna (129)
+               o Książki (146282)
+               o Kultura (4796)
+               o Lektury (20076)
+               o Literatura (13075)
+               o Obyczaje (3874)
+               o Plastyka (19153)
+               o Poezja (12622)
+               o Poezja - Twórczość Własna (11944)
+               o Proza - Twórczość Własna (15929)
+               o Przysłowia i Powiedzenia (4283)
+               o Psychologia (65868)
+               o Relacje Międzyludzkie (15555)
+               o Rysunek i Malarstwo (13014)
+               o Rzeźba (861)
+               o Społeczeństwo (10827)
+               o Teatr i Spektakle (3454)
+               o Wiedza (14764)
+               o Zjawiska Paranormalne (28717)
+          + TO czy TO (191298)
 
-TO czy TO (191295)
-               o [518]Wszystkie (191295)
-               o [519]Nowe (191814)
-          + Uroda i Styl (952189)
+TO czy TO (191298)
+               o Wszystkie (191298)
+               o Nowe (191817)
+          + Uroda i Styl (952250)
 
-Uroda i Styl (952189)
-               o [520]Wszystkie (952189)
-               o [521]Biżuteria i Dodatki (30390)
-               o [522]Ciało i Skóra (70154)
-               o [523]Depilacja (12617)
-               o [524]Kosmetyki (54960)
-               o [525]Makijaż (32147)
-               o [526]Manicure i Pedicure (34610)
-               o [527]Moda (317787)
-               o [528]Na Plażę (4253)
-               o [529]Piercing i Tatuaże (65490)
-               o [530]Uroda (118897)
-               o [531]Włosy i Fryzury (192930)
-               o [532]Zęby i Uśmiech (17480)
-          + Wybory (13806)
+Uroda i Styl (952250)
+               o Wszystkie (952250)
+               o Biżuteria i Dodatki (30392)
+               o Ciało i Skóra (70158)
+               o Depilacja (12617)
+               o Kosmetyki (54965)
+               o Makijaż (32147)
+               o Manicure i Pedicure (34612)
+               o Moda (317808)
+               o Na Plażę (4253)
+               o Piercing i Tatuaże (65502)
+               o Uroda (118902)
+               o Włosy i Fryzury (192940)
+               o Zęby i Uśmiech (17480)
+          + Wybory (13807)
 
-Wybory (13806)
-               o [533]Wszystkie (13806)
-               o [534]Wybory do Parlamentu Europejskiego (0)
-               o [535]Wybory Parlamentarne (119)
-               o [536]Wybory Prezydenckie (429)
-               o [537]Wybory samorządowe (13258)
-          + Zabawy i Konkursy (709033)
+Wybory (13807)
+               o Wszystkie (13807)
+               o Wybory do Parlamentu Europejskiego (0)
+               o Wybory Parlamentarne (120)
+               o Wybory Prezydenckie (429)
+               o Wybory samorządowe (13258)
+          + Zabawy i Konkursy (709021)
 
-Zabawy i Konkursy (709033)
-               o [538]Wszystkie (709033)
-               o [539]Gry Słowne i Oksymorony (4254)
-               o [540]Konkurs urodzinowy 2012 (3457)
-               o [541]Konkursy (394033)
-               o [542]Kto by Wygrał (59917)
-               o [543]Nieprawdopodobne Historie (6484)
-               o [544]Przewidywanie i Wróżby (2799)
-               o [545]Zabawki (11449)
-               o [546]Zabawy (52884)
-               o [547]Zagadki (173669)
-               o [548]Zainteresowania (0)
-          + Zdrowie (560165)
+Zabawy i Konkursy (709021)
+               o Wszystkie (709021)
+               o Gry Słowne i Oksymorony (4254)
+               o Konkurs urodzinowy 2012 (3457)
+               o Konkursy (394020)
+               o Kto by Wygrał (59917)
+               o Nieprawdopodobne Historie (6487)
+               o Przewidywanie i Wróżby (2799)
+               o Zabawki (11451)
+               o Zabawy (52886)
+               o Zagadki (173663)
+               o Zainteresowania (0)
+          + Zdrowie (560215)
 
-Zdrowie (560165)
-               o [549]Wszystkie (560165)
-               o [550]Choroby Cywilizacyjne (1084)
-               o [551]Choroby i Uzależnienia (25323)
-               o [552]Choroby Kobiece (6176)
-               o [553]Choroby Mężczyzn (2769)
-               o [554]Choroby Psychiczne (17691)
-               o [555]Ciąża i Poród (17815)
-               o [556]Dermatologia (7986)
-               o [557]Dieta i Kondycja (118560)
-               o [558]Dojrzewanie (90011)
-               o [559]Ginekologia (770)
-               o [560]Intymność (30128)
-               o [561]Koronawirus (COVID-19) (435)
-               o [562]Leki i Suplementy (7752)
-               o [563]Medycyna Alternatywna (2280)
-               o [564]Medycyna Naturalna (1088)
-               o [565]Onkologia (91)
-               o [566]Operacje i Zabiegi (281)
-               o [567]Ortopedia (7967)
-               o [568]Stomatologia (15865)
-               o [569]Urazy, Rany i Kontuzje (1327)
-               o [570]Urologia (135)
-               o [571]Urządzenia i Sprzęt Medyczny (66)
-               o [572]Wzrok i Słuch (17483)
-               o [573]Zaburzenia odżywiania (16435)
-               o [574]Zdrowie - Ogólne (170351)
-          + Zwierzęta (897203)
+Zdrowie (560215)
+               o Wszystkie (560215)
+               o Choroby Cywilizacyjne (1084)
+               o Choroby i Uzależnienia (25328)
+               o Choroby Kobiece (6178)
+               o Choroby Mężczyzn (2769)
+               o Choroby Psychiczne (17700)
+               o Ciąża i Poród (17816)
+               o Dermatologia (7987)
+               o Dieta i Kondycja (118561)
+               o Dojrzewanie (90016)
+               o Ginekologia (770)
+               o Intymność (30129)
+               o Koronawirus (COVID-19) (435)
+               o Leki i Suplementy (7755)
+               o Medycyna Alternatywna (2280)
+               o Medycyna Naturalna (1088)
+               o Onkologia (91)
+               o Operacje i Zabiegi (287)
+               o Ortopedia (7966)
+               o Stomatologia (15867)
+               o Urazy, Rany i Kontuzje (1324)
+               o Urologia (135)
+               o Urządzenia i Sprzęt Medyczny (66)
+               o Wzrok i Słuch (17483)
+               o Zaburzenia odżywiania (16437)
+               o Zdrowie - Ogólne (170367)
+          + Zwierzęta (897250)
 
-Zwierzęta (897203)
-               o [575]Wszystkie (897203)
-               o [576]Akwarystyka (1145)
-               o [577]Bezkręgowce (3621)
-               o [578]Dinozaury (1766)
-               o [579]Gady (19042)
-               o [580]Gryzonie (137986)
-               o [581]Jak Nazwać Zwierzaka? (35697)
-               o [582]Jaka to Rasa Zwierzaka? (13463)
-               o [583]Jakie to Zwierzę? (249)
-               o [584]Konie (98190)
-               o [585]Koty (61815)
-               o [586]Ochrona Zwierząt (11262)
-               o [587]Owady (9385)
-               o [588]Pajęczaki (297)
-               o [589]Płazy (1634)
-               o [590]Pozostałe Zwierzaki (34552)
-               o [591]Produkty dla Zwierząt (20129)
-               o [592]Psy (270854)
-               o [593]Ptaki (26773)
-               o [594]Ryby (57424)
-               o [595]Sporty Zwierzęce (2212)
-               o [596]Ssaki (13386)
-               o [597]Terrarystyka (143)
-               o [598]Weterynaria (8863)
-               o [599]Wystawy Zwierząt (1711)
-               o [600]Zajęczaki (20927)
-               o [601]Zoologia - Ogólne (44395)
-     * [602]Szkoła
-          + [603]Zadania
-          + [604]Ściągi
-          + [605]Testy
-     * [606]Zapytaj Eksperta
-          + [607]Język polski
-          + [608]Matematyka
-     * [609]Poradniki Edukacyjne
-          + [610]Matematyka
-          + [611]Język polski
-     * [612]Poradniki
-          + [613]Poradniki - tematycznie
-          + [614]Poradniki - lista
-          + [615]Napisz poradnik
-     * [616]Quizy
-     * [617]Kluby
-     * [618]Rankingi
-          + [619]Hot
-          + [620]Top10 - Poradniki
-          + [621]Top100
-          + [622]Pojedynki
-     * [623]Pomoc
-          + [624]Polityka prywatności
-          + [625]Kontakt
-          + [626]Informacje o stronie
-          + [627]Zasady serwisu
-          + [628]Punkty i odznaki
-          + [629]Przydatne linki / FAQ
-          + [630]Wyszukaj użytkownika
-          + [631]Czym są ostrzeżenia?
-          + [632]Rekrutacja Moderatorzy
-          + [633]Encyklopedia
-          + [634]Gry online
+Zwierzęta (897250)
+               o Wszystkie (897250)
+               o Akwarystyka (1146)
+               o Bezkręgowce (3622)
+               o Dinozaury (1766)
+               o Gady (19043)
+               o Gryzonie (137991)
+               o Jak Nazwać Zwierzaka? (35698)
+               o Jaka to Rasa Zwierzaka? (13463)
+               o Jakie to Zwierzę? (249)
+               o Konie (98198)
+               o Koty (61830)
+               o Ochrona Zwierząt (11261)
+               o Owady (9385)
+               o Pajęczaki (297)
+               o Płazy (1634)
+               o Pozostałe Zwierzaki (34551)
+               o Produkty dla Zwierząt (20128)
+               o Psy (270862)
+               o Ptaki (26774)
+               o Ryby (57424)
+               o Sporty Zwierzęce (2212)
+               o Ssaki (13390)
+               o Terrarystyka (144)
+               o Weterynaria (8863)
+               o Wystawy Zwierząt (1711)
+               o Zajęczaki (20929)
+               o Zoologia - Ogólne (44397)
+     * Szkoła
+          + Zadania
+          + Ściągi
+          + Testy
+     * Zapytaj Eksperta
+          + Język polski
+          + Matematyka
+     * Poradniki Edukacyjne
+          + Matematyka
+          + Język polski
+     * Poradniki
+          + Poradniki - tematycznie
+          + Poradniki - lista
+          + Napisz poradnik
+     * Quizy
+     * Kluby
+     * Rankingi
+          + Hot
+          + Top10 - Poradniki
+          + Top100
+          + Pojedynki
+     * Pomoc
+          + Polityka prywatności
+          + Kontakt
+          + Informacje o stronie
+          + Zasady serwisu
+          + Punkty i odznaki
+          + Przydatne linki / FAQ
+          + Wyszukaj użytkownika
+          + Czym są ostrzeżenia?
+          + Rekrutacja Moderatorzy
+          + Encyklopedia
+          + Gry online
      * ____________________
 
-[635]zapytaj.onet.pl
+zapytaj.onet.pl
 
-   mamy 304 872 208
+   mamy 304 880 696
    waszych odpowiedzi
-   [636]Zarejestruj
-   [637]Zaloguj się
+   Zarejestruj
+   Zaloguj się
 
-   ____________________ [638]
+   ____________________
 
 Zadaj pytanie
 
-   [639]×
+   ×
 
-     * [640]Home
-     * [641]Sztuka, Kultura, Książki
-     * [642]Psychologia
+     * Home
+     * Sztuka, Kultura, Książki
+     * Psychologia
 
-   [643]Arachnet.
-   [644]Arachnet.
+   Arachnet.
+   Arachnet.
    zapytał(a) 05.04.2011 o 19:08
 
 Co daje ci szczęście? Czym dla ciebie jest szczęście?
@@ -782,68 +782,67 @@ Co daje ci szczęście? Czym dla ciebie jest szczęście?
    Trwa ładowanie. Proszę czekać...
 
    0 ocen | na tak 0%
-   [645]0
-   [646]0
-   [647]Odpowiedz
+   0
+   0
+   Odpowiedz
    Zapytaj.onet.pl
 
 Podobne pytania
 
-     * [648]Co daje Ci szczęście? 2012-01-25 14:53:05
-     * [649]Czy mądrość daje szczęście? 2018-02-28 15:45:01
-     * [650]Czy odwzajemniona miłość daje szczęście? 2018-02-28 16:21:29
-     * [651]Czy odkrycie prawdy daje szczęście? 2018-02-28 18:15:12
-     * [652]Co daje prawdziwe szczęście? 2013-10-08 15:07:29
-     * [653]Co daje Wam szczęście? 2009-07-06 14:14:31
-     * [654]Co daje ci prawdziwe szczęście? 2011-05-13 15:43:21
-     * [655]Co daje szczęście ? 2013-03-08 22:23:54
-     * [656]Co daje Ci największe szczęście? 2014-05-17 19:24:45
-     * [657]Co Wam daje szczęście ? 2011-01-30 21:20:43
+     * Co daje Ci szczęście? 2012-01-25 14:53:05
+     * Czy mądrość daje szczęście? 2018-02-28 15:45:01
+     * Czy odwzajemniona miłość daje szczęście? 2018-02-28 16:21:29
+     * Czy odkrycie prawdy daje szczęście? 2018-02-28 18:15:12
+     * Co daje prawdziwe szczęście? 2013-10-08 15:07:29
+     * Co daje Wam szczęście? 2009-07-06 14:14:31
+     * Co daje ci prawdziwe szczęście? 2011-05-13 15:43:21
+     * Co daje szczęście ? 2013-03-08 22:23:54
+     * Co daje Ci największe szczęście? 2014-05-17 19:24:45
+     * Co Wam daje szczęście ? 2011-01-30 21:20:43
 
-   [658]Załóż nowy klub
+   Załóż nowy klub
 
 Poradniki z kategorii
 
-     * [659]Jak wyrazić konstruktywną krytykę, żeby nie obrazić drugiego
+     * Jak wyrazić konstruktywną krytykę, żeby nie obrazić drugiego
        człowieka?
-     * [660]Mowa ciała- jak odczytać komunikat?
-     * [661]Jak zwiększyć pewność siebie?
-     * [662]Mechanizmy obronne- jaką pełnią funkcję w krytycznych dla nas
+     * Mowa ciała- jak odczytać komunikat?
+     * Jak zwiększyć pewność siebie?
+     * Mechanizmy obronne- jaką pełnią funkcję w krytycznych dla nas
        momentach?
-     * [663]Manipulacja w reklamie- jakim sposobem reklama przyciąga
-       odbiorców?
+     * Manipulacja w reklamie- jakim sposobem reklama przyciąga odbiorców?
 
-   [664]Więcej poradników
+   Więcej poradników
 
    Odpowiedzi
 
-   [665]EmonotialPerson
+   EmonotialPerson
 
-[666]EmonotialPerson
+EmonotialPerson
 
    odpowiedział(a) 06.04.2011 o 18:44
 
    Szczęściem jest dla mnie ołówek, kartka, moje rysunki oraz pokój,
    którym lubię przesiadywać.
    Trwa ładowanie. Proszę czekać...
-   [667]2
-   [668]0
+   2
+   0
 
-   [669]ℓαмвєятσмαикα.♥
+   ℓαмвєятσмαикα.♥
 
-[670]ℓαмвєятσмαикα.♥
+ℓαмвєятσмαикα.♥
 
    odpowiedział(a) 05.04.2011 o 19:10
 
    szczęście nic mi nie daje, i jest dla mnie niczym, bo jeszcze jakoś
    kurde nie zawitało w moim życiu ; c
    Trwa ładowanie. Proszę czekać...
-   [671]0
-   [672]0
+   0
+   0
 
-   [673]ja nic nie wiem.
+   ja nic nie wiem.
 
-[674]ja nic nie wiem.
+ja nic nie wiem.
 
    odpowiedział(a) 05.04.2011 o 19:11
 
@@ -853,12 +852,12 @@ Poradniki z kategorii
    dzisiaj jestem szczęsliwa bo dostałam 5 za fiflaki xd
    w szkole też jestem szczęsliwa. nawet gdy ON nie patrzy.
    Trwa ładowanie. Proszę czekać...
-   [675]0
-   [676]0
+   0
+   0
 
-   [677]Tee Tea ...
+   Tee Tea ...
 
-[678]Tee Tea ...
+Tee Tea ...
 
    odpowiedział(a) 05.04.2011 o 19:12
 
@@ -870,12 +869,12 @@ Poradniki z kategorii
    Mało oryginalne,ale szczere : )
    Pozdrawiam.
    Trwa ładowanie. Proszę czekać...
-   [679]0
-   [680]0
+   0
+   0
 
-   [681]Tee Tea ...
+   Tee Tea ...
 
-[682]Tee Tea ...
+Tee Tea ...
 
    odpowiedział(a) 05.04.2011 o 19:13
 
@@ -884,12 +883,12 @@ Poradniki z kategorii
    Lubię lody,jem loda-szczęście chwilowe.
    Pozdrawiam.
    Trwa ładowanie. Proszę czekać...
-   [683]0
-   [684]0
+   0
+   0
 
-   [685]UrbanPath
+   UrbanPath
 
-[686]UrbanPath
+UrbanPath
 
    odpowiedział(a) 05.04.2011 o 19:13
 
@@ -899,12 +898,12 @@ Poradniki z kategorii
    teraz wrzeszczeć ze szczęścia ^^! Wow, normalnie klub władzy radośnie
    XD Łiiii ! Kocham życie ; *
    Trwa ładowanie. Proszę czekać...
-   [687]0
-   [688]0
+   0
+   0
 
-   [689]zlymrok
+   zlymrok
 
-[690]zlymrok
+zlymrok
 
    odpowiedział(a) 05.04.2011 o 19:15
 
@@ -927,12 +926,12 @@ Poradniki z kategorii
    utracić.
    Sama pisałam jakby co.
    Trwa ładowanie. Proszę czekać...
-   [691]0
-   [692]0
+   0
+   0
 
-   [693]Aleksis12
+   Aleksis12
 
-[694]Aleksis12
+Aleksis12
 
    odpowiedział(a) 05.04.2011 o 20:17
 
@@ -943,12 +942,12 @@ Poradniki z kategorii
    sukces, gdy zrobię przemeblowanie. Zgadzam się z cytatem, ale to jest
    trudne to wykonania...
    Trwa ładowanie. Proszę czekać...
-   [695]0
-   [696]0
+   0
+   0
 
-   [697]wielbiciel
+   wielbiciel
 
-[698]wielbiciel
+wielbiciel
 
    odpowiedział(a) 05.04.2011 o 21:05
 
@@ -961,12 +960,12 @@ Poradniki z kategorii
    podchodze do życia pełen pozytif : >
    i nie byłoby życia bez szczęścia :)
    Trwa ładowanie. Proszę czekać...
-   [699]0
-   [700]0
+   0
+   0
 
-   [701]lonelyshadow_
+   lonelyshadow_
 
-[702]lonelyshadow_
+lonelyshadow_
 
    odpowiedział(a) 05.04.2011 o 22:43
 
@@ -986,12 +985,12 @@ Poradniki z kategorii
    Nie ma szczęścia na tym świecie można najwyżej znaleźć radość, i to już
    coraz rzadziej, ale szczęścia NIE MA.
    Trwa ładowanie. Proszę czekać...
-   [703]0
-   [704]0
+   0
+   0
 
-   [705]aveja
+   aveja
 
-[706]aveja
+aveja
 
    odpowiedział(a) 05.04.2011 o 22:49
 
@@ -1003,12 +1002,12 @@ Poradniki z kategorii
    ulotne, to, czego inni nie potrafią docenić, bo nie przeżywali ani nie
    przeżywają tego, co ja.
    Trwa ładowanie. Proszę czekać...
-   [707]0
-   [708]0
+   0
+   0
 
-   [709]TadeuszNiwiński
+   TadeuszNiwiński
 
-[710]TadeuszNiwiński
+TadeuszNiwiński
 
    odpowiedział(a) 06.04.2011 o 05:37
 
@@ -1019,23 +1018,23 @@ Poradniki z kategorii
    Tak, szczęście można znaleźć w ziarnku piasku, najlepiej na plaży na
    Hawajach, gdzie mieszkam pięć miesiecy w roku.
    Trwa ładowanie. Proszę czekać...
-   [711]0
-   [712]0
+   0
+   0
 
-   [713]blue..eyes.
+   blue..eyes.
 
-[714]blue..eyes.
+blue..eyes.
 
    odpowiedział(a) 06.04.2011 o 07:05
 
    szczęście ? w moim życiu czegoś takiego nie ma.
    Trwa ładowanie. Proszę czekać...
-   [715]0
-   [716]0
+   0
+   0
 
-   [717]x3dfb
+   x3dfb
 
-[718]x3dfb
+x3dfb
 
    odpowiedział(a) 06.04.2011 o 11:00
 
@@ -1053,7 +1052,7 @@ Poradniki z kategorii
    idiotka" :D.
    Szczęście to jest wszechogarniająca radość i optymistycznie nastawienie
    do życia w danym momencie.
-   Odpowiedź została zedytowana [719][Pokaż poprzednią odpowiedź]
+   Odpowiedź została zedytowana [Pokaż poprzednią odpowiedź]
    Szczęście dają mi bliskie osoby, z którymi czuję, że żyję.
    Szczęście może dać dobra książka, szczera rozmowa z przyjacielem,
    osiągnięcia sportowe.
@@ -1068,12 +1067,12 @@ Poradniki z kategorii
    Szczęście to jest wszechogarniająca radość i optymistycznie nastawienie
    do życia w danym momencie.
    Trwa ładowanie. Proszę czekać...
-   [720]0
-   [721]0
+   0
+   0
 
-   [722]blocked
+   blocked
 
-[723]blocked
+blocked
 
    odpowiedział(a) 06.04.2011 o 16:01
 
@@ -1086,36 +1085,36 @@ Poradniki z kategorii
    bardzo dobry kolega, szkoda, że nie bliski, on utrzymuje mnie przy
    życiu.
    Trwa ładowanie. Proszę czekać...
-   [724]0
-   [725]0
+   0
+   0
 
-   [726]maadzia97
+   maadzia97
 
-[727]maadzia97
+maadzia97
 
    odpowiedział(a) 06.04.2011 o 18:46
 
    Dla mnie szczęście to szczery uśmiech drugiej osoby. Uwielbiam pomagać!
    Dlatego cieszy mnie, jeśli uczynię kogoś szczęśliwym ;-)
    Trwa ładowanie. Proszę czekać...
-   [728]0
-   [729]0
+   0
+   0
 
-   [730]Xorus
+   Xorus
 
-[731]Xorus
+Xorus
 
    odpowiedział(a) 06.04.2011 o 20:34
 
    Szczęście dałoby mi życie w stworzonym przeze mnie świecie i to gdybym
    mógł zaplanować swoją postać, znajomych itd.
    Trwa ładowanie. Proszę czekać...
-   [732]0
-   [733]0
+   0
+   0
 
-   [734]blocked
+   blocked
 
-[735]blocked
+blocked
 
    odpowiedział(a) 07.04.2011 o 16:06
 
@@ -1132,12 +1131,12 @@ Poradniki z kategorii
    To jest dla mnie szczęście. Móc sprawiać przyjemność innym - dzieciom i
    ludziom chorym umysłowo i fizycznie.
    Trwa ładowanie. Proszę czekać...
-   [736]0
-   [737]0
+   0
+   0
 
-   [738]bober111
+   bober111
 
-[739]bober111
+bober111
 
    odpowiedział(a) 29.04.2011 o 21:34
 
@@ -1146,12 +1145,12 @@ Poradniki z kategorii
    zdaniem. Szczesliwy moze byc kazdy ale nie trwa to zbyt długo musi być
    też cierpienie jedno z drugim jest nierozłączne.
    Trwa ładowanie. Proszę czekać...
-   [740]0
-   [741]0
+   0
+   0
 
-   [742]blocked
+   blocked
 
-[743]blocked
+blocked
 
    odpowiedział(a) 07.05.2011 o 22:53
 
@@ -1165,73 +1164,73 @@ Poradniki z kategorii
    uśmiechnięty dzięki mnie człowiek sprawia mi wielką radość, nawet jeśli
    później mam wrócić do pokoju i być sama ze swoim smutkiem. : )
    Trwa ładowanie. Proszę czekać...
-   [744]0
-   [745]0
+   0
+   0
 
-   [746]StellaPolaris
+   StellaPolaris
 
-[747]StellaPolaris
+StellaPolaris
 
    odpowiedział(a) 16.09.2015 o 17:07
 
    rodzina, pasja(rysowanie), zwierzęta <3 przyjaciel i kwaśne żelki :) to
    wszystko mnie uszczęśliwia ;)
    Trwa ładowanie. Proszę czekać...
-   [748]0
-   [749]0
+   0
+   0
 
-Uważasz, że znasz lepszą odpowiedź?
+Uważasz, że ktoś się myli?
 
    ____________________ Odpowiedz
 
    lub
 
-     * [750]Biznes i Finanse (37494)
-     * [751]Dla Dorosłych (109991)
-     * [752]Dom i Ogród (77688)
-     * [753]Gry (1451273)
-     * [754]Hobby (511818)
-     * [755]Inne (4095692)
-     * [756]Ja i O Mnie (1945576)
-     * [757]Jedzenie i Napoje (242633)
-     * [758]Komputery i Internet (1850249)
-     * [759]Magia (18359)
-     * [760]Miłość i Relacje (1178208)
-     * [761]Motoryzacja i Lotnictwo (118322)
-     * [762]Muzyka i Film (2219955)
-     * [763]Nauki (975076)
-     * [764]Onet (2)
-     * [765]Podróże (107285)
-     * [766]Polityka i Rząd (130494)
-     * [767]Praca i Kariera (91452)
-     * [768]Prawo Jazdy (17302)
-     * [769]Prezenty i Święta (149790)
-     * [770]Pytania z GG (4642)
-     * [771]Regionalne (38984)
-     * [772]Religia i wierzenia (151306)
-     * [773]Rośliny (23774)
-     * [774]Rozrywka (270766)
-     * [775]Sklepy i Zakupy (311805)
-     * [776]Sport i Rekreacja (492892)
-     * [777]Sprzęt RTV/AGD (523665)
-     * [778]Szkoła - zapytaj eksperta (1969)
-     * [779]Szkoła i Edukacja (1192757)
-     * [780]Sztuka, Kultura, Książki (1065811)
-     * [781]TO czy TO (191295)
-     * [782]Uroda i Styl (952189)
-     * [783]Wybory (13806)
-     * [784]Zabawy i Konkursy (709033)
-     * [785]Zdrowie (560161)
-     * [786]Zwierzęta (897203)
+     * Biznes i Finanse (37502)
+     * Dla Dorosłych (109991)
+     * Dom i Ogród (77695)
+     * Gry (1451288)
+     * Hobby (511800)
+     * Inne (4095746)
+     * Ja i O Mnie (1945690)
+     * Jedzenie i Napoje (242663)
+     * Komputery i Internet (1850226)
+     * Magia (18361)
+     * Miłość i Relacje (1178256)
+     * Motoryzacja i Lotnictwo (118333)
+     * Muzyka i Film (2219921)
+     * Nauki (975061)
+     * Onet (2)
+     * Podróże (107284)
+     * Polityka i Rząd (130494)
+     * Praca i Kariera (91468)
+     * Prawo Jazdy (17304)
+     * Prezenty i Święta (149804)
+     * Pytania z GG (4642)
+     * Regionalne (38987)
+     * Religia i wierzenia (151322)
+     * Rośliny (23774)
+     * Rozrywka (270764)
+     * Sklepy i Zakupy (311816)
+     * Sport i Rekreacja (492900)
+     * Sprzęt RTV/AGD (523668)
+     * Szkoła - zapytaj eksperta (1973)
+     * Szkoła i Edukacja (1192763)
+     * Sztuka, Kultura, Książki (1065820)
+     * TO czy TO (191298)
+     * Uroda i Styl (952250)
+     * Wybory (13807)
+     * Zabawy i Konkursy (709021)
+     * Zdrowie (560212)
+     * Zwierzęta (897250)
 
-     * [787]O Zapytaj!
-     * [788]Regulamin serwisu Zapytaj.onet.pl
-     * [789]Zasady ochrony prywatności
-     * [790]Kontakt
-     * [791]Reklama
-     * [792]Pomoc
-     * [793]Program TV
-     * [794]Akt o Usługach Cyfrowych – informacja
+     * O Zapytaj!
+     * Regulamin serwisu Zapytaj.onet.pl
+     * Zasady ochrony prywatności
+     * Kontakt
+     * Reklama
+     * Pomoc
+     * Program TV
+     * Akt o Usługach Cyfrowych – informacja
 
    Systematyczne pobieranie treści, danych lub informacji z tej strony
    internetowej (web scraping), jak również eksploracja tekstu i danych
@@ -1245,829 +1244,12 @@ Uważasz, że znasz lepszą odpowiedź?
    (RASP) jest zabronione. Wyjątek stanowią sytuacje, w których treści,
    dane lub informacje są wykorzystywane w celu ułatwienia ich
    wyszukiwania przez wyszukiwarki internetowe.
-   [795]O Zapytaj! | [796]Regulamin serwisu | [797]Zasady ochrony
-   prywatności | [798]Kontakt | [799]Reklama | [800]Pomoc | [801]Akt o
-   Usługach Cyfrowych – informacja
+   O Zapytaj! | Regulamin serwisu | Zasady ochrony prywatności | Kontakt |
+   Reklama | Pomoc | Akt o Usługach Cyfrowych – informacja
    partner:
 
-   Czas wygenerowania strony: 0.21158100
+   Czas wygenerowania strony: 0.29055400
 
    (BUTTON) Zapisz się (BUTTON) Wypisz się
    Aby otrzymywać powiadomienia, wyraź na to zgodę w ustawieniach
-   przeglądarki, np. dla [802]Chrome, [803]Safari, [804]Edge lub
-   [805]Firefox
-
-References
-
-   Visible links:
-   1. https://zapytaj.onet.pl/rss/questions/002,018.xml
-   2. https://www.googletagmanager.com/ns.html?id=GTM-KCWTGZ7
-   3. https://zapytaj.onet.pl/Category/002,018/2,10337227,Co_daje_ci_szczescie_Czym_dla_ciebie_jest_szczescie.html
-   4. https://zapytaj.onet.pl/Question,0.html
-   5. https://zapytaj.onet.pl/VoteQuestion,0,0.html
-   6. https://zapytaj.onet.pl/Category/002,018/2,10337227,Co_daje_ci_szczescie_Czym_dla_ciebie_jest_szczescie.html
-   7. https://zapytaj.onet.pl/Category/038/1,Szkola__zapytaj_eksperta.html
-   8. https://zapytaj.onet.pl/Category/038,001/1,Jezyk_angielski.html
-   9. https://zapytaj.onet.pl/Category/038,003/1,Jezyk_polski.html
-  10. https://zapytaj.onet.pl/Category/038,002/1,Matematyka.html
-  11. https://zapytaj.onet.pl/Category/005/1,Biznes_i_Finanse.html
-  12. https://zapytaj.onet.pl/Category/005,009/1,Banki.html
-  13. https://zapytaj.onet.pl/Category/005,017/1,Bankowosc_Elektroniczna.html
-  14. https://zapytaj.onet.pl/Category/005,014/1,Ebiznes.html
-  15. https://zapytaj.onet.pl/Category/005,015/1,Ekonomia.html
-  16. https://zapytaj.onet.pl/Category/005,005/1,Fundusze_UE.html
-  17. https://zapytaj.onet.pl/Category/005,013/1,Gielda.html
-  18. https://zapytaj.onet.pl/Category/005,003/1,Inwestowanie.html
-  19. https://zapytaj.onet.pl/Category/005,004/1,Kredyty.html
-  20. https://zapytaj.onet.pl/Category/005,012/1,Lokaty.html
-  21. https://zapytaj.onet.pl/Category/005,002/1,Marketing_i_Reklama.html
-  22. https://zapytaj.onet.pl/Category/005,010/1,Media.html
-  23. https://zapytaj.onet.pl/Category/005,008/1,Nieruchomosci.html
-  24. https://zapytaj.onet.pl/Category/005,016/1,Oszczedzanie.html
-  25. https://zapytaj.onet.pl/Category/005,007/1,Podatki.html
-  26. https://zapytaj.onet.pl/Category/005,006/1,Ubezpieczenia.html
-  27. https://zapytaj.onet.pl/Category/005,011/1,Waluty.html
-  28. https://zapytaj.onet.pl/Category/021/1,Dla_Doroslych.html
-  29. https://zapytaj.onet.pl/Category/021,004/1,Orientacje_Seksualne.html
-  30. https://zapytaj.onet.pl/Category/021,006/1,Papierosy_i_Epapierosy_.html
-  31. https://zapytaj.onet.pl/Category/021,005/1,Portale_Randkowe_.html
-  32. https://zapytaj.onet.pl/Category/021,003/1,Pozostale_18.html
-  33. https://zapytaj.onet.pl/Category/021,001/1,Seks.html
-  34. https://zapytaj.onet.pl/Category/009/1,Dom_i_Ogrod.html
-  35. https://zapytaj.onet.pl/Category/009,007/1,Budownictwo.html
-  36. https://zapytaj.onet.pl/Category/009,006/1,Dom__Pozostale.html
-  37. https://zapytaj.onet.pl/Category/009,014/1,Kody_Pocztowe.html
-  38. https://zapytaj.onet.pl/Category/009,008/1,Kolory_w_Domu.html
-  39. https://zapytaj.onet.pl/Category/009,016/1,Kuchnia.html
-  40. https://zapytaj.onet.pl/Category/009,012/1,Kupno_Domu_lub_Mieszkania.html
-  41. https://zapytaj.onet.pl/Category/009,003/1,Majsterkowanie.html
-  42. https://zapytaj.onet.pl/Category/009,018/1,Materialy_Budowlane.html
-  43. https://zapytaj.onet.pl/Category/009,011/1,Meble.html
-  44. https://zapytaj.onet.pl/Category/009,005/1,Naprawy_i_Konserwacja.html
-  45. https://zapytaj.onet.pl/Category/009,004/1,Pielegnacja_i_Uprawa_Ogrodu.html
-  46. https://zapytaj.onet.pl/Category/009,017/1,Poczta_i_Przesylki_Kurierskie.html
-  47. https://zapytaj.onet.pl/Category/009,013/1,Przeprowadzka.html
-  48. https://zapytaj.onet.pl/Category/009,002/1,Remont_i_Odswiezanie.html
-  49. https://zapytaj.onet.pl/Category/009,010/1,Sprzatanie.html
-  50. https://zapytaj.onet.pl/Category/009,019/1,Sprzet_Ogrodniczy.html
-  51. https://zapytaj.onet.pl/Category/009,009/1,Urzadzanie_Pokoju.html
-  52. https://zapytaj.onet.pl/Category/009,015/1,Wystroj_Wnetrz.html
-  53. https://zapytaj.onet.pl/Category/009,001/1,Zrob_to_Sam.html
-  54. https://zapytaj.onet.pl/Category/029/1,Gry.html
-  55. https://zapytaj.onet.pl/Category/029,022/1,CSGO.html
-  56. https://zapytaj.onet.pl/Category/029,020/1,ESport_.html
-  57. https://zapytaj.onet.pl/Category/029,009/1,Gry__Nintendo.html
-  58. https://zapytaj.onet.pl/Category/029,016/1,Gry__OddamPrzyjmeWymienie_Konto.html
-  59. https://zapytaj.onet.pl/Category/029,007/1,Gry__PlayStation.html
-  60. https://zapytaj.onet.pl/Category/029,005/1,Gry__Pozostale.html
-  61. https://zapytaj.onet.pl/Category/029,008/1,Gry__XBOX.html
-  62. https://zapytaj.onet.pl/Category/029,013/1,Gry_Akcji.html
-  63. https://zapytaj.onet.pl/Category/029,004/1,Gry_Karciane.html
-  64. https://zapytaj.onet.pl/Category/029,001/1,Gry_Komputerowe.html
-  65. https://zapytaj.onet.pl/Category/029,011/1,Gry_Mobilne.html
-  66. https://zapytaj.onet.pl/Category/029,012/1,Gry_Multiplayer.html
-  67. https://zapytaj.onet.pl/Category/029,003/1,Gry_Planszowe.html
-  68. https://zapytaj.onet.pl/Category/029,002/1,Gry_Przegladarkowe.html
-  69. https://zapytaj.onet.pl/Category/029,006/1,Gry_RPG.html
-  70. https://zapytaj.onet.pl/Category/029,023/1,League_of_Legends_.html
-  71. https://zapytaj.onet.pl/Category/029,018/1,Metin.html
-  72. https://zapytaj.onet.pl/Category/029,017/1,Minecraft.html
-  73. https://zapytaj.onet.pl/Category/029,015/1,MMO.html
-  74. https://zapytaj.onet.pl/Category/029,010/1,MMORPG.html
-  75. https://zapytaj.onet.pl/Category/029,021/1,Platformy_Gamingowe.html
-  76. https://zapytaj.onet.pl/Category/029,019/1,Serwery_gier.html
-  77. https://zapytaj.onet.pl/Category/029,014/1,The_Sims.html
-  78. https://zapytaj.onet.pl/Category/028/1,Hobby.html
-  79. https://zapytaj.onet.pl/Category/028,013/1,Bron_i_Militaria.html
-  80. https://zapytaj.onet.pl/Category/028,003/1,Harcerstwo.html
-  81. https://zapytaj.onet.pl/Category/028,011/1,Hobby__Ogolne.html
-  82. https://zapytaj.onet.pl/Category/028,007/1,Karaoke.html
-  83. https://zapytaj.onet.pl/Category/028,008/1,Kolekcje.html
-  84. https://zapytaj.onet.pl/Category/028,006/1,Krzyzowki.html
-  85. https://zapytaj.onet.pl/Category/028,005/1,Spiew.html
-  86. https://zapytaj.onet.pl/Category/028,009/1,Manga_i_Anime.html
-  87. https://zapytaj.onet.pl/Category/028,002/1,Robotki_Reczne_i_Rekodzielnictwo.html
-  88. https://zapytaj.onet.pl/Category/028,010/1,Rysunek_i_Malarstwo.html
-  89. https://zapytaj.onet.pl/Category/028,012/1,Sztuki_Cyrkowe.html
-  90. https://zapytaj.onet.pl/Category/028,004/1,Taniec.html
-  91. https://zapytaj.onet.pl/Category/028,001/1,Wedkarstwo.html
-  92. https://zapytaj.onet.pl/Category/001/1,Inne.html
-  93. https://zapytaj.onet.pl/Category/001,005/1,Bezsensowne.html
-  94. https://zapytaj.onet.pl/Category/001,001/1,Dziwactwa.html
-  95. https://zapytaj.onet.pl/Category/001,002/1,Smieszne.html
-  96. https://zapytaj.onet.pl/Category/001,004/1,Metody_na_Nude.html
-  97. https://zapytaj.onet.pl/Category/001,003/1,Pozostale.html
-  98. https://zapytaj.onet.pl/Category/001,007/1,Pytania_z_mzapytaj.html
-  99. https://zapytaj.onet.pl/Category/001,006/1,Upodobania.html
- 100. https://zapytaj.onet.pl/Category/027/1,Ja_i_O_Mnie.html
- 101. https://zapytaj.onet.pl/Category/027,002/1,Awatar.html
- 102. https://zapytaj.onet.pl/Category/027,010/1,Charakter.html
- 103. https://zapytaj.onet.pl/Category/027,008/1,Emigracja.html
- 104. https://zapytaj.onet.pl/Category/027,005/1,Imie.html
- 105. https://zapytaj.onet.pl/Category/027,012/1,Inne.html
- 106. https://zapytaj.onet.pl/Category/027,003/1,Jak_Namowic_Rodzicow.html
- 107. https://zapytaj.onet.pl/Category/027,007/1,Moj_Wyglad.html
- 108. https://zapytaj.onet.pl/Category/027,009/1,Moja_Klasa.html
- 109. https://zapytaj.onet.pl/Category/027,001/1,Nick_lub_Pseudonim.html
- 110. https://zapytaj.onet.pl/Category/027,004/1,Problemy.html
- 111. https://zapytaj.onet.pl/Category/027,013/1,Rozwoj_Osobisty_.html
- 112. https://zapytaj.onet.pl/Category/027,006/1,Sny.html
- 113. https://zapytaj.onet.pl/Category/027,011/1,Subkultury.html
- 114. https://zapytaj.onet.pl/Category/027,014/1,Tozsamosc_Plciowa_.html
- 115. https://zapytaj.onet.pl/Category/016/1,Jedzenie_i_Napoje.html
- 116. https://zapytaj.onet.pl/Category/016,008/1,Ciasta_i_Desery.html
- 117. https://zapytaj.onet.pl/Category/016,009/1,Fast_Food.html
- 118. https://zapytaj.onet.pl/Category/016,014/1,Jedzenie_i_Napoje__Pozostale.html
- 119. https://zapytaj.onet.pl/Category/016,005/1,Kuchnia_Regionalna.html
- 120. https://zapytaj.onet.pl/Category/016,015/1,Kuchnia_Weganska.html
- 121. https://zapytaj.onet.pl/Category/016,001/1,Kuchnia_Wegetarianska.html
- 122. https://zapytaj.onet.pl/Category/016,006/1,Kuchnie_Swiata.html
- 123. https://zapytaj.onet.pl/Category/016,004/1,Napoje_Alkoholowe.html
- 124. https://zapytaj.onet.pl/Category/016,007/1,Napoje_Bezalkoholowe.html
- 125. https://zapytaj.onet.pl/Category/016,011/1,Owoce_i_Warzywa.html
- 126. https://zapytaj.onet.pl/Category/016,010/1,Piwo.html
- 127. https://zapytaj.onet.pl/Category/016,003/1,Przepisy_i_Porady.html
- 128. https://zapytaj.onet.pl/Category/016,013/1,Slodycze.html
- 129. https://zapytaj.onet.pl/Category/016,002/1,Slow_Food.html
- 130. https://zapytaj.onet.pl/Category/016,012/1,Smaki_i_Upodobania.html
- 131. https://zapytaj.onet.pl/Category/016,016/1,Zdrowa_Zywnosc.html
- 132. https://zapytaj.onet.pl/Category/007/1,Komputery_i_Internet.html
- 133. https://zapytaj.onet.pl/Category/007,037/1,Aplikacje_Mobilne.html
- 134. https://zapytaj.onet.pl/Category/007,021/1,Apple.html
- 135. https://zapytaj.onet.pl/Category/007,006/1,Bezpieczenstwo.html
- 136. https://zapytaj.onet.pl/Category/007,010/1,Blogi_i_Fotoblogi.html
- 137. https://zapytaj.onet.pl/Category/007,024/1,Demotywatory_Komixy_i_Memy.html
- 138. https://zapytaj.onet.pl/Category/007,027/1,Email.html
- 139. https://zapytaj.onet.pl/Category/007,018/1,Facebook.html
- 140. https://zapytaj.onet.pl/Category/007,023/1,Fora_Internetowe.html
- 141. https://zapytaj.onet.pl/Category/007,015/1,Gadugadu.html
- 142. https://zapytaj.onet.pl/Category/007,016/1,Grafika_Komputerowa.html
- 143. https://zapytaj.onet.pl/Category/007,014/1,Informatyka.html
- 144. https://zapytaj.onet.pl/Category/007,007/1,Inne.html
- 145. https://zapytaj.onet.pl/Category/007,038/1,Instagram_.html
- 146. https://zapytaj.onet.pl/Category/007,003/1,Internet.html
- 147. https://zapytaj.onet.pl/Category/007,019/1,Komputery_Stacjonarne.html
- 148. https://zapytaj.onet.pl/Category/007,012/1,Komunikatory.html
- 149. https://zapytaj.onet.pl/Category/007,020/1,Laptopy_i_Notebooki.html
- 150. https://zapytaj.onet.pl/Category/007,041/1,Messenger_.html
- 151. https://zapytaj.onet.pl/Category/007,017/1,Naszaklasa.html
- 152. https://zapytaj.onet.pl/Category/007,013/1,Niespodziankapl.html
- 153. https://zapytaj.onet.pl/Category/007,034/1,Opisy_GG.html
- 154. https://zapytaj.onet.pl/Category/007,005/1,Programowanie.html
- 155. https://zapytaj.onet.pl/Category/007,036/1,Programowanie_Webowe.html
- 156. https://zapytaj.onet.pl/Category/007,002/1,Programy_Komputerowe.html
- 157. https://zapytaj.onet.pl/Category/007,004/1,Sieci_Komputerowe.html
- 158. https://zapytaj.onet.pl/Category/007,035/1,Smartfony_i_Tablety.html
- 159. https://zapytaj.onet.pl/Category/007,039/1,Snapchat_.html
- 160. https://zapytaj.onet.pl/Category/007,011/1,Spolecznosci_Internetowe.html
- 161. https://zapytaj.onet.pl/Category/007,001/1,Sprzet.html
- 162. https://zapytaj.onet.pl/Category/007,009/1,Strony_Internetowe.html
- 163. https://zapytaj.onet.pl/Category/007,033/1,Sygnatury.html
- 164. https://zapytaj.onet.pl/Category/007,028/1,Systemy_Operacyjne.html
- 165. https://zapytaj.onet.pl/Category/007,043/1,Tik_Tok.html
- 166. https://zapytaj.onet.pl/Category/007,022/1,Webmastering_tworzenie_stron_internetowych.html
- 167. https://zapytaj.onet.pl/Category/007,040/1,WhatsApp_.html
- 168. https://zapytaj.onet.pl/Category/007,031/1,Wykoppl.html
- 169. https://zapytaj.onet.pl/Category/007,025/1,YouTube.html
- 170. https://zapytaj.onet.pl/Category/007,008/1,Zapytajonetpl.html
- 171. https://zapytaj.onet.pl/Category/007,029/1,Zapytajonetpl__Kluby.html
- 172. https://zapytaj.onet.pl/Category/007,026/1,Zapytajonetpl__Moj_Profil.html
- 173. https://zapytaj.onet.pl/Category/007,042/1,Zapytajonetpl__Pojedynki_.html
- 174. https://zapytaj.onet.pl/Category/007,030/1,Zapytajonetpl__Poradniki_Quizy_i_Zabawy_Quizowe.html
- 175. https://zapytaj.onet.pl/Category/007,044/1,Zapytajonetpl__Wersja_Mobilna.html
- 176. https://zapytaj.onet.pl/Category/034/1,Magia.html
- 177. https://zapytaj.onet.pl/Category/034,004/1,Astrologia.html
- 178. https://zapytaj.onet.pl/Category/034,006/1,Feng_shui.html
- 179. https://zapytaj.onet.pl/Category/034,008/1,Horoskopy.html
- 180. https://zapytaj.onet.pl/Category/034,009/1,Magia__Ogolne.html
- 181. https://zapytaj.onet.pl/Category/034,007/1,Numerologia.html
- 182. https://zapytaj.onet.pl/Category/034,003/1,Sennik.html
- 183. https://zapytaj.onet.pl/Category/034,002/1,Spirytyzm.html
- 184. https://zapytaj.onet.pl/Category/034,005/1,Tarot.html
- 185. https://zapytaj.onet.pl/Category/034,001/1,Wrozbiarstwo.html
- 186. https://zapytaj.onet.pl/Category/008/1,Milosc_i_Relacje.html
- 187. https://zapytaj.onet.pl/Category/008,006/1,Ceremonie_w_Zyciu.html
- 188. https://zapytaj.onet.pl/Category/008,015/1,Dzieci.html
- 189. https://zapytaj.onet.pl/Category/008,013/1,Jak_Zerwac.html
- 190. https://zapytaj.onet.pl/Category/008,003/1,Slub_i_Wesele.html
- 191. https://zapytaj.onet.pl/Category/008,007/1,Milosc_i_Zakochanie.html
- 192. https://zapytaj.onet.pl/Category/008,014/1,Podryw_i_Flirt.html
- 193. https://zapytaj.onet.pl/Category/008,008/1,Prezenty_i_Okazje.html
- 194. https://zapytaj.onet.pl/Category/008,009/1,Problemy_Milosne.html
- 195. https://zapytaj.onet.pl/Category/008,002/1,Przyjaciele_i_Znajomi.html
- 196. https://zapytaj.onet.pl/Category/008,005/1,Randki.html
- 197. https://zapytaj.onet.pl/Category/008,016/1,Rodzenstwo.html
- 198. https://zapytaj.onet.pl/Category/008,001/1,Rodzina_i_Rodzicielstwo.html
- 199. https://zapytaj.onet.pl/Category/008,004/1,Single.html
- 200. https://zapytaj.onet.pl/Category/008,011/1,Tylko_dla_Chlopakow.html
- 201. https://zapytaj.onet.pl/Category/008,010/1,Tylko_dla_Dziewczyn.html
- 202. https://zapytaj.onet.pl/Category/008,017/1,Walentynki.html
- 203. https://zapytaj.onet.pl/Category/008,018/1,Wspomnienia.html
- 204. https://zapytaj.onet.pl/Category/018/1,Motoryzacja_i_Lotnictwo.html
- 205. https://zapytaj.onet.pl/Category/018,021/1,Autobusy_i_Autokary.html
- 206. https://zapytaj.onet.pl/Category/018,006/1,Bezpieczenstwo.html
- 207. https://zapytaj.onet.pl/Category/018,018/1,Ciezarowki.html
- 208. https://zapytaj.onet.pl/Category/018,019/1,Czesci_Zamienne.html
- 209. https://zapytaj.onet.pl/Category/018,020/1,Formula_1_F1.html
- 210. https://zapytaj.onet.pl/Category/018,014/1,Gokarty.html
- 211. https://zapytaj.onet.pl/Category/018,016/1,Helikoptery.html
- 212. https://zapytaj.onet.pl/Category/018,022/1,Inne.html
- 213. https://zapytaj.onet.pl/Category/018,009/1,Koleje_i_Pociagi.html
- 214. https://zapytaj.onet.pl/Category/018,013/1,Komunikacja_Miejska.html
- 215. https://zapytaj.onet.pl/Category/018,002/1,Lodzie.html
- 216. https://zapytaj.onet.pl/Category/018,001/1,Lotnictwo.html
- 217. https://zapytaj.onet.pl/Category/018,005/1,Motocykle.html
- 218. https://zapytaj.onet.pl/Category/018,007/1,Obsluga_i_Naprawy.html
- 219. https://zapytaj.onet.pl/Category/018,015/1,Opony_i_Felgi.html
- 220. https://zapytaj.onet.pl/Category/018,012/1,Przyczepy.html
- 221. https://zapytaj.onet.pl/Category/018,011/1,Quady.html
- 222. https://zapytaj.onet.pl/Category/018,003/1,Samochody.html
- 223. https://zapytaj.onet.pl/Category/018,010/1,Skutery.html
- 224. https://zapytaj.onet.pl/Category/018,017/1,Wypadki.html
- 225. https://zapytaj.onet.pl/Category/019/1,Muzyka_i_Film.html
- 226. https://zapytaj.onet.pl/Category/019,010/1,Aktorzy_i_Aktorki.html
- 227. https://zapytaj.onet.pl/Category/019,027/1,Amazon_Prime_Video.html
- 228. https://zapytaj.onet.pl/Category/019,015/1,Beatbox.html
- 229. https://zapytaj.onet.pl/Category/019,022/1,Canal.html
- 230. https://zapytaj.onet.pl/Category/019,025/1,Cinemax_.html
- 231. https://zapytaj.onet.pl/Category/019,028/1,Disney.html
- 232. https://zapytaj.onet.pl/Category/019,002/1,Film.html
- 233. https://zapytaj.onet.pl/Category/019,006/1,Filmiki.html
- 234. https://zapytaj.onet.pl/Category/019,024/1,HBO.html
- 235. https://zapytaj.onet.pl/Category/019,004/1,Instrumenty_i_Sprzet.html
- 236. https://zapytaj.onet.pl/Category/019,014/1,Jaka_to_Piosenka.html
- 237. https://zapytaj.onet.pl/Category/019,017/1,Jaki_to_Film.html
- 238. https://zapytaj.onet.pl/Category/019,008/1,Kino.html
- 239. https://zapytaj.onet.pl/Category/019,007/1,Kompozytorzy.html
- 240. https://zapytaj.onet.pl/Category/019,001/1,Muzyka.html
- 241. https://zapytaj.onet.pl/Category/019,012/1,Muzyka_Filmowa_i_Serialowa.html
- 242. https://zapytaj.onet.pl/Category/019,021/1,Netflix.html
- 243. https://zapytaj.onet.pl/Category/019,018/1,Nuty_i_Tabulatury.html
- 244. https://zapytaj.onet.pl/Category/019,011/1,Piosenkarze_i_Piosenkarki.html
- 245. https://zapytaj.onet.pl/Category/019,020/1,Platformy_Streamingowe.html
- 246. https://zapytaj.onet.pl/Category/019,023/1,Polsat_Box.html
- 247. https://zapytaj.onet.pl/Category/019,005/1,Radio.html
- 248. https://zapytaj.onet.pl/Category/019,009/1,Reklamy.html
- 249. https://zapytaj.onet.pl/Category/019,026/1,SkyShowtime.html
- 250. https://zapytaj.onet.pl/Category/019,013/1,Teksty_Piosenek.html
- 251. https://zapytaj.onet.pl/Category/019,016/1,Teledyski.html
- 252. https://zapytaj.onet.pl/Category/019,003/1,Telewizja_i_Seriale.html
- 253. https://zapytaj.onet.pl/Category/019,019/1,Zespoly.html
- 254. https://zapytaj.onet.pl/Category/006/1,Nauki.html
- 255. https://zapytaj.onet.pl/Category/006,016/1,Anatomia.html
- 256. https://zapytaj.onet.pl/Category/006,004/1,Astronomia.html
- 257. https://zapytaj.onet.pl/Category/006,001/1,Biologia.html
- 258. https://zapytaj.onet.pl/Category/006,005/1,Chemia.html
- 259. https://zapytaj.onet.pl/Category/006,010/1,Ekologia.html
- 260. https://zapytaj.onet.pl/Category/006,002/1,Fizyka.html
- 261. https://zapytaj.onet.pl/Category/006,009/1,Geografia.html
- 262. https://zapytaj.onet.pl/Category/006,007/1,Geologia.html
- 263. https://zapytaj.onet.pl/Category/006,017/1,Gramatyka_i_Ortografia.html
- 264. https://zapytaj.onet.pl/Category/006,008/1,Inne_Nauki.html
- 265. https://zapytaj.onet.pl/Category/006,020/1,Lesnictwo_.html
- 266. https://zapytaj.onet.pl/Category/006,003/1,Matematyka.html
- 267. https://zapytaj.onet.pl/Category/006,013/1,Mechanika.html
- 268. https://zapytaj.onet.pl/Category/006,006/1,Medycyna.html
- 269. https://zapytaj.onet.pl/Category/006,014/1,Meteorologia_i_Pogoda.html
- 270. https://zapytaj.onet.pl/Category/006,018/1,Paleontologia_i_archeologia.html
- 271. https://zapytaj.onet.pl/Category/006,019/1,Przedmioty_Zawodowe.html
- 272. https://zapytaj.onet.pl/Category/006,012/1,Przyroda.html
- 273. https://zapytaj.onet.pl/Category/006,015/1,Technika.html
- 274. https://zapytaj.onet.pl/Category/006,011/1,WOS.html
- 275. https://zapytaj.onet.pl/Category/037/1,Onet.html
- 276. https://zapytaj.onet.pl/Category/037,001/1,.html
- 277. https://zapytaj.onet.pl/Category/011/1,Podroze.html
- 278. https://zapytaj.onet.pl/Category/011,004/1,Afryka.html
- 279. https://zapytaj.onet.pl/Category/011,010/1,Ameryka_Srodkowa.html
- 280. https://zapytaj.onet.pl/Category/011,001/1,Ameryka_Polnocna.html
- 281. https://zapytaj.onet.pl/Category/011,002/1,Ameryka_Poludniowa.html
- 282. https://zapytaj.onet.pl/Category/011,008/1,Antarktyda.html
- 283. https://zapytaj.onet.pl/Category/011,006/1,Australia.html
- 284. https://zapytaj.onet.pl/Category/011,005/1,Azja.html
- 285. https://zapytaj.onet.pl/Category/011,012/1,Bliski_Wschod.html
- 286. https://zapytaj.onet.pl/Category/011,003/1,Europa.html
- 287. https://zapytaj.onet.pl/Category/011,009/1,Podroze__Ogolne.html
- 288. https://zapytaj.onet.pl/Category/011,007/1,Polska.html
- 289. https://zapytaj.onet.pl/Category/011,011/1,Skandynawia.html
- 290. https://zapytaj.onet.pl/Category/011,013/1,Zakwaterowanie_i_Nocleg.html
- 291. https://zapytaj.onet.pl/Category/014/1,Polityka_i_Rzad.html
- 292. https://zapytaj.onet.pl/Category/014,011/1,Aktualne_wydarzenia.html
- 293. https://zapytaj.onet.pl/Category/014,010/1,Gospodarka.html
- 294. https://zapytaj.onet.pl/Category/014,009/1,Parlament.html
- 295. https://zapytaj.onet.pl/Category/014,001/1,Partie_i_Ugrupowania.html
- 296. https://zapytaj.onet.pl/Category/014,004/1,Polityka_Zagraniczna.html
- 297. https://zapytaj.onet.pl/Category/014,007/1,Polska.html
- 298. https://zapytaj.onet.pl/Category/014,003/1,Prawo_i_Etyka.html
- 299. https://zapytaj.onet.pl/Category/014,006/1,Prezydent.html
- 300. https://zapytaj.onet.pl/Category/014,002/1,Rzad.html
- 301. https://zapytaj.onet.pl/Category/014,008/1,Samorzad.html
- 302. https://zapytaj.onet.pl/Category/014,005/1,Unia_Europejska.html
- 303. https://zapytaj.onet.pl/Category/022/1,Praca_i_Kariera.html
- 304. https://zapytaj.onet.pl/Category/022,003/1,Kariera.html
- 305. https://zapytaj.onet.pl/Category/022,001/1,Praca.html
- 306. https://zapytaj.onet.pl/Category/022,010/1,Prace_sezonowe_i_Wakacyjne.html
- 307. https://zapytaj.onet.pl/Category/022,009/1,Praktyki_i_Staze.html
- 308. https://zapytaj.onet.pl/Category/022,005/1,Rolnictwo.html
- 309. https://zapytaj.onet.pl/Category/022,004/1,Rozwoj_Zawodowy.html
- 310. https://zapytaj.onet.pl/Category/022,008/1,Szkolenia_i_Kursy.html
- 311. https://zapytaj.onet.pl/Category/022,002/1,Wojsko.html
- 312. https://zapytaj.onet.pl/Category/022,007/1,Wolontariat.html
- 313. https://zapytaj.onet.pl/Category/022,006/1,Zarobki.html
- 314. https://zapytaj.onet.pl/Category/025/1,Prawo_Jazdy.html
- 315. https://zapytaj.onet.pl/Category/025,004/1,Egzamin__Miasto.html
- 316. https://zapytaj.onet.pl/Category/025,003/1,Egzamin__Plac.html
- 317. https://zapytaj.onet.pl/Category/025,002/1,Egzamin__Teoria.html
- 318. https://zapytaj.onet.pl/Category/025,007/1,Inne.html
- 319. https://zapytaj.onet.pl/Category/025,008/1,Karta_Rowerowa_i_Motorowerowa.html
- 320. https://zapytaj.onet.pl/Category/025,006/1,Osrodki_Egzaminacyjne.html
- 321. https://zapytaj.onet.pl/Category/025,009/1,Prawo_Jazdy__Pozostale.html
- 322. https://zapytaj.onet.pl/Category/025,005/1,Sytuacje_na_Drodze.html
- 323. https://zapytaj.onet.pl/Category/025,001/1,Szkoly_Jazdy.html
- 324. https://zapytaj.onet.pl/Category/024/1,Prezenty_i_Swieta.html
- 325. https://zapytaj.onet.pl/Category/024,006/1,Bez_okazji.html
- 326. https://zapytaj.onet.pl/Category/024,004/1,Imieniny.html
- 327. https://zapytaj.onet.pl/Category/024,008/1,Swieta__pozostale.html
- 328. https://zapytaj.onet.pl/Category/024,005/1,Mikolajki.html
- 329. https://zapytaj.onet.pl/Category/024,009/1,Prezenty__Pozostale.html
- 330. https://zapytaj.onet.pl/Category/024,002/1,Rocznice.html
- 331. https://zapytaj.onet.pl/Category/024,003/1,Urodziny.html
- 332. https://zapytaj.onet.pl/Category/024,007/1,Walentynki.html
- 333. https://zapytaj.onet.pl/Category/024,010/1,Wielkanoc_.html
- 334. https://zapytaj.onet.pl/Category/024,001/1,Wigilia.html
- 335. https://zapytaj.onet.pl/Category/031/1,Pytania_z_GG.html
- 336. https://zapytaj.onet.pl/Category/031,001/1,Nowe.html
- 337. https://zapytaj.onet.pl/Category/030/1,Regionalne.html
- 338. https://zapytaj.onet.pl/Category/030,023/1,Cala_Polska.html
- 339. https://zapytaj.onet.pl/Category/030,001/1,Dolnoslaskie.html
- 340. https://zapytaj.onet.pl/Category/030,018/1,Francja.html
- 341. https://zapytaj.onet.pl/Category/030,022/1,Hiszpania_i_Portugalia.html
- 342. https://zapytaj.onet.pl/Category/030,024/1,Holandia.html
- 343. https://zapytaj.onet.pl/Category/030,002/1,Kujawskopomorskie.html
- 344. https://zapytaj.onet.pl/Category/030,005/1,Lodzkie.html
- 345. https://zapytaj.onet.pl/Category/030,012/1,Slaskie.html
- 346. https://zapytaj.onet.pl/Category/030,003/1,Lubelskie.html
- 347. https://zapytaj.onet.pl/Category/030,004/1,Lubuskie.html
- 348. https://zapytaj.onet.pl/Category/030,013/1,Swietokrzyskie.html
- 349. https://zapytaj.onet.pl/Category/030,006/1,Malopolskie.html
- 350. https://zapytaj.onet.pl/Category/030,007/1,Mazowieckie.html
- 351. https://zapytaj.onet.pl/Category/030,021/1,Niemcy.html
- 352. https://zapytaj.onet.pl/Category/030,008/1,Opolskie.html
- 353. https://zapytaj.onet.pl/Category/030,009/1,Podkarpackie.html
- 354. https://zapytaj.onet.pl/Category/030,010/1,Podlaskie.html
- 355. https://zapytaj.onet.pl/Category/030,011/1,Pomorskie.html
- 356. https://zapytaj.onet.pl/Category/030,025/1,Szwecja.html
- 357. https://zapytaj.onet.pl/Category/030,020/1,USA_i_Kanada.html
- 358. https://zapytaj.onet.pl/Category/030,014/1,Warminskomazurskie.html
- 359. https://zapytaj.onet.pl/Category/030,017/1,Wielka_Brytania_i_Irlandia.html
- 360. https://zapytaj.onet.pl/Category/030,015/1,Wielkopolskie.html
- 361. https://zapytaj.onet.pl/Category/030,019/1,Wlochy.html
- 362. https://zapytaj.onet.pl/Category/030,016/1,Zachodniopomorskie.html
- 363. https://zapytaj.onet.pl/Category/036/1,Religia_i_wierzenia.html
- 364. https://zapytaj.onet.pl/Category/036,002/1,Religia__poglady.html
- 365. https://zapytaj.onet.pl/Category/036,001/1,Religia_wiedza.html
- 366. https://zapytaj.onet.pl/Category/036,005/1,Religie_Swiata.html
- 367. https://zapytaj.onet.pl/Category/036,004/1,Sakramenty_.html
- 368. https://zapytaj.onet.pl/Category/036,003/1,Zadania_domowe.html
- 369. https://zapytaj.onet.pl/Category/023/1,Rosliny.html
- 370. https://zapytaj.onet.pl/Category/023,001/1,Botanika__Ogolne.html
- 371. https://zapytaj.onet.pl/Category/023,002/1,Doniczkowe.html
- 372. https://zapytaj.onet.pl/Category/023,005/1,Drzewa.html
- 373. https://zapytaj.onet.pl/Category/023,008/1,Jaka_to_Roslina_.html
- 374. https://zapytaj.onet.pl/Category/023,004/1,Krzewy.html
- 375. https://zapytaj.onet.pl/Category/023,007/1,Kwiaty.html
- 376. https://zapytaj.onet.pl/Category/023,003/1,Ogrodowe.html
- 377. https://zapytaj.onet.pl/Category/023,006/1,Pielegnacja_i_Uprawa.html
- 378. https://zapytaj.onet.pl/Category/020/1,Rozrywka.html
- 379. https://zapytaj.onet.pl/Category/020,012/1,Bilety_i_Wejsciowki.html
- 380. https://zapytaj.onet.pl/Category/020,002/1,Clubbing.html
- 381. https://zapytaj.onet.pl/Category/020,010/1,Czas_wolny.html
- 382. https://zapytaj.onet.pl/Category/020,008/1,Fankluby_i_Gwiazdy.html
- 383. https://zapytaj.onet.pl/Category/020,001/1,Imprezy.html
- 384. https://zapytaj.onet.pl/Category/020,009/1,Kabarety.html
- 385. https://zapytaj.onet.pl/Category/020,011/1,Koncerty_i_Festiwale.html
- 386. https://zapytaj.onet.pl/Category/032/1,Sklepy_i_Zakupy.html
- 387. https://zapytaj.onet.pl/Category/032,013/1,Allegro.html
- 388. https://zapytaj.onet.pl/Category/032,017/1,Amazon_.html
- 389. https://zapytaj.onet.pl/Category/032,011/1,Bagaz_i_Sprzet_Sportowy.html
- 390. https://zapytaj.onet.pl/Category/032,010/1,Buty_i_Akcesoria.html
- 391. https://zapytaj.onet.pl/Category/032,008/1,Do_Domu.html
- 392. https://zapytaj.onet.pl/Category/032,006/1,Ekologiczne_Produkty.html
- 393. https://zapytaj.onet.pl/Category/032,005/1,Elektronika_RTV.html
- 394. https://zapytaj.onet.pl/Category/032,002/1,Kupno_Samochodu.html
- 395. https://zapytaj.onet.pl/Category/032,003/1,Kupno_Samochodu_Uzywanego.html
- 396. https://zapytaj.onet.pl/Category/032,004/1,Meble.html
- 397. https://zapytaj.onet.pl/Category/032,001/1,Promocje_i_Wyprzedaze.html
- 398. https://zapytaj.onet.pl/Category/032,016/1,Reklamacje_i_Zwroty.html
- 399. https://zapytaj.onet.pl/Category/032,014/1,Sklepy__Ogolne.html
- 400. https://zapytaj.onet.pl/Category/032,012/1,Styl_Scene.html
- 401. https://zapytaj.onet.pl/Category/032,009/1,Ubrania.html
- 402. https://zapytaj.onet.pl/Category/032,015/1,Zakup_Gier_i_Programow.html
- 403. https://zapytaj.onet.pl/Category/032,007/1,Zakupy_Online.html
- 404. https://zapytaj.onet.pl/Category/032,018/1,Zalando_.html
- 405. https://zapytaj.onet.pl/Category/012/1,Sport_i_Rekreacja.html
- 406. https://zapytaj.onet.pl/Category/012,023/1,Bilard_i_Snooker.html
- 407. https://zapytaj.onet.pl/Category/012,032/1,Fingerboard_i_Handboard.html
- 408. https://zapytaj.onet.pl/Category/012,009/1,Gimnastyka.html
- 409. https://zapytaj.onet.pl/Category/012,026/1,Gimnastyka_Artystyczna.html
- 410. https://zapytaj.onet.pl/Category/012,012/1,Golf.html
- 411. https://zapytaj.onet.pl/Category/012,022/1,Hokej.html
- 412. https://zapytaj.onet.pl/Category/012,013/1,Jazda_Konna.html
- 413. https://zapytaj.onet.pl/Category/012,039/1,Kajakarstwo.html
- 414. https://zapytaj.onet.pl/Category/012,020/1,Kitesurfing.html
- 415. https://zapytaj.onet.pl/Category/012,038/1,Kolarstwo.html
- 416. https://zapytaj.onet.pl/Category/012,007/1,Koszykowka.html
- 417. https://zapytaj.onet.pl/Category/012,008/1,Lekkoatletyka.html
- 418. https://zapytaj.onet.pl/Category/012,037/1,Zeglarstwo.html
- 419. https://zapytaj.onet.pl/Category/012,029/1,Zuzel.html
- 420. https://zapytaj.onet.pl/Category/012,035/1,Lucznictwo.html
- 421. https://zapytaj.onet.pl/Category/012,031/1,Lyzwiarstwo.html
- 422. https://zapytaj.onet.pl/Category/012,033/1,Nurkowanie.html
- 423. https://zapytaj.onet.pl/Category/012,027/1,Olimpiada.html
- 424. https://zapytaj.onet.pl/Category/012,021/1,Parkour.html
- 425. https://zapytaj.onet.pl/Category/012,001/1,Pilka_Nozna.html
- 426. https://zapytaj.onet.pl/Category/012,018/1,Pilka_Reczna.html
- 427. https://zapytaj.onet.pl/Category/012,004/1,Plywanie.html
- 428. https://zapytaj.onet.pl/Category/012,025/1,Rolki_i_Akcesoria.html
- 429. https://zapytaj.onet.pl/Category/012,005/1,Rower_i_Akcesoria.html
- 430. https://zapytaj.onet.pl/Category/012,002/1,Siatkowka.html
- 431. https://zapytaj.onet.pl/Category/012,017/1,Silownia.html
- 432. https://zapytaj.onet.pl/Category/012,006/1,Skateboarding.html
- 433. https://zapytaj.onet.pl/Category/012,030/1,Skoki_Narciarskie.html
- 434. https://zapytaj.onet.pl/Category/012,016/1,Sport__Pozostale.html
- 435. https://zapytaj.onet.pl/Category/012,034/1,Sportowcy.html
- 436. https://zapytaj.onet.pl/Category/012,042/1,Sporty_Druzynowe.html
- 437. https://zapytaj.onet.pl/Category/012,019/1,Sporty_Ekstremalne.html
- 438. https://zapytaj.onet.pl/Category/012,014/1,Sporty_Samochodowe.html
- 439. https://zapytaj.onet.pl/Category/012,041/1,Sporty_Towarzyskie.html
- 440. https://zapytaj.onet.pl/Category/012,010/1,Sporty_Walki.html
- 441. https://zapytaj.onet.pl/Category/012,040/1,Sporty_Wodne.html
- 442. https://zapytaj.onet.pl/Category/012,015/1,Sporty_Zimowe.html
- 443. https://zapytaj.onet.pl/Category/012,003/1,Tenis.html
- 444. https://zapytaj.onet.pl/Category/012,011/1,Windsurfing.html
- 445. https://zapytaj.onet.pl/Category/012,028/1,Wrestling.html
- 446. https://zapytaj.onet.pl/Category/012,036/1,Wspinaczka.html
- 447. https://zapytaj.onet.pl/Category/012,024/1,Wychowanie_Fizyczne_WF.html
- 448. https://zapytaj.onet.pl/Category/017/1,Sprzet_RTVAGD.html
- 449. https://zapytaj.onet.pl/Category/017,010/1,AGD.html
- 450. https://zapytaj.onet.pl/Category/017,001/1,Kino_Domowe.html
- 451. https://zapytaj.onet.pl/Category/017,006/1,Konsole_do_Gier.html
- 452. https://zapytaj.onet.pl/Category/017,009/1,Odtwarzacze_MP3_i_MP4.html
- 453. https://zapytaj.onet.pl/Category/017,007/1,Pozostala_Elektronika.html
- 454. https://zapytaj.onet.pl/Category/017,011/1,Sieci_Komorkowe.html
- 455. https://zapytaj.onet.pl/Category/017,003/1,Sprzet_Audio.html
- 456. https://zapytaj.onet.pl/Category/017,004/1,Sprzet_Fotograficzny.html
- 457. https://zapytaj.onet.pl/Category/017,005/1,Sprzet_Video.html
- 458. https://zapytaj.onet.pl/Category/017,008/1,Telefony_Komorkowe.html
- 459. https://zapytaj.onet.pl/Category/017,002/1,Telewizory.html
- 460. https://zapytaj.onet.pl/Category/015/1,Szkola_i_Edukacja.html
- 461. https://zapytaj.onet.pl/Category/015,024/1,egzamin_osmoklasisty.html
- 462. https://zapytaj.onet.pl/Category/015,023/1,Egzamin_Zawodowy_.html
- 463. https://zapytaj.onet.pl/Category/015,012/1,Ferie.html
- 464. https://zapytaj.onet.pl/Category/015,006/1,Gimnazjum.html
- 465. https://zapytaj.onet.pl/Category/015,009/1,Jezyki_obce.html
- 466. https://zapytaj.onet.pl/Category/015,018/1,Kartkowki_i_Sprawdziany.html
- 467. https://zapytaj.onet.pl/Category/015,015/1,Matura.html
- 468. https://zapytaj.onet.pl/Category/015,001/1,Nauczanie.html
- 469. https://zapytaj.onet.pl/Category/015,014/1,Nauczyciele.html
- 470. https://zapytaj.onet.pl/Category/015,008/1,Nauka_w_Domu.html
- 471. https://zapytaj.onet.pl/Category/015,011/1,Oceny.html
- 472. https://zapytaj.onet.pl/Category/015,002/1,Przedszkole.html
- 473. https://zapytaj.onet.pl/Category/015,017/1,Przybory_Szkolne.html
- 474. https://zapytaj.onet.pl/Category/015,007/1,Studia.html
- 475. https://zapytaj.onet.pl/Category/015,016/1,Szkola__Ogolne.html
- 476. https://zapytaj.onet.pl/Category/015,004/1,Szkola_Podstawowa.html
- 477. https://zapytaj.onet.pl/Category/015,022/1,Szkoly_Branzowe.html
- 478. https://zapytaj.onet.pl/Category/015,003/1,Szkoly_Srednie.html
- 479. https://zapytaj.onet.pl/Category/015,013/1,Szkoly_Muzyczne.html
- 480. https://zapytaj.onet.pl/Category/015,019/1,Szkoly_Policealne.html
- 481. https://zapytaj.onet.pl/Category/015,005/1,Szkoly_Wyzsze.html
- 482. https://zapytaj.onet.pl/Category/015,021/1,Szkoly_z_Internatem.html
- 483. https://zapytaj.onet.pl/Category/015,010/1,Wakacje.html
- 484. https://zapytaj.onet.pl/Category/015,020/1,Wybor_Szkoly.html
- 485. https://zapytaj.onet.pl/Category/002/1,Sztuka_Kultura_Ksiazki.html
- 486. https://zapytaj.onet.pl/Category/002,011/1,Architektura.html
- 487. https://zapytaj.onet.pl/Category/002,029/1,Bajki_i_basnie.html
- 488. https://zapytaj.onet.pl/Category/002,028/1,Cytaty.html
- 489. https://zapytaj.onet.pl/Category/002,021/1,Czasopisma.html
- 490. https://zapytaj.onet.pl/Category/002,003/1,Czlowiek.html
- 491. https://zapytaj.onet.pl/Category/002,030/1,Fantastyka_i_Fantasy.html
- 492. https://zapytaj.onet.pl/Category/002,002/1,Filozofia.html
- 493. https://zapytaj.onet.pl/Category/002,008/1,Fotografia.html
- 494. https://zapytaj.onet.pl/Category/002,019/1,Historia.html
- 495. https://zapytaj.onet.pl/Category/002,006/1,Inne.html
- 496. https://zapytaj.onet.pl/Category/002,023/1,Jezyk_Kaszubski.html
- 497. https://zapytaj.onet.pl/Category/002,010/1,Jezyk_Polski.html
- 498. https://zapytaj.onet.pl/Category/002,032/1,Komiksy_.html
- 499. https://zapytaj.onet.pl/Category/002,031/1,Komiksy__Tworczosc_Wlasna.html
- 500. https://zapytaj.onet.pl/Category/002,001/1,Ksiazki.html
- 501. https://zapytaj.onet.pl/Category/002,013/1,Kultura.html
- 502. https://zapytaj.onet.pl/Category/002,025/1,Lektury.html
- 503. https://zapytaj.onet.pl/Category/002,007/1,Literatura.html
- 504. https://zapytaj.onet.pl/Category/002,015/1,Obyczaje.html
- 505. https://zapytaj.onet.pl/Category/002,024/1,Plastyka.html
- 506. https://zapytaj.onet.pl/Category/002,020/1,Poezja.html
- 507. https://zapytaj.onet.pl/Category/002,026/1,Poezja__Tworczosc_Wlasna.html
- 508. https://zapytaj.onet.pl/Category/002,027/1,Proza__Tworczosc_Wlasna.html
- 509. https://zapytaj.onet.pl/Category/002,022/1,Przyslowia_i_Powiedzenia.html
- 510. https://zapytaj.onet.pl/Category/002,018/1,Psychologia.html
- 511. https://zapytaj.onet.pl/Category/002,016/1,Relacje_Miedzyludzkie.html
- 512. https://zapytaj.onet.pl/Category/002,004/1,Rysunek_i_Malarstwo.html
- 513. https://zapytaj.onet.pl/Category/002,005/1,Rzezba.html
- 514. https://zapytaj.onet.pl/Category/002,014/1,Spoleczenstwo.html
- 515. https://zapytaj.onet.pl/Category/002,009/1,Teatr_i_Spektakle.html
- 516. https://zapytaj.onet.pl/Category/002,033/1,Wiedza_.html
- 517. https://zapytaj.onet.pl/Category/002,012/1,Zjawiska_Paranormalne.html
- 518. https://zapytaj.onet.pl/Category/033/1,TO_czy_TO.html
- 519. https://zapytaj.onet.pl/Category/033,001/1,Nowe.html
- 520. https://zapytaj.onet.pl/Category/003/1,Uroda_i_Styl.html
- 521. https://zapytaj.onet.pl/Category/003,010/1,Bizuteria_i_Dodatki.html
- 522. https://zapytaj.onet.pl/Category/003,004/1,Cialo_i_Skora.html
- 523. https://zapytaj.onet.pl/Category/003,011/1,Depilacja.html
- 524. https://zapytaj.onet.pl/Category/003,006/1,Kosmetyki.html
- 525. https://zapytaj.onet.pl/Category/003,002/1,Makijaz.html
- 526. https://zapytaj.onet.pl/Category/003,005/1,Manicure_i_Pedicure.html
- 527. https://zapytaj.onet.pl/Category/003,001/1,Moda.html
- 528. https://zapytaj.onet.pl/Category/003,012/1,Na_Plaze.html
- 529. https://zapytaj.onet.pl/Category/003,008/1,Piercing_i_Tatuaze.html
- 530. https://zapytaj.onet.pl/Category/003,007/1,Uroda.html
- 531. https://zapytaj.onet.pl/Category/003,003/1,Wlosy_i_Fryzury.html
- 532. https://zapytaj.onet.pl/Category/003,009/1,Zeby_i_Usmiech.html
- 533. https://zapytaj.onet.pl/Category/035/1,Wybory.html
- 534. https://zapytaj.onet.pl/Category/035,003/1,Wybory_do_Parlamentu_Europejskiego.html
- 535. https://zapytaj.onet.pl/Category/035,004/1,Wybory_Parlamentarne.html
- 536. https://zapytaj.onet.pl/Category/035,002/1,Wybory_Prezydenckie.html
- 537. https://zapytaj.onet.pl/Category/035,001/1,Wybory_samorzadowe.html
- 538. https://zapytaj.onet.pl/Category/026/1,Zabawy_i_Konkursy.html
- 539. https://zapytaj.onet.pl/Category/026,006/1,Gry_Slowne_i_Oksymorony.html
- 540. https://zapytaj.onet.pl/Category/026,012/1,Konkurs_urodzinowy_2012.html
- 541. https://zapytaj.onet.pl/Category/026,003/1,Konkursy.html
- 542. https://zapytaj.onet.pl/Category/026,008/1,Kto_by_Wygral.html
- 543. https://zapytaj.onet.pl/Category/026,007/1,Nieprawdopodobne_Historie.html
- 544. https://zapytaj.onet.pl/Category/026,005/1,Przewidywanie_i_Wrozby.html
- 545. https://zapytaj.onet.pl/Category/026,004/1,Zabawki.html
- 546. https://zapytaj.onet.pl/Category/026,002/1,Zabawy.html
- 547. https://zapytaj.onet.pl/Category/026,001/1,Zagadki.html
- 548. https://zapytaj.onet.pl/Category/026,010/1,Zainteresowania.html
- 549. https://zapytaj.onet.pl/Category/004/1,Zdrowie.html
- 550. https://zapytaj.onet.pl/Category/004,022/1,Choroby_Cywilizacyjne_.html
- 551. https://zapytaj.onet.pl/Category/004,001/1,Choroby_i_Uzaleznienia.html
- 552. https://zapytaj.onet.pl/Category/004,005/1,Choroby_Kobiece.html
- 553. https://zapytaj.onet.pl/Category/004,006/1,Choroby_Mezczyzn.html
- 554. https://zapytaj.onet.pl/Category/004,014/1,Choroby_Psychiczne.html
- 555. https://zapytaj.onet.pl/Category/004,007/1,Ciaza_i_Porod.html
- 556. https://zapytaj.onet.pl/Category/004,013/1,Dermatologia.html
- 557. https://zapytaj.onet.pl/Category/004,003/1,Dieta_i_Kondycja.html
- 558. https://zapytaj.onet.pl/Category/004,008/1,Dojrzewanie.html
- 559. https://zapytaj.onet.pl/Category/004,023/1,Ginekologia_.html
- 560. https://zapytaj.onet.pl/Category/004,010/1,Intymnosc.html
- 561. https://zapytaj.onet.pl/Category/004,025/1,Koronawirus_COVID19.html
- 562. https://zapytaj.onet.pl/Category/004,016/1,Leki_i_Suplementy.html
- 563. https://zapytaj.onet.pl/Category/004,002/1,Medycyna_Alternatywna.html
- 564. https://zapytaj.onet.pl/Category/004,017/1,Medycyna_Naturalna.html
- 565. https://zapytaj.onet.pl/Category/004,019/1,Onkologia.html
- 566. https://zapytaj.onet.pl/Category/004,018/1,Operacje_i_Zabiegi.html
- 567. https://zapytaj.onet.pl/Category/004,015/1,Ortopedia.html
- 568. https://zapytaj.onet.pl/Category/004,012/1,Stomatologia.html
- 569. https://zapytaj.onet.pl/Category/004,020/1,Urazy_Rany_i_Kontuzje.html
- 570. https://zapytaj.onet.pl/Category/004,024/1,Urologia.html
- 571. https://zapytaj.onet.pl/Category/004,021/1,Urzadzenia_i_Sprzet_Medyczny.html
- 572. https://zapytaj.onet.pl/Category/004,011/1,Wzrok_i_Sluch.html
- 573. https://zapytaj.onet.pl/Category/004,009/1,Zaburzenia_odzywiania.html
- 574. https://zapytaj.onet.pl/Category/004,004/1,Zdrowie__Ogolne.html
- 575. https://zapytaj.onet.pl/Category/010/1,Zwierzeta.html
- 576. https://zapytaj.onet.pl/Category/010,026/1,Akwarystyka.html
- 577. https://zapytaj.onet.pl/Category/010,013/1,Bezkregowce.html
- 578. https://zapytaj.onet.pl/Category/010,018/1,Dinozaury.html
- 579. https://zapytaj.onet.pl/Category/010,004/1,Gady.html
- 580. https://zapytaj.onet.pl/Category/010,005/1,Gryzonie.html
- 581. https://zapytaj.onet.pl/Category/010,014/1,Jak_Nazwac_Zwierzaka.html
- 582. https://zapytaj.onet.pl/Category/010,023/1,Jaka_to_Rasa_Zwierzaka.html
- 583. https://zapytaj.onet.pl/Category/010,025/1,Jakie_to_Zwierze.html
- 584. https://zapytaj.onet.pl/Category/010,009/1,Konie.html
- 585. https://zapytaj.onet.pl/Category/010,002/1,Koty.html
- 586. https://zapytaj.onet.pl/Category/010,016/1,Ochrona_Zwierzat.html
- 587. https://zapytaj.onet.pl/Category/010,012/1,Owady.html
- 588. https://zapytaj.onet.pl/Category/010,024/1,Pajeczaki.html
- 589. https://zapytaj.onet.pl/Category/010,020/1,Plazy.html
- 590. https://zapytaj.onet.pl/Category/010,007/1,Pozostale_Zwierzaki.html
- 591. https://zapytaj.onet.pl/Category/010,015/1,Produkty_dla_Zwierzat.html
- 592. https://zapytaj.onet.pl/Category/010,001/1,Psy.html
- 593. https://zapytaj.onet.pl/Category/010,006/1,Ptaki.html
- 594. https://zapytaj.onet.pl/Category/010,008/1,Ryby.html
- 595. https://zapytaj.onet.pl/Category/010,021/1,Sporty_Zwierzece.html
- 596. https://zapytaj.onet.pl/Category/010,017/1,Ssaki.html
- 597. https://zapytaj.onet.pl/Category/010,027/1,Terrarystyka.html
- 598. https://zapytaj.onet.pl/Category/010,010/1,Weterynaria.html
- 599. https://zapytaj.onet.pl/Category/010,022/1,Wystawy_Zwierzat.html
- 600. https://zapytaj.onet.pl/Category/010,019/1,Zajeczaki.html
- 601. https://zapytaj.onet.pl/Category/010,011/1,Zoologia__Ogolne.html
- 602. https://zapytaj.onet.pl/Category/002,018/2,10337227,Co_daje_ci_szczescie_Czym_dla_ciebie_jest_szczescie.html
- 603. https://zapytaj.onet.pl/Zadania/zadania/index.html
- 604. https://zapytaj.onet.pl/Zadania/sciagi/index.html
- 605. https://zapytaj.onet.pl/Zadania/testy/index.html
- 606. https://zapytaj.onet.pl/Category/038/1,Szkola__zapytaj_eksperta.html
- 607. https://zapytaj.onet.pl/Category/038,003/1,Jezyk_polski.html
- 608. https://zapytaj.onet.pl/Category/038,002/1,Matematyka.html
- 609. https://zapytaj.onet.pl/Category/002,018/2,10337227,Co_daje_ci_szczescie_Czym_dla_ciebie_jest_szczescie.html
- 610. https://zapytaj.onet.pl/Category/038,002/GuidesEducational/Question,0.html
- 611. https://zapytaj.onet.pl/Category/038,003/GuidesEducational/Question,0.html
- 612. https://zapytaj.onet.pl/Category/002,018/2,10337227,Co_daje_ci_szczescie_Czym_dla_ciebie_jest_szczescie.html
- 613. https://zapytaj.onet.pl/poradniki/index.html
- 614. https://zapytaj.onet.pl/Category/0/Guides/Question,0.html
- 615. https://zapytaj.onet.pl/Guide/Topic/new.html
- 616. https://zapytaj.onet.pl/quizy/index.html
- 617. https://zapytaj.onet.pl/kluby/index.html
- 618. https://zapytaj.onet.pl/Category/002,018/2,10337227,Co_daje_ci_szczescie_Czym_dla_ciebie_jest_szczescie.html
- 619. https://zapytaj.onet.pl/Questions/hot.html
- 620. https://zapytaj.onet.pl/Guide/ranks.html
- 621. https://zapytaj.onet.pl/ranks.html
- 622. https://zapytaj.onet.pl/pojedynki/najlepsi.html
- 623. https://zapytaj.onet.pl/Category/002,018/2,10337227,Co_daje_ci_szczescie_Czym_dla_ciebie_jest_szczescie.html
- 624. https://polityka-prywatnosci.onet.pl/
- 625. https://zapytaj.onet.pl/contact.html
- 626. https://zapytaj.onet.pl/info/about.html
- 627. https://zapytaj.onet.pl/info/zasady-serwisu.html
- 628. https://zapytaj.onet.pl/pomoc
- 629. https://zapytaj.onet.pl/info/faq.html
- 630. https://zapytaj.onet.pl/wyszukiwarka/uzytkownikow.html
- 631. https://zapytaj.onet.pl/Info/warnings.html
- 632. https://zapytaj.onet.pl/rekrutacja/moderatorzy.html
- 633. https://zapytaj.onet.pl/encyklopedia/index.html
- 634. https://onlygames.io/
- 635. https://zapytaj.onet.pl/
- 636. https://zapytaj.onet.pl/register.html
- 637. https://zapytaj.onet.pl/login.html
- 638. https://zapytaj.onet.pl/Category/002,018/2,10337227,Co_daje_ci_szczescie_Czym_dla_ciebie_jest_szczescie.html
- 639. https://zapytaj.onet.pl/Category/002,018/2,10337227,Co_daje_ci_szczescie_Czym_dla_ciebie_jest_szczescie.html
- 640. https://zapytaj.onet.pl/
- 641. https://zapytaj.onet.pl/Category/002/1,Sztuka_Kultura_Ksiazki.html
- 642. https://zapytaj.onet.pl/Category/002,018/1,Psychologia.html
- 643. https://zapytaj.onet.pl/Profile/user_328408.html
- 644. https://zapytaj.onet.pl/Profile/user_328408.html
- 645. javascript:voteQuestion(10337227,1,'');
- 646. javascript:voteQuestion(10337227,0,'');
- 647. https://zapytaj.onet.pl/Category/002,018/AddAnswer,1,10337227.html
- 648. https://zapytaj.onet.pl/Category/002,018/2,17383411,_Co_daje_Ci_szczescie.html
- 649. https://zapytaj.onet.pl/Category/033,001/2,31302049,Czy_madrosc_daje_szczescie.html
- 650. https://zapytaj.onet.pl/Category/033,001/2,31302119,Czy_odwzajemniona_milosc_daje_szczescie.html
- 651. https://zapytaj.onet.pl/Category/033,001/2,31302403,Czy_odkrycie_prawdy_daje_szczescie.html
- 652. https://zapytaj.onet.pl/Category/002,002/2,25901044,Co_daje_prawdziwe_szczescie.html
- 653. https://zapytaj.onet.pl/Category/027,004/2,731882,Co_daje_Wam_szczescie.html
- 654. https://zapytaj.onet.pl/Category/001,003/2,11346659,Co_daje_ci_prawdziwe_szczescie.html
- 655. https://zapytaj.onet.pl/Category/002,002/2,23755676,Co_daje_szczescie_.html
- 656. https://zapytaj.onet.pl/Category/027,012/2,27348466,Co_daje_Ci_najwieksze_szczescie.html
- 657. https://zapytaj.onet.pl/Category/001,003/2,8837704,Co_Wam_daje_szczescie_.html
- 658. https://zapytaj.onet.pl/klub/utworz.html
- 659. https://zapytaj.onet.pl/Category/002,018/2,26466188,Jak_wyrazic_konstruktywna_krytyke_zeby_nie_obrazic_drugiego_czlowieka.html
- 660. https://zapytaj.onet.pl/Category/002,018/2,26500925,Mowa_ciala_jak_odczytac_komunikat.html
- 661. https://zapytaj.onet.pl/Category/002,018/2,26844419,Jak_zwiekszyc_pewnosc_siebie.html
- 662. https://zapytaj.onet.pl/Category/002,018/2,26774494,Mechanizmy_obronne_jaka_pelnia_funkcje_w_krytycznych_dla_nas_momentach.html
- 663. https://zapytaj.onet.pl/Category/002,018/2,26791274,Manipulacja_w_reklamie_jakim_sposobem_reklama_przyciaga_odbiorcow.html
- 664. https://zapytaj.onet.pl/Category/0/Guides/Question,0.html
- 665. https://zapytaj.onet.pl/Profile/user_638083.html
- 666. https://zapytaj.onet.pl/Profile/user_638083.html
- 667. javascript:vote(34588670,10337227,1,'');
- 668. javascript:vote(34588670,10337227,0,'');
- 669. https://zapytaj.onet.pl/Profile/user_582744.html
- 670. https://zapytaj.onet.pl/Profile/user_582744.html
- 671. javascript:vote(34520770,10337227,1,'');
- 672. javascript:vote(34520770,10337227,0,'');
- 673. https://zapytaj.onet.pl/Profile/user_897219.html
- 674. https://zapytaj.onet.pl/Profile/user_897219.html
- 675. javascript:vote(34520973,10337227,1,'');
- 676. javascript:vote(34520973,10337227,0,'');
- 677. https://zapytaj.onet.pl/Profile/user_758985.html
- 678. https://zapytaj.onet.pl/Profile/user_758985.html
- 679. javascript:vote(34521042,10337227,1,'');
- 680. javascript:vote(34521042,10337227,0,'');
- 681. https://zapytaj.onet.pl/Profile/user_758985.html
- 682. https://zapytaj.onet.pl/Profile/user_758985.html
- 683. javascript:vote(34521117,10337227,1,'');
- 684. javascript:vote(34521117,10337227,0,'');
- 685. https://zapytaj.onet.pl/Profile/user_1029925.html
- 686. https://zapytaj.onet.pl/Profile/user_1029925.html
- 687. javascript:vote(34521169,10337227,1,'');
- 688. javascript:vote(34521169,10337227,0,'');
- 689. https://zapytaj.onet.pl/Profile/user_43937.html
- 690. https://zapytaj.onet.pl/Profile/user_43937.html
- 691. javascript:vote(34521403,10337227,1,'');
- 692. javascript:vote(34521403,10337227,0,'');
- 693. https://zapytaj.onet.pl/Profile/user_735656.html
- 694. https://zapytaj.onet.pl/Profile/user_735656.html
- 695. javascript:vote(34529746,10337227,1,'');
- 696. javascript:vote(34529746,10337227,0,'');
- 697. https://zapytaj.onet.pl/Profile/user_514130.html
- 698. https://zapytaj.onet.pl/Profile/user_514130.html
- 699. javascript:vote(34535757,10337227,1,'');
- 700. javascript:vote(34535757,10337227,0,'');
- 701. https://zapytaj.onet.pl/Profile/user_944650.html
- 702. https://zapytaj.onet.pl/Profile/user_944650.html
- 703. javascript:vote(34543907,10337227,1,'');
- 704. javascript:vote(34543907,10337227,0,'');
- 705. https://zapytaj.onet.pl/Profile/user_579600.html
- 706. https://zapytaj.onet.pl/Profile/user_579600.html
- 707. javascript:vote(34544243,10337227,1,'');
- 708. javascript:vote(34544243,10337227,0,'');
- 709. https://zapytaj.onet.pl/Profile/user_1018206.html
- 710. https://zapytaj.onet.pl/Profile/user_1018206.html
- 711. javascript:vote(34546511,10337227,1,'');
- 712. javascript:vote(34546511,10337227,0,'');
- 713. https://zapytaj.onet.pl/Profile/user_912420.html
- 714. https://zapytaj.onet.pl/Profile/user_912420.html
- 715. javascript:vote(34546666,10337227,1,'');
- 716. javascript:vote(34546666,10337227,0,'');
- 717. https://zapytaj.onet.pl/Profile/user_774859.html
- 718. https://zapytaj.onet.pl/Profile/user_774859.html
- 719. javascript:void(0);
- 720. javascript:vote(34550533,10337227,1,'');
- 721. javascript:vote(34550533,10337227,0,'');
- 722. https://zapytaj.onet.pl/Profile/user_630832.html
- 723. https://zapytaj.onet.pl/Profile/user_630832.html
- 724. javascript:vote(34570159,10337227,1,'');
- 725. javascript:vote(34570159,10337227,0,'');
- 726. https://zapytaj.onet.pl/Profile/user_321919.html
- 727. https://zapytaj.onet.pl/Profile/user_321919.html
- 728. javascript:vote(34588967,10337227,1,'');
- 729. javascript:vote(34588967,10337227,0,'');
- 730. https://zapytaj.onet.pl/Profile/user_351349.html
- 731. https://zapytaj.onet.pl/Profile/user_351349.html
- 732. javascript:vote(34603656,10337227,1,'');
- 733. javascript:vote(34603656,10337227,0,'');
- 734. https://zapytaj.onet.pl/Profile/user_900971.html
- 735. https://zapytaj.onet.pl/Profile/user_900971.html
- 736. javascript:vote(34638001,10337227,1,'');
- 737. javascript:vote(34638001,10337227,0,'');
- 738. https://zapytaj.onet.pl/Profile/user_1094781.html
- 739. https://zapytaj.onet.pl/Profile/user_1094781.html
- 740. javascript:vote(36474574,10337227,1,'');
- 741. javascript:vote(36474574,10337227,0,'');
- 742. https://zapytaj.onet.pl/Profile/user_676893.html
- 743. https://zapytaj.onet.pl/Profile/user_676893.html
- 744. javascript:vote(37294726,10337227,1,'');
- 745. javascript:vote(37294726,10337227,0,'');
- 746. https://zapytaj.onet.pl/Profile/user_3118894.html
- 747. https://zapytaj.onet.pl/Profile/user_3118894.html
- 748. javascript:vote(85742931,10337227,1,'');
- 749. javascript:vote(85742931,10337227,0,'');
- 750. https://zapytaj.onet.pl/Category/005/1,Biznes_i_Finanse.html
- 751. https://zapytaj.onet.pl/Category/021/1,Dla_Doroslych.html
- 752. https://zapytaj.onet.pl/Category/009/1,Dom_i_Ogrod.html
- 753. https://zapytaj.onet.pl/Category/029/1,Gry.html
- 754. https://zapytaj.onet.pl/Category/028/1,Hobby.html
- 755. https://zapytaj.onet.pl/Category/001/1,Inne.html
- 756. https://zapytaj.onet.pl/Category/027/1,Ja_i_O_Mnie.html
- 757. https://zapytaj.onet.pl/Category/016/1,Jedzenie_i_Napoje.html
- 758. https://zapytaj.onet.pl/Category/007/1,Komputery_i_Internet.html
- 759. https://zapytaj.onet.pl/Category/034/1,Magia.html
- 760. https://zapytaj.onet.pl/Category/008/1,Milosc_i_Relacje.html
- 761. https://zapytaj.onet.pl/Category/018/1,Motoryzacja_i_Lotnictwo.html
- 762. https://zapytaj.onet.pl/Category/019/1,Muzyka_i_Film.html
- 763. https://zapytaj.onet.pl/Category/006/1,Nauki.html
- 764. https://zapytaj.onet.pl/Category/037/1,Onet.html
- 765. https://zapytaj.onet.pl/Category/011/1,Podroze.html
- 766. https://zapytaj.onet.pl/Category/014/1,Polityka_i_Rzad.html
- 767. https://zapytaj.onet.pl/Category/022/1,Praca_i_Kariera.html
- 768. https://zapytaj.onet.pl/Category/025/1,Prawo_Jazdy.html
- 769. https://zapytaj.onet.pl/Category/024/1,Prezenty_i_Swieta.html
- 770. https://zapytaj.onet.pl/Category/031/1,Pytania_z_GG.html
- 771. https://zapytaj.onet.pl/Category/030/1,Regionalne.html
- 772. https://zapytaj.onet.pl/Category/036/1,Religia_i_wierzenia.html
- 773. https://zapytaj.onet.pl/Category/023/1,Rosliny.html
- 774. https://zapytaj.onet.pl/Category/020/1,Rozrywka.html
- 775. https://zapytaj.onet.pl/Category/032/1,Sklepy_i_Zakupy.html
- 776. https://zapytaj.onet.pl/Category/012/1,Sport_i_Rekreacja.html
- 777. https://zapytaj.onet.pl/Category/017/1,Sprzet_RTVAGD.html
- 778. https://zapytaj.onet.pl/Category/038/1,Szkola__zapytaj_eksperta.html
- 779. https://zapytaj.onet.pl/Category/015/1,Szkola_i_Edukacja.html
- 780. https://zapytaj.onet.pl/Category/002/1,Sztuka_Kultura_Ksiazki.html
- 781. https://zapytaj.onet.pl/Category/033/1,TO_czy_TO.html
- 782. https://zapytaj.onet.pl/Category/003/1,Uroda_i_Styl.html
- 783. https://zapytaj.onet.pl/Category/035/1,Wybory.html
- 784. https://zapytaj.onet.pl/Category/026/1,Zabawy_i_Konkursy.html
- 785. https://zapytaj.onet.pl/Category/004/1,Zdrowie.html
- 786. https://zapytaj.onet.pl/Category/010/1,Zwierzeta.html
- 787. https://zapytaj.onet.pl/info/about.html
- 788. https://zapytaj.onet.pl/info/conditions.html
- 789. https://polityka-prywatnosci.onet.pl/
- 790. https://zapytaj.onet.pl/contact.html
- 791. https://zapytaj.onet.pl/reklama.html
- 792. https://zapytaj.onet.pl/pomoc
- 793. https://programtv.onet.pl/
- 794. https://zapytaj.onet.pl/akt-uslugi-cyfrowe
- 795. https://zapytaj.onet.pl/info/about.html
- 796. https://zapytaj.onet.pl/info/conditions.html
- 797. https://polityka-prywatnosci.onet.pl/
- 798. https://zapytaj.onet.pl/contact.html
- 799. https://zapytaj.onet.pl/reklama.html
- 800. https://zapytaj.onet.pl/pomoc
- 801. https://zapytaj.onet.pl/akt-uslugi-cyfrowe
- 802. https://support.google.com/chrome/answer/3220216?co=GENIE.Platform=Desktop&hl=pl
- 803. https://support.apple.com/pl-pl/guide/safari/sfri40734/mac
- 804. https://support.microsoft.com/pl-pl/windows/zmienianie-ustawień-powiadomień-w-systemie-windows-10-ddcbbcd4-0a02-f6e4-fe14-6766d850f294
- 805. https://support.mozilla.org/pl/kb/powiadomienia-web-push-firefox
-
-   Hidden links:
- 807. https://zapytaj.onet.pl/Category/002,018/2,10337227,Co_daje_ci_szczescie_Czym_dla_ciebie_jest_szczescie.html
- 808. https://zapytaj.onet.pl/
- 809. javascript:void(0);
- 810. javascript:void(0)
+   przeglądarki, np. dla Chrome, Safari, Edge lub Firefox

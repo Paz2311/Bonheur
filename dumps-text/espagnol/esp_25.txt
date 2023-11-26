@@ -1,113 +1,112 @@
-   #[1]Noticias [2]Changelog [3]Devblog [4]alternate [5]alternate
-   [6]alternate
+   #Noticias Changelog Devblog alternate alternate alternate
 
-   [7]Soporte
-   [8]Conexión Avatar [9]Inscripción
-   [10]FR [11]EN [12]ES [13]PT
+   Soporte
+   Conexión Avatar Inscripción
+   FR EN ES PT
 
-   [14]Ankama
-     * [15]juego
-     * [16]transmedia
-     * [17]Actualidad
+   Ankama
+     * juego
+     * transmedia
+     * Actualidad
 
-     * [18]comprar kamas
-     * [19]Foros
-     * [20]Tienda
+     * comprar kamas
+     * Foros
+     * Tienda
 
-   [21]Conexión Avatar [22]Inscripción
+   Conexión Avatar Inscripción
    búsqueda..._________
    [BUTTON Input] (not implemented)__
 
-     * [23]Descarga el juego
-     * [24]Crear una cuenta
-     * [25]Ventajas apadrinamiento
-     * [26]CÓDIGO DE REGALO
-     * [27]Enciclopedia
-     * [28]Directorios
-     * [29]Clasificación
-     * [30]Almanax
+     * Descarga el juego
+     * Crear una cuenta
+     * Ventajas apadrinamiento
+     * CÓDIGO DE REGALO
+     * Enciclopedia
+     * Directorios
+     * Clasificación
+     * Almanax
 
-     * [31]Cómo jugar
-          + [32]Descubrir
-          + [33]Clases
-          + [34]Aprende a jugar
-          + [35]Ligas Koliseo
-          + [36]Estado de los servidores
+     * Cómo jugar
+          + Descubrir
+          + Clases
+          + Aprende a jugar
+          + Ligas Koliseo
+          + Estado de los servidores
 
-     * [37]ventajas abonados
-          + [38]las ventajas del abono
-          + [39]RECOMPENSAS A LA VETERANÍA
-          + [40]DOFUS Retro
+     * ventajas abonados
+          + las ventajas del abono
+          + RECOMPENSAS A LA VETERANÍA
+          + DOFUS Retro
 
-     * [41]ANKAMA LAUNCHER
-     * [42]Comprar productos de promoción
-     * [43]Edición
-     * [44]videojuegos
+     * ANKAMA LAUNCHER
+     * Comprar productos de promoción
+     * Edición
+     * videojuegos
 
-     * [45]Juegos de mesa
-          + [46]Krosmaster Blast
-          + [47]Dofus Krosmaster
-          + [48]Brother
-     * [49]Animación
-          + [50]La película
-          + [51]La serie
+     * Juegos de mesa
+          + Krosmaster Blast
+          + Dofus Krosmaster
+          + Brother
+     * Animación
+          + La película
+          + La serie
 
-     * [52]Multimedia
-          + [53]Vídeos
-          + [54]Capturas de pantalla
-          + [55]Ilustraciones
-          + [56]Emisiones
-          + [57]Fondos de pantalla
+     * Multimedia
+          + Vídeos
+          + Capturas de pantalla
+          + Ilustraciones
+          + Emisiones
+          + Fondos de pantalla
 
-     * [58]Descubrir la última actualización
-     * [59]Todas las noticias
-     * [60]Todos los devblogs
-     * [61]Todas las actualizaciones (changelog)
+     * Descubrir la última actualización
+     * Todas las noticias
+     * Todos los devblogs
+     * Todas las actualizaciones (changelog)
 
-   [62]FR [63]EN [64]ES [65]PT
+   FR EN ES PT
 
    búsqueda..._________ Submit
 
-   [66]FR [67]EN [68]ES [69]PT
-   [70]Soporte
+   FR EN ES PT
+   Soporte
 
-   [71]MMORPG
-   [72]Foro
-   [73]ASUNTOS DE LA COMUNIDAD (Noticias, Concursos, Eventos y más...)
-   [74]Charlas Generales
-   [75]¡Jugar!
+   MMORPG
+   Foro
+   ASUNTOS DE LA COMUNIDAD (Noticias, Concursos, Eventos y más...)
+   Charlas Generales
+   ¡Jugar!
 
    Explorar los foros
    [|— Charlas Generales____________________________________________________
    _____________...]
    Rastreadores de Ankama
    [Elegir un rastreador]
-   Resultado : 3006
+   Resultado : 3007
 
 ¡El doble de felicidad!
 
-   Por [76]#[eL-TuX]#4347 30 de Mayo de 2012 16:56:10
+   Por #[eL-TuX]#4347 30 de Mayo de 2012 16:56:10
 
-     * [77]«
-     * [78]‹
-     * [79]1
-     * [80]2
-     * [81]3
-     * [82]4
-     * [83]›
-     * [84]»
+     * «
+     * ‹
+     * 1
+     * 2
+     * 3
+     * 4
+     * ›
+     * »
 
-     * [85]«
-     * [86]‹
+     * «
+     * ‹
      * [2]
-     * [87]›
-     * [88]»
+     * ›
+     * »
 
    Reacciones 60
    [Ordenar comentarios....]
    [BUTTON Input] (not implemented)_________
    Resultado : 7044
-   [89]Broderack#7395 - ANTIGUO ABONADO - 31 de Mayo de 2012 23:38:52
+   Broderack#7395 - ANTIGUO ABONADO - 31 de Mayo de 2012 23:38:52
 
    Aún espero la posibilidad de conseguir un resumen/traducción del tomo
    6, o simplemente conseguir uno en español, ya que debido a los estudios
@@ -115,130 +114,130 @@
    Sigo sin poder leer del 7 al 10, y pensar que los tengo acá guardados
    juntando polvo :C
    (plus) 0 (minus) 0
-   [90]Responder
+   Responder
    (BUTTON)
-     * [91]Enlace directo
-     * [92]Compartir en Facebook
-     * [93]Compartir en Twitter
+     * Enlace directo
+     * Compartir en Facebook
+     * Compartir en Twitter
 
    Resultado : 106
-   [94]mikusaceo#6096 - ANTIGUO ABONADO - 31 de Mayo de 2012 23:46:29
+   mikusaceo#6096 - ANTIGUO ABONADO - 31 de Mayo de 2012 23:46:29
 
    se me acumulan los mangas me tengo que comprar el 10 11 12 y 13 me
    faltan 4 por comprar -.-
    (plus) 0 (minus) 0
-   [95]Responder
+   Responder
    (BUTTON)
-     * [96]Enlace directo
-     * [97]Compartir en Facebook
-     * [98]Compartir en Twitter
+     * Enlace directo
+     * Compartir en Facebook
+     * Compartir en Twitter
 
    Resultado : 75
-   [99]lindyurita#3885 31 de Mayo de 2012 23:54:36
+   lindyurita#3885 31 de Mayo de 2012 23:54:36
 
    jeje ami solo me faltan dos jejejeje el 12 y el 13
    (plus) 0 (minus) 0
-   [100]Responder
+   Responder
    (BUTTON)
-     * [101]Enlace directo
-     * [102]Compartir en Facebook
-     * [103]Compartir en Twitter
+     * Enlace directo
+     * Compartir en Facebook
+     * Compartir en Twitter
 
    Resultado : 11
-   [104]darmocitox#7312 01 de Junio de 2012 00:14:39
+   darmocitox#7312 01 de Junio de 2012 00:14:39
 
    yo tengo de la manga 1 a la 10 soy de valencia venezuela siempre venden
    esas mangan cuando hacen ferias del libro como a 120 o 130bfs c/u
    (plus) 0 (minus) 0
-   [105]Responder
+   Responder
    (BUTTON)
-     * [106]Enlace directo
-     * [107]Compartir en Facebook
-     * [108]Compartir en Twitter
+     * Enlace directo
+     * Compartir en Facebook
+     * Compartir en Twitter
 
    Resultado : 42
-   [109]AngeelMartiinez#9926 01 de Junio de 2012 00:16:43
+   AngeelMartiinez#9926 01 de Junio de 2012 00:16:43
 
    Yo soy de venezuela caracas y nunca eh comprado uno por que no se donde
    las venden ...
    (plus) 0 (minus) 0
-   [110]Responder
+   Responder
    (BUTTON)
-     * [111]Enlace directo
-     * [112]Compartir en Facebook
-     * [113]Compartir en Twitter
+     * Enlace directo
+     * Compartir en Facebook
+     * Compartir en Twitter
 
    Resultado : 28
-   [114]faliparsooooooo#4423 01 de Junio de 2012 00:22:15
+   faliparsooooooo#4423 01 de Junio de 2012 00:22:15
 
    En uruguay nunk venden mas especifico montevideo
    (plus) 0 (minus) 0
-   [115]Responder
+   Responder
    (BUTTON)
-     * [116]Enlace directo
-     * [117]Compartir en Facebook
-     * [118]Compartir en Twitter
+     * Enlace directo
+     * Compartir en Facebook
+     * Compartir en Twitter
 
    Resultado : 3
-   [119]fallen-black#1771 01 de Junio de 2012 00:27:29
+   fallen-black#1771 01 de Junio de 2012 00:27:29
 
    tan bien quiero comprar pero estaria mejor que los vinieran a vender a
    qui en xalapa
    (plus) 0 (minus) 0
-   [120]Responder
+   Responder
    (BUTTON)
-     * [121]Enlace directo
-     * [122]Compartir en Facebook
-     * [123]Compartir en Twitter
+     * Enlace directo
+     * Compartir en Facebook
+     * Compartir en Twitter
 
    Resultado : 16
-   [124]phamton69#3464 - ANTIGUO ABONADO - 01 de Junio de 2012 01:18:02
+   phamton69#3464 - ANTIGUO ABONADO - 01 de Junio de 2012 01:18:02
 
    espero no molestar con esta regunta pero donde puedo compra los
    productos en mexico, principalmente en puebla
    (plus) 0 (minus) 0
-   [125]Responder
+   Responder
    (BUTTON)
-     * [126]Enlace directo
-     * [127]Compartir en Facebook
-     * [128]Compartir en Twitter
+     * Enlace directo
+     * Compartir en Facebook
+     * Compartir en Twitter
 
    Resultado : 4
-   [129]sdggvw#6614 01 de Junio de 2012 01:23:34
+   sdggvw#6614 01 de Junio de 2012 01:23:34
 
    nesesito un moredador que me basiaron todas mi cuenta urgente
    (plus) 0 (minus) 0
-   [130]Responder
+   Responder
    (BUTTON)
-     * [131]Enlace directo
-     * [132]Compartir en Facebook
-     * [133]Compartir en Twitter
+     * Enlace directo
+     * Compartir en Facebook
+     * Compartir en Twitter
 
    Resultado : 2
-   [134]Emito21#6528 01 de Junio de 2012 02:37:45
+   Emito21#6528 01 de Junio de 2012 02:37:45
 
    oe saes qe me robaron todo de mi cuenta D:
    (plus) 0 (minus) 0
-   [135]Responder
+   Responder
    (BUTTON)
-     * [136]Enlace directo
-     * [137]Compartir en Facebook
-     * [138]Compartir en Twitter
+     * Enlace directo
+     * Compartir en Facebook
+     * Compartir en Twitter
 
    Resultado : 20
-   [139]26542#3531 - ABONADO - 01 de Junio de 2012 03:04:32
+   26542#3531 - ABONADO - 01 de Junio de 2012 03:04:32
 
    ami me han robado tambien, yo tenta lucha que cojo para conseguir
    algo!!!
    (plus) 0 (minus) 0
-   [140]Responder
+   Responder
    (BUTTON)
-     * [141]Enlace directo
-     * [142]Compartir en Facebook
-     * [143]Compartir en Twitter
+     * Enlace directo
+     * Compartir en Facebook
+     * Compartir en Twitter
 
    Resultado : 68
-   [144]SSTTIIVVEENN#8817 01 de Junio de 2012 03:11:43
+   SSTTIIVVEENN#8817 01 de Junio de 2012 03:11:43
 
    me imagino q se metieron a un link de un man q decía q lo ayudaran a
    conseguir el pavo emplumado o cosas así colocando un supuesto mensaje
@@ -246,26 +245,25 @@
    PD: se q esto no es lugar para habar de eso así q de antemano les pido
    disculpas
    (plus) 0 (minus) 0
-   [145]Responder
+   Responder
    (BUTTON)
-     * [146]Enlace directo
-     * [147]Compartir en Facebook
-     * [148]Compartir en Twitter
+     * Enlace directo
+     * Compartir en Facebook
+     * Compartir en Twitter
 
    Resultado : 34
-   [149]elnanolepone1996#6353 - ANTIGUO ABONADO - 01 de Junio de 2012
-   03:13:46
+   elnanolepone1996#6353 - ANTIGUO ABONADO - 01 de Junio de 2012 03:13:46
 
    saquen tienda de dofus para chile porfa
    (plus) 0 (minus) 0
-   [150]Responder
+   Responder
    (BUTTON)
-     * [151]Enlace directo
-     * [152]Compartir en Facebook
-     * [153]Compartir en Twitter
+     * Enlace directo
+     * Compartir en Facebook
+     * Compartir en Twitter
 
    Resultado : 147
-   [154]campurusito#9572 - ABONADO - 01 de Junio de 2012 03:25:37
+   campurusito#9572 - ABONADO - 01 de Junio de 2012 03:25:37
 
    para los que son de venezuela los ladrones de NACHO Y TECNI-CIENCIAS
    venden a casi 20 euros (euro negro) el manga de dofus, a cambio oficial
@@ -273,99 +271,99 @@
    ESO ME GUSTARIA UN EVENTO AQUI EN CARACAS YA LO HEMOS POSTEADO en
    pideme la luna venezuela
    (plus) 0 (minus) 0
-   [155]Responder
+   Responder
    (BUTTON)
-     * [156]Enlace directo
-     * [157]Compartir en Facebook
-     * [158]Compartir en Twitter
+     * Enlace directo
+     * Compartir en Facebook
+     * Compartir en Twitter
 
    Resultado : 503
-   [159]otakuuu#3008 01 de Junio de 2012 03:27:25
+   otakuuu#3008 01 de Junio de 2012 03:27:25
 
    El único problema es que para que valga la pena el envió a México
    necesitaría pedir todo haha angry
    (plus) 0 (minus) 0
-   [160]Responder
+   Responder
    (BUTTON)
-     * [161]Enlace directo
-     * [162]Compartir en Facebook
-     * [163]Compartir en Twitter
+     * Enlace directo
+     * Compartir en Facebook
+     * Compartir en Twitter
 
    Resultado : 34
-   [164]Blaack-demon#5865 01 de Junio de 2012 05:59:46
+   Blaack-demon#5865 01 de Junio de 2012 05:59:46
 
    colombia biggrin
    (plus) 0 (minus) 0
-   [165]Responder
+   Responder
    (BUTTON)
-     * [166]Enlace directo
-     * [167]Compartir en Facebook
-     * [168]Compartir en Twitter
+     * Enlace directo
+     * Compartir en Facebook
+     * Compartir en Twitter
 
    Resultado : 5
-   [169]circooloco#9400 01 de Junio de 2012 06:35:36
+   circooloco#9400 01 de Junio de 2012 06:35:36
 
    espero q vengan a uruguay vengan
    (plus) 0 (minus) 0
-   [170]Responder
+   Responder
    (BUTTON)
-     * [171]Enlace directo
-     * [172]Compartir en Facebook
-     * [173]Compartir en Twitter
+     * Enlace directo
+     * Compartir en Facebook
+     * Compartir en Twitter
 
    Resultado : 1030
-   [174]MACATRANDO#6911 01 de Junio de 2012 10:29:46
+   MACATRANDO#6911 01 de Junio de 2012 10:29:46
 
    jjejje bueno vere si las compro
    Saludos
    [Tuxmeme.jpg]
 
    (plus) 0 (minus) 0
-   [175]Responder
+   Responder
    (BUTTON)
-     * [176]Enlace directo
-     * [177]Compartir en Facebook
-     * [178]Compartir en Twitter
+     * Enlace directo
+     * Compartir en Facebook
+     * Compartir en Twitter
 
    Resultado : 49
-   [179]x-Werewolf-x#3803 01 de Junio de 2012 13:16:59
+   x-Werewolf-x#3803 01 de Junio de 2012 13:16:59
 
    Apoyo a "campurusito" Deberían hacer un evento en Venezuela! Aquí los
    seguidores de algo no les importaría desplazarse de un estado a otro,
    solo para ir a una convención de algo que les gusta. Somos muchos los
    Venezolanos jugadores de dofus, que deseamos que Ankama nos visite!
    (plus) 0 (minus) 0
-   [180]Responder
+   Responder
    (BUTTON)
-     * [181]Enlace directo
-     * [182]Compartir en Facebook
-     * [183]Compartir en Twitter
+     * Enlace directo
+     * Compartir en Facebook
+     * Compartir en Twitter
 
    Resultado : 5
-   [184]fubuki55#8633 01 de Junio de 2012 13:29:25
+   fubuki55#8633 01 de Junio de 2012 13:29:25
 
    XxfubukixX quien quiera peliar com migo
    (plus) 0 (minus) 0
-   [185]Responder
+   Responder
    (BUTTON)
-     * [186]Enlace directo
-     * [187]Compartir en Facebook
-     * [188]Compartir en Twitter
+     * Enlace directo
+     * Compartir en Facebook
+     * Compartir en Twitter
 
-     * [189]«
-     * [190]‹
-     * [191]1
-     * [192]2
-     * [193]3
-     * [194]4
-     * [195]›
-     * [196]»
+     * «
+     * ‹
+     * 1
+     * 2
+     * 3
+     * 4
+     * ›
+     * »
 
-     * [197]«
-     * [198]‹
+     * «
+     * ‹
      * [2]
-     * [199]›
-     * [200]»
+     * ›
+     * »
 
    Responder a este tema
    [BUTTON Input] (not implemented)_________
@@ -374,170 +372,168 @@
    [BUTTON Input] (not implemented)_____
    Rastreadores de Ankama
    [Elegir un rastreador]
-   [201]Todos los temas
+   Todos los temas
    Categorías
-     * [202]NOVEDADES Y CAMBIOS OFICIALES
-          + [203]Informaciones y Anuncios Ankama Games
-          + [204]Informaciones y Noticias de Dofus Retro
-          + [205]Diario de Ankama
-          + [206]ASK Ankama
-          + [207]DOFUS Lab
+     * NOVEDADES Y CAMBIOS OFICIALES
+          + Informaciones y Anuncios Ankama Games
+          + Informaciones y Noticias de Dofus Retro
+          + Diario de Ankama
+          + ASK Ankama
+          + DOFUS Lab
 
-     * [208]ASUNTOS DE LA COMUNIDAD (Noticias, Concursos, Eventos y
-       más...)
-          + [209]Charlas Generales
-          + [210]La Feria del Trool (Eventos y Concursos de Ankama Games)
-               o [211]Eventos en curso
-               o [212]Participaciones de eventos
-               o [213]Ganadores de los eventos
-               o [214]Eventos antiguos
-          + [215]La Torre de los Búhos Sabios (¿Preguntas'? ¿Dudas?)
-          + [216]Streamers HispaÑia
-               o [217]Presentación de los Streamers
-               o [218]Guías y actualizaciones
-               o [219]Batallas
-               o [220]Off topic
-               o [221]Torneos Oficiales
-                    # [222]Copa Dofus 2017
-                    # [223]DOFUS World Series 2017
-          + [224]Miss y Míster Mundo de los Doce
-               o [225]2023
-               o [226]2020
-               o [227]2019
-          + [228]Koliseo Interservidor (KIS)
-          + [229]Torneos
+     * ASUNTOS DE LA COMUNIDAD (Noticias, Concursos, Eventos y más...)
+          + Charlas Generales
+          + La Feria del Trool (Eventos y Concursos de Ankama Games)
+               o Eventos en curso
+               o Participaciones de eventos
+               o Ganadores de los eventos
+               o Eventos antiguos
+          + La Torre de los Búhos Sabios (¿Preguntas'? ¿Dudas?)
+          + Streamers HispaÑia
+               o Presentación de los Streamers
+               o Guías y actualizaciones
+               o Batallas
+               o Off topic
+               o Torneos Oficiales
+                    # Copa Dofus 2017
+                    # DOFUS World Series 2017
+          + Miss y Míster Mundo de los Doce
+               o 2023
+               o 2020
+               o 2019
+          + Koliseo Interservidor (KIS)
+          + Torneos
 
-     * [230]LOS SECRETOS DEL JUEGO (Mazmorras, Emotes, Clases, Artesanía y
+     * LOS SECRETOS DEL JUEGO (Mazmorras, Emotes, Clases, Artesanía y
        mas…)
-          + [231]DOFUPEDIA
-               o [232]General
-               o [233]Las Mazmorras
-               o [234]Misiones
-               o [235]Actitudes
-               o [236]Recetas secretas
-          + [237]Las Clases
-               o [238]Aniripsa
-               o [239]Anutrof
-               o [240]Feca
-               o [241]Hipermago
-               o [242]Ocra
-               o [243]Osamodas
-               o [244]Pandawa
-               o [245]Sacrógrito
-               o [246]Sadida
-               o [247]Selotrop
-               o [248]Sram
-               o [249]Steamer
-               o [250]Uginak
-               o [251]Tymador
-               o [252]Xelor
-               o [253]Yopuka
-               o [254]Zobal
-               o [255]Zurcarák
-          + [256]Artesanado
+          + DOFUPEDIA
+               o General
+               o Las Mazmorras
+               o Misiones
+               o Actitudes
+               o Recetas secretas
+          + Las Clases
+               o Aniripsa
+               o Anutrof
+               o Feca
+               o Hipermago
+               o Ocra
+               o Osamodas
+               o Pandawa
+               o Sacrógrito
+               o Sadida
+               o Selotrop
+               o Sram
+               o Steamer
+               o Uginak
+               o Tymador
+               o Xelor
+               o Yopuka
+               o Zobal
+               o Zurcarák
+          + Artesanado
 
-     * [257]LA MILICIA DE FRIGOST (El lugar de los aventureros y
-       aventureras)
-          + [258]El Koliseo de Cania (Jugadores)
-               o [259]Mesa Redonda: Debates públicos
-               o [260]El Territorio de los Monocuentas
-               o [261]Buzón de sugerencias
-          + [262]La Taberna de Amakna
-               o [263]Taberna general
-               o [264]Música en la taberna
-               o [265]Cine, series y animé
-               o [266]Deportes
-               o [267]Fenómenos y/o cosas extrañas
-               o [268]La vuelta al mundo
-               o [269]La pluma de la taberna
-          + [270]La Leonera del Rolista
-          + [271]El Atelier de los fanarteros (Fan Art)
-               o [272]Fan-Art General
-               o [273]Museos y galerías
-               o [274]Comics y mangas
-               o [275]Rol fanart
-               o [276]Cosplay, manualidades, firmas y otros
-               o [277]El baúl de los recuerdos
-          + [278]El Zaap de Astrub (Off-Topic)
-               o [279]El rincón del Tio Not (Off-topic)
-          + [280]DOFUS Manga
+     * LA MILICIA DE FRIGOST (El lugar de los aventureros y aventureras)
+          + El Koliseo de Cania (Jugadores)
+               o Mesa Redonda: Debates públicos
+               o El Territorio de los Monocuentas
+               o Buzón de sugerencias
+          + La Taberna de Amakna
+               o Taberna general
+               o Música en la taberna
+               o Cine, series y animé
+               o Deportes
+               o Fenómenos y/o cosas extrañas
+               o La vuelta al mundo
+               o La pluma de la taberna
+          + La Leonera del Rolista
+          + El Atelier de los fanarteros (Fan Art)
+               o Fan-Art General
+               o Museos y galerías
+               o Comics y mangas
+               o Rol fanart
+               o Cosplay, manualidades, firmas y otros
+               o El baúl de los recuerdos
+          + El Zaap de Astrub (Off-Topic)
+               o El rincón del Tio Not (Off-topic)
+          + DOFUS Manga
 
-     * [281]LOS MUNDOS DE HISPAÑIA (Entérate de los sucesos de cada
-       servidor de nuestra comunidad)
-          + [282]Tal Kasha
-               o [283]Discusiones generales
-               o [284]Alianzas y Gremios
-               o [285]Busco grupo y comercio
-          + [286]Servidor Épico
-               o [287]Gremios y alianzas
-               o [288]Discusiones Generales
-          + [289]Servidores Retro
-               o [290]Servidores Retro
-               o [291]La Llanura de Eratz
-                    # [292]Eratz
-                    # [293]Busco grupo y comercio ERA
-               o [294]El Reloj dorado de Henual
-                    # [295]El reloj de HENUAL
-                         @ [296]El reloj de HENUAL
-                    # [297]Gremios y General HEN
-               o [298]Los 2 grandes de retro
-          + [299]Servidores antiguos
-               o [300]La Isla de ALMA
-                    # [301]Gremios ALM
-                    # [302]Alianzas ALM
-                    # [303]Busco grupo y comercio ALM
-                    # [304]Mercenarios: Tercio de Alma
-               o [305]La Caverna de AGUABRIAL
-                    # [306]Gremios AGU
-                    # [307]Alianzas AGU
-                    # [308]Busco grupo y comercio AGU
-               o [309]El Escondrijo de TINIEBLAS
-                    # [310]Gremios TIN
-                    # [311]Alianzas TIN
-                    # [312]Busco grupo y comercio TIN
-               o [313]El Castigo de EDASS
-                    # [314]Gremios EDA
-                    # [315]Alianzas EDA
-                    # [316]Busco Grupo y comercio EDA
-               o [317]La Guarida de NOMEKOP
-                    # [318]Gremios NOM
-                    # [319]Alianzas NOM
-                    # [320]Busco grupo y comercio NOM
-               o [321]El Paraíso de BOLGROT
-                    # [322]Gremios BOL
-                    # [323]Alianzas BOL
-                    # [324]Busco grupo y comercio BOL
-               o [325]La Biblioteca de BUHORADO
-                    # [326]Gremios BUH
-                    # [327]Alianzas BUH
-                    # [328]Busco grupo y comercio BUH
-          + [329]Servidores MonoCuenta
-               o [330]Discusiones generales
-          + [331]Servidores Temporales
-          + [332]Servidores Beta
-               o [333]Beta servidores Retro
-                    # [334]Discusiones generales
-                    # [335]Reporte de Bugs
+     * LOS MUNDOS DE HISPAÑIA (Entérate de los sucesos de cada servidor de
+       nuestra comunidad)
+          + Tal Kasha
+               o Discusiones generales
+               o Alianzas y Gremios
+               o Busco grupo y comercio
+          + Servidor Épico
+               o Gremios y alianzas
+               o Discusiones Generales
+          + Servidores Retro
+               o Servidores Retro
+               o La Llanura de Eratz
+                    # Eratz
+                    # Busco grupo y comercio ERA
+               o El Reloj dorado de Henual
+                    # El reloj de HENUAL
+                         @ El reloj de HENUAL
+                    # Gremios y General HEN
+               o Los 2 grandes de retro
+          + Servidores antiguos
+               o La Isla de ALMA
+                    # Gremios ALM
+                    # Alianzas ALM
+                    # Busco grupo y comercio ALM
+                    # Mercenarios: Tercio de Alma
+               o La Caverna de AGUABRIAL
+                    # Gremios AGU
+                    # Alianzas AGU
+                    # Busco grupo y comercio AGU
+               o El Escondrijo de TINIEBLAS
+                    # Gremios TIN
+                    # Alianzas TIN
+                    # Busco grupo y comercio TIN
+               o El Castigo de EDASS
+                    # Gremios EDA
+                    # Alianzas EDA
+                    # Busco Grupo y comercio EDA
+               o La Guarida de NOMEKOP
+                    # Gremios NOM
+                    # Alianzas NOM
+                    # Busco grupo y comercio NOM
+               o El Paraíso de BOLGROT
+                    # Gremios BOL
+                    # Alianzas BOL
+                    # Busco grupo y comercio BOL
+               o La Biblioteca de BUHORADO
+                    # Gremios BUH
+                    # Alianzas BUH
+                    # Busco grupo y comercio BUH
+          + Servidores MonoCuenta
+               o Discusiones generales
+          + Servidores Temporales
+          + Servidores Beta
+               o Beta servidores Retro
+                    # Discusiones generales
+                    # Reporte de Bugs
 
-     * [336]LA ZONA TÉCNICA Y DE REPARACIONES
-          + [337]Problemas y Soluciones Técnicas
-          + [338]Reporte de Bugs
-          + [339]As bisto una rata ?
-          + [340]Problemas ya resueltos
-          + [341]Ankama Launcher
-          + [342]Dofus 2 Beta
-               o [343]Discusiones Generales
-               o [344]Reportes de Bugs
-                    # [345]2.70: El antro de la leyenda
+     * LA ZONA TÉCNICA Y DE REPARACIONES
+          + Problemas y Soluciones Técnicas
+          + Reporte de Bugs
+          + As bisto una rata ?
+          + Problemas ya resueltos
+          + Ankama Launcher
+          + Dofus 2 Beta
+               o Discusiones Generales
+               o Reportes de Bugs
+                    # 2.70: El antro de la leyenda
 
-     * [346]PAPELERA
-          + [347]Papelera de Reciclaje
+     * PAPELERA
+          + Papelera de Reciclaje
 
    ¿Tienes algún problema?
-     * [348]Asistencia de Ankama
-     * [349]Reglas del foro
+     * Asistencia de Ankama
+     * Reglas del foro
 
-   [350][generic-dofus-ad-es.jpg]
+   [generic-dofus-ad-es.jpg]
 
    el juego DOFUS
    Descargar el juego Enciclopedia Tienda Foro DOFUS Compra de kamas
@@ -548,11 +544,11 @@
    cuenta
    SOPORTE
    Imposible jugar Contraseña perdida Cuenta robada Contacto
-   [351]¿Tienes algún problema? Ponte en contacto con el soporte.
+   ¿Tienes algún problema? Ponte en contacto con el soporte.
 
-   © 2023 [352]Ankama. Todos los derechos reservados.[353]Condiciones
-   Generales de Uso - [354]Política de confidencialidad - [355]Condiciones
-   Generales de Venta - [356]Menciones Legales - [357]Manage Cookies -
+   © 2023 Ankama. Todos los derechos reservados.Condiciones Generales de
+   Uso - Política de confidencialidad - Condiciones Generales de Venta -
+   Menciones Legales - Manage Cookies -
    [visa.jpg]
    [pp.jpg]
    [mc.jpg]
@@ -568,7 +564,7 @@
    Puedes cambiar de opinión en cualquier momento haciendo clic en el
    botón "Gestión de cookies" en la parte inferior de cada página de
    nuestros sitio web.
-   [358]Más información sobre nuestra política de cookies
+   Más información sobre nuestra política de cookies
    (BUTTON)  personalizar mi elección (BUTTON) rechazar todo (BUTTON)
    aceptar todo
 
@@ -642,380 +638,3 @@ Otro
    (BUTTON) Autorizar (BUTTON) Prohibir
    Google Maps
    (BUTTON) Autorizar (BUTTON) Prohibir
-
-References
-
-   Visible links:
-   1. https://www.dofus.com/es/rss/news.xml
-   2. https://www.dofus.com/es/rss/changelog.xml
-   3. https://www.dofus.com/es/rss/devblog.xml
-   4. https://www.dofus.com/fr/forum/4-charlas-generales/559770-doble-felicidad?page=2
-   5. https://www.dofus.com/en/forum/4-charlas-generales/559770-doble-felicidad?page=2
-   6. https://www.dofus.com/pt/forum/4-charlas-generales/559770-doble-felicidad?page=2
-   7. https://support.ankama.com/
-   8. https://account.ankama.com/es/identificacion?f=https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?page=2
-   9. https://secure.dofus.com/es/mmorpg/jugar
-  10. https://www.dofus.com/fr/forum/4-charlas-generales/559770-doble-felicidad?page=2
-  11. https://www.dofus.com/en/forum/4-charlas-generales/559770-doble-felicidad?page=2
-  12. https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?page=2
-  13. https://www.dofus.com/pt/forum/4-charlas-generales/559770-doble-felicidad?page=2
-  14. http://www.ankama-group.com/
-  15. javascript:void(0);
-  16. javascript:void(0);
-  17. javascript:void(0);
-  18. https://www.dofus.com/es/compra-kamas
-  19. https://www.dofus.com/es/foro
-  20. https://store.ankama.com/es/729-dofus
-  21. https://account.ankama.com/es/identificacion?f=https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?page=2
-  22. https://secure.dofus.com/es/mmorpg/jugar
-  23. https://www.dofus.com/es/mmorpg/descargar
-  24. https://www.dofus.com/es/mmorpg/jugar
-  25. https://www.dofus.com/es/mmorpg/comunidad/apadrinamiento
-  26. https://www.dofus.com/es/mmorpg/comunidad/codigos
-  27. https://www.dofus.com/es/mmorpg/enciclopedia
-  28. https://www.dofus.com/es/mmorpg/comunidad/directorios/paginas-personajes
-  29. https://www.dofus.com/es/mmorpg/comunidad/ladder
-  30. http://www.krosmoz.com/es/almanax?game=dofus
-  31. javascript:void(0);
-  32. https://www.dofus.com/es/mmorpg/descubrir
-  33. https://www.dofus.com/es/mmorpg/enciclopedia/clases
-  34. https://www.dofus.com/es/mmorpg/tutoriales
-  35. https://www.dofus.com/es/mmorpg/comunidad/ladder/koliseo-presentacion
-  36. https://www.dofus.com/es/mmorpg/comunidad/servidores
-  37. javascript:void(0);
-  38. https://www.dofus.com/es/mmorpg/las-ventajas-del-abono
-  39. https://www.dofus.com/es/mmorpg/comunidad/recompensas-veterania
-  40. https://www.dofus.com/es/dofus-retro
-  41. https://www.dofus.com/es/mmorpg/launcher
-  42. https://www.ankama-shop.com/
-  43. https://www.ankama.com/en/publications
-  44. https://www.ankama.com/en/games
-  45. javascript:void(0);
-  46. http://www.ankama.com/es/boardgames/krosmaster-blast
-  47. http://www.krosmaster.com/
-  48. https://www.ankama-shop.com/en/dofus/1578-brothers.html
-  49. javascript:void(0);
-  50. http://www.dofus-le-film.com/
-  51. https://www.dofus.com/es/animacion/universo
-  52. javascript:void(0);
-  53. https://www.dofus.com/es/mmorpg/multimedia/trailers
-  54. https://www.dofus.com/es/mmorpg/multimedia/capturas-pantalla
-  55. https://www.dofus.com/es/mmorpg/multimedia/ilustraciones
-  56. https://www.dofus.com/es/mmorpg/multimedia/emisiones
-  57. https://www.dofus.com/es/mmorpg/multimedia/fondos-pantalla
-  58. https://www.dofus.com/es/mmorpg/actualidad/actualizacion/1634716-osatopia-2
-  59. https://www.dofus.com/es/mmorpg/actualidad/noticias
-  60. https://www.dofus.com/es/mmorpg/actualidad/devblog
-  61. https://www.dofus.com/es/mmorpg/actualidad/actualizacion
-  62. https://www.dofus.com/fr/forum/4-charlas-generales/559770-doble-felicidad?page=2
-  63. https://www.dofus.com/en/forum/4-charlas-generales/559770-doble-felicidad?page=2
-  64. https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?page=2
-  65. https://www.dofus.com/pt/forum/4-charlas-generales/559770-doble-felicidad?page=2
-  66. https://www.dofus.com/fr/forum/4-charlas-generales/559770-doble-felicidad?page=2
-  67. https://www.dofus.com/en/forum/4-charlas-generales/559770-doble-felicidad?page=2
-  68. https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?page=2
-  69. https://www.dofus.com/pt/forum/4-charlas-generales/559770-doble-felicidad?page=2
-  70. https://support.ankama.com/hc/es
-  71. https://www.dofus.com/es
-  72. https://www.dofus.com/es/foro
-  73. https://www.dofus.com/es/foro/1002-asuntos-comunidad-noticias-concursos-eventos-mas
-  74. https://www.dofus.com/es/foro/4-charlas-generales
-  75. https://www.dofus.com/es/mmorpg/jugar
-  76. https://account.ankama.com/es/perfil-ankama/#[eL-TuX]-4347
-  77. https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?page=1
-  78. https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?page=1
-  79. https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?page=1
-  80. javascript:void(0);
-  81. https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?page=3
-  82. https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?page=4
-  83. https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?page=3
-  84. https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?page=4
-  85. https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?page=1
-  86. https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?page=1
-  87. https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?page=3
-  88. https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?page=4
-  89. https://account.ankama.com/es/perfil-ankama/Broderack-7395
-  90. https://account.ankama.com/es/identificacion?f=https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?page=2
-  91. https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?poid=3578264
-  92. https://www.facebook.com/sharer/sharer.php?u=https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?poid=3578264
-  93. http://twitter.com/share?text=&url=https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?poid=3578264
-  94. https://account.ankama.com/es/perfil-ankama/mikusaceo-6096
-  95. https://account.ankama.com/es/identificacion?f=https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?page=2
-  96. https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?poid=3578286
-  97. https://www.facebook.com/sharer/sharer.php?u=https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?poid=3578286
-  98. http://twitter.com/share?text=&url=https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?poid=3578286
-  99. https://account.ankama.com/es/perfil-ankama/lindyurita-3885
- 100. https://account.ankama.com/es/identificacion?f=https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?page=2
- 101. https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?poid=3578292
- 102. https://www.facebook.com/sharer/sharer.php?u=https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?poid=3578292
- 103. http://twitter.com/share?text=&url=https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?poid=3578292
- 104. https://account.ankama.com/es/perfil-ankama/darmocitox-7312
- 105. https://account.ankama.com/es/identificacion?f=https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?page=2
- 106. https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?poid=3578332
- 107. https://www.facebook.com/sharer/sharer.php?u=https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?poid=3578332
- 108. http://twitter.com/share?text=&url=https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?poid=3578332
- 109. https://account.ankama.com/es/perfil-ankama/AngeelMartiinez-9926
- 110. https://account.ankama.com/es/identificacion?f=https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?page=2
- 111. https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?poid=3578336
- 112. https://www.facebook.com/sharer/sharer.php?u=https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?poid=3578336
- 113. http://twitter.com/share?text=&url=https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?poid=3578336
- 114. https://account.ankama.com/es/perfil-ankama/faliparsooooooo-4423
- 115. https://account.ankama.com/es/identificacion?f=https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?page=2
- 116. https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?poid=3578352
- 117. https://www.facebook.com/sharer/sharer.php?u=https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?poid=3578352
- 118. http://twitter.com/share?text=&url=https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?poid=3578352
- 119. https://account.ankama.com/es/perfil-ankama/fallen-black-1771
- 120. https://account.ankama.com/es/identificacion?f=https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?page=2
- 121. https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?poid=3578368
- 122. https://www.facebook.com/sharer/sharer.php?u=https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?poid=3578368
- 123. http://twitter.com/share?text=&url=https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?poid=3578368
- 124. https://account.ankama.com/es/perfil-ankama/phamton69-3464
- 125. https://account.ankama.com/es/identificacion?f=https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?page=2
- 126. https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?poid=3578524
- 127. https://www.facebook.com/sharer/sharer.php?u=https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?poid=3578524
- 128. http://twitter.com/share?text=&url=https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?poid=3578524
- 129. https://account.ankama.com/es/perfil-ankama/sdggvw-6614
- 130. https://account.ankama.com/es/identificacion?f=https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?page=2
- 131. https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?poid=3578544
- 132. https://www.facebook.com/sharer/sharer.php?u=https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?poid=3578544
- 133. http://twitter.com/share?text=&url=https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?poid=3578544
- 134. https://account.ankama.com/es/perfil-ankama/Emito21-6528
- 135. https://account.ankama.com/es/identificacion?f=https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?page=2
- 136. https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?poid=3578720
- 137. https://www.facebook.com/sharer/sharer.php?u=https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?poid=3578720
- 138. http://twitter.com/share?text=&url=https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?poid=3578720
- 139. https://account.ankama.com/es/perfil-ankama/26542-3531
- 140. https://account.ankama.com/es/identificacion?f=https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?page=2
- 141. https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?poid=3578800
- 142. https://www.facebook.com/sharer/sharer.php?u=https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?poid=3578800
- 143. http://twitter.com/share?text=&url=https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?poid=3578800
- 144. https://account.ankama.com/es/perfil-ankama/SSTTIIVVEENN-8817
- 145. https://account.ankama.com/es/identificacion?f=https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?page=2
- 146. https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?poid=3578806
- 147. https://www.facebook.com/sharer/sharer.php?u=https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?poid=3578806
- 148. http://twitter.com/share?text=&url=https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?poid=3578806
- 149. https://account.ankama.com/es/perfil-ankama/elnanolepone1996-6353
- 150. https://account.ankama.com/es/identificacion?f=https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?page=2
- 151. https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?poid=3578812
- 152. https://www.facebook.com/sharer/sharer.php?u=https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?poid=3578812
- 153. http://twitter.com/share?text=&url=https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?poid=3578812
- 154. https://account.ankama.com/es/perfil-ankama/campurusito-9572
- 155. https://account.ankama.com/es/identificacion?f=https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?page=2
- 156. https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?poid=3578842
- 157. https://www.facebook.com/sharer/sharer.php?u=https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?poid=3578842
- 158. http://twitter.com/share?text=&url=https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?poid=3578842
- 159. https://account.ankama.com/es/perfil-ankama/otakuuu-3008
- 160. https://account.ankama.com/es/identificacion?f=https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?page=2
- 161. https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?poid=3578848
- 162. https://www.facebook.com/sharer/sharer.php?u=https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?poid=3578848
- 163. http://twitter.com/share?text=&url=https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?poid=3578848
- 164. https://account.ankama.com/es/perfil-ankama/Blaack-demon-5865
- 165. https://account.ankama.com/es/identificacion?f=https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?page=2
- 166. https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?poid=3579160
- 167. https://www.facebook.com/sharer/sharer.php?u=https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?poid=3579160
- 168. http://twitter.com/share?text=&url=https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?poid=3579160
- 169. https://account.ankama.com/es/perfil-ankama/circooloco-9400
- 170. https://account.ankama.com/es/identificacion?f=https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?page=2
- 171. https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?poid=3579220
- 172. https://www.facebook.com/sharer/sharer.php?u=https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?poid=3579220
- 173. http://twitter.com/share?text=&url=https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?poid=3579220
- 174. https://account.ankama.com/es/perfil-ankama/MACATRANDO-6911
- 175. https://account.ankama.com/es/identificacion?f=https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?page=2
- 176. https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?poid=3579450
- 177. https://www.facebook.com/sharer/sharer.php?u=https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?poid=3579450
- 178. http://twitter.com/share?text=&url=https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?poid=3579450
- 179. https://account.ankama.com/es/perfil-ankama/x-Werewolf-x-3803
- 180. https://account.ankama.com/es/identificacion?f=https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?page=2
- 181. https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?poid=3579542
- 182. https://www.facebook.com/sharer/sharer.php?u=https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?poid=3579542
- 183. http://twitter.com/share?text=&url=https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?poid=3579542
- 184. https://account.ankama.com/es/perfil-ankama/fubuki55-8633
- 185. https://account.ankama.com/es/identificacion?f=https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?page=2
- 186. https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?poid=3579550
- 187. https://www.facebook.com/sharer/sharer.php?u=https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?poid=3579550
- 188. http://twitter.com/share?text=&url=https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?poid=3579550
- 189. https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?page=1
- 190. https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?page=1
- 191. https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?page=1
- 192. javascript:void(0);
- 193. https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?page=3
- 194. https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?page=4
- 195. https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?page=3
- 196. https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?page=4
- 197. https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?page=1
- 198. https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?page=1
- 199. https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?page=3
- 200. https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?page=4
- 201. https://www.dofus.com/es/foro/los-temas
- 202. https://www.dofus.com/es/foro/1001-novedades-cambios-oficiales
- 203. https://www.dofus.com/es/foro/3-informaciones-anuncios-ankama-games
- 204. https://www.dofus.com/es/foro/1259-informaciones-noticias-dofus-retro
- 205. https://www.dofus.com/es/foro/1038-diario-ankama
- 206. https://www.dofus.com/es/foro/1235-ask-ankama
- 207. https://www.dofus.com/es/foro/1199-dofus-lab
- 208. https://www.dofus.com/es/foro/1002-asuntos-comunidad-noticias-concursos-eventos-mas
- 209. https://www.dofus.com/es/foro/4-charlas-generales
- 210. https://www.dofus.com/es/foro/1195-feria-trool-eventos-concursos-ankama-games
- 211. https://www.dofus.com/es/foro/1192-eventos-curso
- 212. https://www.dofus.com/es/foro/1193-participaciones-eventos
- 213. https://www.dofus.com/es/foro/1194-ganadores-eventos
- 214. https://www.dofus.com/es/foro/1058-eventos-antiguos
- 215. https://www.dofus.com/es/foro/26-torre-buhos-sabios-preguntas-dudas
- 216. https://www.dofus.com/es/foro/1207-streamers-hispania
- 217. https://www.dofus.com/es/foro/1208-presentacion-streamers
- 218. https://www.dofus.com/es/foro/1209-guias-actualizaciones
- 219. https://www.dofus.com/es/foro/1210-batallas
- 220. https://www.dofus.com/es/foro/1211-off-topic
- 221. https://www.dofus.com/es/foro/1213-torneos-oficiales
- 222. https://www.dofus.com/es/foro/1214-copa-dofus-2017
- 223. https://www.dofus.com/es/foro/1224-dofus-world-series-2017
- 224. https://www.dofus.com/es/foro/1234-miss-mister-mundo-doce
- 225. https://www.dofus.com/es/foro/1262-2023
- 226. https://www.dofus.com/es/foro/1245-2020
- 227. https://www.dofus.com/es/foro/1239-2019
- 228. https://www.dofus.com/es/foro/1206-koliseo-interservidor-kis
- 229. https://www.dofus.com/es/foro/1204-torneos
- 230. https://www.dofus.com/es/foro/1013-secretos-juego-mazmorras-emotes-clases-artesania-mas
- 231. https://www.dofus.com/es/foro/1029-dofupedia
- 232. https://www.dofus.com/es/foro/1031-general
- 233. https://www.dofus.com/es/foro/1030-mazmorras
- 234. https://www.dofus.com/es/foro/1032-misiones
- 235. https://www.dofus.com/es/foro/1033-actitudes
- 236. https://www.dofus.com/es/foro/1034-recetas-secretas
- 237. https://www.dofus.com/es/foro/1014-clases
- 238. https://www.dofus.com/es/foro/1018-aniripsa
- 239. https://www.dofus.com/es/foro/1021-anutrof
- 240. https://www.dofus.com/es/foro/1024-feca
- 241. https://www.dofus.com/es/foro/1198-hipermago
- 242. https://www.dofus.com/es/foro/1022-ocra
- 243. https://www.dofus.com/es/foro/1019-osamodas
- 244. https://www.dofus.com/es/foro/1027-pandawa
- 245. https://www.dofus.com/es/foro/1026-sacrogrito
- 246. https://www.dofus.com/es/foro/1017-sadida
- 247. https://www.dofus.com/es/foro/1191-selotrop
- 248. https://www.dofus.com/es/foro/1023-sram
- 249. https://www.dofus.com/es/foro/1134-steamer
- 250. https://www.dofus.com/es/foro/1212-uginak
- 251. https://www.dofus.com/es/foro/1079-tymador
- 252. https://www.dofus.com/es/foro/1025-xelor
- 253. https://www.dofus.com/es/foro/1020-yopuka
- 254. https://www.dofus.com/es/foro/1107-zobal
- 255. https://www.dofus.com/es/foro/1016-zurcarak
- 256. https://www.dofus.com/es/foro/1015-artesanado
- 257. https://www.dofus.com/es/foro/1172-milicia-frigost-lugar-aventureros-aventureras
- 258. https://www.dofus.com/es/foro/1138-koliseo-cania-jugadores
- 259. https://www.dofus.com/es/foro/1132-mesa-redonda-debates-publicos
- 260. https://www.dofus.com/es/foro/1128-territorio-monocuentas
- 261. https://www.dofus.com/es/foro/7-buzon-sugerencias
- 262. https://www.dofus.com/es/foro/1043-taberna-amakna
- 263. https://www.dofus.com/es/foro/1081-taberna-general
- 264. https://www.dofus.com/es/foro/1063-musica-taberna
- 265. https://www.dofus.com/es/foro/1064-cine-series-anime
- 266. https://www.dofus.com/es/foro/1065-deportes
- 267. https://www.dofus.com/es/foro/1068-fenomenos-o-cosas-extranas
- 268. https://www.dofus.com/es/foro/1069-vuelta-mundo
- 269. https://www.dofus.com/es/foro/1077-pluma-taberna
- 270. https://www.dofus.com/es/foro/29-leonera-rolista
- 271. https://www.dofus.com/es/foro/1040-atelier-fanarteros-fan-art
- 272. https://www.dofus.com/es/foro/1083-fan-art-general
- 273. https://www.dofus.com/es/foro/1060-museos-galerias
- 274. https://www.dofus.com/es/foro/1061-comics-mangas
- 275. https://www.dofus.com/es/foro/1062-rol-fanart
- 276. https://www.dofus.com/es/foro/1124-cosplay-manualidades-firmas-otros
- 277. https://www.dofus.com/es/foro/1190-baul-recuerdos
- 278. https://www.dofus.com/es/foro/1042-zaap-astrub-off-topic
- 279. https://www.dofus.com/es/foro/1080-rincon-tio-not-off-topic
- 280. https://www.dofus.com/es/foro/1130-dofus-manga
- 281. https://www.dofus.com/es/foro/1011-mundos-hispania-enterate-sucesos-cada-servidor-nuestra-comunidad
- 282. https://www.dofus.com/es/foro/1216-tal-kasha
- 283. https://www.dofus.com/es/foro/1221-discusiones-generales
- 284. https://www.dofus.com/es/foro/1219-alianzas-gremios
- 285. https://www.dofus.com/es/foro/1220-busco-grupo-comercio
- 286. https://www.dofus.com/es/foro/1187-servidor-epico
- 287. https://www.dofus.com/es/foro/1188-gremios-alianzas
- 288. https://www.dofus.com/es/foro/1189-discusiones-generales
- 289. https://www.dofus.com/es/foro/1241-servidores-retro
- 290. https://www.dofus.com/es/foro/1242-servidores-retro
- 291. https://www.dofus.com/es/foro/1067-llanura-eratz
- 292. https://www.dofus.com/es/foro/1101-eratz
- 293. https://www.dofus.com/es/foro/1076-busco-grupo-comercio-era
- 294. https://www.dofus.com/es/foro/1166-reloj-dorado-henual
- 295. https://www.dofus.com/es/foro/1122-reloj-henual
- 296. https://www.dofus.com/es/foro/1164-reloj-henual
- 297. https://www.dofus.com/es/foro/1160-gremios-general-hen
- 298. https://www.dofus.com/es/foro/1243-2-grandes-retro
- 299. https://www.dofus.com/es/foro/1223-servidores-antiguos
- 300. https://www.dofus.com/es/foro/35-isla-alma
- 301. https://www.dofus.com/es/foro/1087-gremios-alm
- 302. https://www.dofus.com/es/foro/1146-alianzas-alm
- 303. https://www.dofus.com/es/foro/1070-busco-grupo-comercio-alm
- 304. https://www.dofus.com/es/foro/1057-mercenarios-tercio-alma
- 305. https://www.dofus.com/es/foro/36-caverna-aguabrial
- 306. https://www.dofus.com/es/foro/1091-gremios-agu
- 307. https://www.dofus.com/es/foro/1148-alianzas-agu
- 308. https://www.dofus.com/es/foro/1071-busco-grupo-comercio-agu
- 309. https://www.dofus.com/es/foro/1012-escondrijo-tinieblas
- 310. https://www.dofus.com/es/foro/1095-gremios-tin
- 311. https://www.dofus.com/es/foro/1152-alianzas-tin
- 312. https://www.dofus.com/es/foro/1073-busco-grupo-comercio-tin
- 313. https://www.dofus.com/es/foro/1113-castigo-edass
- 314. https://www.dofus.com/es/foro/1114-gremios-eda
- 315. https://www.dofus.com/es/foro/1158-alianzas-eda
- 316. https://www.dofus.com/es/foro/1120-busco-grupo-comercio-eda
- 317. https://www.dofus.com/es/foro/1059-guarida-nomekop
- 318. https://www.dofus.com/es/foro/1099-gremios-nom
- 319. https://www.dofus.com/es/foro/1154-alianzas-nom
- 320. https://www.dofus.com/es/foro/1075-busco-grupo-comercio-nom
- 321. https://www.dofus.com/es/foro/1039-paraiso-bolgrot
- 322. https://www.dofus.com/es/foro/1097-gremios-bol
- 323. https://www.dofus.com/es/foro/1156-alianzas-bol
- 324. https://www.dofus.com/es/foro/1074-busco-grupo-comercio-bol
- 325. https://www.dofus.com/es/foro/37-biblioteca-buhorado
- 326. https://www.dofus.com/es/foro/1093-gremios-buh
- 327. https://www.dofus.com/es/foro/1150-alianzas-buh
- 328. https://www.dofus.com/es/foro/1072-busco-grupo-comercio-buh
- 329. https://www.dofus.com/es/foro/1225-servidores-monocuenta
- 330. https://www.dofus.com/es/foro/1226-discusiones-generales
- 331. https://www.dofus.com/es/foro/1237-servidores-temporales
- 332. https://www.dofus.com/es/foro/1251-servidores-beta
- 333. https://www.dofus.com/es/foro/1252-beta-servidores-retro
- 334. https://www.dofus.com/es/foro/1253-discusiones-generales
- 335. https://www.dofus.com/es/foro/1254-reporte-bugs
- 336. https://www.dofus.com/es/foro/1003-zona-tecnica-reparaciones
- 337. https://www.dofus.com/es/foro/30-problemas-soluciones-tecnicas
- 338. https://www.dofus.com/es/foro/1046-reporte-bugs
- 339. https://www.dofus.com/es/foro/1037-bisto-una-rata
- 340. https://www.dofus.com/es/foro/1170-problemas-ya-resueltos
- 341. https://www.dofus.com/es/foro/1244-ankama-launcher
- 342. https://www.dofus.com/es/foro/1144-dofus-2-beta
- 343. https://www.dofus.com/es/foro/1261-discusiones-generales
- 344. https://www.dofus.com/es/foro/1197-reportes-bugs
- 345. https://www.dofus.com/es/foro/1263-2-70-antro-leyenda
- 346. https://www.dofus.com/es/foro/1009-papelera
- 347. https://www.dofus.com/es/foro/31-papelera-reciclaje
- 348. https://support.ankama.com/hc/es#dofus
- 349. http://www.dofus.com/es/mmorpg/comunidad/reglas-foro
- 350. https://secure.dofus.com/es/tienda/19-servicios
- 351. https://support.ankama.com/hc/es/requests/new
- 352. http://www.ankama-group.com/en
- 353. https://www.dofus.com/es/cgu
- 354. https://www.dofus.com/es/politica-confidencialidad
- 355. https://www.dofus.com/es/cgv
- 356. https://www.dofus.com/es/menciones-legales?ref=dofus
- 357. javascript:void(0);
- 358. https://account.ankama.com/es/politica-confidencialidad
-
-   Hidden links:
- 360. http://www.ankama-group.com/
- 361. https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?page=2
- 362. https://www.dofus.com/es
- 363. javascript:void(0)
- 364. https://www.dofus.com/
- 365. https://www.dofus.com/es/foro/4-charlas-generales/559770-doble-felicidad?page=2
- 366. javascript:void(0)
- 367. javascript:void(0)
- 368. javascript:void(0);
- 369. https://www.facebook.com/DOFUS
- 370. https://twitter.com/ES_DOFUS
- 371. https://www.youtube.com/user/dofus
- 372. http://www.ankama-group.com/

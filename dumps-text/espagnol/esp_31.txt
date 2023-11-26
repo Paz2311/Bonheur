@@ -1,51 +1,50 @@
-   #[1]prev [2]next [3]alternate [4]alternate
+   #prev next alternate alternate
 
    [p?c1=2&c2=13280783&cv=2.0&cj=1]
 
    [INS: :INS] [INS: :INS]
 
-   [5]Burbuja.info
+   Burbuja.info
 
    Menú
-   [6]Burbuja.info
-     * [7]Inicio
-       [8]Economía [9]Actualidad [10]Politica [11]Criptomonedas [12]Bolsa
-       e Inversiones [13]Consumo responsable [14]Emprendedores
-       [15]Guardería [16]Conspiraciones
-     * [17]Foros
-       [18]Nuevos mensajes [19]Trending [20]Buscar en los foros
-     * [21]¿Qué hay de nuevo?
-       [22]Nuevos mensajes [23]Última actividad
-     * [24]Miembros
-       [25]Visitantes actuales
-     * [26]Euribor e Hipotecas
-     * [27]Blog
+   Burbuja.info
+     * Inicio
+       Economía Actualidad Politica Criptomonedas Bolsa e Inversiones
+       Consumo responsable Emprendedores Guardería Conspiraciones
+     * Foros
+       Nuevos mensajes Trending Buscar en los foros
+     * ¿Qué hay de nuevo?
+       Nuevos mensajes Última actividad
+     * Miembros
+       Visitantes actuales
+     * Euribor e Hipotecas
+     * Blog
 
-   [28]Iniciar sesión [29]Registrarse
-   [30]¿Qué hay de nuevo? [31]Buscar
+   Iniciar sesión Registrarse
+   ¿Qué hay de nuevo? Buscar
 
 Buscar
 
    ____________________ [En todos lados]
    [ ] Buscar sólo en títulos
    Por: ____________________
-   (BUTTON) Buscar [32]Búsqueda avanzada…
-     * [33]Nuevos mensajes
-     * [34]Trending
-     * [35]Buscar en los foros
+   (BUTTON) Buscar Búsqueda avanzada…
+     * Nuevos mensajes
+     * Trending
+     * Buscar en los foros
 
    Menú
-   [36]Iniciar sesión
+   Iniciar sesión
      __________________________________________________________________
 
-   [37]Registrarse
+   Registrarse
      __________________________________________________________________
 
                                  [INS: :INS]
 
-     * [38]Foros
+     * Foros
 
-     [39]Economía
+     Economía
 
    JavaScript está desactivado. Para una mejor experiencia, por favor
    active JavaScript en su navegador antes de continuar.
@@ -53,33 +52,33 @@ Buscar
 Sociedad: NO PUEDO MÁS. Las mujeres españolas me están haciendo la vida
 imposible. 25 años y nunca he tenido novia. (SERIO)
 
-     * Autor del tema [40]xicobueno
-     * Fecha de inicio [41]2 Nov 2023
+     * Autor del tema xicobueno
+     * Fecha de inicio 2 Nov 2023
 
-   [42]Prev
-     * [43]1
-     * [44]2
-     * [45]3
-     * [46]4
+   Prev
+     * 1
+     * 2
+     * 3
+     * 4
      * …
 
 Ir a página
        5___________________
        (BUTTON) Ir
-     * [47]16
+     * 16
 
-   [48]Siguiente
-   [49]Primer [50]Prev 2 de 16
+   Siguiente
+   Primer Prev 2 de 16
 
 Ir a página
 
    2___________________
    (BUTTON) Ir
-   [51]Siguiente [52]Último
+   Siguiente Último
 
-   [53]Freedomfighter
+   Freedomfighter
 
-[54]Freedomfighter
+Freedomfighter
 
 El puñetero Amo
 
@@ -87,16 +86,16 @@ El puñetero Amo
           27 Ene 2012
 
    Mensajes
-          44.721
+          44.749
 
    Reputación
-          129.751
+          129.895
 
-   [55]2 Nov 2023
+   2 Nov 2023
      *
-     * [56]#16
+     * #16
 
-   [57]xicobueno dijo:
+   xicobueno dijo:
 
    Hago pesas 2 o 3 veces por semana. Intenté hacer planchas abdominales
    pero se me sube el reflujo del estómago a la boca y es una puñetera
@@ -111,9 +110,9 @@ El puñetero Amo
    Y otra cosa, jamás vas a volver a tener 25 años, así que mueve el
    trasero. ;)
 
-   [58]element
+   element
 
-[59]element
+element
 
 Madmaxista
 
@@ -121,16 +120,16 @@ Madmaxista
           14 Jun 2010
 
    Mensajes
-          6.264
+          6.299
 
    Reputación
-          27.682
+          27.950
 
-   [60]2 Nov 2023
+   2 Nov 2023
      *
-     * [61]#17
+     * #17
 
-   [62]xicobueno dijo:
+   xicobueno dijo:
 
    Tengo Asperger, Tourette, reflujo gástrico y una curvatura de 70º en la
    espalda incorregible sin cirugía. No salgo de fiesta y no tengo
@@ -192,11 +191,11 @@ Madmaxista
 
      * Zanx
 
-   Reacciones: [63]MaGiVer, Mazaldeck, CuervoDrogado y 1 otra persona
+   Reacciones: MaGiVer, Mazaldeck, CuervoDrogado y 1 otra persona
 
-   [64]optimistic1985
+   optimistic1985
 
-[65]optimistic1985
+optimistic1985
 
 Madmaxista
 
@@ -204,16 +203,16 @@ Madmaxista
           15 Nov 2009
 
    Mensajes
-          13.291
+          13.309
 
    Reputación
-          40.485
+          40.518
 
-   [66]2 Nov 2023
+   2 Nov 2023
      *
-     * [67]#18
+     * #18
 
-   [68]xicobueno dijo:
+   xicobueno dijo:
 
    Tengo Asperger, Tourette, reflujo gástrico y una curvatura de 70º en la
    espalda incorregible sin cirugía. No salgo de fiesta y no tengo
@@ -262,11 +261,11 @@ Madmaxista
 
      * Zanx
 
-   Reacciones: [69]Hastael2020nada, Bob Page, Mazaldeck y otros 4
+   Reacciones: Hastael2020nada, Bob Page, Mazaldeck y otros 4
 
-   [70]Jevitronka
+   Jevitronka
 
-[71]Jevitronka
+Jevitronka
 
 Monja Freelance
 
@@ -274,25 +273,25 @@ Monja Freelance
           29 Jul 2019
 
    Mensajes
-          59.591
+          59.604
 
    Reputación
-          59.858
+          59.868
 
-   [72]2 Nov 2023
+   2 Nov 2023
      *
-     * [73]#19
+     * #19
 
    Si nunca has tenido novia quién te habrá hecho imposible la vida habrá
    sido algún amigo imaginario
 
      * Zanx
 
-   Reacciones: [74]Spanish_Pompliano y Annunakis
+   Reacciones: Spanish_Pompliano y Annunakis
 
-   [75]Annunakis
+   Annunakis
 
-[76]Annunakis
+Annunakis
 
 Madmaxista
 
@@ -300,14 +299,14 @@ Madmaxista
           19 Ago 2013
 
    Mensajes
-          2.048
+          2.053
 
    Reputación
-          6.653
+          6.675
 
-   [77]2 Nov 2023
+   2 Nov 2023
      *
-     * [78]#20
+     * #20
 
    Seguro que si no tuvieras las “taras”que comentas te buscarías una
    chica tuerta, subida de peso y con autismo… no verdad?
@@ -317,12 +316,12 @@ Madmaxista
 
      * Zanx
 
-   Reacciones: [79]Hastael2020nada, Spanish_Pompliano, Bob Page y 1 otra
+   Reacciones: Hastael2020nada, Spanish_Pompliano, Bob Page y 1 otra
    persona
 
-   [80]Euron G.
+   Euron G.
 
-[81]Euron G.
+Euron G.
 
 Ojo de cuervo
 
@@ -330,19 +329,19 @@ Ojo de cuervo
           28 Jun 2018
 
    Mensajes
-          16.550
+          16.616
 
    Reputación
-          47.155
+          47.446
 
    Lugar
-          [82]En la frontera
+          En la frontera
 
-   [83]2 Nov 2023
+   2 Nov 2023
      *
-     * [84]#21
+     * #21
 
-   [85]xicobueno dijo:
+   xicobueno dijo:
 
    Qué hago? QUÉ HAGO? No quiero que mi única opción sea pagar a una
    puñetera para amar y a tener que vivir en base a pajas. Yo quiero que
@@ -354,9 +353,9 @@ Ojo de cuervo
    Deja de dar por trasero y márcate un Jose Antonio Reyes con el Audi,
    troll de bajísima calidad.
 
-   [86]Bogdanoff
+   Bogdanoff
 
-[87]Bogdanoff
+Bogdanoff
 
 Madmaxista
 
@@ -364,16 +363,16 @@ Madmaxista
           8 Nov 2018
 
    Mensajes
-          3.106
+          3.151
 
    Reputación
-          10.221
+          10.409
 
-   [88]2 Nov 2023
+   2 Nov 2023
      *
-     * [89]#22
+     * #22
 
-   [90]xicobueno dijo:
+   xicobueno dijo:
 
    Tengo Asperger, Tourette, reflujo gástrico y una curvatura de 70º en la
    espalda incorregible sin cirugía. No salgo de fiesta y no tengo
@@ -386,12 +385,11 @@ Madmaxista
 
      * Zanx
 
-   Reacciones: [91]Hastael2020nada, Silluzollope, burbrujilda y 1 otra
-   persona
+   Reacciones: Hastael2020nada, Silluzollope, burbrujilda y 1 otra persona
 
-   [92]xicobueno
+   xicobueno
 
-[93]xicobueno
+xicobueno
 
 Himbersor
 
@@ -402,13 +400,13 @@ Himbersor
           359
 
    Reputación
-          956
+          957
 
-   [94]2 Nov 2023
+   2 Nov 2023
      *
-     * [95]#23
+     * #23
 
-   [96]Bogdanoff dijo:
+   Bogdanoff dijo:
 
    Pues ya está, búscate una chica que sea orate, deforme y no salga de
    casa. ¿No te gusta? Pues luego no vayas pidiendo que los demás se
@@ -419,11 +417,11 @@ Himbersor
 
      * Zanx
 
-   Reacciones: [97]Guerrero_termonuclear
+   Reacciones: Guerrero_termonuclear
 
-   [98]PACOJONES
+   PACOJONES
 
-[99]PACOJONES
+PACOJONES
 
 P V R A S A N G R E
 
@@ -431,14 +429,14 @@ P V R A S A N G R E
           10 Dic 2017
 
    Mensajes
-          4.352
+          4.364
 
    Reputación
-          11.902
+          11.917
 
-   [100]2 Nov 2023
+   2 Nov 2023
      *
-     * [101]#24
+     * #24
 
    Ser feliz con uno mismo es la autentica felicidad, crees que necesitas
    estar con una mujer pero eso no es cierto, trabajalo y en cuanto las
@@ -446,12 +444,12 @@ P V R A S A N G R E
 
      * Zanx
 
-   Reacciones: [102]Linsecte3000, Juan Carlos Arniz Sanz, Sonic The
-   Hedgehog y otros 3
+   Reacciones: Linsecte3000, Juan Carlos Arniz Sanz, Sonic The Hedgehog y
+   otros 3
 
-   [103]Malditos Bastardos
+   Malditos Bastardos
 
-[104]Malditos Bastardos
+Malditos Bastardos
 
 Será en Octubre
 
@@ -459,16 +457,16 @@ Será en Octubre
           5 Sep 2010
 
    Mensajes
-          41.850
+          41.944
 
    Reputación
-          42.007
+          42.091
 
-   [105]2 Nov 2023
+   2 Nov 2023
      *
-     * [106]#25
+     * #25
 
-   [107]xicobueno dijo:
+   xicobueno dijo:
 
    Ya lo intento, pero es que es imposible hacerlo sin quedar como un
    rarito.
@@ -486,11 +484,11 @@ Será en Octubre
 
      * Zanx
 
-   Reacciones: [108]ElMatareyes
+   Reacciones: ElMatareyes
 
-   [109]A
+   A
 
-[110]auricooro
+auricooro
 
 Madmaxista
 
@@ -498,26 +496,25 @@ Madmaxista
           18 Dic 2013
 
    Mensajes
-          9.633
+          9.637
 
    Reputación
-          15.753
+          15.761
 
-   [111]2 Nov 2023
+   2 Nov 2023
      *
-     * [112]#26
+     * #26
 
-   [113]@Desesperanzado desapareció, pero aparecio [114]@xicobueno. Está
-   claro que hay una especie de tendencia en el universo a recuperar el
-   equilibrio.
+   @Desesperanzado desapareció, pero aparecio @xicobueno. Está claro que
+   hay una especie de tendencia en el universo a recuperar el equilibrio.
 
      * Zanx
 
-   Reacciones: [115]Linsecte3000, burbrujilda y el mensa
+   Reacciones: Linsecte3000, burbrujilda y el mensa
 
-   [116]N
+   N
 
-[117]napobalo
+napobalo
 
 Madmaxista
 
@@ -525,14 +522,14 @@ Madmaxista
           13 Jul 2015
 
    Mensajes
-          2.997
+          3.019
 
    Reputación
-          5.549
+          5.602
 
-   [118]2 Nov 2023
+   2 Nov 2023
      *
-     * [119]#27
+     * #27
 
    Yo conozco a uno que tenia chepa y era bajito tenia enfermedad de
    nacimiento
@@ -545,11 +542,11 @@ Madmaxista
 
      * Zanx
 
-   Reacciones: [120]Bob Page y Guerrero_termonuclear
+   Reacciones: Bob Page y Guerrero_termonuclear
 
-   [121]B
+   B
 
-[122]Blandengue
+Blandengue
 
 Himbersor
 
@@ -557,16 +554,16 @@ Himbersor
           10 Jul 2023
 
    Mensajes
-          1.470
+          1.552
 
    Reputación
-          3.288
+          3.482
 
-   [123]2 Nov 2023
+   2 Nov 2023
      *
-     * [124]#28
+     * #28
 
-   [125]Malditos Bastardos dijo:
+   Malditos Bastardos dijo:
 
    Seguro que hay alguien por ahí, y es más fácil ahora, las redes son tus
    aliadas.
@@ -576,11 +573,11 @@ Himbersor
 
      * Zanx
 
-   Reacciones: [126]zipi zape y otros 36 y el mensa
+   Reacciones: zipi zape y otros 36 y el mensa
 
-   [127]Tae-suk
+   Tae-suk
 
-[128]Tae-suk
+Tae-suk
 
 Doña Inés, a sus pies
 
@@ -588,246 +585,69 @@ Doña Inés, a sus pies
           16 Jul 2008
 
    Mensajes
-          19.098
+          19.103
 
    Reputación
-          39.926
+          39.952
 
-   [129]2 Nov 2023
+   2 Nov 2023
      *
-     * [130]#29
+     * #29
 
    ¿Qué bemoles hace este hilo en Economía? Al ático y no moleste, haga el
    favor.
 
      * Zanx
 
-   Reacciones: [131]kamikaze, DraTrufita, Lance Armstrong y 1 otra persona
+   Reacciones: kamikaze, DraTrufita, Lance Armstrong y 1 otra persona
 
-   [132]Prev
-     * [133]1
-     * [134]2
-     * [135]3
-     * [136]4
+   Prev
+     * 1
+     * 2
+     * 3
+     * 4
      * …
 
 Ir a página
        5___________________
        (BUTTON) Ir
-     * [137]16
+     * 16
 
-   [138]Siguiente
-   [139]Primer [140]Prev 2 de 16
+   Siguiente
+   Primer Prev 2 de 16
 
 Ir a página
 
    2___________________
    (BUTTON) Ir
-   [141]Siguiente [142]Último
-   [143]Iniciar sesión o registrarte para responder aquí.
+   Siguiente Último
+   Iniciar sesión o registrarte para responder aquí.
 
                                  [INS: :INS]
 
-     * [144]Foros
+     * Foros
 
-     [145]Economía
+     Economía
 
-     * [146]Español (ES)
+     * Español (ES)
 
-     * [147]Contáctanos
-     * [148]Términos y reglas
-     * [149]Política de privacidad
-     * [150]Ayuda
-     * [151]Inicio
-     * [152]RSS
+     * Contáctanos
+     * Términos y reglas
+     * Política de privacidad
+     * Ayuda
+     * Inicio
+     * RSS
 
-   [153]Forum software by XenForo^® © 2010-2020 XenForo Ltd.
-   [154]Ignore/Block Essentials by AddonFlare - Premium XF2 Addons
+   Forum software by XenForo^® © 2010-2020 XenForo Ltd.
+   Ignore/Block Essentials by AddonFlare - Premium XF2 Addons
 
    ____________________
 
-   [155]✖
+   ✖
    ¡No hombre no! ¡Tienes un bloqueador de anuncios!
 
    Colabora con burbuja.info
 
    Hemos quitado mucha publicidad y ahora no es ni molesta ni intrusiva,
    por favor quita tu bloqueador de anuncios.
-   [156]He quitado el bloqueador de anuncios    [157]En otro momento
-
-References
-
-   Visible links:
-   1. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/
-   2. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/page-3
-   3. android-app://com.quoord.tapatalkpro.activity/tapatalk/www.burbuja.info/inmobiliaria?ttfid=6084&location=topic&tid=2024353&page=2&perpage=15&channel=google-indexing
-   4. ios-app://307880732/tapatalk/www.burbuja.info/inmobiliaria?ttfid=6084&location=topic&tid=2024353&page=2&perpage=15&channel=google-indexing
-   5. https://www.burbuja.info/inmobiliaria/
-   6. https://www.burbuja.info/inmobiliaria/
-   7. https://www.burbuja.info/inmobiliaria/
-   8. https://www.burbuja.info/inmobiliaria/forums/economia/
-   9. https://www.burbuja.info/inmobiliaria/forums/actualidad_burbuja/
-  10. https://www.burbuja.info/inmobiliaria/forums/politica/
-  11. https://www.burbuja.info/inmobiliaria/forums/criptos/
-  12. https://www.burbuja.info/inmobiliaria/forums/bolsa-e-inversiones/
-  13. https://www.burbuja.info/inmobiliaria/forums/consumoresponsable/
-  14. https://www.burbuja.info/inmobiliaria/forums/emprendedores/
-  15. https://www.burbuja.info/inmobiliaria/forums/guardeburbu/
-  16. https://www.burbuja.info/inmobiliaria/forums/conspiraciones.52/
-  17. https://www.burbuja.info/inmobiliaria/forums/
-  18. https://www.burbuja.info/inmobiliaria/whats-new/posts/
-  19. https://www.burbuja.info/inmobiliaria/trending/
-  20. https://www.burbuja.info/inmobiliaria/search/?type=post
-  21. https://www.burbuja.info/inmobiliaria/whats-new/posts/?skip=1
-  22. https://www.burbuja.info/inmobiliaria/whats-new/posts/?skip=1
-  23. https://www.burbuja.info/inmobiliaria/whats-new/latest-activity
-  24. https://www.burbuja.info/inmobiliaria/members/
-  25. https://www.burbuja.info/inmobiliaria/online/
-  26. https://www.euribor.com.es/
-  27. https://burbujainfo.com/
-  28. https://www.burbuja.info/inmobiliaria/login/
-  29. https://www.burbuja.info/inmobiliaria/register/
-  30. https://www.burbuja.info/inmobiliaria/whats-new/
-  31. https://www.burbuja.info/inmobiliaria/search/
-  32. https://www.burbuja.info/inmobiliaria/search/
-  33. https://www.burbuja.info/inmobiliaria/whats-new/posts/
-  34. https://www.burbuja.info/inmobiliaria/trending/
-  35. https://www.burbuja.info/inmobiliaria/search/?type=post
-  36. https://www.burbuja.info/inmobiliaria/login/
-  37. https://www.burbuja.info/inmobiliaria/register/
-  38. https://www.burbuja.info/inmobiliaria/forums/
-  39. https://www.burbuja.info/inmobiliaria/forums/economia/
-  40. https://www.burbuja.info/inmobiliaria/members/xicobueno.193786/
-  41. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/
-  42. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/
-  43. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/
-  44. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/page-2
-  45. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/page-3
-  46. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/page-4
-  47. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/page-16
-  48. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/page-3
-  49. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/
-  50. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/
-  51. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/page-3
-  52. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/page-16
-  53. https://www.burbuja.info/inmobiliaria/members/freedomfighter.34786/
-  54. https://www.burbuja.info/inmobiliaria/members/freedomfighter.34786/
-  55. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/post-48247308
-  56. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/post-48247308
-  57. https://www.burbuja.info/inmobiliaria/goto/post?id=48247263
-  58. https://www.burbuja.info/inmobiliaria/members/element.20623/
-  59. https://www.burbuja.info/inmobiliaria/members/element.20623/
-  60. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/post-48247406
-  61. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/post-48247406
-  62. https://www.burbuja.info/inmobiliaria/goto/post?id=48246968
-  63. https://www.burbuja.info/inmobiliaria/posts/48247406/reactions
-  64. https://www.burbuja.info/inmobiliaria/members/optimistic1985.16594/
-  65. https://www.burbuja.info/inmobiliaria/members/optimistic1985.16594/
-  66. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/post-48247450
-  67. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/post-48247450
-  68. https://www.burbuja.info/inmobiliaria/goto/post?id=48246968
-  69. https://www.burbuja.info/inmobiliaria/posts/48247450/reactions
-  70. https://www.burbuja.info/inmobiliaria/members/jevitronka.159737/
-  71. https://www.burbuja.info/inmobiliaria/members/jevitronka.159737/
-  72. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/post-48247464
-  73. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/post-48247464
-  74. https://www.burbuja.info/inmobiliaria/posts/48247464/reactions
-  75. https://www.burbuja.info/inmobiliaria/members/annunakis.48534/
-  76. https://www.burbuja.info/inmobiliaria/members/annunakis.48534/
-  77. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/post-48247563
-  78. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/post-48247563
-  79. https://www.burbuja.info/inmobiliaria/posts/48247563/reactions
-  80. https://www.burbuja.info/inmobiliaria/members/euron-g.138778/
-  81. https://www.burbuja.info/inmobiliaria/members/euron-g.138778/
-  82. https://www.burbuja.info/inmobiliaria/misc/location-info?location=En+la+frontera
-  83. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/post-48247608
-  84. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/post-48247608
-  85. https://www.burbuja.info/inmobiliaria/goto/post?id=48246968
-  86. https://www.burbuja.info/inmobiliaria/members/bogdanoff.151083/
-  87. https://www.burbuja.info/inmobiliaria/members/bogdanoff.151083/
-  88. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/post-48247806
-  89. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/post-48247806
-  90. https://www.burbuja.info/inmobiliaria/goto/post?id=48246968
-  91. https://www.burbuja.info/inmobiliaria/posts/48247806/reactions
-  92. https://www.burbuja.info/inmobiliaria/members/xicobueno.193786/
-  93. https://www.burbuja.info/inmobiliaria/members/xicobueno.193786/
-  94. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/post-48247862
-  95. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/post-48247862
-  96. https://www.burbuja.info/inmobiliaria/goto/post?id=48247806
-  97. https://www.burbuja.info/inmobiliaria/posts/48247862/reactions
-  98. https://www.burbuja.info/inmobiliaria/members/pacojones.131021/
-  99. https://www.burbuja.info/inmobiliaria/members/pacojones.131021/
- 100. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/post-48247922
- 101. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/post-48247922
- 102. https://www.burbuja.info/inmobiliaria/posts/48247922/reactions
- 103. https://www.burbuja.info/inmobiliaria/members/malditos-bastardos.22257/
- 104. https://www.burbuja.info/inmobiliaria/members/malditos-bastardos.22257/
- 105. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/post-48248056
- 106. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/post-48248056
- 107. https://www.burbuja.info/inmobiliaria/goto/post?id=48247179
- 108. https://www.burbuja.info/inmobiliaria/posts/48248056/reactions
- 109. https://www.burbuja.info/inmobiliaria/members/auricooro.53110/
- 110. https://www.burbuja.info/inmobiliaria/members/auricooro.53110/
- 111. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/post-48248304
- 112. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/post-48248304
- 113. https://www.burbuja.info/inmobiliaria/members/59024/
- 114. https://www.burbuja.info/inmobiliaria/members/193786/
- 115. https://www.burbuja.info/inmobiliaria/posts/48248304/reactions
- 116. https://www.burbuja.info/inmobiliaria/members/napobalo.78346/
- 117. https://www.burbuja.info/inmobiliaria/members/napobalo.78346/
- 118. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/post-48248336
- 119. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/post-48248336
- 120. https://www.burbuja.info/inmobiliaria/posts/48248336/reactions
- 121. https://www.burbuja.info/inmobiliaria/members/blandengue.207441/
- 122. https://www.burbuja.info/inmobiliaria/members/blandengue.207441/
- 123. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/post-48248352
- 124. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/post-48248352
- 125. https://www.burbuja.info/inmobiliaria/goto/post?id=48248056
- 126. https://www.burbuja.info/inmobiliaria/posts/48248352/reactions
- 127. https://www.burbuja.info/inmobiliaria/members/tae-suk.9255/
- 128. https://www.burbuja.info/inmobiliaria/members/tae-suk.9255/
- 129. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/post-48248355
- 130. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/post-48248355
- 131. https://www.burbuja.info/inmobiliaria/posts/48248355/reactions
- 132. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/
- 133. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/
- 134. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/page-2
- 135. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/page-3
- 136. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/page-4
- 137. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/page-16
- 138. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/page-3
- 139. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/
- 140. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/
- 141. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/page-3
- 142. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/page-16
- 143. https://www.burbuja.info/inmobiliaria/login/
- 144. https://www.burbuja.info/inmobiliaria/forums/
- 145. https://www.burbuja.info/inmobiliaria/forums/economia/
- 146. https://www.burbuja.info/inmobiliaria/misc/language
- 147. https://www.burbuja.info/inmobiliaria/misc/contact
- 148. https://www.burbuja.info/inmobiliaria/help/terms/
- 149. https://www.burbuja.info/inmobiliaria/help/privacy-policy/
- 150. https://www.burbuja.info/inmobiliaria/help/
- 151. https://www.burbuja.info/inmobiliaria/
- 152. https://www.burbuja.info/inmobiliaria/forums/-/index.rss
- 153. https://xenforo.com/
- 154. https://www.addonflare.com/
- 155. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/page-2
- 156. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/page-2
- 157. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/page-2
-
-   Hidden links:
- 159. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/post-48247308
- 160. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/post-48247406
- 161. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/post-48247450
- 162. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/post-48247464
- 163. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/post-48247563
- 164. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/post-48247608
- 165. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/post-48247806
- 166. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/post-48247862
- 167. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/post-48247922
- 168. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/post-48248056
- 169. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/post-48248304
- 170. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/post-48248336
- 171. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/post-48248352
- 172. https://www.burbuja.info/inmobiliaria/threads/no-puedo-mas-las-mujeres-espanolas-me-estan-haciendo-la-vida-imposible-25-anos-y-nunca-he-tenido-novia-serio.2024353/post-48248355
+   He quitado el bloqueador de anuncios    En otro momento

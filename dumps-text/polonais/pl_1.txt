@@ -1,19 +1,19 @@
 
 
-   IFRAME: [1]https://www.googletagmanager.com/ns.html?id=GTM-K9S5XDZ
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-K9S5XDZ
 
-   [2]Skocz do zawartości
+   Skocz do zawartości
 
-     * [3]Psychologia
+     * Psychologia
      *
      *
      *
           +
 
-   [4]Nerwica.com [5]Nerwica.com
-     * [6]Pytania do lekarzy
-     * [7]Znajdź lekarza
-     * [8]Leki i suplementy
+   Nerwica.com Nerwica.com
+     * Pytania do lekarzy
+     * Znajdź lekarza
+     * Leki i suplementy
 
    ____________________
      * ( ) Wszędzie
@@ -24,7 +24,7 @@
      * ( ) Użytkownicy
 
    (BUTTON)
-     * [9]Posiadasz konto? Zaloguj się
+     * Posiadasz konto? Zaloguj się
 
 Zaloguj się
           + ____________________
@@ -32,115 +32,115 @@ Zaloguj się
           + [X]
             Zapamiętaj mnie Niezalecane na współdzielonych komputerach
           + (usernamepassword) Zaloguj się
-            [10]Nie pamiętasz hasła?
+            Nie pamiętasz hasła?
        (3) [1LoginIcon.png.97a983dba520df24f9c14659bbf54902.png] Zaloguj z
        1Login od WP
-     * [11]Zarejestruj się
+     * Zarejestruj się
 
-     * [12]Przeglądaj
-          + [13]Forum
-          + [14]Administracja
-          + [15]Użytkownicy online
-          + [16]Więcej
-     * [17]Cała aktywność
-          + [18]Twoje kanały aktywności
-               o [19]Aktywne wątki
-          + [20]Cała aktywność
-          + [21]Szukaj
-          + [22]Więcej
-     * [23]Ranking psychologów
-     * [24]Ranking psychiatrów
-     * [25]Ważne tematy
-          + [26]Zdrowie A-Z
-               o [27]Zdrowie
-               o [28]Żywienie
-               o [29]Dziecko
-               o [30]Uroda
-               o [31]Fitness i sport
-               o [32]Psychologia
-               o [33]Seks
-               o [34]Zdrowie A-Z
-               o [35]Alergie pokarmowe
-               o [36]Alergie skórne
-               o [37]Antybiotyki
-               o [38]Antykoncepcja
-               o [39]Bezsenność
-               o [40]Biegunka
-               o [41]Ból brzucha u dzieci
-               o [42]Prostata
-               o [43]Ciąża
-               o [44]Cukrzyca
-               o [45]Ginekologia
-               o [46]Grzybica
-               o [47]Kaszel
-               o [48]Katar
-               o [49]Łupież
-               o [50]Nietrzymanie moczu
-               o [51]Ortopedia
-               o [52]Ospa wietrzna
-               o [53]Piękny uśmiech
-               o [54]Problemy skórne
-               o [55]Problemy z seksem
-               o [56]Rola magnezu
-               o [57]Toczeń
-               o [58]Trądzik pospolity
-               o [59]Twarz
-               o [60]Zespół suchego oka
-          + [61]Forum
-               o [62]Zdrowie
-               o [63]Psychologia
-               o [64]Ginekologia
-               o [65]Ciąża i dziecko
-               o [66]Żywienie i fitness
-               o [67]Uroda
-               o [68]Seks
-          + [69]Leki i suplementy
-               o [70]Leki psycholeptyczne
-               o [71]Leki psychoanaleptyczne
-          + [72]Więcej
-     * [73]Więcej
-          + [74]Więcej
+     * Przeglądaj
+          + Forum
+          + Administracja
+          + Użytkownicy online
+          + Więcej
+     * Cała aktywność
+          + Twoje kanały aktywności
+               o Aktywne wątki
+          + Cała aktywność
+          + Szukaj
+          + Więcej
+     * Ranking psychologów
+     * Ranking psychiatrów
+     * Ważne tematy
+          + Zdrowie A-Z
+               o Zdrowie
+               o Żywienie
+               o Dziecko
+               o Uroda
+               o Fitness i sport
+               o Psychologia
+               o Seks
+               o Zdrowie A-Z
+               o Alergie pokarmowe
+               o Alergie skórne
+               o Antybiotyki
+               o Antykoncepcja
+               o Bezsenność
+               o Biegunka
+               o Ból brzucha u dzieci
+               o Prostata
+               o Ciąża
+               o Cukrzyca
+               o Ginekologia
+               o Grzybica
+               o Kaszel
+               o Katar
+               o Łupież
+               o Nietrzymanie moczu
+               o Ortopedia
+               o Ospa wietrzna
+               o Piękny uśmiech
+               o Problemy skórne
+               o Problemy z seksem
+               o Rola magnezu
+               o Toczeń
+               o Trądzik pospolity
+               o Twarz
+               o Zespół suchego oka
+          + Forum
+               o Zdrowie
+               o Psychologia
+               o Ginekologia
+               o Ciąża i dziecko
+               o Żywienie i fitness
+               o Uroda
+               o Seks
+          + Leki i suplementy
+               o Leki psycholeptyczne
+               o Leki psychoanaleptyczne
+          + Więcej
+     * Więcej
+          + Więcej
 
-     * [75]Cała aktywność
+     * Cała aktywność
 
-     * [76]Strona główna
-     * [77]Dyskusje
-     * [78]Psychologia
+     * Strona główna
+     * Dyskusje
+     * Psychologia
      * Jak można opisać szczęście?
 
 Jak można opisać szczęście?
      __________________________________________________________________
 
-   [79]Dryagan
+   Dryagan
 
-   Przez [80]Dryagan
-   15 Kwietnia w [81]Psychologia
-   [82] Udostępnij
+   Przez Dryagan
+   15 Kwietnia w Psychologia
+    Udostępnij
      *
      *
      __________________________________________________________________
 
    (BUTTON) Więcej opcji udostępniania...
-   [83]Obserwujący 2
+   Obserwujący 2
 
 Rekomendowane odpowiedzi
 
-   [84]Dryagan
+   Dryagan
 
-[85]Dryagan
+Dryagan
 
-   [86]Opublikowano 15 Kwietnia
+   Opublikowano 15 Kwietnia
 
-[87]Dryagan
+Dryagan
 
-     * [88]Dryagan
+     * Dryagan
      * Administrator
      *
-          + [89]2,4 tys.
+          + 2,4 tys.
 
      *
 
-   [90]Opublikowano 15 Kwietnia 15.04.2023 17:36
+   Opublikowano 15 Kwietnia 15.04.2023 17:36
 
    Patrząc po tym co piszecie na Forum o szczęściu (lub jego braku)
    postanowiłem założyć osobny temat. Może wspólnie dojdziemy jak osiągnąć
@@ -171,22 +171,22 @@ Udostępnij na innych stronach
      __________________________________________________________________
 
    (BUTTON) Więcej opcji udostępniania...
-   [91]Barbecue
+   Barbecue
 
-[92]Barbecue
+Barbecue
 
-   [93]Opublikowano 15 Kwietnia
+   Opublikowano 15 Kwietnia
 
-[94]Barbecue
+Barbecue
 
-     * [95]Barbecue
+     * Barbecue
      * Użytkownik
      *
-          + [96]133
+          + 133
 
      *
 
-   [97]Opublikowano 15 Kwietnia 15.04.2023 17:44 (edytowane)
+   Opublikowano 15 Kwietnia 15.04.2023 17:44 (edytowane)
 
    Według mnie szczęście ma coś wspólnego z zadowoleniem z życia. To coś
    więcej niż chwilowa satysfakcja. To raczej odczuwanie spełnienia.
@@ -214,7 +214,7 @@ Udostępnij na innych stronach
 
 Gość Dzitek
 
-   [98]Opublikowano 15 Kwietnia
+   Opublikowano 15 Kwietnia
 
 Gość Dzitek
 
@@ -223,7 +223,7 @@ Gość Dzitek
 
      *
 
-   [99]Opublikowano 15 Kwietnia 15.04.2023 18:41
+   Opublikowano 15 Kwietnia 15.04.2023 18:41
 
    Oho - wyczuwam podświadomie że byłem inspiracją do stworzenia tego
    tematu (pisałem dzisiaj na temat braku szczęścia).
@@ -263,22 +263,22 @@ Udostępnij na innych stronach
      __________________________________________________________________
 
    (BUTTON) Więcej opcji udostępniania...
-   [100]Dryagan
+   Dryagan
 
-[101]Dryagan
+Dryagan
 
-   [102]Opublikowano 15 Kwietnia
+   Opublikowano 15 Kwietnia
 
-[103]Dryagan
+Dryagan
 
-     * [104]Dryagan
+     * Dryagan
      * Administrator
      *
-          + [105]2,4 tys.
+          + 2,4 tys.
 
      *
 
-   [106]Opublikowano 15 Kwietnia 15.04.2023 18:53
+   Opublikowano 15 Kwietnia 15.04.2023 18:53
 
    No cóż, osobiście nie przestanę twierdzić, że szczęście to stan
    chwilowego poczucia euforii i jest ulotne. Powiedzmy, że osobiście sam
@@ -309,22 +309,22 @@ Udostępnij na innych stronach
      __________________________________________________________________
 
    (BUTTON) Więcej opcji udostępniania...
-   [107]neon
+   neon
 
-[108]neon
+neon
 
-   [109]Opublikowano 16 Kwietnia
+   Opublikowano 16 Kwietnia
 
-[110]neon
+neon
 
-     * [111]neon
+     * neon
      * Użytkownik
      *
-          + [112]9,9 tys.
+          + 9,9 tys.
 
      *
 
-   [113]Opublikowano 16 Kwietnia 16.04.2023 10:18
+   Opublikowano 16 Kwietnia 16.04.2023 10:18
 
    Szczescie to skutek uboczny robienia rzeczy własciwych, a nie tych
    ktore daja szczescie. Wiec naszym celem nie powinno byc szczescie samo
@@ -353,22 +353,22 @@ Udostępnij na innych stronach
      __________________________________________________________________
 
    (BUTTON) Więcej opcji udostępniania...
-   [114]Dalja
+   Dalja
 
-[115]Dalja
+Dalja
 
-   [116]Opublikowano 16 Kwietnia
+   Opublikowano 16 Kwietnia
 
-[117]Dalja
+Dalja
 
-     * [118]Dalja
+     * Dalja
      * Użytkownik
      *
-          + [119]1,1 tys.
+          + 1,1 tys.
 
      *
 
-   [120]Opublikowano 16 Kwietnia 16.04.2023 10:23
+   Opublikowano 16 Kwietnia 16.04.2023 10:23
 
    Wiedzieć po co się żyje i dla kogo:)
      *
@@ -387,22 +387,22 @@ Udostępnij na innych stronach
      __________________________________________________________________
 
    (BUTTON) Więcej opcji udostępniania...
-   [121]Relfi
+   Relfi
 
-[122]Relfi
+Relfi
 
-   [123]Opublikowano 16 Kwietnia
+   Opublikowano 16 Kwietnia
 
-[124]Relfi
+Relfi
 
-     * [125]Relfi
+     * Relfi
      * Użytkownik
      *
-          + [126]62
+          + 62
 
      *
 
-   [127]Opublikowano 16 Kwietnia 16.04.2023 11:27
+   Opublikowano 16 Kwietnia 16.04.2023 11:27
 
    Chyba jednym z elementów szczęścia jest poczucie humoru 🙂 tak by
    czasami nabrać dystansu.
@@ -422,22 +422,22 @@ Udostępnij na innych stronach
      __________________________________________________________________
 
    (BUTTON) Więcej opcji udostępniania...
-   [128]Cynos
+   Cynos
 
-[129]Cynos
+Cynos
 
-   [130]Opublikowano 16 Kwietnia
+   Opublikowano 16 Kwietnia
 
-[131]Cynos
+Cynos
 
-     * [132]Cynos
+     * Cynos
      * Użytkownik
      *
-          + [133]22
+          + 22
 
      *
 
-   [134]Opublikowano 16 Kwietnia 16.04.2023 22:37
+   Opublikowano 16 Kwietnia 16.04.2023 22:37
 
    Według mnie szczęście jest skutkiem ubocznym dobrego życia, a czym jest
    to dobre życie zapytacie, każdy musi sobie to sam zdefiniować bo dla
@@ -467,776 +467,328 @@ Jeśli chcesz dodać odpowiedź, zaloguj się lub zarejestruj nowe konto
 Zarejestruj nowe konto
 
    Załóż nowe konto. To bardzo proste!
-   [135]Zarejestruj się
+   Zarejestruj się
 
 Zaloguj się
 
    Posiadasz już konto? Zaloguj się poniżej.
-   [136]Zaloguj się
-   [137] Udostępnij
+   Zaloguj się
+    Udostępnij
      *
      *
      __________________________________________________________________
 
    (BUTTON) Więcej opcji udostępniania...
-   [138]Obserwujący 2
-   [139]Tematy
+   Obserwujący 2
+   Tematy
      * Kto jest online?
-       11 użytkowników, 4 anonimowych, 1 489 gości [140](Zobacz pełną
-       listę)
-          + [141]Aniafran98
-          + [142]Ja2345
-          + [143]94.
-          + [144]Edzio35
-          + [145]Disaronno
-          + [146]Fuji
-          + [147]Marcin1981.
-          + [148]Puzzelka
-          + [149]Kanket
-          + [150]rikq
-          + [151]jasnapietruszka124
+       7 użytkowników, 6 anonimowych, 1 641 gości (Zobacz pełną listę)
+          + Mara33
+          + Orzeszkowa
+          + Futility
+          + Javiolla
+          + 94.
+          + lorana
+          + mienta
      * Najpopularniejsze
           +
 
-[152]Alkohol i nerwica
-            Przez [153]Mufiśka, 15 Listopada w [154]Nerwica lękowa
-               o 23 odpowiedzi
-               o 333 wyświetleń
-               o [155]Mufiśka
-               o [156]Mufiśka
-               o [157]Wczoraj o 08:55
+Alkohol i nerwica 1 2
+            Przez Mufiśka, 15 Listopada w Nerwica lękowa
+               o 27 odpowiedzi
+               o 519 wyświetleń
+               o acherontia styx
+               o acherontia styx
+               o 14 godzin temu
           +
 
-[158]Konkurs jesienny [GŁOSOWANIE]
-            Przez [159]Melodiaa, 15 Listopada w [160]Konkursy
-               o 21 odpowiedzi
-               o 260 wyświetleń
-               o [161]utrapienie
-               o [162]utrapienie
-               o [163]Poniedziałek o 12:30
+Konkurs jesienny [GŁOSOWANIE]
+            Przez Melodiaa, 15 Listopada w Konkursy
+               o 24 odpowiedzi
+               o 301 wyświetleń
+               o Jurecki
+               o Jurecki
+               o 5 godzin temu
           +
 
-[164]Zasiłek dla bezrobotnych
-            Przez [165]94., 10 Listopada w [166]Sprawy urzędowe
-               o 15 odpowiedzi
-               o 417 wyświetleń
-               o [167]94.
-               o [168]94.
-               o [169]12 Listopada
-          +
-
-[170]Do tetraplegii dołączyło drżenie, spastyka, wybudzanie senne, brak snu,
-problemy z zaśnięciem
-            Przez [171]Danutaka, 8 Listopada w [172]Witam
+Udział w badaniach klinicznych - czego się boimy?
+            Przez acherontia styx, 15 Listopada w Leki
                o 11 odpowiedzi
-               o 406 wyświetleń
-               o [173]Danutaka
-               o [174]Danutaka
-               o [175]10 Listopada
+               o 230 wyświetleń
+               o acherontia styx
+               o acherontia styx
+               o Piątek o 18:18
           +
 
-[176]Rozwój ChAdu
-            Przez [177]Szalony Kojot, Piątek o 21:30 w [178]Depresja
-               o 10 odpowiedzi
-               o 515 wyświetleń
-               o [179]edta
-               o [180]edta
-               o [181]Niedziela o 08:23
+Rozwój ChAdu
+            Przez Szalony Kojot, 17 Listopada w Depresja
+               o 11 odpowiedzi
+               o 776 wyświetleń
+               o chojrakowa
+               o chojrakowa
+               o 22 godziny temu
+          +
+
+Nerwica, lęki, obsesje a religia, wiara i Bóg
+            Przez Anilorak, 19 Listopada w Nerwica natręctw
+               o 8 odpowiedzi
+               o 261 wyświetleń
+               o miL;)
+               o miL;)
+               o Piątek o 17:18
      * Nowe wątki
           +
 
-[182]Problemy z myśleniem, rozbiegany umysł
-            Przez [183]_co, 13 godzin temu w [184]Pozostałe zaburzenia
-
-               o [185]myślenie
-               o (i 6 więcej)
-                 Oznaczone tagami:
-                    # [186]myślenie
-                    # [187]skupienie
-                    # [188]uwaga
-                    # [189]problemy poznawcze
-                    # [190]myślenie analityczne
-                    # [191]mała wydajność umysłu
-                    # [192]umysł
-               o 2 odpowiedzi
-               o 48 wyświetleń
-               o [193]johnn
-               o [194]johnn
-               o [195]13 godzin temu
+Czy z borderline da się wyleczyć?
+            Przez 94., 4 godziny temu w Zaburzenia osobowości
+               o 0 odpowiedzi
+               o 30 wyświetleń
+               o 94.
+               o 94.
+               o 4 godziny temu
           +
 
-[196]Stres, nerwica, za dużo myśli
-            Przez [197]rikq, Wczoraj o 07:03 w [198]Nerwica natręctw
-               o 1 odpowiedź
-               o 59 wyświetleń
-               o [199]miL;)
-               o [200]miL;)
-               o [201]Wczoraj o 07:25
+Czesto placze
+            Przez Limara, 20 godzin temu w Depresja
+               o 0 odpowiedzi
+               o 28 wyświetleń
+               o Limara
+               o Limara
+               o 20 godzin temu
           +
 
-[202]Napady lęku
-            Przez [203]pomcio, Poniedziałek o 09:10 w [204]Nerwica lękowa
-               o 3 odpowiedzi
-               o 97 wyświetleń
-               o [205]pomcio
-               o [206]pomcio
-               o [207]Wczoraj o 09:01
+Potrzebuje z kimś pogadać kto ma długi staż w tym ,że bierze anafranil...
+            Przez ateneczkap777, 21 godzin temu w Nerwica natręctw
+               o 0 odpowiedzi
+               o 27 wyświetleń
+               o ateneczkap777
+               o ateneczkap777
+               o 21 godzin temu
           +
 
-[208]Nerwica, lęki, obsesje a religia, wiara i Bóg
-            Przez [209]Anilorak, Niedziela o 16:32 w [210]Nerwica natręctw
-               o 7 odpowiedzi
-               o 161 wyświetleń
-               o [211]Robinmario
-               o [212]Robinmario
-               o [213]12 godzin temu
+Moje życie to poukładany koszmar
+            Przez Nath000, Wczoraj o 12:15 w Nerwica lękowa
+               o 0 odpowiedzi
+               o 58 wyświetleń
+               o Nath000
+               o Nath000
+               o Wczoraj o 12:15
           +
 
-[214]OCD - moje refleksje
-            Przez [215]Puzzelka, Sobota o 21:04 w [216]Nerwica natręctw
-               o 5 odpowiedzi
-               o 144 wyświetleń
-               o [217]Puzzelka
-               o [218]Puzzelka
-               o [219]13 godzin temu
+Jest źle
+            Przez Michu95, Wczoraj o 08:27 w Depresja
+               o 0 odpowiedzi
+               o 42 wyświetleń
+               o Michu95
+               o Michu95
+               o Wczoraj o 08:27
      * Najczęściej czytane
           +
 
-[220]Mam depresję i od 5 lat tylko leżę w łóżku. [221]1 [222]2
-            Przez [223]lorana, 6 Listopada w [224]Depresja
-               o 28 odpowiedzi
-               o 1 760 wyświetleń
-               o [225]Sebastian288
-               o [226]Sebastian288
-               o [227]22 godziny temu
+Mam depresję i od 5 lat tylko leżę w łóżku. 1 2
+            Przez lorana, 6 Listopada w Depresja
+               o 29 odpowiedzi
+               o 2 110 wyświetleń
+               o ExxonValdez
+               o ExxonValdez
+               o Czwartek o 06:23
           +
 
-[228]Mój trudny ale skuteczny proces leczenia
-            Przez [229]eleniq, 1 Listopada w [230]Kroki do wolności
-               o 12 odpowiedzi
-               o 845 wyświetleń
-               o [231]eleniq
-               o [232]eleniq
-               o [233]6 Listopada
-          +
-
-[234]Czy będzie mi już trudno poznać partnera jak praktycznie same dziewczyny
-w danych miejscach? Co mam zrobić w tym wszystkim? Proszę o pomoc [235]1
-[236]2
-            Przez [237]Ola_00, 3 Listopada w [238]Socjologia
-               o 27 odpowiedzi
-               o 772 wyświetleń
-               o [239]Ola_00
-               o [240]Ola_00
-               o [241]14 godzin temu
-          +
-
-[242]Czy to myślenie magiczne, czy mój mózg mnie ostrzega?
-            Przez [243]robertina, 2 Listopada w [244]Nerwica natręctw
-               o 12 odpowiedzi
-               o 534 wyświetleń
-               o [245]dolgit33
-               o [246]dolgit33
-               o [247]13 Listopada
-          +
-
-[248]Rozwój ChAdu
-            Przez [249]Szalony Kojot, Piątek o 21:30 w [250]Depresja
-               o 10 odpowiedzi
-               o 515 wyświetleń
-               o [251]edta
-               o [252]edta
-               o [253]Niedziela o 08:23
-          +
-
-[254]Zasiłek dla bezrobotnych
-            Przez [255]94., 10 Listopada w [256]Sprawy urzędowe
-               o 15 odpowiedzi
-               o 417 wyświetleń
-               o [257]94.
-               o [258]94.
-               o [259]12 Listopada
-          +
-
-[260]Do tetraplegii dołączyło drżenie, spastyka, wybudzanie senne, brak snu,
-problemy z zaśnięciem
-            Przez [261]Danutaka, 8 Listopada w [262]Witam
+Rozwój ChAdu
+            Przez Szalony Kojot, 17 Listopada w Depresja
                o 11 odpowiedzi
-               o 406 wyświetleń
-               o [263]Danutaka
-               o [264]Danutaka
-               o [265]10 Listopada
+               o 776 wyświetleń
+               o chojrakowa
+               o chojrakowa
+               o 22 godziny temu
           +
 
-[266]Alkohol i nerwica
-            Przez [267]Mufiśka, 15 Listopada w [268]Nerwica lękowa
-               o 23 odpowiedzi
-               o 333 wyświetleń
-               o [269]Mufiśka
-               o [270]Mufiśka
-               o [271]Wczoraj o 08:55
+Zasiłek dla bezrobotnych
+            Przez 94., 10 Listopada w Sprawy urzędowe
+               o 15 odpowiedzi
+               o 556 wyświetleń
+               o 94.
+               o 94.
+               o 12 Listopada
           +
 
-[272]Czy istnieje dla mnie jeszcze jakaś nadzieja?
-            Przez [273]Maksymilian93, 6 Listopada w [274]Witam
+Alkohol i nerwica 1 2
+            Przez Mufiśka, 15 Listopada w Nerwica lękowa
+               o 27 odpowiedzi
+               o 519 wyświetleń
+               o acherontia styx
+               o acherontia styx
+               o 14 godzin temu
+          +
+
+Do tetraplegii dołączyło drżenie, spastyka, wybudzanie senne, brak snu,
+problemy z zaśnięciem
+            Przez Danutaka, 8 Listopada w Witam
+               o 11 odpowiedzi
+               o 441 wyświetleń
+               o Danutaka
+               o Danutaka
+               o 10 Listopada
+          +
+
+Czy istnieje dla mnie jeszcze jakaś nadzieja?
+            Przez Maksymilian93, 6 Listopada w Witam
                o 3 odpowiedzi
-               o 298 wyświetleń
-               o [275]Szalony Kojot
-               o [276]Szalony Kojot
-               o [277]Sobota o 23:46
+               o 359 wyświetleń
+               o Szalony Kojot
+               o Szalony Kojot
+               o 18 Listopada
           +
 
-[278]Nie mogę płakać
-            Przez [279]mienta, 1 Listopada w [280]Pozostałe zaburzenia
+Błagam o pomoc - to mnie wykańcza
+            Przez Disgrace, 6 Listopada w Nerwica lękowa
+               o 6 odpowiedzi
+               o 313 wyświetleń
+               o Radosław
+               o Radosław
+               o 6 Listopada
+          +
+
+Konkurs jesienny [GŁOSOWANIE]
+            Przez Melodiaa, 15 Listopada w Konkursy
+               o 24 odpowiedzi
+               o 301 wyświetleń
+               o Jurecki
+               o Jurecki
+               o 5 godzin temu
+          +
+
+Pomóżcie mi.. bo ja już nie mam siły :(
+            Przez ateneczkap777, 14 Listopada w Witam
+               o 5 odpowiedzi
+               o 276 wyświetleń
+               o ateneczkap777
+               o ateneczkap777
+               o 19 Listopada
+          +
+
+Nerwica, lęki, obsesje a religia, wiara i Bóg
+            Przez Anilorak, 19 Listopada w Nerwica natręctw
                o 8 odpowiedzi
-               o 292 wyświetleń
-               o [281]mienta
-               o [282]mienta
-               o [283]Niedziela o 09:59
+               o 261 wyświetleń
+               o miL;)
+               o miL;)
+               o Piątek o 17:18
      * Chmura tagów
-       [284]lęk [285]stres [286]nerwica [287]samotność [288]depresja
-       [289]nerwica lękowa [290]lęki [291]psychoterapia [292]strach
-       [293]nerwica natręctw
+       nerwica nerwica natręctw psychoterapia nerwica lękowa samotność
+       lęki strach depresja lęk stres
 
      * Ostatnio zaktualizowane
-          + [294]Dryagan
-            5 103
-            [295]Dzienne Wrony - Nocne Darki (czynne 24 h na dobę)
-            Przez [296]Dryagan
-          + [297]Psychoanalepsja_SS
-            62
-            [298]ADHD - wątek ogólny
-            Przez [299]Psychoanalepsja_SS
-          + [300]suzak29
-            2 466
-            [301]DULOKSETYNA (AuroDulox, Depratal, Dulofor, Duloxetine
-            Mylan/ +pharm/ Sandoz/ Zentiva, Dulsevia, Duloxetenon,
-            Dutilox)
-            Przez [302]suzak29
-          + [303]Dryagan
-            110
-            [304]Co na dzisiaj? - czyli dziennik psychoterapii
-            Przez [305]Dryagan
-          + [306]Lord Cappuccino
-            107
-            [307]FENELZYNA (Nardil, Nardelzine) !Niedostępny w PL!
-            Przez [308]Lord Cappuccino
+          + Futility
+            95
+            Byłem z kimś okropnym - opowieść ku przestrodze
+            Przez Futility
+          + katrin123
+            1 790
+            Dzisiaj czuje się...
+            Przez katrin123
+          + tepi
+            260
+            ESKETAMINA (Spravato)
+            Przez tepi
+          + Konrad!
+            35 939
+            Co Wam dziś sprawiło radość?
+            Przez Konrad!
+          + shadow_no
+            20 642
+            SERTRALINA (ApoSerta, Asentra, Asertin, Miravil, Sastium,
+            Sertagen, Sertralina Krka, Sertranorm, Seraloft, Stimuloton,
+            Zoloft, Zotral)
+            Przez shadow_no
 
-     * [309]Cała aktywność
+     * Cała aktywność
 
-     * [310]Strona główna
-     * [311]Dyskusje
-     * [312]Psychologia
+     * Strona główna
+     * Dyskusje
+     * Psychologia
      * Jak można opisać szczęście?
 
-     * [313]Regulamin
-     * [314]Polityka prywatności
-     * [315]Kontakt
+     * Regulamin
+     * Polityka prywatności
+     * Kontakt
 
-   [316]Nerwica.com jest częścią Wirtualna Polska Media SA
+   Nerwica.com jest częścią Wirtualna Polska Media SA
 
-   [317]Powered by Invision Community
+   Powered by Invision Community
 
-   [318]×
-     * [319]Posiadasz konto? Zaloguj się
-     * [320]Zarejestruj się
+   ×
+     * Posiadasz konto? Zaloguj się
+     * Zarejestruj się
 
-     * [321]Przeglądaj
-          + [322]Wróć
-          + [323]Przeglądaj
-          + [324]Forum
-          + [325]Administracja
-          + [326]Użytkownicy online
-     * [327]Cała aktywność
-          + [328]Wróć
-          + [329]Cała aktywność
-          + [330]Twoje kanały aktywności
-               o [331]Wróć
-               o [332]Aktywne wątki
-          + [333]Cała aktywność
-          + [334]Szukaj
-     * [335]Ranking psychologów
-     * [336]Ranking psychiatrów
-     * [337]Ważne tematy
-          + [338]Wróć
-          + [339]Ważne tematy
-          + [340]Zdrowie A-Z
-               o [341]Wróć
-               o [342]Zdrowie
-               o [343]Żywienie
-               o [344]Dziecko
-               o [345]Uroda
-               o [346]Fitness i sport
-               o [347]Psychologia
-               o [348]Seks
-               o [349]Zdrowie A-Z
-               o [350]Alergie pokarmowe
-               o [351]Alergie skórne
-               o [352]Antybiotyki
-               o [353]Antykoncepcja
-               o [354]Bezsenność
-               o [355]Biegunka
-               o [356]Ból brzucha u dzieci
-               o [357]Prostata
-               o [358]Ciąża
-               o [359]Cukrzyca
-               o [360]Ginekologia
-               o [361]Grzybica
-               o [362]Kaszel
-               o [363]Katar
-               o [364]Łupież
-               o [365]Nietrzymanie moczu
-               o [366]Ortopedia
-               o [367]Ospa wietrzna
-               o [368]Piękny uśmiech
-               o [369]Problemy skórne
-               o [370]Problemy z seksem
-               o [371]Rola magnezu
-               o [372]Toczeń
-               o [373]Trądzik pospolity
-               o [374]Twarz
-               o [375]Zespół suchego oka
-          + [376]Forum
-               o [377]Wróć
-               o [378]Zdrowie
-               o [379]Psychologia
-               o [380]Ginekologia
-               o [381]Ciąża i dziecko
-               o [382]Żywienie i fitness
-               o [383]Uroda
-               o [384]Seks
-          + [385]Leki i suplementy
-               o [386]Wróć
-               o [387]Leki psycholeptyczne
-               o [388]Leki psychoanaleptyczne
-     * [389]Pytania do lekarzy
-     * [390]Znajdź lekarza
-     * [391]Leki i suplementy
-
-References
-
-   Visible links:
-   1. https://www.googletagmanager.com/ns.html?id=GTM-K9S5XDZ
-   2. https://www.nerwica.com/topic/47933-jak-mozna-opisac-szczescie/#elContent
-   3. https://www.nerwica.com/forum/17-psychologia/
-   4. https://portal.abczdrowie.pl/
-   5. https://www.nerwica.com/
-   6. https://portal.abczdrowie.pl/pytania-do-specjalistow
-   7. https://ranking.abczdrowie.pl/
-   8. https://leki.abczdrowie.pl/
-   9. https://www.nerwica.com/login/
-  10. https://www.nerwica.com/lostpassword/
-  11. https://www.nerwica.com/register/
-  12. https://www.nerwica.com/
-  13. https://www.nerwica.com/
-  14. https://www.nerwica.com/staff/
-  15. https://www.nerwica.com/online/
-  16. https://www.nerwica.com/topic/47933-jak-mozna-opisac-szczescie/
-  17. https://www.nerwica.com/discover/
-  18. https://www.nerwica.com/topic/47933-jak-mozna-opisac-szczescie/
-  19. https://www.nerwica.com/discover/216/
-  20. https://www.nerwica.com/discover/
-  21. https://www.nerwica.com/search/
-  22. https://www.nerwica.com/topic/47933-jak-mozna-opisac-szczescie/
-  23. https://ranking.abczdrowie.pl/s/psycholog
-  24. https://ranking.abczdrowie.pl/s/psychiatra
-  25. https://portal.abczdrowie.pl/wazne-tematy
-  26. https://www.nerwica.com/topic/47933-jak-mozna-opisac-szczescie/
-  27. https://portal.abczdrowie.pl/zdrowie
-  28. https://portal.abczdrowie.pl/zywienie
-  29. https://portal.abczdrowie.pl/dziecko
-  30. https://portal.abczdrowie.pl/uroda
-  31. https://portal.abczdrowie.pl/fitness-i-sport
-  32. https://portal.abczdrowie.pl/psychologia
-  33. https://portal.abczdrowie.pl/seks
-  34. https://portal.abczdrowie.pl/wiki
-  35. https://portal.abczdrowie.pl/alergia-pokarmowa
-  36. https://portal.abczdrowie.pl/alergie-skorne
-  37. https://portal.abczdrowie.pl/antybiotyki
-  38. https://portal.abczdrowie.pl/antykoncepcja
-  39. https://portal.abczdrowie.pl/bezsennosc
-  40. https://portal.abczdrowie.pl/biegunka
-  41. https://portal.abczdrowie.pl/bol-brzucha-u-dzieci
-  42. https://portal.abczdrowie.pl/choroby-prostaty
-  43. https://portal.abczdrowie.pl/ciaza
-  44. https://portal.abczdrowie.pl/cukrzyca
-  45. https://portal.abczdrowie.pl/ginekologia
-  46. https://portal.abczdrowie.pl/grzybica
-  47. https://portal.abczdrowie.pl/kaszel
-  48. https://portal.abczdrowie.pl/katar
-  49. https://portal.abczdrowie.pl/lupiez
-  50. https://portal.abczdrowie.pl/nietrzymanie-moczu
-  51. https://portal.abczdrowie.pl/ortopedia-i-reumatologia
-  52. https://portal.abczdrowie.pl/ospa
-  53. https://portal.abczdrowie.pl/piekny-usmiech
-  54. https://portal.abczdrowie.pl/problemy-skorne
-  55. https://portal.abczdrowie.pl/problemy-z-seksem
-  56. https://portal.abczdrowie.pl/rola-magnezu
-  57. https://portal.abczdrowie.pl/toczen
-  58. https://portal.abczdrowie.pl/tradzik-pospolity
-  59. https://portal.abczdrowie.pl/twarz
-  60. https://portal.abczdrowie.pl/zespol-suchego-oka
-  61. https://www.nerwica.com/topic/47933-jak-mozna-opisac-szczescie/
-  62. https://forum.abczdrowie.pl/forum-zdrowie
-  63. https://forum.abczdrowie.pl/forum-psychologia
-  64. https://forum.abczdrowie.pl/forum-ginekologia
-  65. https://forum.abczdrowie.pl/forum-ciaza-i-dziecko
-  66. https://forum.abczdrowie.pl/forum-zywienie-i-fitness
-  67. https://forum.abczdrowie.pl/forum-uroda
-  68. https://forum.abczdrowie.pl/forum-seks
-  69. https://www.nerwica.com/topic/47933-jak-mozna-opisac-szczescie/
-  70. https://leki.abczdrowie.pl/c/leki-psycholeptyczne
-  71. https://leki.abczdrowie.pl/c/psychoanaleptyki
-  72. https://www.nerwica.com/topic/47933-jak-mozna-opisac-szczescie/
-  73. https://www.nerwica.com/topic/47933-jak-mozna-opisac-szczescie/
-  74. https://www.nerwica.com/topic/47933-jak-mozna-opisac-szczescie/
-  75. https://www.nerwica.com/discover/
-  76. https://www.nerwica.com/
-  77. https://www.nerwica.com/forum/20-dyskusje/
-  78. https://www.nerwica.com/forum/17-psychologia/
-  79. https://www.nerwica.com/profile/79070-dryagan/
-  80. https://www.nerwica.com/profile/79070-dryagan/
-  81. https://www.nerwica.com/forum/17-psychologia/
-  82. https://www.nerwica.com/topic/47933-jak-mozna-opisac-szczescie/#elShareItem_422221194_menu
-  83. https://www.nerwica.com/login/
-  84. https://www.nerwica.com/profile/79070-dryagan/
-  85. https://www.nerwica.com/profile/79070-dryagan/
-  86. https://www.nerwica.com/topic/47933-jak-mozna-opisac-szczescie/?do=findComment&comment=2623215
-  87. https://www.nerwica.com/profile/79070-dryagan/
-  88. https://www.nerwica.com/profile/79070-dryagan/
-  89. https://www.nerwica.com/profile/79070-dryagan/content/
-  90. https://www.nerwica.com/topic/47933-jak-mozna-opisac-szczescie/?do=findComment&comment=2623215
-  91. https://www.nerwica.com/profile/79082-barbecue/
-  92. https://www.nerwica.com/profile/79082-barbecue/
-  93. https://www.nerwica.com/topic/47933-jak-mozna-opisac-szczescie/?do=findComment&comment=2623218
-  94. https://www.nerwica.com/profile/79082-barbecue/
-  95. https://www.nerwica.com/profile/79082-barbecue/
-  96. https://www.nerwica.com/profile/79082-barbecue/content/
-  97. https://www.nerwica.com/topic/47933-jak-mozna-opisac-szczescie/?do=findComment&comment=2623218
-  98. https://www.nerwica.com/topic/47933-jak-mozna-opisac-szczescie/?do=findComment&comment=2623223
-  99. https://www.nerwica.com/topic/47933-jak-mozna-opisac-szczescie/?do=findComment&comment=2623223
- 100. https://www.nerwica.com/profile/79070-dryagan/
- 101. https://www.nerwica.com/profile/79070-dryagan/
- 102. https://www.nerwica.com/topic/47933-jak-mozna-opisac-szczescie/?do=findComment&comment=2623224
- 103. https://www.nerwica.com/profile/79070-dryagan/
- 104. https://www.nerwica.com/profile/79070-dryagan/
- 105. https://www.nerwica.com/profile/79070-dryagan/content/
- 106. https://www.nerwica.com/topic/47933-jak-mozna-opisac-szczescie/?do=findComment&comment=2623224
- 107. https://www.nerwica.com/profile/53290-neon/
- 108. https://www.nerwica.com/profile/53290-neon/
- 109. https://www.nerwica.com/topic/47933-jak-mozna-opisac-szczescie/?do=findComment&comment=2623258
- 110. https://www.nerwica.com/profile/53290-neon/
- 111. https://www.nerwica.com/profile/53290-neon/
- 112. https://www.nerwica.com/profile/53290-neon/content/
- 113. https://www.nerwica.com/topic/47933-jak-mozna-opisac-szczescie/?do=findComment&comment=2623258
- 114. https://www.nerwica.com/profile/78142-dalja/
- 115. https://www.nerwica.com/profile/78142-dalja/
- 116. https://www.nerwica.com/topic/47933-jak-mozna-opisac-szczescie/?do=findComment&comment=2623261
- 117. https://www.nerwica.com/profile/78142-dalja/
- 118. https://www.nerwica.com/profile/78142-dalja/
- 119. https://www.nerwica.com/profile/78142-dalja/content/
- 120. https://www.nerwica.com/topic/47933-jak-mozna-opisac-szczescie/?do=findComment&comment=2623261
- 121. https://www.nerwica.com/profile/80809-relfi/
- 122. https://www.nerwica.com/profile/80809-relfi/
- 123. https://www.nerwica.com/topic/47933-jak-mozna-opisac-szczescie/?do=findComment&comment=2623267
- 124. https://www.nerwica.com/profile/80809-relfi/
- 125. https://www.nerwica.com/profile/80809-relfi/
- 126. https://www.nerwica.com/profile/80809-relfi/content/
- 127. https://www.nerwica.com/topic/47933-jak-mozna-opisac-szczescie/?do=findComment&comment=2623267
- 128. https://www.nerwica.com/profile/80759-cynos/
- 129. https://www.nerwica.com/profile/80759-cynos/
- 130. https://www.nerwica.com/topic/47933-jak-mozna-opisac-szczescie/?do=findComment&comment=2623311
- 131. https://www.nerwica.com/profile/80759-cynos/
- 132. https://www.nerwica.com/profile/80759-cynos/
- 133. https://www.nerwica.com/profile/80759-cynos/content/
- 134. https://www.nerwica.com/topic/47933-jak-mozna-opisac-szczescie/?do=findComment&comment=2623311
- 135. https://www.nerwica.com/register/
- 136. https://www.nerwica.com/login/?ref=aHR0cHM6Ly93d3cubmVyd2ljYS5jb20vdG9waWMvNDc5MzMtamFrLW1vem5hLW9waXNhYy1zemN6ZXNjaWUvI3JlcGx5Rm9ybQ==
- 137. https://www.nerwica.com/topic/47933-jak-mozna-opisac-szczescie/#elShareItem_977347380_menu
- 138. https://www.nerwica.com/login/
- 139. https://www.nerwica.com/forum/17-psychologia/
- 140. https://www.nerwica.com/online/
- 141. https://www.nerwica.com/profile/81017-aniafran98/
- 142. https://www.nerwica.com/profile/278534-ja2345/
- 143. https://www.nerwica.com/profile/81359-94/
- 144. https://www.nerwica.com/profile/81443-edzio35/
- 145. https://www.nerwica.com/profile/278508-disaronno/
- 146. https://www.nerwica.com/profile/80814-fuji/
- 147. https://www.nerwica.com/profile/278420-marcin1981/
- 148. https://www.nerwica.com/profile/81510-puzzelka/
- 149. https://www.nerwica.com/profile/81350-kanket/
- 150. https://www.nerwica.com/profile/81466-rikq/
- 151. https://www.nerwica.com/profile/278533-jasnapietruszka124/
- 152. https://www.nerwica.com/topic/48496-alkohol-i-nerwica/
- 153. https://www.nerwica.com/profile/80673-mufiska/
- 154. https://www.nerwica.com/forum/3-nerwica-lekowa/
- 155. https://www.nerwica.com/profile/80673-mufiska/
- 156. https://www.nerwica.com/profile/80673-mufiska/
- 157. https://www.nerwica.com/topic/48496-alkohol-i-nerwica/
- 158. https://www.nerwica.com/topic/48497-konkurs-jesienny-glosowanie/
- 159. https://www.nerwica.com/profile/80442-melodiaa/
- 160. https://www.nerwica.com/forum/56-konkursy/
- 161. https://www.nerwica.com/profile/76012-utrapienie/
- 162. https://www.nerwica.com/profile/76012-utrapienie/
- 163. https://www.nerwica.com/topic/48497-konkurs-jesienny-glosowanie/
- 164. https://www.nerwica.com/topic/48487-zasilek-dla-bezrobotnych/
- 165. https://www.nerwica.com/profile/81359-94/
- 166. https://www.nerwica.com/forum/57-sprawy-urzedowe/
- 167. https://www.nerwica.com/profile/81359-94/
- 168. https://www.nerwica.com/profile/81359-94/
- 169. https://www.nerwica.com/topic/48487-zasilek-dla-bezrobotnych/
- 170. https://www.nerwica.com/topic/48483-do-tetraplegii-dolaczylo-drzenie-spastyka-wybudzanie-senne-brak-snu-problemy-z-zasnieciem/
- 171. https://www.nerwica.com/profile/81487-danutaka/
- 172. https://www.nerwica.com/forum/6-witam/
- 173. https://www.nerwica.com/profile/81487-danutaka/
- 174. https://www.nerwica.com/profile/81487-danutaka/
- 175. https://www.nerwica.com/topic/48483-do-tetraplegii-dolaczylo-drzenie-spastyka-wybudzanie-senne-brak-snu-problemy-z-zasnieciem/
- 176. https://www.nerwica.com/topic/48503-rozwoj-chadu/
- 177. https://www.nerwica.com/profile/81502-szalony-kojot/
- 178. https://www.nerwica.com/forum/16-depresja/
- 179. https://www.nerwica.com/profile/80553-edta/
- 180. https://www.nerwica.com/profile/80553-edta/
- 181. https://www.nerwica.com/topic/48503-rozwoj-chadu/
- 182. https://www.nerwica.com/topic/48513-problemy-z-mysleniem-rozbiegany-umysl/
- 183. https://www.nerwica.com/profile/80477-_co/
- 184. https://www.nerwica.com/forum/24-pozostale-zaburzenia/
- 185. https://www.nerwica.com/tags/myślenie/
- 186. https://www.nerwica.com/tags/myślenie/
- 187. https://www.nerwica.com/tags/skupienie/
- 188. https://www.nerwica.com/tags/uwaga/
- 189. https://www.nerwica.com/tags/problemy poznawcze/
- 190. https://www.nerwica.com/tags/myślenie analityczne/
- 191. https://www.nerwica.com/tags/mała wydajność umysłu/
- 192. https://www.nerwica.com/tags/umysł/
- 193. https://www.nerwica.com/profile/73151-johnn/
- 194. https://www.nerwica.com/profile/73151-johnn/
- 195. https://www.nerwica.com/topic/48513-problemy-z-mysleniem-rozbiegany-umysl/
- 196. https://www.nerwica.com/topic/48512-stres-nerwica-za-duzo-mysli/
- 197. https://www.nerwica.com/profile/81466-rikq/
- 198. https://www.nerwica.com/forum/11-nerwica-natrectw/
- 199. https://www.nerwica.com/profile/79713-mil/
- 200. https://www.nerwica.com/profile/79713-mil/
- 201. https://www.nerwica.com/topic/48512-stres-nerwica-za-duzo-mysli/
- 202. https://www.nerwica.com/topic/48510-napady-leku/
- 203. https://www.nerwica.com/profile/81516-pomcio/
- 204. https://www.nerwica.com/forum/3-nerwica-lekowa/
- 205. https://www.nerwica.com/profile/81516-pomcio/
- 206. https://www.nerwica.com/profile/81516-pomcio/
- 207. https://www.nerwica.com/topic/48510-napady-leku/
- 208. https://www.nerwica.com/topic/48509-nerwica-leki-obsesje-a-religia-wiara-i-bog/
- 209. https://www.nerwica.com/profile/81514-anilorak/
- 210. https://www.nerwica.com/forum/11-nerwica-natrectw/
- 211. https://www.nerwica.com/profile/80422-robinmario/
- 212. https://www.nerwica.com/profile/80422-robinmario/
- 213. https://www.nerwica.com/topic/48509-nerwica-leki-obsesje-a-religia-wiara-i-bog/
- 214. https://www.nerwica.com/topic/48507-ocd-moje-refleksje/
- 215. https://www.nerwica.com/profile/81510-puzzelka/
- 216. https://www.nerwica.com/forum/11-nerwica-natrectw/
- 217. https://www.nerwica.com/profile/81510-puzzelka/
- 218. https://www.nerwica.com/profile/81510-puzzelka/
- 219. https://www.nerwica.com/topic/48507-ocd-moje-refleksje/
- 220. https://www.nerwica.com/topic/48481-mam-depresje-i-od-5-lat-tylko-leze-w-lozku/
- 221. https://www.nerwica.com/topic/48481-mam-depresje-i-od-5-lat-tylko-leze-w-lozku/#comments
- 222. https://www.nerwica.com/topic/48481-mam-depresje-i-od-5-lat-tylko-leze-w-lozku/page/2/#comments
- 223. https://www.nerwica.com/profile/69281-lorana/
- 224. https://www.nerwica.com/forum/16-depresja/
- 225. https://www.nerwica.com/profile/81522-sebastian288/
- 226. https://www.nerwica.com/profile/81522-sebastian288/
- 227. https://www.nerwica.com/topic/48481-mam-depresje-i-od-5-lat-tylko-leze-w-lozku/
- 228. https://www.nerwica.com/topic/48462-moj-trudny-ale-skuteczny-proces-leczenia/
- 229. https://www.nerwica.com/profile/77838-eleniq/
- 230. https://www.nerwica.com/forum/13-kroki-do-wolnosci/
- 231. https://www.nerwica.com/profile/77838-eleniq/
- 232. https://www.nerwica.com/profile/77838-eleniq/
- 233. https://www.nerwica.com/topic/48462-moj-trudny-ale-skuteczny-proces-leczenia/
- 234. https://www.nerwica.com/topic/48469-czy-bedzie-mi-juz-trudno-poznac-partnera-jak-praktycznie-same-dziewczyny-w-danych-miejscach-co-mam-zrobic-w-tym-wszystkim-prosze-o-pomoc/
- 235. https://www.nerwica.com/topic/48469-czy-bedzie-mi-juz-trudno-poznac-partnera-jak-praktycznie-same-dziewczyny-w-danych-miejscach-co-mam-zrobic-w-tym-wszystkim-prosze-o-pomoc/#comments
- 236. https://www.nerwica.com/topic/48469-czy-bedzie-mi-juz-trudno-poznac-partnera-jak-praktycznie-same-dziewczyny-w-danych-miejscach-co-mam-zrobic-w-tym-wszystkim-prosze-o-pomoc/page/2/#comments
- 237. https://www.nerwica.com/profile/77997-ola_00/
- 238. https://www.nerwica.com/forum/42-socjologia/
- 239. https://www.nerwica.com/profile/77997-ola_00/
- 240. https://www.nerwica.com/profile/77997-ola_00/
- 241. https://www.nerwica.com/topic/48469-czy-bedzie-mi-juz-trudno-poznac-partnera-jak-praktycznie-same-dziewczyny-w-danych-miejscach-co-mam-zrobic-w-tym-wszystkim-prosze-o-pomoc/
- 242. https://www.nerwica.com/topic/48468-czy-to-myslenie-magiczne-czy-moj-mozg-mnie-ostrzega/
- 243. https://www.nerwica.com/profile/80757-robertina/
- 244. https://www.nerwica.com/forum/11-nerwica-natrectw/
- 245. https://www.nerwica.com/profile/81495-dolgit33/
- 246. https://www.nerwica.com/profile/81495-dolgit33/
- 247. https://www.nerwica.com/topic/48468-czy-to-myslenie-magiczne-czy-moj-mozg-mnie-ostrzega/
- 248. https://www.nerwica.com/topic/48503-rozwoj-chadu/
- 249. https://www.nerwica.com/profile/81502-szalony-kojot/
- 250. https://www.nerwica.com/forum/16-depresja/
- 251. https://www.nerwica.com/profile/80553-edta/
- 252. https://www.nerwica.com/profile/80553-edta/
- 253. https://www.nerwica.com/topic/48503-rozwoj-chadu/
- 254. https://www.nerwica.com/topic/48487-zasilek-dla-bezrobotnych/
- 255. https://www.nerwica.com/profile/81359-94/
- 256. https://www.nerwica.com/forum/57-sprawy-urzedowe/
- 257. https://www.nerwica.com/profile/81359-94/
- 258. https://www.nerwica.com/profile/81359-94/
- 259. https://www.nerwica.com/topic/48487-zasilek-dla-bezrobotnych/
- 260. https://www.nerwica.com/topic/48483-do-tetraplegii-dolaczylo-drzenie-spastyka-wybudzanie-senne-brak-snu-problemy-z-zasnieciem/
- 261. https://www.nerwica.com/profile/81487-danutaka/
- 262. https://www.nerwica.com/forum/6-witam/
- 263. https://www.nerwica.com/profile/81487-danutaka/
- 264. https://www.nerwica.com/profile/81487-danutaka/
- 265. https://www.nerwica.com/topic/48483-do-tetraplegii-dolaczylo-drzenie-spastyka-wybudzanie-senne-brak-snu-problemy-z-zasnieciem/
- 266. https://www.nerwica.com/topic/48496-alkohol-i-nerwica/
- 267. https://www.nerwica.com/profile/80673-mufiska/
- 268. https://www.nerwica.com/forum/3-nerwica-lekowa/
- 269. https://www.nerwica.com/profile/80673-mufiska/
- 270. https://www.nerwica.com/profile/80673-mufiska/
- 271. https://www.nerwica.com/topic/48496-alkohol-i-nerwica/
- 272. https://www.nerwica.com/topic/48480-czy-istnieje-dla-mnie-jeszcze-jakas-nadzieja/
- 273. https://www.nerwica.com/profile/81484-maksymilian93/
- 274. https://www.nerwica.com/forum/6-witam/
- 275. https://www.nerwica.com/profile/81502-szalony-kojot/
- 276. https://www.nerwica.com/profile/81502-szalony-kojot/
- 277. https://www.nerwica.com/topic/48480-czy-istnieje-dla-mnie-jeszcze-jakas-nadzieja/
- 278. https://www.nerwica.com/topic/48463-nie-moge-plakac/
- 279. https://www.nerwica.com/profile/81156-mienta/
- 280. https://www.nerwica.com/forum/24-pozostale-zaburzenia/
- 281. https://www.nerwica.com/profile/81156-mienta/
- 282. https://www.nerwica.com/profile/81156-mienta/
- 283. https://www.nerwica.com/topic/48463-nie-moge-plakac/
- 284. https://www.nerwica.com/tags/lęk/
- 285. https://www.nerwica.com/tags/stres/
- 286. https://www.nerwica.com/tags/nerwica/
- 287. https://www.nerwica.com/tags/samotność/
- 288. https://www.nerwica.com/tags/depresja/
- 289. https://www.nerwica.com/tags/nerwica lękowa/
- 290. https://www.nerwica.com/tags/lęki/
- 291. https://www.nerwica.com/tags/psychoterapia/
- 292. https://www.nerwica.com/tags/strach/
- 293. https://www.nerwica.com/tags/nerwica natręctw/
- 294. https://www.nerwica.com/profile/79070-dryagan/
- 295. https://www.nerwica.com/topic/47389-dzienne-wrony-nocne-darki-czynne-24-h-na-dobe/?do=getNewComment
- 296. https://www.nerwica.com/profile/79070-dryagan/
- 297. https://www.nerwica.com/profile/56030-psychoanalepsja_ss/
- 298. https://www.nerwica.com/topic/30675-adhd-watek-ogolny/?do=getNewComment
- 299. https://www.nerwica.com/profile/56030-psychoanalepsja_ss/
- 300. https://www.nerwica.com/profile/8286-suzak29/
- 301. https://www.nerwica.com/topic/47670-duloksetyna-aurodulox-depratal-dulofor-duloxetine-mylan-pharm-sandoz-zentiva-dulsevia-duloxetenon-dutilox/?do=getNewComment
- 302. https://www.nerwica.com/profile/8286-suzak29/
- 303. https://www.nerwica.com/profile/79070-dryagan/
- 304. https://www.nerwica.com/topic/47399-co-na-dzisiaj-czyli-dziennik-psychoterapii/?do=getNewComment
- 305. https://www.nerwica.com/profile/79070-dryagan/
- 306. https://www.nerwica.com/profile/26753-lord-cappuccino/
- 307. https://www.nerwica.com/topic/29712-fenelzyna-nardil-nardelzine-niedostepny-w-pl/?do=getNewComment
- 308. https://www.nerwica.com/profile/26753-lord-cappuccino/
- 309. https://www.nerwica.com/discover/
- 310. https://www.nerwica.com/
- 311. https://www.nerwica.com/forum/20-dyskusje/
- 312. https://www.nerwica.com/forum/17-psychologia/
- 313. https://www.nerwica.com/terms
- 314. https://holding.wp.pl/poufnosc
- 315. https://www.nerwica.com/contact/
- 316. https://wp.pl/
- 317. https://www.invisioncommunity.com/
- 318. https://www.nerwica.com/topic/47933-jak-mozna-opisac-szczescie/
- 319. https://www.nerwica.com/login/
- 320. https://www.nerwica.com/register/
- 321. https://www.nerwica.com/topic/47933-jak-mozna-opisac-szczescie/
- 322. https://www.nerwica.com/topic/47933-jak-mozna-opisac-szczescie/
- 323. https://www.nerwica.com/
- 324. https://www.nerwica.com/
- 325. https://www.nerwica.com/staff/
- 326. https://www.nerwica.com/online/
- 327. https://www.nerwica.com/topic/47933-jak-mozna-opisac-szczescie/
- 328. https://www.nerwica.com/topic/47933-jak-mozna-opisac-szczescie/
- 329. https://www.nerwica.com/discover/
- 330. https://www.nerwica.com/topic/47933-jak-mozna-opisac-szczescie/
- 331. https://www.nerwica.com/topic/47933-jak-mozna-opisac-szczescie/
- 332. https://www.nerwica.com/discover/216/
- 333. https://www.nerwica.com/discover/
- 334. https://www.nerwica.com/search/
- 335. https://ranking.abczdrowie.pl/s/psycholog
- 336. https://ranking.abczdrowie.pl/s/psychiatra
- 337. https://www.nerwica.com/topic/47933-jak-mozna-opisac-szczescie/
- 338. https://www.nerwica.com/topic/47933-jak-mozna-opisac-szczescie/
- 339. https://portal.abczdrowie.pl/wazne-tematy
- 340. https://www.nerwica.com/topic/47933-jak-mozna-opisac-szczescie/
- 341. https://www.nerwica.com/topic/47933-jak-mozna-opisac-szczescie/
- 342. https://portal.abczdrowie.pl/zdrowie
- 343. https://portal.abczdrowie.pl/zywienie
- 344. https://portal.abczdrowie.pl/dziecko
- 345. https://portal.abczdrowie.pl/uroda
- 346. https://portal.abczdrowie.pl/fitness-i-sport
- 347. https://portal.abczdrowie.pl/psychologia
- 348. https://portal.abczdrowie.pl/seks
- 349. https://portal.abczdrowie.pl/wiki
- 350. https://portal.abczdrowie.pl/alergia-pokarmowa
- 351. https://portal.abczdrowie.pl/alergie-skorne
- 352. https://portal.abczdrowie.pl/antybiotyki
- 353. https://portal.abczdrowie.pl/antykoncepcja
- 354. https://portal.abczdrowie.pl/bezsennosc
- 355. https://portal.abczdrowie.pl/biegunka
- 356. https://portal.abczdrowie.pl/bol-brzucha-u-dzieci
- 357. https://portal.abczdrowie.pl/choroby-prostaty
- 358. https://portal.abczdrowie.pl/ciaza
- 359. https://portal.abczdrowie.pl/cukrzyca
- 360. https://portal.abczdrowie.pl/ginekologia
- 361. https://portal.abczdrowie.pl/grzybica
- 362. https://portal.abczdrowie.pl/kaszel
- 363. https://portal.abczdrowie.pl/katar
- 364. https://portal.abczdrowie.pl/lupiez
- 365. https://portal.abczdrowie.pl/nietrzymanie-moczu
- 366. https://portal.abczdrowie.pl/ortopedia-i-reumatologia
- 367. https://portal.abczdrowie.pl/ospa
- 368. https://portal.abczdrowie.pl/piekny-usmiech
- 369. https://portal.abczdrowie.pl/problemy-skorne
- 370. https://portal.abczdrowie.pl/problemy-z-seksem
- 371. https://portal.abczdrowie.pl/rola-magnezu
- 372. https://portal.abczdrowie.pl/toczen
- 373. https://portal.abczdrowie.pl/tradzik-pospolity
- 374. https://portal.abczdrowie.pl/twarz
- 375. https://portal.abczdrowie.pl/zespol-suchego-oka
- 376. https://www.nerwica.com/topic/47933-jak-mozna-opisac-szczescie/
- 377. https://www.nerwica.com/topic/47933-jak-mozna-opisac-szczescie/
- 378. https://forum.abczdrowie.pl/forum-zdrowie
- 379. https://forum.abczdrowie.pl/forum-psychologia
- 380. https://forum.abczdrowie.pl/forum-ginekologia
- 381. https://forum.abczdrowie.pl/forum-ciaza-i-dziecko
- 382. https://forum.abczdrowie.pl/forum-zywienie-i-fitness
- 383. https://forum.abczdrowie.pl/forum-uroda
- 384. https://forum.abczdrowie.pl/forum-seks
- 385. https://www.nerwica.com/topic/47933-jak-mozna-opisac-szczescie/
- 386. https://www.nerwica.com/topic/47933-jak-mozna-opisac-szczescie/
- 387. https://leki.abczdrowie.pl/c/leki-psycholeptyczne
- 388. https://leki.abczdrowie.pl/c/psychoanaleptyki
- 389. https://portal.abczdrowie.pl/pytania-do-specjalistow
- 390. https://ranking.abczdrowie.pl/
- 391. https://leki.abczdrowie.pl/
-
-   Hidden links:
- 393. https://www.nerwica.com/discover/
- 394. https://www.nerwica.com/search/
- 395. https://www.nerwica.com/topic/47933-jak-mozna-opisac-szczescie/
- 396. https://twitter.com/share?url=https%3A%2F%2Fwww.nerwica.com%2Ftopic%2F47933-jak-mozna-opisac-szczescie%2F
- 397. https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.nerwica.com%2Ftopic%2F47933-jak-mozna-opisac-szczescie%2F
- 398. https://www.nerwica.com/topic/47933-jak-mozna-opisac-szczescie/
- 399. https://twitter.com/share?url=https%3A%2F%2Fwww.nerwica.com%2Ftopic%2F47933-jak-mozna-opisac-szczescie%2F%3Fdo%3DfindComment%26comment%3D2623215
- 400. https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.nerwica.com%2Ftopic%2F47933-jak-mozna-opisac-szczescie%2F%3Fdo%3DfindComment%26comment%3D2623215
- 401. https://www.nerwica.com/topic/47933-jak-mozna-opisac-szczescie/?do=findComment&comment=2623218
- 402. https://twitter.com/share?url=https%3A%2F%2Fwww.nerwica.com%2Ftopic%2F47933-jak-mozna-opisac-szczescie%2F%3Fdo%3DfindComment%26comment%3D2623218
- 403. https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.nerwica.com%2Ftopic%2F47933-jak-mozna-opisac-szczescie%2F%3Fdo%3DfindComment%26comment%3D2623218
- 404. https://www.nerwica.com/topic/47933-jak-mozna-opisac-szczescie/?do=findComment&comment=2623223
- 405. https://twitter.com/share?url=https%3A%2F%2Fwww.nerwica.com%2Ftopic%2F47933-jak-mozna-opisac-szczescie%2F%3Fdo%3DfindComment%26comment%3D2623223
- 406. https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.nerwica.com%2Ftopic%2F47933-jak-mozna-opisac-szczescie%2F%3Fdo%3DfindComment%26comment%3D2623223
- 407. https://www.nerwica.com/topic/47933-jak-mozna-opisac-szczescie/?do=findComment&comment=2623224
- 408. https://twitter.com/share?url=https%3A%2F%2Fwww.nerwica.com%2Ftopic%2F47933-jak-mozna-opisac-szczescie%2F%3Fdo%3DfindComment%26comment%3D2623224
- 409. https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.nerwica.com%2Ftopic%2F47933-jak-mozna-opisac-szczescie%2F%3Fdo%3DfindComment%26comment%3D2623224
- 410. https://www.nerwica.com/topic/47933-jak-mozna-opisac-szczescie/?do=findComment&comment=2623258
- 411. https://twitter.com/share?url=https%3A%2F%2Fwww.nerwica.com%2Ftopic%2F47933-jak-mozna-opisac-szczescie%2F%3Fdo%3DfindComment%26comment%3D2623258
- 412. https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.nerwica.com%2Ftopic%2F47933-jak-mozna-opisac-szczescie%2F%3Fdo%3DfindComment%26comment%3D2623258
- 413. https://www.nerwica.com/topic/47933-jak-mozna-opisac-szczescie/?do=findComment&comment=2623261
- 414. https://twitter.com/share?url=https%3A%2F%2Fwww.nerwica.com%2Ftopic%2F47933-jak-mozna-opisac-szczescie%2F%3Fdo%3DfindComment%26comment%3D2623261
- 415. https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.nerwica.com%2Ftopic%2F47933-jak-mozna-opisac-szczescie%2F%3Fdo%3DfindComment%26comment%3D2623261
- 416. https://www.nerwica.com/topic/47933-jak-mozna-opisac-szczescie/?do=findComment&comment=2623267
- 417. https://twitter.com/share?url=https%3A%2F%2Fwww.nerwica.com%2Ftopic%2F47933-jak-mozna-opisac-szczescie%2F%3Fdo%3DfindComment%26comment%3D2623267
- 418. https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.nerwica.com%2Ftopic%2F47933-jak-mozna-opisac-szczescie%2F%3Fdo%3DfindComment%26comment%3D2623267
- 419. https://www.nerwica.com/topic/47933-jak-mozna-opisac-szczescie/?do=findComment&comment=2623311
- 420. https://twitter.com/share?url=https%3A%2F%2Fwww.nerwica.com%2Ftopic%2F47933-jak-mozna-opisac-szczescie%2F%3Fdo%3DfindComment%26comment%3D2623311
- 421. https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.nerwica.com%2Ftopic%2F47933-jak-mozna-opisac-szczescie%2F%3Fdo%3DfindComment%26comment%3D2623311
- 422. https://twitter.com/share?url=https%3A%2F%2Fwww.nerwica.com%2Ftopic%2F47933-jak-mozna-opisac-szczescie%2F
- 423. https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.nerwica.com%2Ftopic%2F47933-jak-mozna-opisac-szczescie%2F
+     * Przeglądaj
+          + Wróć
+          + Przeglądaj
+          + Forum
+          + Administracja
+          + Użytkownicy online
+     * Cała aktywność
+          + Wróć
+          + Cała aktywność
+          + Twoje kanały aktywności
+               o Wróć
+               o Aktywne wątki
+          + Cała aktywność
+          + Szukaj
+     * Ranking psychologów
+     * Ranking psychiatrów
+     * Ważne tematy
+          + Wróć
+          + Ważne tematy
+          + Zdrowie A-Z
+               o Wróć
+               o Zdrowie
+               o Żywienie
+               o Dziecko
+               o Uroda
+               o Fitness i sport
+               o Psychologia
+               o Seks
+               o Zdrowie A-Z
+               o Alergie pokarmowe
+               o Alergie skórne
+               o Antybiotyki
+               o Antykoncepcja
+               o Bezsenność
+               o Biegunka
+               o Ból brzucha u dzieci
+               o Prostata
+               o Ciąża
+               o Cukrzyca
+               o Ginekologia
+               o Grzybica
+               o Kaszel
+               o Katar
+               o Łupież
+               o Nietrzymanie moczu
+               o Ortopedia
+               o Ospa wietrzna
+               o Piękny uśmiech
+               o Problemy skórne
+               o Problemy z seksem
+               o Rola magnezu
+               o Toczeń
+               o Trądzik pospolity
+               o Twarz
+               o Zespół suchego oka
+          + Forum
+               o Wróć
+               o Zdrowie
+               o Psychologia
+               o Ginekologia
+               o Ciąża i dziecko
+               o Żywienie i fitness
+               o Uroda
+               o Seks
+          + Leki i suplementy
+               o Wróć
+               o Leki psycholeptyczne
+               o Leki psychoanaleptyczne
+     * Pytania do lekarzy
+     * Znajdź lekarza
+     * Leki i suplementy

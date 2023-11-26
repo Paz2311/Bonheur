@@ -1,6 +1,6 @@
-   #[1]next
+   #next
 
-   [2]Forum littéraire
+   Forum littéraire
 
    Chargement…
    Ce site est optimisé pour être consulté depuis un navigateur moderne
@@ -26,7 +26,7 @@ Fleuve
 
 Jean-Luc
 
-   [3]@Fleuve
+   @Fleuve
 
    Difficile de généraliser. Dans la littérature française on pourrait
    schématiser ainsi :
@@ -46,7 +46,7 @@ Jean-Luc
 
 Fleuve
 
-   [4]@Jean-Luc Merci de votre belle réponse.
+   @Jean-Luc Merci de votre belle réponse.
 
    "il appartient à la culture", "culture" dans le sens donc de "La
    civilisation étant considérée comme un idéal dynamique, comme un
@@ -78,7 +78,7 @@ Lucid_Lynx
 
 Fleuve
 
-   [5]@Jean-Luc et [6]@Lucid_Lynx Merci beaucoup
+   @Jean-Luc et @Lucid_Lynx Merci beaucoup
 
    Qu’en est-il est des mouvements qui s’inscrivent dans la continuité des
    Lumières et dans le continuités des romantiques ? Ont-ils gardé la
@@ -91,8 +91,8 @@ Fleuve
    la suite ?
 
    Par exemple, je pense qu’il serait possible d’argumenter que les
-   hippies ont la même définition du bonheur (décrite par [7]@Jean-Luc )
-   que les romantiques du XIXème.
+   hippies ont la même définition du bonheur (décrite par @Jean-Luc ) que
+   les romantiques du XIXème.
 
    Mais quid des surréalistes français, ou des auteurs de la beat
    generation. Par exemple ?
@@ -103,7 +103,7 @@ Fleuve
 
 Fleuve
 
-   [8]@Jean-Luc
+   @Jean-Luc
 
    D’ailleurs, finalement, ces derniers s’en méfient tant ils ont peur de
    s’embourgeoiser.
@@ -116,7 +116,7 @@ Fleuve
 
 Jean-Luc
 
-   [9]@Fleuve
+   @Fleuve
 
    Comme évoqué dans une autre discussion, les fils conducteurs restent le
    matérialisme et le spiritualisme. La conception du bonheur qui en
@@ -138,7 +138,7 @@ Jean-Luc
 
 Fleuve
 
-   [10]@Jean-Luc Merci pour votre dernière réponse, c’est très clair et
+   @Jean-Luc Merci pour votre dernière réponse, c’est très clair et
    exhaustif, donc je n’ai pas tellement de commentaire.
 
    Pardon, mais qui précisément "s’en [= du bonheur] méfient tant ils ont
@@ -157,7 +157,7 @@ Jean-Luc
 
 Fleuve
 
-   [11]@Jean-Luc Merci !!
+   @Jean-Luc Merci !!
      __________________________________________________________________
 
 Fleuve
@@ -197,7 +197,7 @@ Hippocampe
 
 Hippocampe
 
-   [12]Hippocampe
+   Hippocampe
 
    C'est facile 😁
 
@@ -230,7 +230,7 @@ Hippocampe
 
 Fleuve
 
-   [13]@Hippocampe Merci beaucoup !
+   @Hippocampe Merci beaucoup !
      __________________________________________________________________
 
 Hippocampe
@@ -242,7 +242,7 @@ Hippocampe
 
 Fleuve
 
-   [14]@Hippocampe Oui !
+   @Hippocampe Oui !
 
    Si tu as des textes plus courts (du style "Le mondain" de Voltaire)
    aussi, je suis preneur 😂 (si ça existe bien entendu)
@@ -260,7 +260,7 @@ Fleuve
 
 Jean-Luc
 
-   [15]@Fleuve
+   @Fleuve
 
    Tu peux essayer la lettre XII des Lettres persanes, le mythe des
    Troglodytes chez Montesquieu
@@ -270,39 +270,12 @@ Jean-Luc
 
 Fleuve
 
-   [16]@Jean-Luc Merci :)
+   @Jean-Luc Merci :)
      __________________________________________________________________
 
-   [17]Page suivante »
+   Page suivante »
 
 
-     [18]Accueil    [19]Conditions d’utilisation du forum    [20]Aide
-               [21]Foire aux questions du forum    [22]Contact
-   © etudes-litteraires.fr – [23]Études littéraires – [24]flarum.org
-
-References
-
-   1. https://www.etudes-litteraires.fr/d/67601-67601?page=2
-   2. https://www.etudes-litteraires.fr/
-   3. https://www.etudes-litteraires.fr/u/Fleuve
-   4. https://www.etudes-litteraires.fr/u/Jean-Luc
-   5. https://www.etudes-litteraires.fr/u/Jean-Luc
-   6. https://www.etudes-litteraires.fr/u/Lucid_Lynx
-   7. https://www.etudes-litteraires.fr/u/Jean-Luc
-   8. https://www.etudes-litteraires.fr/u/Jean-Luc
-   9. https://www.etudes-litteraires.fr/u/Fleuve
-  10. https://www.etudes-litteraires.fr/u/Jean-Luc
-  11. https://www.etudes-litteraires.fr/u/Jean-Luc
-  12. https://www.etudes-litteraires.fr/d/67601-67601/
-  13. https://www.etudes-litteraires.fr/u/Hippocampe
-  14. https://www.etudes-litteraires.fr/u/Hippocampe
-  15. https://www.etudes-litteraires.fr/u/Fleuve
-  16. https://www.etudes-litteraires.fr/u/Jean-Luc
-  17. https://www.etudes-litteraires.fr/d/67601-67601?page=2
-  18. https://www.etudes-litteraires.fr/
-  19. https://www.etudes-litteraires.fr/p/1-charte
-  20. https://www.etudes-litteraires.fr/p/3-aide
-  21. https://www.etudes-litteraires.fr/p/2-faq
-  22. https://www.etudes-litteraires.com/contact/
-  23. https://www.etudes-litteraires.com/
-  24. https://flarum.org/
+     Accueil    Conditions d’utilisation du forum    Aide    Foire aux
+                        questions du forum    Contact
+      © etudes-litteraires.fr – Études littéraires – flarum.org

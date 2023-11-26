@@ -1,13 +1,13 @@
-   [1]Skocz do zawartości
+   Skocz do zawartości
 
-     * [2]Dyskusja ogólna
+     * Dyskusja ogólna
      *
      *
      *
 
-   [3]Forum Kafeteria
-     * [4]Kosmetyki
-     * [5]Forum
+   Forum Kafeteria
+     * Kosmetyki
+     * Forum
 
    ____________________ (BUTTON)
    Szukaj w
@@ -25,7 +25,7 @@
      * (*) Tytuły i treść zawartości
      * ( ) Tylko tytuł zawartości
 
-     * [6]Masz konto? Zaloguj się
+     * Masz konto? Zaloguj się
 
 Zaloguj się
           + ____________________
@@ -36,22 +36,22 @@ Zaloguj się
             Logowanie anonimowe
           +
             (usernamepassword) Zaloguj się
-            [7]Nie pamiętasz hasła?
+            Nie pamiętasz hasła?
        (4) [1LoginIcon.png.30b811c7d1dd832da6b5286c2ead8bd7.png] Zaloguj z
        1Login od WP
-     * [8]Zarejestruj się
+     * Zarejestruj się
 
-     * [9]Forum
-     * [10]Tablica liderów
-     * [11]Cała aktywność
-     * [12]Więcej
-          + [13]Więcej
+     * Forum
+     * Tablica liderów
+     * Cała aktywność
+     * Więcej
+          + Więcej
 
-     * [14]Cała aktywność
+     * Cała aktywność
 
-     * [15]Strona główna
-     * [16]DYSKUSJA OGÓLNA
-     * [17]Dyskusja ogólna
+     * Strona główna
+     * DYSKUSJA OGÓLNA
+     * Dyskusja ogólna
      * jak być szczęśliwym
 
 Zarchiwizowany
@@ -61,7 +61,7 @@ Zarchiwizowany
 
 jak być szczęśliwym
 
-   Przez Gość Wiolaa877, Listopad 13, 2014 w [18]Dyskusja ogólna
+   Przez Gość Wiolaa877, Listopad 13, 2014 w Dyskusja ogólna
 
 Polecane posty
 
@@ -76,7 +76,7 @@ Gość Wiolaa877
 
      *
 
-   [19]Napisano Listopad 13, 2014
+   Napisano Listopad 13, 2014
 
    Nie ma uniwersalnego przepisu na to jak być szczęśliwym ale myślę, że
    każdy ma takie czynności, które wprowadzają Was w stan szczęśliwości?
@@ -109,7 +109,7 @@ Gość gość
 
      *
 
-   [20]Napisano Listopad 13, 2014
+   Napisano Listopad 13, 2014
    mnie daje szczęście Bóg :) mysl,że po "śmierci" moge pójść do raju.
    lubie bujać w obłokach,gdy schodze na ziemie czuje sie zestresowana
    lubie ogladac filmy,czytac ksiazki,sluchac muzyki,grać w
@@ -142,9 +142,9 @@ Gość gość
 
      *
 
-   [21]Napisano Listopad 14, 2014
+   Napisano Listopad 14, 2014
    Ja nauczyłem się jak być szczęśliwy - na terapii z afirmacji szczęście
-   od [22]http://hepika.pl/ w ciągu 4 tygodni udało mi się przezwyciężyć
+   od http://hepika.pl/ w ciągu 4 tygodni udało mi się przezwyciężyć
    problemy, które blokowały moje szczęście - polecam wam się z tym
    zapoznać.
      *
@@ -173,7 +173,7 @@ Gość gość
 
      *
 
-   [23]Napisano Listopad 14, 2014
+   Napisano Listopad 14, 2014
    Czy terapie z afirmacji polecił Ci jakiś specjalista, czy sam
    znalazłeś? Zastanawia mnie ten temat i ciekawi. Trudno mi pojąć, że
    autosugestia może mieć tak duży wpływ na nasze życie.
@@ -203,7 +203,7 @@ Gość Maagdaaa22
 
      *
 
-   [24]Napisano Listopad 17, 2014
+   Napisano Listopad 17, 2014
    Na prawdę może mieć! To dzięki niej osiągamy najskuteczniej osiągniemy
    nasze cele. Zauważ, że osoba nakierowana i bardzo mocno wierząca w coś
    jest w stanie dzięki tej wierze i determinacji niemal przenieść górę.
@@ -233,7 +233,7 @@ Gość Kaaarolaaaa
 
      *
 
-   [25]Napisano Listopad 18, 2014
+   Napisano Listopad 18, 2014
    Afirmowanie jest świetnym sposobem na poprawienie swojej sytuacji,
    podejścia do życia itp. Można afirmować szczęście, miłość, kontrolę,
    bogactwo, sukces. Najlepsze afirmacje z jakimi się spotkałam to
@@ -264,7 +264,7 @@ Gość Karrrolll
 
      *
 
-   [26]Napisano Listopad 20, 2014
+   Napisano Listopad 20, 2014
    Ja jestem szczęśliwy spędzając czas ze swoją ukochaną, na prawdę zawsze
    dodaje mi to pozytywnej energii:) Jednak nie zawsze możemy spędzać ze
    sobą czas. Poza tym korzystam z medytacji, u mnie relaks=szczęście,
@@ -297,7 +297,7 @@ Gość Zbigniewww
 
      *
 
-   [27]Napisano Listopad 21, 2014
+   Napisano Listopad 21, 2014
    Karoll zgadzam się z Tobą ze wszystkim co napisałeś. Jeśli można to
    trzeba pomóc szczęściu! Akurat szczęście nie afirmowałem ale sukces i
    na prawdę afirmacje dają radę! Bez pewności siebie niewiele da się
@@ -329,10 +329,10 @@ Gość gość
 
      *
 
-   [28]Napisano Listopad 24, 2014
+   Napisano Listopad 24, 2014
    Tutaj macie opinie o Hepika -
-   [29]http://forumezoteryczne.pl/afirmacje/system-hepika-opinie/ Widać,
-   że to świetny sposób na to jak być szczęśliwym :)
+   http://forumezoteryczne.pl/afirmacje/system-hepika-opinie/ Widać, że to
+   świetny sposób na to jak być szczęśliwym :)
      *
 
 Udostępnij ten post
@@ -359,10 +359,10 @@ Gość gość
 
      *
 
-   [30]Napisano Styczeń 9, 2015
+   Napisano Styczeń 9, 2015
    Tutaj są te afirmacje szczęścia
-   [31]http://skarbnicazycia.pl/p/1521/283/afirmacja-szczescia-afirmacje.h
-   tml - świetnie działają :)
+   http://skarbnicazycia.pl/p/1521/283/afirmacja-szczescia-afirmacje.html
+   - świetnie działają :)
      *
 
 Udostępnij ten post
@@ -389,7 +389,7 @@ Gość gość
 
      *
 
-   [32]Napisano Styczeń 9, 2015
+   Napisano Styczeń 9, 2015
    nie urodzić się wcale.
      *
 
@@ -417,7 +417,7 @@ Gość gość
 
      *
 
-   [33]Napisano Czerwiec 7, 2015
+   Napisano Czerwiec 7, 2015
    to prawda nie ma uniwersalnego przepisu, podobnie, jak nie ma jednej
    definicji szczęścia. Ale na pewno jest ono do osiągnięcia. A jak się
    zastanawiacie nad tym, jak je można osiągnąć sięgnijcie po książkę
@@ -449,7 +449,7 @@ Gość SzczęśliwaJa
 
      *
 
-   [34]Napisano Sierpień 6, 2015
+   Napisano Sierpień 6, 2015
    Nie ma jednej drogi dla wszystkich do osiągnięcia szczęścia. W moim
    przypadku pomogło poświęcenie czasu tylko sobie, co pomogło mi w
    samopoznaniu. Wiem teraz czego pragnę, oczekuję, jakie mam cele, kiedy
@@ -457,8 +457,8 @@ Gość SzczęśliwaJa
    przyjemności, czuć się dobrze - po prostu być szczęśliwa:) Kupiłam
    jakiś czas temu świetną książkę, która pomogła mi w cały procesie
    dążącym do poznania własnego JA "Potęga teraźniejszości"
-   [35]http://ksiazkizmieniajacezycie.pl/oferta/58-potega-terazniejszosci.
-   html Polecam wszystkim, którzy chcą się poczuć wolni i...szczęśliwi:)
+   http://ksiazkizmieniajacezycie.pl/oferta/58-potega-terazniejszosci.html
+   Polecam wszystkim, którzy chcą się poczuć wolni i...szczęśliwi:)
      *
 
 Udostępnij ten post
@@ -485,7 +485,7 @@ Gość gość
 
      *
 
-   [36]Napisano Grudzień 20, 2015
+   Napisano Grudzień 20, 2015
    Wszystko się może zmienić, a jeśli brakuje ci wiary przeczytaj sobie
    książkę Katarzyny Michalak sekretnik, ja dzięki niej uwierzyłam, że
    dużo może się zmienić.
@@ -515,7 +515,7 @@ Gość Zbudujmy raj na ziemi
 
      *
 
-   [37]Napisano Luty 24, 2019
+   Napisano Luty 24, 2019
 
    Wystarczy spróbować  na początek być tydzień dobrym człowiekiem
    ,pomagać drugiemu człowiekowi jeśli  potrzebuje naszej pomocy  ,nie
@@ -552,7 +552,7 @@ Gość Ela Ela :-)
 
      *
 
-   [38]Napisano Marzec 24, 2019
+   Napisano Marzec 24, 2019
 
    Kiedyś usłyszałam coś takiego:
    Pytanie: Co to jest SZCZĘŚCIE? Podaj definicję.
@@ -578,7 +578,7 @@ Udostępnij na innych stronach
      *
      *
 
-   [39]Przejdź do listy tematów Dyskusja ogólna
+   Przejdź do listy tematów Dyskusja ogólna
      __________________________________________________________________
 
      *
@@ -588,246 +588,110 @@ Udostępnij na innych stronach
      * Popularne
           +
 
-[40]Zakochałam się a on chce tylko romansu :(
-               o [41]1
-               o [42]2
-               o [43]3
-               o [44]4
-               o [45]6
-
-            Przez [46]komukot, poniedziałek o 12:15 w [47]Życie uczuciowe
-               o 171 odpowiedzi
-               o 3093 wyświetleń
-               o [48]buf_fon
-               o [49]buf_fon
-               o [50]37 minut temu
+Znalazłam miejscówkę dla kafeterian
+            Przez ukryta sieć, 5 minut temu w Życie uczuciowe
+               o 4 odpowiedzi
+               o 15 wyświetleń
+               o buf_fon
+               o buf_fon
+               o Przed chwilą
           +
 
-[51]czy chodzicie czasami samotnie na miasto do jakiegoś klubu albo gdzieś?
-               o [52]1
-               o [53]2
+Czuje, ze nigdy nie bede mial dziewczyny...
+            Przez Voodka, 31 minut temu w Życie uczuciowe
+               o 6 odpowiedzi
+               o 86 wyświetleń
+               o Voodka
+               o Voodka
+               o 11 minut temu
+          +
 
-            Przez [54]Jerry89, czwartek o 20:20 w [55]Życie uczuciowe
-               o 47 odpowiedzi
-               o 644 wyświetleń
-               o [56]Pochwe i żele
-               o [57]Pochwe i żele
-               o [58]Przed chwilą
+I tak zamiast potańczyć w Andrzejki
+            Przez Naitheure, 1 godzinę temu w Życie uczuciowe
+               o 21 odpowiedzi
+               o 268 wyświetleń
+               o Pierwszy śnieg
+               o Pierwszy śnieg
+               o 20 minut temu
+          +
+
+Zrobiło się biało i ogarnia mnie spokój...
+               o 1
+               o 2
+               o 3
+               o 4
+               o 15
+
+            Przez Gіna, 12 godzin temu w Życie uczuciowe
+               o 422 odpowiedzi
+               o 3334 wyświetleń
+               o jagodno
+               o jagodno
+               o Przed chwilą
+          +
+
+Jak podczas gotowania z gotowców zrobić z residens melinę
+               o 1
+               o 2
+               o 3
+               o 4
+               o 5
+
+            Przez Retrogradacja2023, 17 godzin temu w Gwiazdy / TV / Kino
+               o 124 odpowiedzi
+               o 6601 wyświetleń
+               o Ta_z_1_
+               o Ta_z_1_
+               o 7 minut temu
 
      * NAJŚWIEŻSZE
-          + [59]Lupus_2023
-            2
-            [60]Pytanie
-            Przez [61]Lupus_2023
-            Rozpoczęty 13 minut temu
-          + [62]komukot
-            171
-            [63]Zakochałam się a on chce tylko romansu :(
-            Przez [64]komukot
-            Rozpoczęty poniedziałek o 12:15
-          + [65]Nembutal
-            2
-            [66]Rano śnieg teraz piękne słońce ☀️
-            Przez [67]Nembutal
-            Rozpoczęty 1 godzinę temu
-          + [68]Julieeetaa123
-            0
-            [69]Sprzedam saxenda mysimba ozempic xanax
-            Przez [70]Julieeetaa123
-            Rozpoczęty 2 godziny temu
-          + [71]Javier66
-            0
-            [72]Pravik znów spędził całą noc na kafe
-            Przez [73]Javier66
-            Rozpoczęty 2 godziny temu
+          + ukryta sieć
+            4
+            Znalazłam miejscówkę dla kafeterian
+            Przez ukryta sieć
+            Rozpoczęty 5 minut temu
+          + Gіna
+            422
+            Zrobiło się biało i ogarnia mnie spokój...
+            Przez Gіna
+            Rozpoczęty 12 godzin temu
+          + Lussesita
+            105
+            Wieża milczenia
+            Przez Lussesita
+            Rozpoczęty 3 godziny temu
+          + Retrogradacja2023
+            124
+            Jak podczas gotowania z gotowców zrobić z residens melinę
+            Przez Retrogradacja2023
+            Rozpoczęty 17 godzin temu
+          + Voodka
+            6
+            Czuje, ze nigdy nie bede mial dziewczyny...
+            Przez Voodka
+            Rozpoczęty 31 minut temu
 
-     * [74]Cała aktywność
+     * Cała aktywność
 
-     * [75]Strona główna
-     * [76]DYSKUSJA OGÓLNA
-     * [77]Dyskusja ogólna
+     * Strona główna
+     * DYSKUSJA OGÓLNA
+     * Dyskusja ogólna
      * jak być szczęśliwym
 
-     * [78]Regulamin
-     * [79]Polityka prywatności
-     * [80]Kontakt
+     * Regulamin
+     * Polityka prywatności
+     * Kontakt
 
-   [81]Forum Kafeteria jest częścią Wirtualna Polska Media SA
+   Forum Kafeteria jest częścią Wirtualna Polska Media SA
 
-   [82]Powered by Invision Community
+   Powered by Invision Community
 
-   [83]×
-     * [84]Masz konto? Zaloguj się
-     * [85]Zarejestruj się
+   ×
+     * Masz konto? Zaloguj się
+     * Zarejestruj się
 
-     * [86]Forum
-     * [87]Tablica liderów
-     * [88]Cała aktywność
-     * [89]Kosmetyki
-     * [90]Forum
-
-References
-
-   Visible links:
-   1. https://f.kafeteria.pl/temat-6070244-jak-byc-szczesliwym/#elContent
-   2. https://f.kafeteria.pl/forum-2-dyskusja-ogolna/
-   3. https://kafeteria.pl/
-   4. https://kafeteria.pl/l/3,kosmetyk
-   5. https://f.kafeteria.pl/temat-6070244-jak-byc-szczesliwym/
-   6. https://f.kafeteria.pl/login/
-   7. https://f.kafeteria.pl/lostpassword/
-   8. https://f.kafeteria.pl/register/
-   9. https://f.kafeteria.pl/
-  10. https://f.kafeteria.pl/leaderboard/
-  11. https://f.kafeteria.pl/aktualne/
-  12. https://f.kafeteria.pl/temat-6070244-jak-byc-szczesliwym/
-  13. https://f.kafeteria.pl/temat-6070244-jak-byc-szczesliwym/
-  14. https://f.kafeteria.pl/aktualne/
-  15. https://f.kafeteria.pl/
-  16. https://f.kafeteria.pl/forum-34-dyskusja-ogolna/
-  17. https://f.kafeteria.pl/forum-2-dyskusja-ogolna/
-  18. https://f.kafeteria.pl/forum-2-dyskusja-ogolna/
-  19. https://f.kafeteria.pl/temat-6070244-jak-byc-szczesliwym/?do=findComment&comment=13080887
-  20. https://f.kafeteria.pl/temat-6070244-jak-byc-szczesliwym/?do=findComment&comment=13080923
-  21. https://f.kafeteria.pl/temat-6070244-jak-byc-szczesliwym/?do=findComment&comment=13080936
-  22. http://hepika.pl/
-  23. https://f.kafeteria.pl/temat-6070244-jak-byc-szczesliwym/?do=findComment&comment=13080959
-  24. https://f.kafeteria.pl/temat-6070244-jak-byc-szczesliwym/?do=findComment&comment=13080985
-  25. https://f.kafeteria.pl/temat-6070244-jak-byc-szczesliwym/?do=findComment&comment=13081010
-  26. https://f.kafeteria.pl/temat-6070244-jak-byc-szczesliwym/?do=findComment&comment=13081037
-  27. https://f.kafeteria.pl/temat-6070244-jak-byc-szczesliwym/?do=findComment&comment=13081062
-  28. https://f.kafeteria.pl/temat-6070244-jak-byc-szczesliwym/?do=findComment&comment=13081089
-  29. http://forumezoteryczne.pl/afirmacje/system-hepika-opinie/
-  30. https://f.kafeteria.pl/temat-6070244-jak-byc-szczesliwym/?do=findComment&comment=13081112
-  31. http://skarbnicazycia.pl/p/1521/283/afirmacja-szczescia-afirmacje.html
-  32. https://f.kafeteria.pl/temat-6070244-jak-byc-szczesliwym/?do=findComment&comment=13081137
-  33. https://f.kafeteria.pl/temat-6070244-jak-byc-szczesliwym/?do=findComment&comment=13081161
-  34. https://f.kafeteria.pl/temat-6070244-jak-byc-szczesliwym/?do=findComment&comment=13081176
-  35. http://ksiazkizmieniajacezycie.pl/oferta/58-potega-terazniejszosci.html
-  36. https://f.kafeteria.pl/temat-6070244-jak-byc-szczesliwym/?do=findComment&comment=13081197
-  37. https://f.kafeteria.pl/temat-6070244-jak-byc-szczesliwym/?do=findComment&comment=51684599
-  38. https://f.kafeteria.pl/temat-6070244-jak-byc-szczesliwym/?do=findComment&comment=51859693
-  39. https://f.kafeteria.pl/forum-2-dyskusja-ogolna/
-  40. https://f.kafeteria.pl/temat-7852445-zakochalam-sie-a-on-chce-tylko-romansu/
-  41. https://f.kafeteria.pl/temat-7852445-zakochalam-sie-a-on-chce-tylko-romansu/?page=1
-  42. https://f.kafeteria.pl/temat-7852445-zakochalam-sie-a-on-chce-tylko-romansu/?page=2
-  43. https://f.kafeteria.pl/temat-7852445-zakochalam-sie-a-on-chce-tylko-romansu/?page=3
-  44. https://f.kafeteria.pl/temat-7852445-zakochalam-sie-a-on-chce-tylko-romansu/?page=4
-  45. https://f.kafeteria.pl/temat-7852445-zakochalam-sie-a-on-chce-tylko-romansu/?page=6
-  46. https://f.kafeteria.pl/profile/194051349-komukot/
-  47. https://f.kafeteria.pl/forum-5-zycie-uczuciowe/
-  48. https://f.kafeteria.pl/profile/194107502-buf_fon/
-  49. https://f.kafeteria.pl/profile/194107502-buf_fon/
-  50. https://f.kafeteria.pl/temat-7852445-zakochalam-sie-a-on-chce-tylko-romansu/?do=getLastComment
-  51. https://f.kafeteria.pl/temat-7852287-czy-chodzicie-czasami-samotnie-na-miasto-do-jakiegos-klubu-albo-gdzies/
-  52. https://f.kafeteria.pl/temat-7852287-czy-chodzicie-czasami-samotnie-na-miasto-do-jakiegos-klubu-albo-gdzies/?page=1
-  53. https://f.kafeteria.pl/temat-7852287-czy-chodzicie-czasami-samotnie-na-miasto-do-jakiegos-klubu-albo-gdzies/?page=2
-  54. https://f.kafeteria.pl/profile/194107904-jerry89/
-  55. https://f.kafeteria.pl/forum-5-zycie-uczuciowe/
-  56. https://f.kafeteria.pl/profile/194108544-pochwe-i-zele/
-  57. https://f.kafeteria.pl/profile/194108544-pochwe-i-zele/
-  58. https://f.kafeteria.pl/temat-7852287-czy-chodzicie-czasami-samotnie-na-miasto-do-jakiegos-klubu-albo-gdzies/?do=getLastComment
-  59. https://f.kafeteria.pl/profile/194100522-lupus_2023/
-  60. https://f.kafeteria.pl/temat-7852571-pytanie/
-  61. https://f.kafeteria.pl/profile/194100522-lupus_2023/
-  62. https://f.kafeteria.pl/profile/194051349-komukot/
-  63. https://f.kafeteria.pl/temat-7852445-zakochalam-sie-a-on-chce-tylko-romansu/
-  64. https://f.kafeteria.pl/profile/194051349-komukot/
-  65. https://f.kafeteria.pl/profile/194108030-nembutal/
-  66. https://f.kafeteria.pl/temat-7852570-rano-snieg-teraz-piekne-slonce-☀️/
-  67. https://f.kafeteria.pl/profile/194108030-nembutal/
-  68. https://f.kafeteria.pl/profile/194108537-julieeetaa123/
-  69. https://f.kafeteria.pl/temat-7852566-sprzedam-saxenda-mysimba-ozempic-xanax/
-  70. https://f.kafeteria.pl/profile/194108537-julieeetaa123/
-  71. https://f.kafeteria.pl/profile/194108547-javier66/
-  72. https://f.kafeteria.pl/temat-7852564-pravik-znow-spedzil-cala-noc-na-kafe/
-  73. https://f.kafeteria.pl/profile/194108547-javier66/
-  74. https://f.kafeteria.pl/aktualne/
-  75. https://f.kafeteria.pl/
-  76. https://f.kafeteria.pl/forum-34-dyskusja-ogolna/
-  77. https://f.kafeteria.pl/forum-2-dyskusja-ogolna/
-  78. https://f.kafeteria.pl/terms
-  79. https://holding.wp.pl/poufnosc
-  80. https://f.kafeteria.pl/contact/
-  81. https://wp.pl/
-  82. https://www.invisioncommunity.com/
-  83. https://f.kafeteria.pl/temat-6070244-jak-byc-szczesliwym/
-  84. https://f.kafeteria.pl/login/
-  85. https://f.kafeteria.pl/register/
-  86. https://f.kafeteria.pl/
-  87. https://f.kafeteria.pl/leaderboard/
-  88. https://f.kafeteria.pl/aktualne/
-  89. https://kafeteria.pl/l/3,kosmetyk
-  90. https://f.kafeteria.pl/temat-6070244-jak-byc-szczesliwym/
-
-   Hidden links:
-  92. https://f.kafeteria.pl/aktualne/
-  93. https://f.kafeteria.pl/szukaj/
-  94. https://f.kafeteria.pl/temat-6070244-jak-byc-szczesliwym/
-  95. https://f.kafeteria.pl/temat-6070244-jak-byc-szczesliwym/
-  96. http://twitter.com/share?text=jak%20by%C4%87%20szcz%C4%99%C5%9Bliwym&url=https%3A%2F%2Ff.kafeteria.pl%2Ftemat-6070244-jak-byc-szczesliwym%2F%3Fdo%3DfindComment%26comment%3D13080887
-  97. https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ff.kafeteria.pl%2Ftemat-6070244-jak-byc-szczesliwym%2F%3Fdo%3DfindComment%26comment%3D13080887
-  98. http://www.reddit.com/submit?url=https%3A%2F%2Ff.kafeteria.pl%2Ftemat-6070244-jak-byc-szczesliwym%2F%3Fdo%3DfindComment%26comment%3D13080887&title=jak+by%C4%87+szcz%C4%99%C5%9Bliwym
-  99. https://f.kafeteria.pl/temat-6070244-jak-byc-szczesliwym/?do=findComment&comment=13080923
- 100. http://twitter.com/share?text=jak%20by%C4%87%20szcz%C4%99%C5%9Bliwym&url=https%3A%2F%2Ff.kafeteria.pl%2Ftemat-6070244-jak-byc-szczesliwym%2F%3Fdo%3DfindComment%26comment%3D13080923
- 101. https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ff.kafeteria.pl%2Ftemat-6070244-jak-byc-szczesliwym%2F%3Fdo%3DfindComment%26comment%3D13080923
- 102. http://www.reddit.com/submit?url=https%3A%2F%2Ff.kafeteria.pl%2Ftemat-6070244-jak-byc-szczesliwym%2F%3Fdo%3DfindComment%26comment%3D13080923&title=jak+by%C4%87+szcz%C4%99%C5%9Bliwym
- 103. https://f.kafeteria.pl/temat-6070244-jak-byc-szczesliwym/?do=findComment&comment=13080936
- 104. http://twitter.com/share?text=jak%20by%C4%87%20szcz%C4%99%C5%9Bliwym&url=https%3A%2F%2Ff.kafeteria.pl%2Ftemat-6070244-jak-byc-szczesliwym%2F%3Fdo%3DfindComment%26comment%3D13080936
- 105. https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ff.kafeteria.pl%2Ftemat-6070244-jak-byc-szczesliwym%2F%3Fdo%3DfindComment%26comment%3D13080936
- 106. http://www.reddit.com/submit?url=https%3A%2F%2Ff.kafeteria.pl%2Ftemat-6070244-jak-byc-szczesliwym%2F%3Fdo%3DfindComment%26comment%3D13080936&title=jak+by%C4%87+szcz%C4%99%C5%9Bliwym
- 107. https://f.kafeteria.pl/temat-6070244-jak-byc-szczesliwym/?do=findComment&comment=13080959
- 108. http://twitter.com/share?text=jak%20by%C4%87%20szcz%C4%99%C5%9Bliwym&url=https%3A%2F%2Ff.kafeteria.pl%2Ftemat-6070244-jak-byc-szczesliwym%2F%3Fdo%3DfindComment%26comment%3D13080959
- 109. https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ff.kafeteria.pl%2Ftemat-6070244-jak-byc-szczesliwym%2F%3Fdo%3DfindComment%26comment%3D13080959
- 110. http://www.reddit.com/submit?url=https%3A%2F%2Ff.kafeteria.pl%2Ftemat-6070244-jak-byc-szczesliwym%2F%3Fdo%3DfindComment%26comment%3D13080959&title=jak+by%C4%87+szcz%C4%99%C5%9Bliwym
- 111. https://f.kafeteria.pl/temat-6070244-jak-byc-szczesliwym/?do=findComment&comment=13080985
- 112. http://twitter.com/share?text=jak%20by%C4%87%20szcz%C4%99%C5%9Bliwym&url=https%3A%2F%2Ff.kafeteria.pl%2Ftemat-6070244-jak-byc-szczesliwym%2F%3Fdo%3DfindComment%26comment%3D13080985
- 113. https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ff.kafeteria.pl%2Ftemat-6070244-jak-byc-szczesliwym%2F%3Fdo%3DfindComment%26comment%3D13080985
- 114. http://www.reddit.com/submit?url=https%3A%2F%2Ff.kafeteria.pl%2Ftemat-6070244-jak-byc-szczesliwym%2F%3Fdo%3DfindComment%26comment%3D13080985&title=jak+by%C4%87+szcz%C4%99%C5%9Bliwym
- 115. https://f.kafeteria.pl/temat-6070244-jak-byc-szczesliwym/?do=findComment&comment=13081010
- 116. http://twitter.com/share?text=jak%20by%C4%87%20szcz%C4%99%C5%9Bliwym&url=https%3A%2F%2Ff.kafeteria.pl%2Ftemat-6070244-jak-byc-szczesliwym%2F%3Fdo%3DfindComment%26comment%3D13081010
- 117. https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ff.kafeteria.pl%2Ftemat-6070244-jak-byc-szczesliwym%2F%3Fdo%3DfindComment%26comment%3D13081010
- 118. http://www.reddit.com/submit?url=https%3A%2F%2Ff.kafeteria.pl%2Ftemat-6070244-jak-byc-szczesliwym%2F%3Fdo%3DfindComment%26comment%3D13081010&title=jak+by%C4%87+szcz%C4%99%C5%9Bliwym
- 119. https://f.kafeteria.pl/temat-6070244-jak-byc-szczesliwym/?do=findComment&comment=13081037
- 120. http://twitter.com/share?text=jak%20by%C4%87%20szcz%C4%99%C5%9Bliwym&url=https%3A%2F%2Ff.kafeteria.pl%2Ftemat-6070244-jak-byc-szczesliwym%2F%3Fdo%3DfindComment%26comment%3D13081037
- 121. https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ff.kafeteria.pl%2Ftemat-6070244-jak-byc-szczesliwym%2F%3Fdo%3DfindComment%26comment%3D13081037
- 122. http://www.reddit.com/submit?url=https%3A%2F%2Ff.kafeteria.pl%2Ftemat-6070244-jak-byc-szczesliwym%2F%3Fdo%3DfindComment%26comment%3D13081037&title=jak+by%C4%87+szcz%C4%99%C5%9Bliwym
- 123. https://f.kafeteria.pl/temat-6070244-jak-byc-szczesliwym/?do=findComment&comment=13081062
- 124. http://twitter.com/share?text=jak%20by%C4%87%20szcz%C4%99%C5%9Bliwym&url=https%3A%2F%2Ff.kafeteria.pl%2Ftemat-6070244-jak-byc-szczesliwym%2F%3Fdo%3DfindComment%26comment%3D13081062
- 125. https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ff.kafeteria.pl%2Ftemat-6070244-jak-byc-szczesliwym%2F%3Fdo%3DfindComment%26comment%3D13081062
- 126. http://www.reddit.com/submit?url=https%3A%2F%2Ff.kafeteria.pl%2Ftemat-6070244-jak-byc-szczesliwym%2F%3Fdo%3DfindComment%26comment%3D13081062&title=jak+by%C4%87+szcz%C4%99%C5%9Bliwym
- 127. https://f.kafeteria.pl/temat-6070244-jak-byc-szczesliwym/?do=findComment&comment=13081089
- 128. http://twitter.com/share?text=jak%20by%C4%87%20szcz%C4%99%C5%9Bliwym&url=https%3A%2F%2Ff.kafeteria.pl%2Ftemat-6070244-jak-byc-szczesliwym%2F%3Fdo%3DfindComment%26comment%3D13081089
- 129. https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ff.kafeteria.pl%2Ftemat-6070244-jak-byc-szczesliwym%2F%3Fdo%3DfindComment%26comment%3D13081089
- 130. http://www.reddit.com/submit?url=https%3A%2F%2Ff.kafeteria.pl%2Ftemat-6070244-jak-byc-szczesliwym%2F%3Fdo%3DfindComment%26comment%3D13081089&title=jak+by%C4%87+szcz%C4%99%C5%9Bliwym
- 131. https://f.kafeteria.pl/temat-6070244-jak-byc-szczesliwym/?do=findComment&comment=13081112
- 132. http://twitter.com/share?text=jak%20by%C4%87%20szcz%C4%99%C5%9Bliwym&url=https%3A%2F%2Ff.kafeteria.pl%2Ftemat-6070244-jak-byc-szczesliwym%2F%3Fdo%3DfindComment%26comment%3D13081112
- 133. https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ff.kafeteria.pl%2Ftemat-6070244-jak-byc-szczesliwym%2F%3Fdo%3DfindComment%26comment%3D13081112
- 134. http://www.reddit.com/submit?url=https%3A%2F%2Ff.kafeteria.pl%2Ftemat-6070244-jak-byc-szczesliwym%2F%3Fdo%3DfindComment%26comment%3D13081112&title=jak+by%C4%87+szcz%C4%99%C5%9Bliwym
- 135. https://f.kafeteria.pl/temat-6070244-jak-byc-szczesliwym/?do=findComment&comment=13081137
- 136. http://twitter.com/share?text=jak%20by%C4%87%20szcz%C4%99%C5%9Bliwym&url=https%3A%2F%2Ff.kafeteria.pl%2Ftemat-6070244-jak-byc-szczesliwym%2F%3Fdo%3DfindComment%26comment%3D13081137
- 137. https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ff.kafeteria.pl%2Ftemat-6070244-jak-byc-szczesliwym%2F%3Fdo%3DfindComment%26comment%3D13081137
- 138. http://www.reddit.com/submit?url=https%3A%2F%2Ff.kafeteria.pl%2Ftemat-6070244-jak-byc-szczesliwym%2F%3Fdo%3DfindComment%26comment%3D13081137&title=jak+by%C4%87+szcz%C4%99%C5%9Bliwym
- 139. https://f.kafeteria.pl/temat-6070244-jak-byc-szczesliwym/?do=findComment&comment=13081161
- 140. http://twitter.com/share?text=jak%20by%C4%87%20szcz%C4%99%C5%9Bliwym&url=https%3A%2F%2Ff.kafeteria.pl%2Ftemat-6070244-jak-byc-szczesliwym%2F%3Fdo%3DfindComment%26comment%3D13081161
- 141. https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ff.kafeteria.pl%2Ftemat-6070244-jak-byc-szczesliwym%2F%3Fdo%3DfindComment%26comment%3D13081161
- 142. http://www.reddit.com/submit?url=https%3A%2F%2Ff.kafeteria.pl%2Ftemat-6070244-jak-byc-szczesliwym%2F%3Fdo%3DfindComment%26comment%3D13081161&title=jak+by%C4%87+szcz%C4%99%C5%9Bliwym
- 143. https://f.kafeteria.pl/temat-6070244-jak-byc-szczesliwym/?do=findComment&comment=13081176
- 144. http://twitter.com/share?text=jak%20by%C4%87%20szcz%C4%99%C5%9Bliwym&url=https%3A%2F%2Ff.kafeteria.pl%2Ftemat-6070244-jak-byc-szczesliwym%2F%3Fdo%3DfindComment%26comment%3D13081176
- 145. https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ff.kafeteria.pl%2Ftemat-6070244-jak-byc-szczesliwym%2F%3Fdo%3DfindComment%26comment%3D13081176
- 146. http://www.reddit.com/submit?url=https%3A%2F%2Ff.kafeteria.pl%2Ftemat-6070244-jak-byc-szczesliwym%2F%3Fdo%3DfindComment%26comment%3D13081176&title=jak+by%C4%87+szcz%C4%99%C5%9Bliwym
- 147. https://f.kafeteria.pl/temat-6070244-jak-byc-szczesliwym/?do=findComment&comment=13081197
- 148. http://twitter.com/share?text=jak%20by%C4%87%20szcz%C4%99%C5%9Bliwym&url=https%3A%2F%2Ff.kafeteria.pl%2Ftemat-6070244-jak-byc-szczesliwym%2F%3Fdo%3DfindComment%26comment%3D13081197
- 149. https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ff.kafeteria.pl%2Ftemat-6070244-jak-byc-szczesliwym%2F%3Fdo%3DfindComment%26comment%3D13081197
- 150. http://www.reddit.com/submit?url=https%3A%2F%2Ff.kafeteria.pl%2Ftemat-6070244-jak-byc-szczesliwym%2F%3Fdo%3DfindComment%26comment%3D13081197&title=jak+by%C4%87+szcz%C4%99%C5%9Bliwym
- 151. https://f.kafeteria.pl/temat-6070244-jak-byc-szczesliwym/?do=findComment&comment=51684599
- 152. http://twitter.com/share?text=jak%20by%C4%87%20szcz%C4%99%C5%9Bliwym&url=https%3A%2F%2Ff.kafeteria.pl%2Ftemat-6070244-jak-byc-szczesliwym%2F%3Fdo%3DfindComment%26comment%3D51684599
- 153. https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ff.kafeteria.pl%2Ftemat-6070244-jak-byc-szczesliwym%2F%3Fdo%3DfindComment%26comment%3D51684599
- 154. http://www.reddit.com/submit?url=https%3A%2F%2Ff.kafeteria.pl%2Ftemat-6070244-jak-byc-szczesliwym%2F%3Fdo%3DfindComment%26comment%3D51684599&title=jak+by%C4%87+szcz%C4%99%C5%9Bliwym
- 155. https://f.kafeteria.pl/temat-6070244-jak-byc-szczesliwym/?do=findComment&comment=51859693
- 156. http://twitter.com/share?text=jak%20by%C4%87%20szcz%C4%99%C5%9Bliwym&url=https%3A%2F%2Ff.kafeteria.pl%2Ftemat-6070244-jak-byc-szczesliwym%2F%3Fdo%3DfindComment%26comment%3D51859693
- 157. https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ff.kafeteria.pl%2Ftemat-6070244-jak-byc-szczesliwym%2F%3Fdo%3DfindComment%26comment%3D51859693
- 158. http://www.reddit.com/submit?url=https%3A%2F%2Ff.kafeteria.pl%2Ftemat-6070244-jak-byc-szczesliwym%2F%3Fdo%3DfindComment%26comment%3D51859693&title=jak+by%C4%87+szcz%C4%99%C5%9Bliwym
- 159. http://twitter.com/share?text=jak%20by%C4%87%20szcz%C4%99%C5%9Bliwym&url=https%3A%2F%2Ff.kafeteria.pl%2Ftemat-6070244-jak-byc-szczesliwym%2F
- 160. https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ff.kafeteria.pl%2Ftemat-6070244-jak-byc-szczesliwym%2F
- 161. http://www.reddit.com/submit?url=https%3A%2F%2Ff.kafeteria.pl%2Ftemat-6070244-jak-byc-szczesliwym%2F&title=jak+by%C4%87+szcz%C4%99%C5%9Bliwym
+     * Forum
+     * Tablica liderów
+     * Cała aktywność
+     * Kosmetyki
+     * Forum

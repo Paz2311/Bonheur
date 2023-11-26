@@ -1,5 +1,1 @@
-   IFRAME: [1]https://www.googletagmanager.com/ns.html?id=GTM-KLBLG59
-
-References
-
-   1. https://www.googletagmanager.com/ns.html?id=GTM-KLBLG59
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-KLBLG59

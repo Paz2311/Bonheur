@@ -25,7 +25,7 @@
    Mon compte
    Identifiez-vousCréez votre compte
 
-   [1]Accueil[2]Cinéma[3]Tous les films[4]Films Drame[5]Le Bonheur
+   AccueilCinémaTous les filmsFilms DrameLe Bonheur
 
 Avis sur Le Bonheur
 
@@ -48,7 +48,7 @@ Avis sur Le Bonheur
    3,9
    342 notes En savoir plus sur les notes spectateurs d'AlloCiné
    Votre avis sur Le Bonheur ?
-   [6]Rédiger ma critique
+   Rédiger ma critique
 
 34 critiques spectateurs
 
@@ -65,7 +65,7 @@ Avis sur Le Bonheur
    0 [yellow-star.32dcd60d.svg]
    1 critique
    Trier par :
-   Les plus utiles [7]Les plus récentes Membres avec le plus de critiques
+   Les plus utiles Les plus récentes Membres avec le plus de critiques
    Membres avec le plus d'abonnés
    Filtrer par :
    Toutes les notes [yellow-star.32dcd60d.svg]
@@ -78,7 +78,7 @@ Avis sur Le Bonheur
    Acidus
    Acidus
 
-   558 abonnés 3 576 critiques Suivre son activité
+   558 abonnés 3 577 critiques Suivre son activité
    0,5
    Publiée le 25 août 2016
    Ah, la Nouvelle Vague et son pouvoir de nous assommer avec une banale
@@ -94,11 +94,11 @@ Avis sur Le Bonheur
    s'attendre d'une romance. C'est plat et ennuyeux.
    Fait encore plus incompréhensible: il y a des gens pour apprécier ce
    style cinématographique. C'est dingue, non?
-   [8]3 [9]3
+   3 3
    gimliamideselfes
    gimliamideselfes Membre du Club Allociné
 
-   2 642 abonnés 3 944 critiques Suivre son activité
+   2 645 abonnés 3 946 critiques Suivre son activité
    4,5
    Publiée le 4 juillet 2013
    Ah je ne regrette pas d'avoir vu ce film. Je n'ai pas forcément vu
@@ -130,11 +130,11 @@ Avis sur Le Bonheur
    d'une grande subtilité du film.
    Putain de film. Simple mais avec une immense profondeur. Tout ce que
    j'aime.
-   [10]2 [11]1
+   2 1
    weihnachtsmann
    weihnachtsmann Membre du Club Allociné
 
-   765 abonnés 4 661 critiques Suivre son activité
+   772 abonnés 4 667 critiques Suivre son activité
    3,5
    Publiée le 4 mars 2017
    Le film possède cette avantage de faire défiler la vie en accéléré. Les
@@ -146,7 +146,7 @@ Avis sur Le Bonheur
    semble en vérité nous échapper sans cesse mais que l'homme défend coûte
    que coûte, ce qui rend cette dernière scène dans la forêt si belle
    alors qu'elle est d'une si profonde tristesse.
-   [12]3 [13]0
+   3 0
    Daniel C.
    Daniel C.
 
@@ -169,20 +169,20 @@ Avis sur Le Bonheur
    point que "Le bonheur" semble rimer avec horreur. Lorsque le film s'est
    achevé dans les couleurs de l'automne, j'avais froid, tant l'issue de
    cette histoire me semblait glaçante.
-   [14]3 [15]0
+   3 0
    pierrre s.
    pierrre s. Membre du Club Allociné
 
-   301 abonnés 3 162 critiques Suivre son activité
+   301 abonnés 3 165 critiques Suivre son activité
    3,0
    Publiée le 9 janvier 2019
    Le Bonheur façon Agnès Varda ne plaira sans doute pas à tout le monde,
    mais il a le mérite d'exister et de faire réfléchir le spectateur.
-   [16]1 [17]1
+   1 1
    Kurosawa
    Kurosawa Membre du Club Allociné
 
-   474 abonnés 1 509 critiques Suivre son activité
+   475 abonnés 1 509 critiques Suivre son activité
    3,0
    Publiée le 4 avril 2019
    C'est une famille heureuse, le couple vit paisiblement à la campagne
@@ -204,11 +204,11 @@ Avis sur Le Bonheur
    représentation d'un bonheur de surface, ou plutôt un bonheur nuancé,
    que dans une plénitude pas loin d'être mièvre, "Le bonheur" est un beau
    film imparfait.
-   [18]2 [19]0
+   2 0
    traversay1
    traversay1 Membre du Club Allociné
 
-   2 691 abonnés 4 488 critiques Suivre son activité
+   2 702 abonnés 4 492 critiques Suivre son activité
    3,5
    Publiée le 3 août 2016
    Le film a été fustigé à l'époque par son "amoralité". Ce qui était
@@ -224,11 +224,11 @@ Avis sur Le Bonheur
    omniprésente. La mise en scène de Varda, cinéaste dentellière, est
    tellement délicate. 45 ans après, le film reste toujours aussi, euh,
    troublant.
-   [20]1 [21]0
+   1 0
    brunocinoche
    brunocinoche
 
-   53 abonnés 1 048 critiques Suivre son activité
+   53 abonnés 1 049 critiques Suivre son activité
    3,5
    Publiée le 11 novembre 2015
    1er film en couleurs d'Agnès Varda, peut-être pour magnifier un peu
@@ -239,7 +239,7 @@ Avis sur Le Bonheur
    aimé des acteurs plus charismatiques mais la mise en scène d'Agnès
    Varda, légère et lumineuse, fait de ce film une belle réussite, à la
    fois simple et hors norme, à l'image de la cinéaste.
-   [22]1 [23]0
+   1 0
    Petiot L
    Petiot L
 
@@ -253,7 +253,7 @@ Avis sur Le Bonheur
    rare, et bien fait. Merci , thème classique, mais vision très
    personnelle .On voyage en plus dans une époque . Quelle artiste !
    Tellement à contre-courant de tout ce qu'on peut voir .
-   [24]1 [25]0
+   1 0
    bidulle3
    bidulle3
 
@@ -298,7 +298,7 @@ Avis sur Le Bonheur
    pourquoi pas un sourire.
    C'est cruel, empoisonné, c'est juste la vie en faite. Le bonheur à un
    prix, et celui là est bien trop cher ...
-   [26]1 [27]0
+   1 0
    TTNOUGAT
    TTNOUGAT Membre du Club Allociné
 
@@ -326,7 +326,7 @@ Avis sur Le Bonheur
    montrer sans une seule parole inutile quelle est sa réponse. Enfin,elle
    termine sur la maîtresse de « jour » pour conclure son propos et sa
    logique absolue.45 ans après,il me glace toujours autant.
-   [28]1 [29]0
+   1 0
    Mélany T
    Mélany T
 
@@ -341,7 +341,7 @@ Avis sur Le Bonheur
    provoqué la mort peut aussi montrer la cruauté infinie de cet homme
    d'un égocentrisme banal, typique de son genre (Pas sûre cependant que
    ce soit le propos d'Agnès Varda..).
-   [30]1 [31]0
+   1 0
    max6m
    max6m
 
@@ -377,7 +377,7 @@ Avis sur Le Bonheur
    associant un code chromatique à chacune des 2 femmes, Varda utilise de
    manière ludique les couleurs, tout au long du film, parachevant ainsi
    un travail formel en parfaite adéquation avec le propos. Une réussite.
-   [32]1 [33]0
+   1 0
    pierrepp
    pierrepp
 
@@ -389,7 +389,7 @@ Avis sur Le Bonheur
    cadrages, la façon de filmer les scénes intimes avec la caméra en
    mouvement... trés moderne pour le début des années 60, son film a bien
    vieillit.
-   [34]1 [35]0
+   1 0
    anonyme
    Un visiteur
    5,0
@@ -406,11 +406,11 @@ Avis sur Le Bonheur
    Le Bonheur constitue un film d'une étonnante modernité aussi bien par
    sa quête de celui-ci mais aussi par sa vision de la famille.
    Un très grand film!
-   [36]1 [37]0
+   1 0
    PrécédenteSuivante
-   1 [38]2[39]3
+   1 23
    Les meilleurs films de tous les temps
-     * [40]Meilleurs films
+     * Meilleurs films
      * Meilleurs films selon la presse
 
    Suivez-nous sur Facebook
@@ -418,23 +418,29 @@ Avis sur Le Bonheur
    Top Bandes-annonces
    Napoléon Bande-annonce VF
    Napoléon Bande-annonce VF
+   Je ne suis pas un héros Bande-annonce VF
+   Je ne suis pas un héros Bande-annonce VF
    Mars Express Bande-annonce VF
    Mars Express Bande-annonce VF
-   Gladiator Bande-annonce VF
-   Gladiator Bande-annonce VF
-   Hunger Games: la Ballade du serpent et de l'oiseau chanteur Teaser VF
-   Hunger Games: la Ballade du serpent et de l'oiseau chanteur Teaser VF
-   The Killer Bande-annonce VF
-   The Killer Bande-annonce VF
-   Un hiver à Yanji Bande-annonce VO
-   Un hiver à Yanji Bande-annonce VO
+   Alien, le huitième passager Bande-annonce VF
+   Alien, le huitième passager Bande-annonce VF
+   Predator Bande-annonce ressortie 2016 VO
+   Predator Bande-annonce ressortie 2016 VO
+   Retour vers le futur Bande-annonce VF
+   Retour vers le futur Bande-annonce VF
    Bandes-annonces à ne pas manquer
    Meilleurs films à l'affiche
-   Sacerdoce
-   Sacerdoce
-   4,6
-   De Damien Boyer
-   Avec Damien Boyer
+   Mars Express
+   Mars Express
+   4,2
+   De Jérémie Périn
+   Avec Léa Drucker, Mathieu Amalric, Daniel Njo Lobé
+   Bande-annonce
+   Sound of Freedom
+   Sound of Freedom
+   4,2
+   De Alejandro Monteverde
+   Avec Jim Caviezel, Bill Camp, Cristal Aparicio
    Bande-annonce
    L'Enlèvement
    L'Enlèvement
@@ -454,30 +460,25 @@ Avis sur Le Bonheur
    De Frédéric Tellier
    Avec Benjamin Lavernhe, Emmanuelle Bercot, Michel Vuillermoz
    Bande-annonce
-   Sound of Freedom
-   Sound of Freedom
+   Ricardo et la peinture
+   Ricardo et la peinture
    4,0
-   De Alejandro Monteverde
-   Avec Jim Caviezel, Bill Camp, Cristal Aparicio
-   Bande-annonce
-   The Old Oak
-   The Old Oak
-   4,0
-   De Ken Loach
-   Avec Dave Turner, Ebla Mari, Claire Rodgerson
+   De Barbet Schroeder
    Bande-annonce
    Tous les meilleurs films au ciné
    Bandes-annonces les plus récentes
-   Journal d'Amérique Bande-annonce VF
-   Journal d'Amérique Bande-annonce VF
-   The Marvels Bande-annonce (3) VO
-   The Marvels Bande-annonce (3) VO
-   Le Garçon et le Héron Bande-annonce VF
-   Le Garçon et le Héron Bande-annonce VF
-   Kuroneko Bande-annonce VO
-   Kuroneko Bande-annonce VO
-   How to Have Sex Bande-annonce VO
-   How to Have Sex Bande-annonce VO
+   Napoléon Bande-annonce VF
+   Napoléon Bande-annonce VF
+   Hunger Games: la Ballade du serpent et de l'oiseau chanteur EXTRAIT VO
+   "Lucy Gray Baird"
+   Hunger Games: la Ballade du serpent et de l'oiseau chanteur EXTRAIT VO
+   "Lucy Gray Baird"
+   Mars Express Bande-annonce VF
+   Mars Express Bande-annonce VF
+   Je ne suis pas un héros Bande-annonce VF
+   Je ne suis pas un héros Bande-annonce VF
+   Rien à Perdre Bande-annonce VF
+   Rien à Perdre Bande-annonce VF
    Sound of Freedom Bande-annonce VF
    Sound of Freedom Bande-annonce VF
    Dernières bandes annonces
@@ -488,15 +489,15 @@ Avis sur Le Bonheur
        avec Kim Raver, Fotinì Peluso
        Film - Comédie dramatique
        Bande-annonce
-     * Soudain seuls
-     * Le Grand magasin
+     * Perfect Days
+     * Wish - Asha et la bonne étoile
      * Conann
+     * Soudain seuls
+     * Le Temps D’Aimer
+     * Le Grand magasin
      * Ma France à moi
-     * [41]Wish - Asha et la bonne étoile
-     * [42]Les Trois Mousquetaires: Milady
-     * [43]Greenhouse
-     * [44]Le Temps D’Aimer
-     * [45]Perfect Days
+     * Wonka
+     * Vermines
 
    Les films à venir les plus consultés
    Suivez-nous
@@ -509,63 +510,12 @@ Avis sur Le Bonheur
    Sensacine México Mexique
 
    Contact | Qui sommes-nous | Recrutement | Publicité | CGU | Politique
-   de cookies | [46]Préférences cookies | Données Personnelles | Revue de
+   de cookies | Préférences cookies | Données Personnelles | Revue de
    presse | Les services AlloCiné | ©AlloCiné
 
    Retrouvez tous les horaires et infos de votre cinéma sur le numéro
    AlloCiné : 0 892 892 892 (0,90€/minute)
 
-   [47]Back to Top
+   Back to Top
 
-   IFRAME: [48]//www.googletagmanager.com/ns.html?id=GTM-PL6PBF
-
-References
-
-   1. https://www.allocine.fr/
-   2. https://www.allocine.fr/film/
-   3. https://www.allocine.fr/films/
-   4. https://www.allocine.fr/films/genre-13008/
-   5. https://www.allocine.fr/film/fichefilm_gen_cfilm=1487.html
-   6. https://www.allocine.fr/film/fichefilm-1487/critiques/spectateurs/
-   7. https://www.allocine.fr/film/fichefilm-1487/critiques/spectateurs/recentes/
-   8. https://www.allocine.fr/film/fichefilm-1487/critiques/spectateurs/
-   9. https://www.allocine.fr/film/fichefilm-1487/critiques/spectateurs/
-  10. https://www.allocine.fr/film/fichefilm-1487/critiques/spectateurs/
-  11. https://www.allocine.fr/film/fichefilm-1487/critiques/spectateurs/
-  12. https://www.allocine.fr/film/fichefilm-1487/critiques/spectateurs/
-  13. https://www.allocine.fr/film/fichefilm-1487/critiques/spectateurs/
-  14. https://www.allocine.fr/film/fichefilm-1487/critiques/spectateurs/
-  15. https://www.allocine.fr/film/fichefilm-1487/critiques/spectateurs/
-  16. https://www.allocine.fr/film/fichefilm-1487/critiques/spectateurs/
-  17. https://www.allocine.fr/film/fichefilm-1487/critiques/spectateurs/
-  18. https://www.allocine.fr/film/fichefilm-1487/critiques/spectateurs/
-  19. https://www.allocine.fr/film/fichefilm-1487/critiques/spectateurs/
-  20. https://www.allocine.fr/film/fichefilm-1487/critiques/spectateurs/
-  21. https://www.allocine.fr/film/fichefilm-1487/critiques/spectateurs/
-  22. https://www.allocine.fr/film/fichefilm-1487/critiques/spectateurs/
-  23. https://www.allocine.fr/film/fichefilm-1487/critiques/spectateurs/
-  24. https://www.allocine.fr/film/fichefilm-1487/critiques/spectateurs/
-  25. https://www.allocine.fr/film/fichefilm-1487/critiques/spectateurs/
-  26. https://www.allocine.fr/film/fichefilm-1487/critiques/spectateurs/
-  27. https://www.allocine.fr/film/fichefilm-1487/critiques/spectateurs/
-  28. https://www.allocine.fr/film/fichefilm-1487/critiques/spectateurs/
-  29. https://www.allocine.fr/film/fichefilm-1487/critiques/spectateurs/
-  30. https://www.allocine.fr/film/fichefilm-1487/critiques/spectateurs/
-  31. https://www.allocine.fr/film/fichefilm-1487/critiques/spectateurs/
-  32. https://www.allocine.fr/film/fichefilm-1487/critiques/spectateurs/
-  33. https://www.allocine.fr/film/fichefilm-1487/critiques/spectateurs/
-  34. https://www.allocine.fr/film/fichefilm-1487/critiques/spectateurs/
-  35. https://www.allocine.fr/film/fichefilm-1487/critiques/spectateurs/
-  36. https://www.allocine.fr/film/fichefilm-1487/critiques/spectateurs/
-  37. https://www.allocine.fr/film/fichefilm-1487/critiques/spectateurs/
-  38. https://www.allocine.fr/film/fichefilm-1487/critiques/spectateurs/?page=2
-  39. https://www.allocine.fr/film/fichefilm-1487/critiques/spectateurs/?page=3
-  40. https://www.allocine.fr/film/meilleurs/
-  41. https://www.allocine.fr/film/fichefilm_gen_cfilm=279124.html
-  42. https://www.allocine.fr/film/fichefilm_gen_cfilm=288401.html
-  43. https://www.allocine.fr/film/fichefilm_gen_cfilm=318057.html
-  44. https://www.allocine.fr/film/fichefilm_gen_cfilm=280197.html
-  45. https://www.allocine.fr/film/fichefilm_gen_cfilm=314885.html
-  46. https://www.allocine.fr/film/fichefilm-1487/critiques/spectateurs/
-  47. https://www.allocine.fr/film/fichefilm-1487/critiques/spectateurs/#allocine__moviepage_reviews_public
-  48. https://www.googletagmanager.com/ns.html?id=GTM-PL6PBF
+   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-PL6PBF

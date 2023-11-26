@@ -1,4 +1,4 @@
-   [1]Forum littéraire
+   Forum littéraire
    Chargement…
    Ce site est optimisé pour être consulté depuis un navigateur moderne
    dans lequel JavaScript est activé.
@@ -184,17 +184,6 @@ Jocrisse
      __________________________________________________________________
 
 
-       [2]Accueil    [3]Conditions d’utilisation du forum    [4]Aide
-                [5]Foire aux questions du forum    [6]Contact
-   © etudes-litteraires.fr – [7]Études littéraires – [8]flarum.org
-
-References
-
-   1. https://www.etudes-litteraires.fr/
-   2. https://www.etudes-litteraires.fr/
-   3. https://www.etudes-litteraires.fr/p/1-charte
-   4. https://www.etudes-litteraires.fr/p/3-aide
-   5. https://www.etudes-litteraires.fr/p/2-faq
-   6. https://www.etudes-litteraires.com/contact/
-   7. https://www.etudes-litteraires.com/
-   8. https://flarum.org/
+     Accueil    Conditions d’utilisation du forum    Aide    Foire aux
+                        questions du forum    Contact
+      © etudes-litteraires.fr – Études littéraires – flarum.org

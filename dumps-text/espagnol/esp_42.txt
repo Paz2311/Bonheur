@@ -1,31 +1,31 @@
-   #[1]publisher [2]prev [3]next
+   #publisher prev next
 
    [p?c1=2&c2=13322448&cv=2.0&cj=1]
 
-   [4]Mediavida
+   Mediavida
 
-     * [5]Foros
-          + [6]Cargando...
-     * [7]Spy
-     * [8]Top
-     * [9]Grupos
+     * Foros
+          + Cargando...
+     * Spy
+     * Top
+     * Grupos
 
-     * [10]Inicia sesión
-     * [11]Regístrate
+     * Inicia sesión
+     * Regístrate
 
    ____________________
 
-   [12]OFF-Topic
+   OFF-Topic
 
-[13]La felicidad
+La felicidad
 
-   [14]oskito34
-   [15]oskito34 [16]#31 Jun '16
+   oskito34
+   oskito34 #31 Jun '16
 
    Felicidad = Charles Bukowski
-   [17]0
-   [18]MiNmbreNoCab
-   [19]MiNmbreNoCab [20]#32 Jun '16
+   0
+   MiNmbreNoCab
+   MiNmbreNoCab #32 Jun '16
 
    La felicidad no existe ya que es subjetiva para cada persona, ergo no
    existe un standard de "feliz" por eso nos encontramos pobres que viven
@@ -33,20 +33,20 @@
    inversa. La felicidad no es nada mas que una excusa para conseguir un
    cumulo de factores que es lo que entendemos nosotros por felicidad, no
    lo se. lo que si se es que me lo he inventado todo.
-   [21]0
-   [22]Ivanovich
-   [23]Ivanovich [24]#33 Jun '16
+   0
+   Ivanovich
+   Ivanovich #33 Jun '16
 
-   [25]#1 Hablas de [26]Kenderr no?
-   [27]0
-   [28]Fox-ES
-   [29]Fox-ES [30]#34 Jun '16
+   #1 Hablas de Kenderr no?
+   0
+   Fox-ES
+   Fox-ES #34 Jun '16
 
-   [31]#24 No te lo vas a creer pero estoy con el móvil y me he equivocado
+   #24 No te lo vas a creer pero estoy con el móvil y me he equivocado
    quoteando. XD
-   [32]0
-   [33]Kirs90
-   [34]Kirs90 [35]#35 Jun '16
+   0
+   Kirs90
+   Kirs90 #35 Jun '16
 
    Desde luego el hilo se ha vuelto la mar de interesante, con tantas
    opiniones y teorías.
@@ -62,36 +62,36 @@
 
    Y la verdad que al abrir el hilo no tenía la intención de escribir todo
    eso, pero me he ido enrrollando sin querer.
-   [36]0
-   [37]B
-   [38][Borrado] [39]#36 Jun '16
+   0
+   B
+   [Borrado] #36 Jun '16
 
    Comulgo.
-   [40]0
-   [41]A
-   [42]andresmcas [43]#37 Jun '16
+   0
+   A
+   andresmcas #37 Jun '16
 
-   [44]#7 muy bien dicho hermano
+   #7 muy bien dicho hermano
    lucha por tus sueños.
-   [45]0
-   [46]B
-   [47][Borrado] [48]#38 Jun '16
+   0
+   B
+   [Borrado] #38 Jun '16
 
-   Esto es la [49]felicidad!
-   [50]0
-   [51]E
-   [52]Esc0rpio [53]#39 Jun '16
+   Esto es la felicidad!
+   0
+   E
+   Esc0rpio #39 Jun '16
 
    La felicidad es un estado interior de bienestar que depende de tu
    perspectiva de la vida y de la importancia que le des a tus
    circunstancias externas
    .
-   [54]1
-   [55]melyrub
-   [56]melyrub [57]#40 Jun '16
+   1
+   melyrub
+   melyrub #40 Jun '16
 
-   [58]#1 Te equivocas; el ego y la autoestima son dos polos opuestos de
-   una moneda. Eso es de primero de psicología.
+   #1 Te equivocas; el ego y la autoestima son dos polos opuestos de una
+   moneda. Eso es de primero de psicología.
 
    Cuando estás dominado por el ego, este busca refuerzo exterior para
    sentir plenitud, mientras que la autoestima es todo aquello bueno que
@@ -101,11 +101,11 @@
    Respecto a lo que dices que de que el conocimiento y la consciencia nos
    alejan de la felicidad, pues depende de la persona. No hay relación
    demostrada entre alto conocimiento e infelicidad.
-   [59]0 [60]2 respuestas
-   [61]Kirs90
-   [62]Kirs90 [63]#41 Jun '16
+   0 2 respuestas
+   Kirs90
+   Kirs90 #41 Jun '16
 
-   [64]#40 No he estudiado psicología así que no puedo llegar a expresar
+   #40 No he estudiado psicología así que no puedo llegar a expresar
    correctamente los tecnicismos.
 
    La definición que has dado de ego y autoestima las veo acertadas, pero
@@ -116,18 +116,18 @@
    Es decir, si te pasas mucho tiempo sintiéndote infravalorado, toda la
    autoestima que tengas te va a parecer falsa. Al menos eso me pasa a mí,
    y lo veo bastante lógico : /
-   [65]0 [66]2 respuestas
-   [67]Eyvindur
-   [68]Eyvindur [69]#42 Jun '16 Cofrade
+   0 2 respuestas
+   Eyvindur
+   Eyvindur #42 Jun '16 Cofrade
 
-   [70]#41 A la gente con autoestima alta les da igual sentirse
+   #41 A la gente con autoestima alta les da igual sentirse
    infravalorados, esa es la diferencia.
-   [71]2 [72]1 respuesta
-   [73]melyrub
-   [74]melyrub [75]#43 Jun '16
+   2 1 respuesta
+   melyrub
+   melyrub #43 Jun '16
 
-   [76]#41 No, si te afecta lo que dicen los demás de ti sobre una cosa
-   que tu sabes que es cierta o falsa, estás pensando desde el ego.
+   #41 No, si te afecta lo que dicen los demás de ti sobre una cosa que tu
+   sabes que es cierta o falsa, estás pensando desde el ego.
 
    Por poner un ejemplo: Yo tengo los ojos marrón mierda, pues por más que
    digan 1000 personas que mis ojos son azules a mi se suda los huevos,
@@ -138,77 +138,77 @@
 
    Por cierto, lo que dices "sobre el papel" son estudios refutados en
    Psicología.
-   [77]1 [78]1 respuesta
-   [79]MiNmbreNoCab
-   [80]MiNmbreNoCab [81]#44 Jun '16
+   1 1 respuesta
+   MiNmbreNoCab
+   MiNmbreNoCab #44 Jun '16
 
    Psicologia, esa ciencia que pretende demostrar en el papel sentimientos
    totalmente abstractos y diferentes entre cada una de las miles de
    millones de personas sobre la tierra, basandose en que existen patrones
    y quedandose tan anchos.
-   [82]0 [83]1 respuesta
-   [84]B
-   [85][Borrado] [86]#45 Jun '16
+   0 1 respuesta
+   B
+   [Borrado] #45 Jun '16
 
-   [87]#44
+   #44
    La psicología no es una ciencia.
-   [88]0 [89]1 respuesta
-   [90]MiNmbreNoCab
-   [91]MiNmbreNoCab [92]#46 Jun '16
+   0 1 respuesta
+   MiNmbreNoCab
+   MiNmbreNoCab #46 Jun '16
 
-   [93]#45 Era un bait, no le des muchas vueltas, pero si que es cierto
-   que tenia entendido que ellos se consideran cientificos.
-   [94]0
-   [95]B
-   [96][Borrado] [97]#47 Jun '16
+   #45 Era un bait, no le des muchas vueltas, pero si que es cierto que
+   tenia entendido que ellos se consideran cientificos.
+   0
+   B
+   [Borrado] #47 Jun '16
 
-   [98]#19 Libros de autoayuda. Nivelazo.
-   [99]0 [100]1 respuesta
-   [101]abath666
-   [102]abath666 [103]#48 Jun '16 Caballero medieval
+   #19 Libros de autoayuda. Nivelazo.
+   0 1 respuesta
+   abath666
+   abath666 #48 Jun '16 Caballero medieval
 
-   [104]#47 No, no es un libro cutre de autoayuda.
-   [105]0
-   [106]Offtopico
-   [107]Offtopico [108]#49 Jun '16
+   #47 No, no es un libro cutre de autoayuda.
+   0
+   Offtopico
+   Offtopico #49 Jun '16
 
    Jajajaja XDXDXDXD
 
    Venga, suerte.
-   [109]0
-   [110]STAN
-   [111]STAN [112]#50 Jun '16
+   0
+   STAN
+   STAN #50 Jun '16
 
-   [113]#1 Me siento totalmente identificado con lo que has escrito...
-   [114]0 [115]1 respuesta
-   [116]B
-   [117][Borrado] [118]#51 Jun '16
+   #1 Me siento totalmente identificado con lo que has escrito...
+   0 1 respuesta
+   B
+   [Borrado] #51 Jun '16
 
-   [119]#1
+   #1
 
      Life is like a piano; the white keys represent happiness and the
      black show sadness. But as you go through life's journey, remember
      that the black keys also create music
 
-   [120]0 [121]1 respuesta
-   [122]B
-   [123][Borrado] [124]#52 Jun '16
+   0 1 respuesta
+   B
+   [Borrado] #52 Jun '16
 
    La felicidades es aquello que ese conserva sin saberlo, y que echamos
    en falta cuando no lo tenemos.
-   [125]1
-   [126]Ysera
-   [127]Ysera [128]#53 Jun '16 Penitente
+   1
+   Ysera
+   Ysera #53 Jun '16 Penitente
 
    La felicidad es un kebab a las 6 de la mañana al venir de fiesta. Es
    cagar y después ver que has hecho un perfect o llegar a casa por la
    noche cansado y recordar que ha salido el último capítulo de tu serie
    favorita.
-   [129]1
-   [130]Kirs90
-   [131]Kirs90 [132]#54 Jun '16
+   1
+   Kirs90
+   Kirs90 #54 Jun '16
 
-   [133]#42 [134]#43
+   #42 #43
    ¿Y qué dicen los estudios acerce de la presión social?
    ¿Habéis escuchado la frase de 'si juzgas a un pez por su capacidad de
    escalar árboles, se pasará la vida pensando que es un inútil'?
@@ -218,49 +218,48 @@
    Y el ego lo veo más como protección ante la falta de aceptación por no
    poder mantener la autoestime.
 
-   [135]#50 Pues espero que esto te ayude aunque sea un poco : 3
-   [136]#51 Las teclas negras hacen reggaeton. Con escucharlas una vez y
-   saber lo que son, es suficiente : /
-   [137]1 [138]2 respuestas
-   [139]B
-   [140][Borrado] [141]#55 Jun '16
+   #50 Pues espero que esto te ayude aunque sea un poco : 3
+   #51 Las teclas negras hacen reggaeton. Con escucharlas una vez y saber
+   lo que son, es suficiente : /
+   1 2 respuestas
+   B
+   [Borrado] #55 Jun '16
 
-   [142]#54 Las teclas negras son necesarias para tocar cualquier obra
-   maestra amigo, pregunta a los clásicos.
-   [143]0 [144]2 respuestas
-   [145]Kirs90
-   [146]Kirs90 [147]#56 Jun '16
+   #54 Las teclas negras son necesarias para tocar cualquier obra maestra
+   amigo, pregunta a los clásicos.
+   0 2 respuestas
+   Kirs90
+   Kirs90 #56 Jun '16
 
-   [148]#55 No me importa acabar mi vida sin haber llegado a ser una obra
+   #55 No me importa acabar mi vida sin haber llegado a ser una obra
    maestra. Me conformo con haber sonado bien. Y para eso no necesito
    teclas negras por doquier.
-   [149]1 [150]2 respuestas
-   [151]B
-   [152][Borrado] [153]#57 Jun '16
+   1 2 respuestas
+   B
+   [Borrado] #57 Jun '16
 
-   [154]#56 Estás desvirtuando completamente la metáfora. Te guste o no,
-   toda tu vida va a estar salteada con teclas negras, así como la de
-   todos los demás. De ti depende si componen una bella pieza o si acaba
-   siendo una amalgama inaudible
-   [155]0
-   [156]Fireternal
-   [157]Fireternal [158]#58 Jun '16 Salta loconejo
+   #56 Estás desvirtuando completamente la metáfora. Te guste o no, toda
+   tu vida va a estar salteada con teclas negras, así como la de todos los
+   demás. De ti depende si componen una bella pieza o si acaba siendo una
+   amalgama inaudible
+   0
+   Fireternal
+   Fireternal #58 Jun '16 Salta loconejo
 
-   [159]#56 Pues me ha molado la frase :/
-   [160]1
-   [161]Juanwar
-   [162]Juanwar [163]#59 Jun '16
+   #56 Pues me ha molado la frase :/
+   1
+   Juanwar
+   Juanwar #59 Jun '16
 
-   [164]#40 Por tu primera frase me has hecho leer media parrafada de
-   [165]#1
+   #40 Por tu primera frase me has hecho leer media parrafada de #1
 
    Pero claro, merecía la pena por que lo que has dicho es correcto. (Pero
    no quería leer su parrafada)
-   [166]1
-   [167]B
-   [168][Borrado] [169]#60 Jun '16
+   1
+   B
+   [Borrado] #60 Jun '16
 
-   [170]#54 Muy buena frase :) Si juzgas a una persona por su capacidad de
+   #54 Muy buena frase :) Si juzgas a una persona por su capacidad de
    hacer lo que otras personas no hacen, vivirá creyendo que es un tonto
    al intentarlo.
 
@@ -273,299 +272,69 @@
    debe apoyar cualquier proyecto, por más ilógico, raro o imposible que
    parezca, pues podrían salir nuevas ideas para mejorar nuestra forma de
    vida y cambiar la mentalidad humana. ¿Por qué no? ^^
-   [171]0
-   [172]Responder
-     * [173]1
+   0
+   Responder
+     * 1
      * 2
-     * [174]3
+     * 3
 
-   [175]Siguiente
-   [176]Responder [177]Compartir
-   [178]2 / 3
+   Siguiente
+   Responder Compartir
+   2 / 3
      *
-     * [179]1
+     * 1
      *
-     * [180]2
+     * 2
      *
-     * [181]3
+     * 3
 
 Usuarios habituales
 
-     * [182]H
-     * [183]N
-     * [184]Kirs90
-     * [185]abath666
-     * [186]MiNmbreNoCab
-     * [187]Eyvindur
-     * [188]Fox-ES
+     * H
+     * N
+     * Kirs90
+     * abath666
+     * MiNmbreNoCab
+     * Eyvindur
+     * Fox-ES
 
 Tags
 
-     * [189]Debate
+     * Debate
 
-     * [190]1
+     * 1
      * 2
-     * [191]3
+     * 3
 
      *
      * Favoritos
      *
      *
-     * [192]2 / 3
+     * 2 / 3
           +
-          + [193]1
+          + 1
           +
-          + [194]2
+          + 2
           +
-          + [195]3
+          + 3
 
      * Mediavida 1999 - 2023
-     * [196]Ayuda
-     * [197]Contacto
-     * [198]Política de privacidad Privacidad / [199]Cookies
-     * [200]Términos y condicionesTérminos
+     * Ayuda
+     * Contacto
+     * Política de privacidad Privacidad / Cookies
+     * Términos y condicionesTérminos
 
      * Secciones
-     * [201]Portada
-     * [202]Foros
-     * [203]Spy
-     * [204]Grupos
+     * Portada
+     * Foros
+     * Spy
+     * Grupos
 
      * Usuarios
-     * 335616 miembros
-     * 1973 online
+     * 335708 miembros
+     * 2310 online
 
      * Redes
-     * [205]Facebook
-     * [206]Twitter
-     * [207]Youtube
-
-References
-
-   Visible links:
-   1. https://plus.google.com/115316063119712096452/
-   2. https://www.mediavida.com/foro/off-topic/la-felicidad-562914
-   3. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/3
-   4. https://www.mediavida.com/
-   5. https://www.mediavida.com/foro/
-   6. https://www.mediavida.com/foro/
-   7. https://www.mediavida.com/foro/spy
-   8. https://www.mediavida.com/foro/top
-   9. https://www.mediavida.com/grupos/
-  10. https://www.mediavida.com/login?return=/foro/off-topic/la-felicidad-562914/2
-  11. https://www.mediavida.com/registro?return=/foro/off-topic/la-felicidad-562914/2
-  12. https://www.mediavida.com/foro/off-topic
-  13. https://www.mediavida.com/foro/off-topic/la-felicidad-562914
-  14. https://www.mediavida.com/id/oskito34
-  15. https://www.mediavida.com/id/oskito34
-  16. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#31
-  17. https://www.mediavida.com/foro/thumbs.php?tid=562914&num=31
-  18. https://www.mediavida.com/id/MiNmbreNoCab
-  19. https://www.mediavida.com/id/MiNmbreNoCab
-  20. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#32
-  21. https://www.mediavida.com/foro/thumbs.php?tid=562914&num=32
-  22. https://www.mediavida.com/id/Ivanovich
-  23. https://www.mediavida.com/id/Ivanovich
-  24. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#33
-  25. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#1
-  26. http://www.mediavida.com/id/Kenderr
-  27. https://www.mediavida.com/foro/thumbs.php?tid=562914&num=33
-  28. https://www.mediavida.com/id/Fox-ES
-  29. https://www.mediavida.com/id/Fox-ES
-  30. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#34
-  31. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#24
-  32. https://www.mediavida.com/foro/thumbs.php?tid=562914&num=34
-  33. https://www.mediavida.com/id/Kirs90
-  34. https://www.mediavida.com/id/Kirs90
-  35. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#35
-  36. https://www.mediavida.com/foro/thumbs.php?tid=562914&num=35
-  37. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2
-  38. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2
-  39. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#36
-  40. https://www.mediavida.com/foro/thumbs.php?tid=562914&num=36
-  41. https://www.mediavida.com/id/andresmcas
-  42. https://www.mediavida.com/id/andresmcas
-  43. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#37
-  44. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#7
-  45. https://www.mediavida.com/foro/thumbs.php?tid=562914&num=37
-  46. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2
-  47. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2
-  48. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#38
-  49. https://es.wikipedia.org/wiki/Felicidad
-  50. https://www.mediavida.com/foro/thumbs.php?tid=562914&num=38
-  51. https://www.mediavida.com/id/Esc0rpio
-  52. https://www.mediavida.com/id/Esc0rpio
-  53. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#39
-  54. https://www.mediavida.com/foro/thumbs.php?tid=562914&num=39
-  55. https://www.mediavida.com/id/melyrub
-  56. https://www.mediavida.com/id/melyrub
-  57. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#40
-  58. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#1
-  59. https://www.mediavida.com/foro/thumbs.php?tid=562914&num=40
-  60. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#top
-  61. https://www.mediavida.com/id/Kirs90
-  62. https://www.mediavida.com/id/Kirs90
-  63. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#41
-  64. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#40
-  65. https://www.mediavida.com/foro/thumbs.php?tid=562914&num=41
-  66. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#top
-  67. https://www.mediavida.com/id/Eyvindur
-  68. https://www.mediavida.com/id/Eyvindur
-  69. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#42
-  70. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#41
-  71. https://www.mediavida.com/foro/thumbs.php?tid=562914&num=42
-  72. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#top
-  73. https://www.mediavida.com/id/melyrub
-  74. https://www.mediavida.com/id/melyrub
-  75. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#43
-  76. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#41
-  77. https://www.mediavida.com/foro/thumbs.php?tid=562914&num=43
-  78. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#top
-  79. https://www.mediavida.com/id/MiNmbreNoCab
-  80. https://www.mediavida.com/id/MiNmbreNoCab
-  81. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#44
-  82. https://www.mediavida.com/foro/thumbs.php?tid=562914&num=44
-  83. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#top
-  84. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2
-  85. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2
-  86. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#45
-  87. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#44
-  88. https://www.mediavida.com/foro/thumbs.php?tid=562914&num=45
-  89. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#top
-  90. https://www.mediavida.com/id/MiNmbreNoCab
-  91. https://www.mediavida.com/id/MiNmbreNoCab
-  92. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#46
-  93. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#45
-  94. https://www.mediavida.com/foro/thumbs.php?tid=562914&num=46
-  95. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2
-  96. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2
-  97. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#47
-  98. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#19
-  99. https://www.mediavida.com/foro/thumbs.php?tid=562914&num=47
- 100. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#top
- 101. https://www.mediavida.com/id/abath666
- 102. https://www.mediavida.com/id/abath666
- 103. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#48
- 104. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#47
- 105. https://www.mediavida.com/foro/thumbs.php?tid=562914&num=48
- 106. https://www.mediavida.com/id/Offtopico
- 107. https://www.mediavida.com/id/Offtopico
- 108. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#49
- 109. https://www.mediavida.com/foro/thumbs.php?tid=562914&num=49
- 110. https://www.mediavida.com/id/STAN
- 111. https://www.mediavida.com/id/STAN
- 112. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#50
- 113. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#1
- 114. https://www.mediavida.com/foro/thumbs.php?tid=562914&num=50
- 115. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#top
- 116. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2
- 117. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2
- 118. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#51
- 119. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#1
- 120. https://www.mediavida.com/foro/thumbs.php?tid=562914&num=51
- 121. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#top
- 122. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2
- 123. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2
- 124. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#52
- 125. https://www.mediavida.com/foro/thumbs.php?tid=562914&num=52
- 126. https://www.mediavida.com/id/Ysera
- 127. https://www.mediavida.com/id/Ysera
- 128. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#53
- 129. https://www.mediavida.com/foro/thumbs.php?tid=562914&num=53
- 130. https://www.mediavida.com/id/Kirs90
- 131. https://www.mediavida.com/id/Kirs90
- 132. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#54
- 133. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#42
- 134. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#43
- 135. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#50
- 136. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#51
- 137. https://www.mediavida.com/foro/thumbs.php?tid=562914&num=54
- 138. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#top
- 139. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2
- 140. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2
- 141. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#55
- 142. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#54
- 143. https://www.mediavida.com/foro/thumbs.php?tid=562914&num=55
- 144. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#top
- 145. https://www.mediavida.com/id/Kirs90
- 146. https://www.mediavida.com/id/Kirs90
- 147. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#56
- 148. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#55
- 149. https://www.mediavida.com/foro/thumbs.php?tid=562914&num=56
- 150. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#top
- 151. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2
- 152. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2
- 153. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#57
- 154. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#56
- 155. https://www.mediavida.com/foro/thumbs.php?tid=562914&num=57
- 156. https://www.mediavida.com/id/Fireternal
- 157. https://www.mediavida.com/id/Fireternal
- 158. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#58
- 159. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#56
- 160. https://www.mediavida.com/foro/thumbs.php?tid=562914&num=58
- 161. https://www.mediavida.com/id/Juanwar
- 162. https://www.mediavida.com/id/Juanwar
- 163. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#59
- 164. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#40
- 165. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#1
- 166. https://www.mediavida.com/foro/thumbs.php?tid=562914&num=59
- 167. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2
- 168. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2
- 169. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#60
- 170. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#54
- 171. https://www.mediavida.com/foro/thumbs.php?tid=562914&num=60
- 172. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/responder
- 173. https://www.mediavida.com/foro/off-topic/la-felicidad-562914
- 174. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/3
- 175. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/3
- 176. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/responder
- 177. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2
- 178. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2
- 179. https://www.mediavida.com/foro/off-topic/la-felicidad-562914
- 180. javascript:void(0)
- 181. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/3
- 182. https://www.mediavida.com/id/Hulani
- 183. https://www.mediavida.com/id/Noveno
- 184. https://www.mediavida.com/id/Kirs90
- 185. https://www.mediavida.com/id/abath666
- 186. https://www.mediavida.com/id/MiNmbreNoCab
- 187. https://www.mediavida.com/id/Eyvindur
- 188. https://www.mediavida.com/id/Fox-ES
- 189. https://www.mediavida.com/foro/off-topic/tag/debate
- 190. https://www.mediavida.com/foro/off-topic/la-felicidad-562914
- 191. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/3
- 192. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2
- 193. https://www.mediavida.com/foro/off-topic/la-felicidad-562914
- 194. javascript:void(0)
- 195. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/3
- 196. https://www.mediavida.com/ayuda/
- 197. https://www.mediavida.com/ayuda/contacto
- 198. https://www.mediavida.com/ayuda/privacidad
- 199. https://www.mediavida.com/ayuda/cookies
- 200. https://www.mediavida.com/ayuda/terminos-y-condiciones
- 201. https://www.mediavida.com/
- 202. https://www.mediavida.com/foro/
- 203. https://www.mediavida.com/foro/spy
- 204. https://www.mediavida.com/grupos
- 205. https://www.facebook.com/Mediavida-137863031947
- 206. https://twitter.com/Mediavida
- 207. https://www.youtube.com/mediavidacom
-
-   Hidden links:
- 209. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#usermenu
- 210. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#sections
- 211. https://www.mediavida.com/foro/off-topic
- 212. https://www.mediavida.com/buscar
- 213. https://www.youtube.com/watch?v=Hr_E5tVF0c4
- 214. https://www.mediavida.com/foro/off-topic
- 215. https://www.mediavida.com/foro/off-topic/la-felicidad-562914
- 216. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#top
- 217. https://www.mediavida.com/foro/off-topic
- 218. https://www.mediavida.com/foro/off-topic/la-felicidad-562914
- 219. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/3
- 220. https://www.mediavida.com/foro/off-topic
- 221. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2
- 222. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#top
- 223. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/2#60
- 224. https://www.mediavida.com/foro/off-topic/la-felicidad-562914
- 225. https://www.mediavida.com/foro/off-topic/la-felicidad-562914/3
+     * Facebook
+     * Twitter
+     * Youtube

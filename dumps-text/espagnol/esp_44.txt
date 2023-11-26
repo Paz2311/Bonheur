@@ -1,44 +1,40 @@
-    #[1]ElOtroLado.net [2]RSS todas las noticias [3]RSS "Consolas" [4]RSS
-   "Juegos" [5]RSS "Scene" [6]RSS "Tecnología" [7]RSS "Internet" [8]RSS
-   "Otros"
+    #ElOtroLado.net RSS todas las noticias RSS "Consolas" RSS "Juegos" RSS
+   "Scene" RSS "Tecnología" RSS "Internet" RSS "Otros"
 
-   [9]Buscar noticias [10]Buscar hilos [11]Buscar mensajes [12]Buscar
-   wikis
+   Buscar noticias Buscar hilos Buscar mensajes Buscar wikis
    ____________________ Submit
-   [13]Consolas[14]Juegos[15]Scene[16]Tecnología[17]Internet[18]Otros
+   ConsolasJuegosSceneTecnologíaInternetOtros
    Avatar de invitado
-   [19]Invitado
-   [20]Iniciar sesiónLogin | [21]RegistrarseRegistro
-   [22]Login avanzado | [23]Registrarse
+   Invitado
+   Iniciar sesiónLogin | RegistrarseRegistro
+   Login avanzado | Registrarse
    ____________________
    ____________________
    ►
-   Al iniciar sesión aceptas nuestras [24]condiciones de uso y políticas
-   de privacidad.
-   [25]Índice de foros
-   [26]Índice de foros
-   [27]Búsqueda avanzada [28]Normas [29]Cambiar ancho
-   [30]Noticias
-   [31]Consolas [32]Juegos [33]Scene [34]Tecnología [35]Internet [36]Otros
-   [37]Multiplataforma
-   [38]General [39]Sistemas VR [40]Consolas alternativas [41]Google Stadia
-   [42]Desarrollo
-   [43]PS5PlayStation 5[44]Xbox Series[45]Nintendo Switch[46]Xbox
-   One[47]PS4PlayStation 4[48]PS Vita[49]Nintendo 3DS[50]Retro
-   [51]Consolas clásicas [52]Arcade y emulación [53]Wii U [54]PlayStation
-   3 [55]Xbox 360 [56]Wii [57]PSP [58]NDS [59]PlayStation 2 [60]Xbox
-   [61]GameCube [62]DreamCast [63]PlayStation
-   [64]PC[65]Tecnología[66]Más
-   [67]Tecnología [68]Off-topic [69]Noticias [70]Wiki
+   Al iniciar sesión aceptas nuestras condiciones de uso y políticas de
+   privacidad.
+   Índice de foros
+   Índice de foros
+   Búsqueda avanzada Normas Cambiar ancho
+   Noticias
+   Consolas Juegos Scene Tecnología Internet Otros
+   Multiplataforma
+   General Sistemas VR Consolas alternativas Google Stadia Desarrollo
+   PS5PlayStation 5Xbox SeriesNintendo SwitchXbox OnePS4PlayStation 4PS
+   VitaNintendo 3DSRetro
+   Consolas clásicas Arcade y emulación Wii U PlayStation 3 Xbox 360 Wii
+   PSP NDS PlayStation 2 Xbox GameCube DreamCast PlayStation
+   PCTecnologíaMás
+   Tecnología Off-topic Noticias Wiki
 
 La aventura narrativa Harmony: The Fall of Reverie estrena gameplay, demo y
 anuncia su lanzamiento para junio
 
-   Publicado por [71]Benzo el 4 de mayo de 2023 a las 19:17
-   [72]EOL » [73]Juegos
-   00[74]3
-   [75]Nintendo Switch[76]PC[77]PlayStation 5[78]Xbox Series[79]Harmony:
-   The Fall of Reverie[80]Don't Nod
+   Publicado por Benzo el 4 de mayo de 2023 a las 19:17
+   EOL » Juegos
+   003
+   Nintendo SwitchPCPlayStation 5Xbox SeriesHarmony: The Fall of
+   ReverieDon't Nod
    Don't Nod (Life Is Strange) ha anunciado que su nueva aventura
    narrativa Harmony: The Fall of Reverie se pondrá a la venta el 8 de
    junio para Nintendo Switch y PC mediante Steam, mientras que las
@@ -58,8 +54,8 @@ anuncia su lanzamiento para junio
    Caos, Vínculo y Verdad.
 
    IFRAME:
-   [81]https://www.youtube-nocookie.com/embed/rh6_hPvTzLk?start=0&rel=0&au
-   toplay=0
+   https://www.youtube-nocookie.com/embed/rh6_hPvTzLk?start=0&rel=0&autopl
+   ay=0
 
    En este mundo Polly asume el papel de Armonía, una diosa con la
    potestad para elegir qué aspiración gobernará Ensueño y restaurará el
@@ -79,56 +75,56 @@ anuncia su lanzamiento para junio
    deseado. Al final, una de las seis deidades se convertirá en el nuevo
    corazón de la humanidad.
 
-Nuevas reservas abiertas en [82]Ir a xtralife
+Nuevas reservas abiertas en Ir a xtralife
 
-   [83]Ver todos los próximos lanzamientos
-     * [84]Cyberpunk 2077 Ultimate Edition Reservar desde 54,95€€
+   Ver todos los próximos lanzamientos
+     * Contra: Operation Galuga Reservar desde 34,95€€
+       Contra: Operation Galuga
+       Reservar desde 34,95€
+     * Cyberpunk 2077 Ultimate Edition Reservar desde 54,95€€
        Cyberpunk 2077 Ultimate Edition
        Reservar desde 54,95€
-     * [85]Suicide Squad Reservar desde 64,95€€
+     * Suicide Squad Reservar desde 64,95€€
        Suicide Squad
        Reservar desde 64,95€
-     * [86]South Park Snow Day! Reservar desde 26,95€€
+     * South Park Snow Day! Reservar desde 26,95€€
        South Park Snow Day!
        Reservar desde 26,95€
-     * [87]Slave X Zero Reservar desde 26,95€€
+     * Slave X Zero Reservar desde 26,95€€
        Slave X Zero
        Reservar desde 26,95€
-     * [88]Nintendo Switch OLED + Mario Kart 8 Deluxe + 3 meses online Por
+     * Nintendo Switch OLED + Mario Kart 8 Deluxe + 3 meses online Por
        solo 346,99€€
        Nintendo Switch OLED + Mario Kart 8 Deluxe + 3 meses online
        Por solo 346,99€
-     * [89]Tomb Rider Trilogy Reservar desde 17,99€€
+     * Tomb Rider Trilogy Reservar desde 17,99€€
        Tomb Rider Trilogy
        Reservar desde 17,99€
-     * [90]Flintlock: The Siege of Dawn Reservar desde 44,95€€
+     * Flintlock: The Siege of Dawn Reservar desde 44,95€€
        Flintlock: The Siege of Dawn
        Reservar desde 44,95€
-     * [91]Inazuma Eleven: Victory Road Reservar desde 109,95€€
+     * Inazuma Eleven: Victory Road Reservar desde 109,95€€
        Inazuma Eleven: Victory Road
        Reservar desde 109,95€
-     * [92]Auriculares inalámbricos Pulse 3D Elite Reservar por 149,99€€
+     * Auriculares inalámbricos Pulse 3D Elite Reservar por 149,99€€
        Auriculares inalámbricos Pulse 3D Elite
        Reservar por 149,99€
-     * [93]Auriculares inalámbricos earbuds Pulse Explore Reservar por
+     * Auriculares inalámbricos earbuds Pulse Explore Reservar por
        219,99€€
        Auriculares inalámbricos earbuds Pulse Explore
        Reservar por 219,99€
-     * [94]Silent Hill 2 Reservar desde 62,95€€
+     * Silent Hill 2 Reservar desde 62,95€€
        Silent Hill 2
        Reservar desde 62,95€
-     * [95]Evoland I & II Edición 10 Aniversario Reservar desde 54,95€€
+     * Evoland I & II Edición 10 Aniversario Reservar desde 54,95€€
        Evoland I & II Edición 10 Aniversario
        Reservar desde 54,95€
-     * [96]GORI: Cuddly Carnage Reservar desde 26,95€€
+     * GORI: Cuddly Carnage Reservar desde 26,95€€
        GORI: Cuddly Carnage
        Reservar desde 26,95€
-     * [97]Gangs Of Sherwood Reservar desde 44,95€€
+     * Gangs Of Sherwood Reservar desde 44,95€€
        Gangs Of Sherwood
        Reservar desde 44,95€
-     * [98]Shin Megami Tensei III Nocturne HD Remaster Por solo 26,95€€
-       Shin Megami Tensei III Nocturne HD Remaster
-       Por solo 26,95€
 
    Sobre el autor » Benzo
 
@@ -137,11 +133,11 @@ Nuevas reservas abiertas en [82]Ir a xtralife
    más adelante una Xbox. Jugador de PC desde hace años, seguidor de
    Blizzard, lector y seriéfilo.
 
-   [99]Más publicaciones de Benzo »
-   [100]Avatar de Benzo
+   Más publicaciones de Benzo »
+   Avatar de Benzo
    Síguelo en
    #news-comments{display:none}
-   [101]Comentar »
+   Comentar »
    ____________________ Submit
    [X] (Todas)
    [ ] Otros
@@ -155,138 +151,12 @@ Nuevas reservas abiertas en [82]Ir a xtralife
 
 Noticias relacionadas
 
-[102]Disponible Harmony: The Fall of Reverie, la nueva aventura narrativa de
-Don't Nod (Life is Strange) 1 8 jun 2023
+Disponible Harmony: The Fall of Reverie, la nueva aventura narrativa de Don't
+Nod (Life is Strange) 1 8 jun 2023
 
-[103]Anunciado Harmony: The Fall of Reverie, la nueva aventura narrativa de
-Don't Nod (Life Is Strange) 3 9 feb 2023
+Anunciado Harmony: The Fall of Reverie, la nueva aventura narrativa de Don't
+Nod (Life Is Strange) 3 9 feb 2023
      __________________________________________________________________
 
-   [104]Términos y condiciones | GDPR | [105]Publicidad
-   ©1999-2023 [106]Algunos derechos reservados
-
-References
-
-   Visible links:
-   1. https://www.elotrolado.net/opensearch.xml
-   2. https://www.elotrolado.net/feed/
-   3. https://www.elotrolado.net/feed/consolas/
-   4. https://www.elotrolado.net/feed/juegos/
-   5. https://www.elotrolado.net/feed/scene/
-   6. https://www.elotrolado.net/feed/tecnologia/
-   7. https://www.elotrolado.net/feed/internet/
-   8. https://www.elotrolado.net/feed/otros/
-   9. https://www.elotrolado.net/noticias/juegos/harmony-fall-reverie-fecha-lanzamiento
-  10. https://www.elotrolado.net/noticias/juegos/harmony-fall-reverie-fecha-lanzamiento
-  11. https://www.elotrolado.net/noticias/juegos/harmony-fall-reverie-fecha-lanzamiento
-  12. https://www.elotrolado.net/noticias/juegos/harmony-fall-reverie-fecha-lanzamiento
-  13. https://www.elotrolado.net/noticias/consolas/
-  14. https://www.elotrolado.net/noticias/juegos/
-  15. https://www.elotrolado.net/noticias/scene/
-  16. https://www.elotrolado.net/noticias/tecnologia/
-  17. https://www.elotrolado.net/noticias/internet/
-  18. https://www.elotrolado.net/noticias/otros/
-  19. https://www.elotrolado.net/noticias/juegos/ucp.php?mode=login&sid=0e431e0318d28e41c6e8628247758d7b
-  20. https://www.elotrolado.net/noticias/juegos/ucp.php?mode=login&sid=0e431e0318d28e41c6e8628247758d7b
-  21. https://www.elotrolado.net/ucp.php?mode=register&sid=0e431e0318d28e41c6e8628247758d7b
-  22. https://www.elotrolado.net/ucp.php?mode=login
-  23. https://www.elotrolado.net/ucp.php?mode=register
-  24. https://www.elotrolado.net/ucp.php?mode=fullterms
-  25. https://www.elotrolado.net/index.php
-  26. https://www.elotrolado.net/index.php
-  27. https://www.elotrolado.net/search.php
-  28. https://www.elotrolado.net/hilo_recordatorio-de-las-principales-normas_1014288
-  29. https://www.elotrolado.net/noticias/juegos/harmony-fall-reverie-fecha-lanzamiento
-  30. https://www.elotrolado.net/noticias/juegos/harmony-fall-reverie-fecha-lanzamiento
-  31. https://www.elotrolado.net/noticias/consolas/
-  32. https://www.elotrolado.net/noticias/juegos/
-  33. https://www.elotrolado.net/noticias/scene/
-  34. https://www.elotrolado.net/noticias/tecnologia/
-  35. https://www.elotrolado.net/noticias/internet/
-  36. https://www.elotrolado.net/noticias/otros/
-  37. https://www.elotrolado.net/foro_multiplataforma_223
-  38. https://www.elotrolado.net/foro_multiplataforma-general_22
-  39. https://www.elotrolado.net/foro_multiplataforma-sistemas-vr_224
-  40. https://www.elotrolado.net/foro_multiplataforma-consolas-alternativas_120
-  41. https://www.elotrolado.net/foro_multiplataforma-google-stadia_228
-  42. https://www.elotrolado.net/foro_multiplataforma-desarrollo_152
-  43. https://www.elotrolado.net/foro_playstation-5_233
-  44. https://www.elotrolado.net/foro_xbox-series_231
-  45. https://www.elotrolado.net/foro_nintendo-switch_217
-  46. https://www.elotrolado.net/foro_xbox-one_206
-  47. https://www.elotrolado.net/foro_playstation-4_204
-  48. https://www.elotrolado.net/foro_ps-vita_186
-  49. https://www.elotrolado.net/foro_nintendo-3ds_183
-  50. https://www.elotrolado.net/foro_retro_40
-  51. https://www.elotrolado.net/foro_retro-y-descatalogado-consolas-clasicas_80
-  52. https://www.elotrolado.net/foro_retro-y-descatalogado-arcade-y-emulacion_220
-  53. https://www.elotrolado.net/foro_wii-u_193
-  54. https://www.elotrolado.net/foro_playstation-3_160
-  55. https://www.elotrolado.net/foro_xbox-360_137
-  56. https://www.elotrolado.net/foro_wii_154
-  57. https://www.elotrolado.net/foro_psp_131
-  58. https://www.elotrolado.net/foro_nds_132
-  59. https://www.elotrolado.net/foro_playstation-2_39
-  60. https://www.elotrolado.net/foro_retro-y-descatalogado-xbox_78
-  61. https://www.elotrolado.net/foro_retro-y-descatalogado-gamecube_85
-  62. https://www.elotrolado.net/foro_retro-y-descatalogado-dreamcast_6
-  63. https://www.elotrolado.net/foro_retro-y-descatalogado-playstation_81
-  64. https://www.elotrolado.net/foro_pc_36
-  65. https://www.elotrolado.net/foro_tecnologia_198
-  66. https://www.elotrolado.net/noticias/juegos/harmony-fall-reverie-fecha-lanzamiento
-  67. https://www.elotrolado.net/foro_tecnologia_198
-  68. https://www.elotrolado.net/foro_off-topic_58
-  69. https://www.elotrolado.net/foro_noticias_41
-  70. https://www.elotrolado.net/wiki/
-  71. https://www.elotrolado.net/search_news.php?author_id=13279
-  72. https://www.elotrolado.net/
-  73. https://www.elotrolado.net/noticias/juegos/
-  74. https://www.elotrolado.net/hilo_la-aventura-narrativa-harmony-the-fall-of-reverie-estrena-gameplay-demo-y-anuncia-su-lanzamiento-para-junio_2480648
-  75. https://www.elotrolado.net/tag/nintendo-switch/
-  76. https://www.elotrolado.net/tag/pc/
-  77. https://www.elotrolado.net/tag/playstation-5/
-  78. https://www.elotrolado.net/tag/xbox-series/
-  79. https://www.elotrolado.net/tag/harmony-the-fall-of-reverie/
-  80. https://www.elotrolado.net/tag/don-t-nod/
-  81. https://www.youtube-nocookie.com/embed/rh6_hPvTzLk?start=0&rel=0&autoplay=0
-  82. https://www.xtralife.com/
-  83. https://www.xtralife.com/calendario/noviembre-2023
-  84. https://www.xtralife.com/seleccion/cyberpunk-2077-ultimate-edition/6425
-  85. https://www.xtralife.com/seleccion/suicide-squad/2126
-  86. https://www.xtralife.com/seleccion/south-park-snow-day/6420
-  87. https://www.xtralife.com/seleccion/slave-x-zero/6421
-  88. https://www.xtralife.com/producto/nintendo-switch-oled-mario-kart-8-deluxe-3-meses-online-switch-pack-mario-kart-8/82305
-  89. https://www.xtralife.com/seleccion/tomb-rider-trilogy/6394
-  90. https://www.xtralife.com/seleccion/flintlock-the-siege-of-dawn/6395
-  91. https://www.xtralife.com/seleccion/inazuma-eleven-victory-road/6393
-  92. https://www.xtralife.com/producto/auriculares-inalambricos-pulse-3d-elite-ps5/81528
-  93. https://www.xtralife.com/producto/auriculares-inalambricos-earbuds-pulse-explore-ps5/81529
-  94. https://www.xtralife.com/seleccion/silent-hill-2/6364
-  95. https://www.xtralife.com/seleccion/evoland-i-ii-edicion-10-aniversario/6359
-  96. https://www.xtralife.com/seleccion/gori-cuddly-carnage/6357
-  97. https://www.xtralife.com/seleccion/gangs-of-sherwood/6350
-  98. https://www.xtralife.com/producto/shin-megami-tensei-iii-nocturne-hd-remaster-switch-estandar-ue/82187
-  99. https://www.elotrolado.net/search_news.php?author_id=13279
- 100. https://www.elotrolado.net/memberlist.php?mode=viewprofile&u=13279
- 101. https://www.elotrolado.net/posting.php?mode=reply&f=196&t=2480648
- 102. https://www.elotrolado.net/noticias/juegos/harmony-the-fall-reverie-trailer-lanzamiento
- 103. https://www.elotrolado.net/noticias/juegos/harmony-fall-reverie-direct
- 104. https://www.elotrolado.net/ucp.php?mode=fullterms
- 105. https://www.elotrolado.net/wiki/ElOtroLado:Publicidad
- 106. https://www.elotrolado.net/wiki/ElOtroLado:Licencia_de_contenidos
-
-   Hidden links:
- 108. https://www.elotrolado.net/
- 109. https://www.elotrolado.net/search.php
- 110. https://twitter.com/ElOtroLado
- 111. https://www.facebook.com/www.elotrolado.net
- 112. https://www.elotrolado.net/noticias/juegos/harmony-fall-reverie-fecha-lanzamiento
- 113. https://twitter.com/ElOtroLado
- 114. https://www.facebook.com/www.elotrolado.net
- 115. https://www.elotrolado.net/noticias/tecnologia/google-pixel-fold-detalles
- 116. https://www.elotrolado.net/noticias/juegos/amnesia-bunker-trailer-gameplay
- 117. https://www.youtube.com/watch?v=rh6_hPvTzLk
- 118. https://www.elotrolado.net/noticias/juegos/xbox-one-phil-spencer
- 119. https://www.elotrolado.net/noticias/juegos/amnesia-bunker-trailer-gameplay
- 120. https://twitter.com/Gazadk
- 121. https://www.elotrolado.net/
+   Términos y condiciones | GDPR | Publicidad
+   ©1999-2023 Algunos derechos reservados

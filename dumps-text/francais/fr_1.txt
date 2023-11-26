@@ -1,42 +1,42 @@
-   #[1]Page 2
+   #Page 2
 
-   [2]Contenu | [3]Rechercher | [4]Menus
+   Contenu | Rechercher | Menus
 
 Ubuntu-fr
 
-   [5]Communauté francophone d'utilisateurs d'Ubuntu
+   Communauté francophone d'utilisateurs d'Ubuntu
 
    Recherche rapide....______________ [Forum________] ok
 
-   _________ _________ connexion / [6]inscription
+   _________ _________ connexion / inscription
 
-     * [7]Accueil
-     * [8]Documentation
-     * [9]Forum
+     * Accueil
+     * Documentation
+     * Forum
           + Navigation
-               o [10]Règles
-               o [11]Inscription
-               o [12]Identification
+               o Règles
+               o Inscription
+               o Identification
           + Liens de recherche
-               o [13]Messages récents
-               o [14]Discussions sans réponse
-     * [15]Planet
+               o Messages récents
+               o Discussions sans réponse
+     * Planet
 
 Annonce
 
    Si vous avez des soucis pour rester connecté, déconnectez-vous puis
-   reconnectez-vous depuis [16]ce lien en cochant la case
+   reconnectez-vous depuis ce lien en cochant la case
    Me connecter automatiquement lors de mes prochaines visites.
 
-   [17]À propos de l'équipe du forum.
-     * [18]Accueil
-     * » [19]Forum
-     * » [20]Archives
-     * » [21]À quoi mesure-t-on le bonheur ?
+   À propos de l'équipe du forum.
+     * Accueil
+     * » Forum
+     * » Archives
+     * » À quoi mesure-t-on le bonheur ?
 
-   Pages : 1 [22]2 [23]Suivant
+   Pages : 1 2 Suivant
 
-#1 [24]Le 19/09/2009, à 09:39
+#1 Le 19/09/2009, à 09:39
 
    compte supprimé
 
@@ -44,14 +44,14 @@ Annonce
 
    Salut,
 
-   Alors que [25]la commission Stiglitz cherche à quantifier à présent le
+   Alors que la commission Stiglitz cherche à quantifier à présent le
    bonheur, pensez-vous que c'est du rôle de l'état de le faire ou au
    citoyen à déterminer lui-même et sans entrave ni modèle celui vers
    lequel il aspire individuellement ?
 
    Et sinon, ça se mesure le bonheur ?
 
-#2 [26]Le 19/09/2009, à 09:43
+#2 Le 19/09/2009, à 09:43
 
    nathéo
 
@@ -71,7 +71,7 @@ Re : À quoi mesure-t-on le bonheur ?
 
    Hors ligne
 
-#3 [27]Le 19/09/2009, à 09:52
+#3 Le 19/09/2009, à 09:52
 
    Emma Méson
 
@@ -97,7 +97,7 @@ Re : À quoi mesure-t-on le bonheur ?
 
    Hors ligne
 
-#4 [28]Le 19/09/2009, à 10:21
+#4 Le 19/09/2009, à 10:21
 
    Skadi
 
@@ -118,7 +118,7 @@ Re : À quoi mesure-t-on le bonheur ?
 
    Hors ligne
 
-#5 [29]Le 19/09/2009, à 18:52
+#5 Le 19/09/2009, à 18:52
 
    compte supprimé
 
@@ -128,7 +128,7 @@ Re : À quoi mesure-t-on le bonheur ?
    "On reconnaît le bonheur au bruit qu'il fait quand il s'en va", disait
    Jacques Prévert
 
-#6 [30]Le 19/09/2009, à 19:11
+#6 Le 19/09/2009, à 19:11
 
    Sir Na Kraïou
 
@@ -157,14 +157,14 @@ Re : À quoi mesure-t-on le bonheur ?
    on fait avec, et on arrive quand même à être heureux, nan ?
      __________________________________________________________________
 
-   Descendant de [31]Charlemagne et de LUCA.
+   Descendant de Charlemagne et de LUCA.
    Bleu, en l'hommage d'un truc bleu. :'(
-   C'est pas du [32]bleu.
+   C'est pas du bleu.
    C'est pas le lac de Genève, c'est le Lac Léman.
 
    Hors ligne
 
-#7 [33]Le 19/09/2009, à 19:56
+#7 Le 19/09/2009, à 19:56
 
    Compte anonymisé
 
@@ -233,7 +233,7 @@ Re : À quoi mesure-t-on le bonheur ?
 
    Tout cela est très compliqué.:rolleyes:
 
-#8 [34]Le 19/09/2009, à 19:59
+#8 Le 19/09/2009, à 19:59
 
    Skadi
 
@@ -269,7 +269,7 @@ Re : À quoi mesure-t-on le bonheur ?
 
    Hors ligne
 
-#9 [35]Le 19/09/2009, à 20:04
+#9 Le 19/09/2009, à 20:04
 
    timbolchevik
 
@@ -281,7 +281,7 @@ Re : À quoi mesure-t-on le bonheur ?
    Le mesurer?
    ...
 
-#10 [36]Le 19/09/2009, à 20:10
+#10 Le 19/09/2009, à 20:10
 
    Mornagest
 
@@ -303,15 +303,15 @@ Re : À quoi mesure-t-on le bonheur ?
    Totalement inepte, comme mesure, en effet.
      __________________________________________________________________
 
-   [37]N'oubliez pas de consulter la documentation pour vous donner un
-   coup de main !
+   N'oubliez pas de consulter la documentation pour vous donner un coup de
+   main !
    Merci de modifier le premier message de votre sujet pour
    ajouter [Résolu] lorsque votre problème l'est :)
-   Xubuntu 20.04 sur deux ordinateurs, zéro souci. Passez à [38]Xubuntu ;)
+   Xubuntu 20.04 sur deux ordinateurs, zéro souci. Passez à Xubuntu ;)
 
    Hors ligne
 
-#11 [39]Le 19/09/2009, à 20:18
+#11 Le 19/09/2009, à 20:18
 
    Sir Na Kraïou
 
@@ -362,14 +362,14 @@ Re : À quoi mesure-t-on le bonheur ?
    malheureux.
      __________________________________________________________________
 
-   Descendant de [40]Charlemagne et de LUCA.
+   Descendant de Charlemagne et de LUCA.
    Bleu, en l'hommage d'un truc bleu. :'(
-   C'est pas du [41]bleu.
+   C'est pas du bleu.
    C'est pas le lac de Genève, c'est le Lac Léman.
 
    Hors ligne
 
-#12 [42]Le 19/09/2009, à 20:23
+#12 Le 19/09/2009, à 20:23
 
    compte supprimé
 
@@ -381,7 +381,7 @@ Re : À quoi mesure-t-on le bonheur ?
 
    Bah non (ou alors quand il était petit...)
 
-#13 [43]Le 19/09/2009, à 20:29
+#13 Le 19/09/2009, à 20:29
 
    inconnu
 
@@ -409,7 +409,7 @@ Re : À quoi mesure-t-on le bonheur ?
 
    Dernière modification par shlok (Le 19/09/2009, à 20:32)
 
-#14 [44]Le 19/09/2009, à 20:54
+#14 Le 19/09/2009, à 20:54
 
    timbolchevik
 
@@ -420,7 +420,7 @@ Re : À quoi mesure-t-on le bonheur ?
 
    Dernière modification par timbolchevik (Le 19/09/2009, à 20:57)
 
-#15 [45]Le 19/09/2009, à 21:02
+#15 Le 19/09/2009, à 21:02
 
    tibo_
 
@@ -465,13 +465,12 @@ Re : À quoi mesure-t-on le bonheur ?
    Dernière modification par tibo_ (Le 19/09/2009, à 21:04)
      __________________________________________________________________
 
-   Travailler MOINS pour gagner MOINS pour vivre MIEUX. | [46]CQFD
-   [47]http://rezo.net/ | Jetez votre télé c'est important pour votre
-   santé !
+   Travailler MOINS pour gagner MOINS pour vivre MIEUX. | CQFD
+   http://rezo.net/ | Jetez votre télé c'est important pour votre santé !
 
    Hors ligne
 
-#16 [48]Le 19/09/2009, à 21:07
+#16 Le 19/09/2009, à 21:07
 
    Dalai-Lama
 
@@ -483,7 +482,7 @@ Re : À quoi mesure-t-on le bonheur ?
 
    Hors ligne
 
-#17 [49]Le 19/09/2009, à 21:14
+#17 Le 19/09/2009, à 21:14
 
    inconnu
 
@@ -505,7 +504,7 @@ Re : À quoi mesure-t-on le bonheur ?
 
    Dernière modification par shlok (Le 19/09/2009, à 21:18)
 
-#18 [50]Le 19/09/2009, à 21:19
+#18 Le 19/09/2009, à 21:19
 
    Compte anonymisé
 
@@ -521,7 +520,7 @@ Re : À quoi mesure-t-on le bonheur ?
 
    Dernière modification par Checky (Le 19/09/2009, à 21:20)
 
-#19 [51]Le 19/09/2009, à 21:25
+#19 Le 19/09/2009, à 21:25
 
    Sir Na Kraïou
 
@@ -537,14 +536,14 @@ Re : À quoi mesure-t-on le bonheur ?
    tongue
      __________________________________________________________________
 
-   Descendant de [52]Charlemagne et de LUCA.
+   Descendant de Charlemagne et de LUCA.
    Bleu, en l'hommage d'un truc bleu. :'(
-   C'est pas du [53]bleu.
+   C'est pas du bleu.
    C'est pas le lac de Genève, c'est le Lac Léman.
 
    Hors ligne
 
-#20 [54]Le 19/09/2009, à 21:26
+#20 Le 19/09/2009, à 21:26
 
    Compte anonymisé
 
@@ -568,7 +567,7 @@ Re : À quoi mesure-t-on le bonheur ?
 
    wink
 
-#21 [55]Le 19/09/2009, à 21:36
+#21 Le 19/09/2009, à 21:36
 
    inconnu
 
@@ -584,7 +583,7 @@ Re : À quoi mesure-t-on le bonheur ?
    l'estime de soi ça se nourrit, c'est pas figé. Enfin c'est ce que
    disent les psys.
 
-#22 [56]Le 19/09/2009, à 21:38
+#22 Le 19/09/2009, à 21:38
 
    Sir Na Kraïou
 
@@ -613,14 +612,14 @@ Re : À quoi mesure-t-on le bonheur ?
    C'est quoi le rapport entre la quote et ta réponse ?
      __________________________________________________________________
 
-   Descendant de [57]Charlemagne et de LUCA.
+   Descendant de Charlemagne et de LUCA.
    Bleu, en l'hommage d'un truc bleu. :'(
-   C'est pas du [58]bleu.
+   C'est pas du bleu.
    C'est pas le lac de Genève, c'est le Lac Léman.
 
    Hors ligne
 
-#23 [59]Le 19/09/2009, à 21:42
+#23 Le 19/09/2009, à 21:42
 
    Compte anonymisé
 
@@ -641,7 +640,7 @@ Re : À quoi mesure-t-on le bonheur ?
 
    Dernière modification par Checky (Le 19/09/2009, à 21:43)
 
-#24 [60]Le 19/09/2009, à 21:45
+#24 Le 19/09/2009, à 21:45
 
    inconnu
 
@@ -676,7 +675,7 @@ Re : À quoi mesure-t-on le bonheur ?
    quand l'Etat cherchent à mesurer , oui c'est plutôt pour nous faire
    taire.
 
-#25 [61]Le 19/09/2009, à 22:38
+#25 Le 19/09/2009, à 22:38
 
    od
 
@@ -688,86 +687,15 @@ Re : À quoi mesure-t-on le bonheur ?
 
    Hors ligne
 
-   Pages : 1 [62]2 [63]Suivant
-     * [64]Forum
-     * » [65]Archives
-     * » [66]À quoi mesure-t-on le bonheur ?
+   Pages : 1 2 Suivant
+     * Forum
+     * » Archives
+     * » À quoi mesure-t-on le bonheur ?
 
 Pied de page des forums
 
    Atteindre
    [Archives______________________________________________] Aller
 
-   Propulsé par [67]FluxBB
-     * [68]Contact
-
-References
-
-   1. https://forum.ubuntu-fr.org/viewtopic.php?id=344571&p=2
-   2. https://forum.ubuntu-fr.org/viewtopic.php?id=344571#main
-   3. https://forum.ubuntu-fr.org/viewtopic.php?id=344571#qsearch__in
-   4. https://forum.ubuntu-fr.org/viewtopic.php?id=344571#navigation
-   5. http://www.ubuntu-fr.org/
-   6. https://forum.ubuntu-fr.org/register.php
-   7. http://www.ubuntu-fr.org/
-   8. http://doc.ubuntu-fr.org/
-   9. https://forum.ubuntu-fr.org/index.php
-  10. https://forum.ubuntu-fr.org/misc.php?action=rules
-  11. https://forum.ubuntu-fr.org/register.php
-  12. https://forum.ubuntu-fr.org/login.php
-  13. https://forum.ubuntu-fr.org/search.php?action=show_24h
-  14. https://forum.ubuntu-fr.org/search.php?action=show_unanswered
-  15. http://planet.ubuntu-fr.org/
-  16. https://forum.ubuntu-fr.org/login.php
-  17. https://doc.ubuntu-fr.org/groupes/ubuntu-fr-forum
-  18. http://www.ubuntu-fr.org/
-  19. https://forum.ubuntu-fr.org/index.php
-  20. https://forum.ubuntu-fr.org/viewforum.php?id=7
-  21. https://forum.ubuntu-fr.org/viewtopic.php?id=344571
-  22. https://forum.ubuntu-fr.org/viewtopic.php?id=344571&p=2
-  23. https://forum.ubuntu-fr.org/viewtopic.php?id=344571&p=2
-  24. https://forum.ubuntu-fr.org/viewtopic.php?pid=2932341#p2932341
-  25. http://www.lepoint.fr/actualites-economie/2009-09-14/commission-stiglitz-interview-comment-mesurer-le-bonheur-avec-des-criteres-economiques/916/0/377085
-  26. https://forum.ubuntu-fr.org/viewtopic.php?pid=2932345#p2932345
-  27. https://forum.ubuntu-fr.org/viewtopic.php?pid=2932356#p2932356
-  28. https://forum.ubuntu-fr.org/viewtopic.php?pid=2932399#p2932399
-  29. https://forum.ubuntu-fr.org/viewtopic.php?pid=2933462#p2933462
-  30. https://forum.ubuntu-fr.org/viewtopic.php?pid=2933500#p2933500
-  31. https://youtu.be/wXAydbyKD_4
-  32. https://youtu.be/dnTzYXRUHBQ
-  33. https://forum.ubuntu-fr.org/viewtopic.php?pid=2933568#p2933568
-  34. https://forum.ubuntu-fr.org/viewtopic.php?pid=2933576#p2933576
-  35. https://forum.ubuntu-fr.org/viewtopic.php?pid=2933584#p2933584
-  36. https://forum.ubuntu-fr.org/viewtopic.php?pid=2933599#p2933599
-  37. https://doc.ubuntu-fr.org/
-  38. https://doc.ubuntu-fr.org/xubuntu
-  39. https://forum.ubuntu-fr.org/viewtopic.php?pid=2933609#p2933609
-  40. https://youtu.be/wXAydbyKD_4
-  41. https://youtu.be/dnTzYXRUHBQ
-  42. https://forum.ubuntu-fr.org/viewtopic.php?pid=2933619#p2933619
-  43. https://forum.ubuntu-fr.org/viewtopic.php?pid=2933640#p2933640
-  44. https://forum.ubuntu-fr.org/viewtopic.php?pid=2933705#p2933705
-  45. https://forum.ubuntu-fr.org/viewtopic.php?pid=2933732#p2933732
-  46. http://www.cqfd-journal.org/
-  47. http://rezo.net/
-  48. https://forum.ubuntu-fr.org/viewtopic.php?pid=2933742#p2933742
-  49. https://forum.ubuntu-fr.org/viewtopic.php?pid=2933757#p2933757
-  50. https://forum.ubuntu-fr.org/viewtopic.php?pid=2933772#p2933772
-  51. https://forum.ubuntu-fr.org/viewtopic.php?pid=2933784#p2933784
-  52. https://youtu.be/wXAydbyKD_4
-  53. https://youtu.be/dnTzYXRUHBQ
-  54. https://forum.ubuntu-fr.org/viewtopic.php?pid=2933785#p2933785
-  55. https://forum.ubuntu-fr.org/viewtopic.php?pid=2933807#p2933807
-  56. https://forum.ubuntu-fr.org/viewtopic.php?pid=2933813#p2933813
-  57. https://youtu.be/wXAydbyKD_4
-  58. https://youtu.be/dnTzYXRUHBQ
-  59. https://forum.ubuntu-fr.org/viewtopic.php?pid=2933826#p2933826
-  60. https://forum.ubuntu-fr.org/viewtopic.php?pid=2933833#p2933833
-  61. https://forum.ubuntu-fr.org/viewtopic.php?pid=2933941#p2933941
-  62. https://forum.ubuntu-fr.org/viewtopic.php?id=344571&p=2
-  63. https://forum.ubuntu-fr.org/viewtopic.php?id=344571&p=2
-  64. https://forum.ubuntu-fr.org/index.php
-  65. https://forum.ubuntu-fr.org/viewforum.php?id=7
-  66. https://forum.ubuntu-fr.org/viewtopic.php?id=344571
-  67. http://fluxbb.org/
-  68. http://www.ubuntu-fr.org/contacts
+   Propulsé par FluxBB
+     * Contact

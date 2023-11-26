@@ -1,9 +1,8 @@
-   #[1]alternate [2]alternate [3]alternate [4]alternate [5]alternate
-   [6]alternate
+   #alternate alternate alternate alternate alternate alternate
 
-    1. [7]Página principal
-    2. [8]Orden del día
-    3. [9]Sesión 266— Cómo las TIC crean felicidad
+    1. Página principal
+    2. Orden del día
+    3. Sesión 266— Cómo las TIC crean felicidad
 
 Orden del día
 
@@ -19,8 +18,8 @@ Orden del día
    oficial en inglés. Puede que algunos contenidos (como imágenes, vídeos,
    archivos, etc.) no sean traducidos debido a las limitaciones técnicas
    del sistema.
-   [10]El Foro 2023 de la CMSI está previsto que se celebre del 13 al 17
-   de marzo de 2023 en la sede de la UIT en Ginebra, con el apoyo de la
+   El Foro 2023 de la CMSI está previsto que se celebre del 13 al 17 de
+   marzo de 2023 en la sede de la UIT en Ginebra, con el apoyo de la
    participación a distancia. Más información »
 
 Cómo las TIC crean felicidad
@@ -32,7 +31,7 @@ Sesión 266
 
    martes, 12 abril 2022 12:00–13:00 (UTC+02:00) Las TIC para el bienestar
    y la felicidad Taller temático
-   [11]Grabación de la sesión
+   Grabación de la sesión
 
    Si bien la felicidad tiene muchas definiciones diferentes, a menudo se
    describe como involucrando emociones positivas y satisfacción con la
@@ -236,35 +235,35 @@ Sesión 266
    Ms. Amy Bretherton
    Previous Next
 
-   [12]wsis forum 2022 Foro de la CMSI 2022 (BUTTON)
+   wsis forum 2022 Foro de la CMSI 2022 (BUTTON)
      __________________________________________________________________
 
-   [13]es
-   [14]العربية
-   [15]English
-   [16]Français
-   [17]Русский
-   [18]中文
+   es
+   العربية
+   English
+   Français
+   Русский
+   中文
      __________________________________________________________________
 
      *
-     * [19]Proceso de consulta abierta (OCP) Consultas abiertas OCP
-     * [20]Vía de Alto Nivel
-     * [21]Orden del día
-     * [22]CMSI TalkX
-     * [23]Aspectos destacados y resultados
+     * Proceso de consulta abierta (OCP) Consultas abiertas OCP
+     * Vía de Alto Nivel
+     * Orden del día
+     * CMSI TalkX
+     * Aspectos destacados y resultados
 
-     * [24]العربية
+     * العربية
      * |
-     * [25]English
+     * English
      * |
-     * [26]Español
+     * Español
      * |
-     * [27]Français
+     * Français
      * |
-     * [28]Русский
+     * Русский
      * |
-     * [29]中文
+     * 中文
      __________________________________________________________________
      __________________________________________________________________
 
@@ -272,60 +271,11 @@ Foro de la CMSI 2022 | TIC para el bienestar, la inclusión y la resiliencia:
 Cooperación de la CMSI para acelerar el progreso de los ODS.
      __________________________________________________________________
 
-   [30]wsis y ods
-   [31]Cumbre Mundial sobre la Sociedad de la Información
-   [32]Logotipo de la UIT
-   [33]Logotipo de la UNESCO
-   [34]Logotipo de la UNCTAD
-   [35]Logotipo del PNUD
-   [36]Iniciar sesión
+   wsis y ods
+   Cumbre Mundial sobre la Sociedad de la Información
+   Logotipo de la UIT
+   Logotipo de la UNESCO
+   Logotipo de la UNCTAD
+   Logotipo del PNUD
+   Iniciar sesión
      __________________________________________________________________
-
-References
-
-   Visible links:
-   1. https://www.itu.int/net4/wsis/forum/2022/en/Agenda/Session/266
-   2. https://www.itu.int/net4/wsis/forum/2022/fr/Agenda/Session/266
-   3. https://www.itu.int/net4/wsis/forum/2022/es/Agenda/Session/266
-   4. https://www.itu.int/net4/wsis/forum/2022/ru/Agenda/Session/266
-   5. https://www.itu.int/net4/wsis/forum/2022/ar/Agenda/Session/266
-   6. https://www.itu.int/net4/wsis/forum/2022/zh/Agenda/Session/266
-   7. https://www.itu.int/net4/wsis/forum/2022/es
-   8. https://www.itu.int/net4/wsis/forum/2022/es/Agenda
-   9. https://www.itu.int/net4/wsis/forum/2022/es/Agenda/Session/266
-  10. https://www.itu.int/net4/wsis/forum/2023/es
-  11. https://itu.zoom.us/rec/share/2DL3nT36iDXmaOPA5LyUTohf16tLb7LjY5IrfoCY6oARcjlc_UIsvcYjfW_QTf3O.RjTQ8cgKIvIQqYaw
-  12. https://www.itu.int/net4/wsis/forum/2022/es
-  13. https://www.itu.int/net4/wsis/forum/2022/es/Agenda/Session/266
-  14. https://www.itu.int/net4/wsis/forum/2022/es/Home/SetLanguage?langtag=ar&returnUrl=/net4/wsis/forum/2022/es/Agenda/Session/266
-  15. https://www.itu.int/net4/wsis/forum/2022/es/Home/SetLanguage?langtag=en&returnUrl=/net4/wsis/forum/2022/es/Agenda/Session/266
-  16. https://www.itu.int/net4/wsis/forum/2022/es/Home/SetLanguage?langtag=fr&returnUrl=/net4/wsis/forum/2022/es/Agenda/Session/266
-  17. https://www.itu.int/net4/wsis/forum/2022/es/Home/SetLanguage?langtag=ru&returnUrl=/net4/wsis/forum/2022/es/Agenda/Session/266
-  18. https://www.itu.int/net4/wsis/forum/2022/es/Home/SetLanguage?langtag=zh&returnUrl=/net4/wsis/forum/2022/es/Agenda/Session/266
-  19. https://www.itu.int/net4/wsis/forum/2022/es/Home/Consultations
-  20. https://www.itu.int/net4/wsis/forum/2022/es/HighLevel
-  21. https://www.itu.int/net4/wsis/forum/2022/es/Agenda
-  22. https://www.itu.int/net4/wsis/forum/2022/es/Home/WSISTalkX
-  23. https://www.itu.int/net4/wsis/forum/2022/es/Home/Outcomes
-  24. https://www.itu.int/net4/wsis/forum/2022/es/Home/SetLanguage?langtag=ar&returnUrl=/net4/wsis/forum/2022/es/Agenda/Session/266
-  25. https://www.itu.int/net4/wsis/forum/2022/es/Home/SetLanguage?langtag=en&returnUrl=/net4/wsis/forum/2022/es/Agenda/Session/266
-  26. https://www.itu.int/net4/wsis/forum/2022/es/Home/SetLanguage?langtag=es&returnUrl=/net4/wsis/forum/2022/es/Agenda/Session/266
-  27. https://www.itu.int/net4/wsis/forum/2022/es/Home/SetLanguage?langtag=fr&returnUrl=/net4/wsis/forum/2022/es/Agenda/Session/266
-  28. https://www.itu.int/net4/wsis/forum/2022/es/Home/SetLanguage?langtag=ru&returnUrl=/net4/wsis/forum/2022/es/Agenda/Session/266
-  29. https://www.itu.int/net4/wsis/forum/2022/es/Home/SetLanguage?langtag=zh&returnUrl=/net4/wsis/forum/2022/es/Agenda/Session/266
-  30. http://www.wsis.org/
-  31. https://www.itu.int/wsis/index.html
-  32. https://www.itu.int/es
-  33. https://es.unesco.org/
-  34. https://unctad.org/
-  35. http://www.undp.org/
-  36. https://www.itu.int/net4/wsis/forum/2022/es/Account/Login?ReturnUrl=/net4/wsis/forum/2022/es/Agenda/Session/266
-
-   Hidden links:
-  38. https://www.itu.int/es/net4/wsis/stocktaking/Flash/Newsletter
-  39. https://www.facebook.com/WSISprocess/
-  40. https://twitter.com/WSISprocess
-  41. https://www.linkedin.com/groups/2383327/
-  42. https://www.youtube.com/user/WSISProcess
-  43. https://www.instagram.com/wsis_process/
-  44. mailto:wsis-info@itu.int

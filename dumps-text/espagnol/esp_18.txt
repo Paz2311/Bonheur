@@ -1,11 +1,11 @@
-   IFRAME: [1]https://www.googletagmanager.com/ns.html?id=GTM-TM58DZK
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-TM58DZK
 
-   [2]Menu
-   [3]Expat.com
+   Menu
+   Expat.com
 
-   [4]España
+   España
    ____________________
-   [5]Ver todos los destinos
+   Ver todos los destinos
 
    ____________________ (BUTTON)
      * Conectarse
@@ -13,32 +13,32 @@
 
      *
      * Descubrir
-          + [6]España
-          + [7]La guía de España
-          + [8]La revista
-          + [9]Todos los destinos
+          + España
+          + La guía de España
+          + La revista
+          + Todos los destinos
      * Comunidad
-          + [10]Eventos
-          + [11]Miembros
-          + [12]Fotos
+          + Eventos
+          + Miembros
+          + Fotos
      * Servicios
-          + [13]Seguros de salud
-          + [14]Empresas de mudanzas
-          + [15]Servicios bancarios
-          + [16]Todos los servicios
-     * [17]Directorio profesional
-     * [18]Anuncios
-     * [19]Empleo
-     * [20]Inmobiliaria
-     * [21]Foro
+          + Seguros de salud
+          + Empresas de mudanzas
+          + Servicios bancarios
+          + Todos los servicios
+     * Directorio profesional
+     * Anuncios
+     * Empleo
+     * Inmobiliaria
+     * Foro
 
-     * [22]Home
+     * Home
 
-     [23]Foro
+     Foro
 
-     [24]Europa
+     Europa
 
-     [25]España
+     España
 
      ¿Eres feliz en España?
 
@@ -53,11 +53,11 @@
    Julien Julien
    Julien
    13 Octubre 2016 12:10:12
-   52246
+   52247
    Julien
    13 Octubre 2016 12:10:12
    #1
-   52246
+   52247
    Grand Baie
 
    ¡Hola a todos!
@@ -827,7 +827,7 @@
    jajajajajaja
    Moderado por Romina hace 7 años
    Motivo : Favor de no utilizar palabras despectivas
-   Te invitamos a leer el [26]código de conducta del foro
+   Te invitamos a leer el código de conducta del foro
    Me gusta
    1
    (BUTTON) Responder
@@ -1063,92 +1063,91 @@
 
 Más temas en el foro España
 
-   [27]Los vecinos en España
-   [28]Adaptarse al ritmo de vida y horarios en España
-   [29]Soy Argentino y YA LLEVO UN AÑO VIVIENDO EN ESPAÑA!!!!
-   [30]La situación post-covid en España
-   [31]Tu mejor recuerdo gastronómico en España.
-   [32]ME QUIERO IR A VIVIR A ESPAÑA SOY ARGENTINO!!
-   [33]Argentinos en España, ¿es difícil acostumbrase a la vida allí?
-   [34]Ayuda! Soy Argentina y quiero vivir en España
-   [35]Relaciones de parejas entre Españoles y Latinas
-   [36]VIVIR EN GIJÓN, ASTURIAS
-   [37]Vivir en España sin ciudadania
-   [38]Lo que deberías saber antes de vivir en España
-   [39]Las mejores ciudades para vivir en España
-   [40]5 buenas razones para vivir en España
-   [41]Tenerife o Valencia para vivir ?
-   [42]De Argentina a España
-   [43]Málaga o Palma de Mallorca? Cuál es la mejor para vivir?
-   [44]Olvidarse de España
-   [45]Más discusiones sobre la vida de cada día en España Participa
+   Los vecinos en España
+   Adaptarse al ritmo de vida y horarios en España
+   Soy Argentino y YA LLEVO UN AÑO VIVIENDO EN ESPAÑA!!!!
+   La situación post-covid en España
+   ME QUIERO IR A VIVIR A ESPAÑA SOY ARGENTINO!!
+   Argentinos en España, ¿es difícil acostumbrase a la vida allí?
+   Ayuda! Soy Argentina y quiero vivir en España
+   Relaciones de parejas entre Españoles y Latinas
+   VIVIR EN GIJÓN, ASTURIAS
+   Vivir en España sin ciudadania
+   Lo que deberías saber antes de vivir en España
+   Las mejores ciudades para vivir en España
+   5 buenas razones para vivir en España
+   Tenerife o Valencia para vivir ?
+   De Argentina a España
+   Málaga o Palma de Mallorca? Cuál es la mejor para vivir?
+   Olvidarse de España
+   Vuestros 5 mejores consejos para vivir en España
+   Más discusiones sobre la vida de cada día en España Participa
 
 Artículos para ayudarte en tu proyecto de expatriación en España
 
-   [46]Qué ver y hacer en España
-   [47]Qué ver y hacer en España
+   Qué ver y hacer en España
+   Qué ver y hacer en España
 
    España es uno de los países más soleados de Europa, un hermoso lugar
    donde se encuentran ...
-   [48]Gastronomía en Madrid [49]Gastronomía en Madrid
+   Gastronomía en Madrid Gastronomía en Madrid
 
    Madrid, al ser una ciudad verdaderamente global, satisface las diversas
    papilas gustativas de los expatriados con ...
-   [50]Hacer deporte al aire libre en Barcelona
-   [51]Hacer deporte al aire libre en Barcelona
+   Hacer deporte al aire libre en Barcelona
+   Hacer deporte al aire libre en Barcelona
 
    Barcelona ofrece numerosas opciones de actividades al aire libre. Si no
    sabes qué hacer en tu tiempo libre ...
-   [52]Cosas que hacer gratis en Barcelona
-   [53]Cosas que hacer gratis en Barcelona
+   Cosas que hacer gratis en Barcelona
+   Cosas que hacer gratis en Barcelona
 
    Barcelona, más allá de ser una joya por su exquisita gastronomía, sus
    playas doradas y su ...
-   [54]El deporte en España
-   [55]El deporte en España
+   El deporte en España
+   El deporte en España
 
    En España hay deportes para todos los atletas y aficionados, desde el
    fútbol, pasando por el ...
-   [56]Las mejores excursiones desde Barcelona
-   [57]Las mejores excursiones desde Barcelona
+   Las mejores excursiones desde Barcelona
+   Las mejores excursiones desde Barcelona
 
    En los alrededores de Barcelona, se despliegan hermosas playas,
    antiguos pueblos pesqueros y ciudades medievales ...
-   [58]Todos los artículos de la guía de España
+   Todos los artículos de la guía de España
 
-   [59]Seguros médicos en España
-   [60]Presupuestos y consejos para elegir la mejor cobertura médica en
+   Seguros médicos en España
+   Presupuestos y consejos para elegir la mejor cobertura médica en
    España.
-   [61]Empresas de mudanzas en España
-   [62]Los mejores especialista en mudanzas internacionales en España.
-   Abrir una [63]cuenta bancaria en España
-   [64]Los mejores bancos para sus necesidades en España.
-   [65]Tramitación de visados en España
-   [66]Las agencias más fiables para tramitar un visa en España.
+   Empresas de mudanzas en España
+   Los mejores especialista en mudanzas internacionales en España.
+   Abrir una cuenta bancaria en España
+   Los mejores bancos para sus necesidades en España.
+   Tramitación de visados en España
+   Las agencias más fiables para tramitar un visa en España.
 
 Acerca
 
-     * [67]Contacto
-     * [68]Publicidad
-     * [69]Quiénes somos
-     * [70]Colaboración
+     * Contacto
+     * Publicidad
+     * Quiénes somos
+     * Colaboración
 
 Saber más
 
-     * [71]FAQ
+     * FAQ
 
 Síguenos
 
-   © 2023 Expat.com, All rights Reserved [72]Condiciones de Uso [73]Mapa
-   del sitio
+   © 2023 Expat.com, All rights Reserved Condiciones de Uso Mapa del sitio
 
    Español
-     * [74]English
-     * [75]Français
-     * [76]Italiano
-     * [77]Português
+     * English
+     * Français
+     * Italiano
+     * Português
 
-   [78]Expat.com
+   Expat.com
 
    ×
    Conectarse
@@ -1162,7 +1161,7 @@ Síguenos
      __________________________________________________________________
 
    (BUTTON) facebook-logo Facebook (BUTTON) google-logo Google
-   ¿Todavía no tiene una cuenta? [79]Inscribirse
+   ¿Todavía no tiene una cuenta? Inscribirse
 
 contraseña olvidada
 
@@ -1186,7 +1185,7 @@ contraseña olvidada
      __________________________________________________________________
 
    (BUTTON) facebook-logo Facebook (BUTTON) google-logo Google
-   ¿Ya eres miembro? [80]Conéctate
+   ¿Ya eres miembro? Conéctate
    crear una cuenta gratis
    Lastima, estaba a punto de completarse la inscripción
    expat.com
@@ -1198,100 +1197,3 @@ contraseña olvidada
    (BUTTON)
 
    (BUTTON) (BUTTON)
-
-References
-
-   Visible links:
-   1. https://www.googletagmanager.com/ns.html?id=GTM-TM58DZK
-   2. javascript:;
-   3. https://www.expat.com/es/
-   4. javascript:;
-   5. https://www.expat.com/es/destinaciones/
-   6. https://www.expat.com/es/destinacion/europa/espana/
-   7. https://www.expat.com/es/guia/europa/espana/
-   8. https://www.expat.com/es/expat-mag/
-   9. https://www.expat.com/es/destinacion/
-  10. https://www.expat.com/es/eventos/europa/espana/
-  11. https://www.expat.com/es/red/europa/espana/
-  12. https://www.expat.com/es/fotos/europa/espana/
-  13. https://www.expat.com/es/seguros/europa/espana/
-  14. https://www.expat.com/es/mudanza/europa/espana/
-  15. https://www.expat.com/es/banco/europa/espana/
-  16. https://www.expat.com/es/servicios/europa/espana/
-  17. https://www.expat.com/es/empresas/europa/espana/
-  18. https://www.expat.com/es/clasificados/europa/espana/
-  19. https://www.expat.com/es/empleo/europa/espana/
-  20. https://www.expat.com/es/inmobiliaria/europa/espana/
-  21. https://www.expat.com/forum/viewforum.php?id=2290
-  22. https://www.expat.com/es/
-  23. https://www.expat.com/es/forum/
-  24. https://www.expat.com/forum/viewforum.php?id=2000
-  25. https://www.expat.com/forum/viewforum.php?id=2290
-  26. https://www.expat.com/forum/viewtopic.php?id=196032
-  27. https://www.expat.com/forum/viewtopic.php?id=1048462
-  28. https://www.expat.com/forum/viewtopic.php?id=1040804
-  29. https://www.expat.com/forum/viewtopic.php?id=659033
-  30. https://www.expat.com/forum/viewtopic.php?id=1023548
-  31. https://www.expat.com/forum/viewtopic.php?id=1008801
-  32. https://www.expat.com/forum/viewtopic.php?id=340653
-  33. https://www.expat.com/forum/viewtopic.php?id=918976
-  34. https://www.expat.com/forum/viewtopic.php?id=803205
-  35. https://www.expat.com/forum/viewtopic.php?id=724010
-  36. https://www.expat.com/forum/viewtopic.php?id=464007
-  37. https://www.expat.com/forum/viewtopic.php?id=590960
-  38. https://www.expat.com/forum/viewtopic.php?id=705841
-  39. https://www.expat.com/forum/viewtopic.php?id=558802
-  40. https://www.expat.com/forum/viewtopic.php?id=196809
-  41. https://www.expat.com/forum/viewtopic.php?id=709683
-  42. https://www.expat.com/forum/viewtopic.php?id=611285
-  43. https://www.expat.com/forum/viewtopic.php?id=614858
-  44. https://www.expat.com/forum/viewtopic.php?id=298888
-  45. https://www.expat.com/forum/2290-1-vida-de-cada-dia-en-espaa.html
-  46. https://www.expat.com/es/guia/europa/espana/16923-actividades-de-ocio-en-espana.html
-  47. https://www.expat.com/es/guia/europa/espana/16923-actividades-de-ocio-en-espana.html
-  48. https://www.expat.com/es/guia/europa/espana/madrid/35813-gastronomia-en-madrid.html
-  49. https://www.expat.com/es/guia/europa/espana/madrid/35813-gastronomia-en-madrid.html
-  50. https://www.expat.com/es/guia/europa/espana/barcelona/20166-hacer-deporte-al-aire-libre-en-barcelona.html
-  51. https://www.expat.com/es/guia/europa/espana/barcelona/20166-hacer-deporte-al-aire-libre-en-barcelona.html
-  52. https://www.expat.com/es/guia/europa/espana/20164-cosas-que-hacer-gratis-en-barcelona.html
-  53. https://www.expat.com/es/guia/europa/espana/20164-cosas-que-hacer-gratis-en-barcelona.html
-  54. https://www.expat.com/es/guia/europa/espana/16922-deportes-en-espana.html
-  55. https://www.expat.com/es/guia/europa/espana/16922-deportes-en-espana.html
-  56. https://www.expat.com/es/guia/europa/espana/20165-las-mejores-excursiones-desde-barcelona.html
-  57. https://www.expat.com/es/guia/europa/espana/20165-las-mejores-excursiones-desde-barcelona.html
-  58. https://www.expat.com/es/guia/europa/espana/
-  59. https://www.expat.com/es/seguros/europa/espana/
-  60. https://www.expat.com/es/seguros/europa/espana/
-  61. https://www.expat.com/es/mudanza/europa/espana/
-  62. https://www.expat.com/es/mudanza/europa/espana/
-  63. https://www.expat.com/es/banco/europa/espana/
-  64. https://www.expat.com/es/banco/europa/espana/
-  65. https://www.expat.com/es/visado/europa/espana/
-  66. https://www.expat.com/es/visado/europa/espana/
-  67. https://www.expat.com/es/contact.html
-  68. https://www.expat.com/es/publicidad.html
-  69. https://www.expat.com/es/about.html
-  70. https://www.expat.com/es/colaboracion.html
-  71. https://www.expat.com/es/faq.html
-  72. https://www.expat.com/es/condiciones.html
-  73. https://www.expat.com/es/mapa.html
-  74. https://www.expat.com/forum/viewforum.php?id=371
-  75. https://www.expat.com/forum/viewforum.php?id=4299
-  76. https://www.expat.com/forum/viewforum.php?id=6290
-  77. https://www.expat.com/forum/viewforum.php?id=8290
-  78. https://www.expat.com/es/
-  79. https://www.expat.com/es/register/
-  80. https://www.expat.com/es/login/
-
-   Hidden links:
-  82. javascript:;
-  83. https://www.expat.com/es/
-  84. https://www.expat.com/es/seguros/europa/espana/
-  85. https://www.expat.com/es/mudanza/europa/espana/
-  86. https://www.expat.com/es/banco/europa/espana/
-  87. https://www.expat.com/es/visado/europa/espana/
-  88. https://www.facebook.com/expat.blog
-  89. https://www.linkedin.com/company/expat-blog/
-  90. https://twitter.com/expat_blog
-  91. https://www.youtube.com/channel/UCsqZrhD9khWt2jE-mPOAA0g?view_as=subscriber
-  92. https://www.instagram.com/expat_com/?hl=en

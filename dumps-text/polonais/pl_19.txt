@@ -1,54 +1,54 @@
-   IFRAME: [1]https://www.googletagmanager.com/ns.html?id=GTM-TBHG6J
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-TBHG6J
 
-   (BUTTON) [2]4programmers.net
-     * [3]Forum
+   (BUTTON) 4programmers.net
+     * Forum
        Programowanie - języki i technologie
-          + [4]C/C++
-          + [5]C# i .NET
-          + [6]Java
-          + [7]Python
-          + [8]PHP
-          + [9]JavaScript
-          + [10]Webmastering
-          + [11]Mobilne
-          + [12]Delphi i Pascal
-          + [13]Inne języki programowania
-          + [14]Embedded
-          + [15]Gamedev
+          + C/C++
+          + C# i .NET
+          + Java
+          + Python
+          + PHP
+          + JavaScript
+          + Webmastering
+          + Mobilne
+          + Delphi i Pascal
+          + Inne języki programowania
+          + Embedded
+          + Gamedev
        IT
-          + [16]Bazy danych
-          + [17]Dev/ops
-          + [18]Algorytmy i struktury danych
-          + [19]Inżynieria oprogramowania
-          + [20]Nietuzinkowe tematy
-          + [21]Oceny i recenzje
-          + [22]Hardware/Software
+          + Bazy danych
+          + Dev/ops
+          + Algorytmy i struktury danych
+          + Inżynieria oprogramowania
+          + Nietuzinkowe tematy
+          + Oceny i recenzje
+          + Hardware/Software
        Rozwój zawodowy
-          + [23]Edukacja
-          + [24]Kariera
-          + [25]Szkolenia i konferencje
-          + [26]Magazyn Programista
+          + Edukacja
+          + Kariera
+          + Szkolenia i konferencje
+          + Magazyn Programista
        Inne
-          + [27]Off-Topic
-          + [28]Społeczność
-          + [29]Flame
-          + [30]Ogłoszenia drobne
-          + [31]Coyote
+          + Off-Topic
+          + Społeczność
+          + Flame
+          + Ogłoszenia drobne
+          + Coyote
        Działy zamknięte
-          + [32]Archiwum
-          + [33]Kosz
-     * [34]Mikroblogi
-     * [35]Praca
-     * [36]Kompendium
-       [37]Delphi [38]C/C++ [39]C# [40]Python [41]Java [42]Turbo Pascal
-       [43]Z pogranicza [44]Assembler [45]Algorytmy [46](X)HTML [47]CSS
+          + Archiwum
+          + Kosz
+     * Mikroblogi
+     * Praca
+     * Kompendium
+       Delphi C/C++ C# Python Java Turbo Pascal Z pogranicza Assembler
+       Algorytmy (X)HTML CSS
 
-   [48]Utwórz konto [49]Logowanie
+   Utwórz konto Logowanie
 
-     * [50]4programmers.net
-     * [51]Forum
-     * [52]Off-Topic
-     * [53]Czy praca w IT daje szczęście
+     * 4programmers.net
+     * Forum
+     * Off-Topic
+     * Czy praca w IT daje szczęście
 
    4programmers.net works best with JavaScript enabled!
 
@@ -231,7 +231,7 @@ Czy praca w IT daje szczęście
 
    czy praca nauczyciela daje szczęście?
 
-   IFRAME: [54]https://youtube.com/embed/u3SMQo59XlQ
+   IFRAME: https://youtube.com/embed/u3SMQo59XlQ
 
    (BUTTON) Obserwuj (BUTTON) Udostępnij (BUTTON) Komentuj
 
@@ -291,7 +291,7 @@ Czy praca w IT daje szczęście
 
    0
 
-[55]somekind napisał(a):
+somekind napisał(a):
 
      A ci, co do psychologów nie chodzą, to generalnie powinni, bo
      większość zachowuje się co najmniej socjopatycznie. :P
@@ -324,7 +324,7 @@ Czy praca w IT daje szczęście
    w tygodniu jest meczace. Nie ma tej zabawy co we wlasnych projektach.
 
    Tu jest fajny watek ktory ktos na mikrobloga wrzucil:
-   [56]https://news.ycombinator.com/item?id=31724942
+   https://news.ycombinator.com/item?id=31724942
    (BUTTON) Obserwuj (BUTTON) Udostępnij (BUTTON) Komentuj
 
    5
@@ -352,7 +352,7 @@ Czy praca w IT daje szczęście
 
    6
 
-[57]DamianITK napisał(a):
+DamianITK napisał(a):
 
      No ale mimo wszystko, żeby tym programistą zostać, trzeba włożyć w
      to masę pracy, być wytrwałym i uczyć się latami - czyli trzeba to
@@ -394,7 +394,7 @@ Czy praca w IT daje szczęście
 
    4
 
-[58]DamianITK napisał(a):
+DamianITK napisał(a):
 
      Dużo naczytałem się już, jak to zaawansowani pracownicy IT z tego
      oto forum narzekają na stres, wypalenie, wyścig szczurów, dużą
@@ -457,7 +457,7 @@ Czy praca w IT daje szczęście
    wstrząsu anafilaktycznego bo to było pierwsze przypadkowe użądlenie. W
    tej sytuacji szczęście zamienia się w dramat i horror.
 
-   Czy [59]@DamianITK uważasz, że szczęście to jest dobra emocja, za którą
+   Czy @DamianITK uważasz, że szczęście to jest dobra emocja, za którą
    powinniśmy gonić? Wydaje mi się, że chyba źle jest postawione pytanie.
    Szczęście po prostu bywa, jak mały słodki kotek, który wpadnie Ci pod
    nogi - jak jest to przeżyj, pogłaszcz, jak nie ma, to żyjemy dalej.
@@ -467,7 +467,7 @@ Czy praca w IT daje szczęście
 
 1 użytkowników online, w tym zalogowanych: 0, gości: 1
 
-     * [60]Zakończ obserwację Obserwuj wątek
+     * Zakończ obserwację Obserwuj wątek
 
 Moje tagi
 
@@ -475,206 +475,78 @@ Moje tagi
    Zapisz
      * ${ tag.name }× ${ tag.topics }
 
-   [61](Brak tagów. Kliknij, aby dodać)
+   (Brak tagów. Kliknij, aby dodać)
 
 Popularne tagi
 
-     * [62]c++× 21603
-     * [63]java× 16425
-     * [64]c#× 16159
-     * [65]php× 7631
-     * [66]c× 7541
-     * [67]delphi× 5350
-     * [68]javascript× 4462
-     * [69]sql× 3744
-     * [70]python× 3172
-     * [71]mysql× 2961
+     * c++× 21605
+     * java× 16429
+     * c#× 16166
+     * php× 7632
+     * c× 7543
+     * delphi× 5350
+     * javascript× 4463
+     * sql× 3744
+     * python× 3175
+     * mysql× 2961
 
 Strony pokrewne
 
-     * [72]Czy praca w innym języku programowania coś daje? 2018-03-19
-       11:45
-     * [73]Jak osiągnąć szczęście? 2018-05-08 22:26
-     * [74]Czy taką funkcjonalność daje tablica? 2019-10-25 11:28
-     * [75]Czy bycie w samorządzie wydziału daje duże korzyści? 2017-09-29
+     * Czy praca w innym języku programowania coś daje? 2018-03-19 11:45
+     * Jak osiągnąć szczęście? 2018-05-08 22:26
+     * Czy taką funkcjonalność daje tablica? 2019-10-25 11:28
+     * Czy bycie w samorządzie wydziału daje duże korzyści? 2017-09-29
        19:10
-     * [76]Czy praca w korpo was zmieniła? 2019-11-22 00:03
-     * [77]Czy bedzie praca w Rust? 2020-07-16 19:08
-     * [78]Czy praca w domu was zmieniła? 2019-11-26 14:56
-     * [79]Czy dostępny w sieci darmowy serwis coś daje w szukaniu pracy?
+     * Czy praca w korpo was zmieniła? 2019-11-22 00:03
+     * Czy bedzie praca w Rust? 2020-07-16 19:08
+     * Czy praca w domu was zmieniła? 2019-11-26 14:56
+     * Czy dostępny w sieci darmowy serwis coś daje w szukaniu pracy?
        2019-05-12 12:47
-     * [80]Co daje std? 2011-02-24 20:16
-     * [81]Praca w Spring czy w NET Core? 2017-12-06 16:15
+     * Co daje std? 2011-02-24 20:16
+     * Praca w Spring czy w NET Core? 2017-12-06 16:15
 
-     * [82]4programmers.net
-     * [83]Forum
-     * [84]Off-Topic
-     * [85]Czy praca w IT daje szczęście
+     * 4programmers.net
+     * Forum
+     * Off-Topic
+     * Czy praca w IT daje szczęście
 
-     * [86]Praca dla programistów
-     * [87]Praca JavaScript
-     * [88]Praca Java
-     * [89]Praca C#
-     * [90]Praca PHP
-     * [91]Praca Python
-     * [92]Praca C++
+     * Praca dla programistów
+     * Praca JavaScript
+     * Praca Java
+     * Praca C#
+     * Praca PHP
+     * Praca Python
+     * Praca C++
 
-     * [93]Forum dyskusyjne
-     * [94]Python
-     * [95]Java
-     * [96]C/C++
-     * [97]C# i .NET
-     * [98]Kariera
-     * [99]Edukacja
+     * Forum dyskusyjne
+     * Python
+     * Java
+     * C/C++
+     * C# i .NET
+     * Kariera
+     * Edukacja
 
      * Sprawy administracyjne
-     * [100]Zgłoś błąd w oprogramowaniu
-     * [101]API 4programmers.net
-     * [102]Blog 4programmers.net
-     * [103]Prawa autorskie
-     * [104]Nasze logo
-     * [105]Coyote
+     * Zgłoś błąd w oprogramowaniu
+     * API 4programmers.net
+     * Blog 4programmers.net
+     * Prawa autorskie
+     * Nasze logo
+     * Coyote
 
      * O nas
-     * [106]Kontakt
-     * [107]Regulamin
-     * [108]Polityka prywatności
-     * [109]Reklama
-     * [110]Pomoc
-     * [111]Patronat
+     * Kontakt
+     * Regulamin
+     * Polityka prywatności
+     * Reklama
+     * Pomoc
+     * Patronat
 
 Skontaktuj się z nami
 
-    1. [112]Napisz do nas
-    2. [113]Odwiedź nas na Facebooku
+    1. Napisz do nas
+    2. Odwiedź nas na Facebooku
 
-   Copyright © 2000-2023 [114]4programmers.net - programowanie i tworzenie
+   Copyright © 2000-2023 4programmers.net - programowanie i tworzenie
    stron WWW
-   Coyote 2.5: 141 ms
-
-References
-
-   Visible links:
-   1. https://www.googletagmanager.com/ns.html?id=GTM-TBHG6J
-   2. https://4programmers.net/
-   3. https://4programmers.net/Forum
-   4. https://4programmers.net/Forum/C_i_C++
-   5. https://4programmers.net/Forum/C_i_.NET
-   6. https://4programmers.net/Forum/Java
-   7. https://4programmers.net/Forum/Python
-   8. https://4programmers.net/Forum/PHP
-   9. https://4programmers.net/Forum/JavaScript
-  10. https://4programmers.net/Forum/Webmastering
-  11. https://4programmers.net/Forum/Mobilne
-  12. https://4programmers.net/Forum/Delphi_Pascal
-  13. https://4programmers.net/Forum/Inne
-  14. https://4programmers.net/Forum/Embedded
-  15. https://4programmers.net/Forum/Gamedev
-  16. https://4programmers.net/Forum/Bazy_danych
-  17. https://4programmers.net/Forum/Devops
-  18. https://4programmers.net/Forum/Algorytmy
-  19. https://4programmers.net/Forum/Inzynieria_oprogramowania
-  20. https://4programmers.net/Forum/Nietuzinkowe_tematy
-  21. https://4programmers.net/Forum/Oceny_i_recenzje
-  22. https://4programmers.net/Forum/Hardware_Software
-  23. https://4programmers.net/Forum/Edukacja
-  24. https://4programmers.net/Forum/Kariera
-  25. https://4programmers.net/Forum/Szkolenia_i_konferencje
-  26. https://4programmers.net/Forum/Magazyn_Programista
-  27. https://4programmers.net/Forum/Off-Topic
-  28. https://4programmers.net/Forum/Spolecznosc
-  29. https://4programmers.net/Forum/Flame
-  30. https://4programmers.net/Forum/Ogłoszenia_drobne
-  31. https://4programmers.net/Forum/Coyote
-  32. https://4programmers.net/Forum/Archiwum
-  33. https://4programmers.net/Forum/Kosz
-  34. https://4programmers.net/Mikroblogi
-  35. https://4programmers.net/Praca
-  36. https://4programmers.net/Kategorie
-  37. https://4programmers.net/Delphi
-  38. https://4programmers.net/C
-  39. https://4programmers.net/C_sharp
-  40. https://4programmers.net/Python
-  41. https://4programmers.net/Java
-  42. https://4programmers.net/Turbo_Pascal
-  43. https://4programmers.net/Z_pogranicza
-  44. https://4programmers.net/Assembler
-  45. https://4programmers.net/Algorytmy
-  46. https://4programmers.net/(X)HTML
-  47. https://4programmers.net/CSS
-  48. https://4programmers.net/Register
-  49. https://4programmers.net/Login
-  50. https://4programmers.net/
-  51. https://4programmers.net/Forum
-  52. https://4programmers.net/Forum/Off-Topic
-  53. https://4programmers.net/Forum/Off-Topic/361717-czy_praca_w_it_daje_szczescie
-  54. https://youtube.com/embed/u3SMQo59XlQ
-  55. https://4programmers.net/Forum/1851635
-  56. https://news.ycombinator.com/item?id=31724942
-  57. https://4programmers.net/Forum/1851469
-  58. https://4programmers.net/Forum/1851469
-  59. https://4programmers.net/Profile/118121
-  60. javascript:/
-  61. javascript:/
-  62. https://4programmers.net/Forum/Tag/c++
-  63. https://4programmers.net/Forum/Tag/java
-  64. https://4programmers.net/Forum/Tag/c#
-  65. https://4programmers.net/Forum/Tag/php
-  66. https://4programmers.net/Forum/Tag/c
-  67. https://4programmers.net/Forum/Tag/delphi
-  68. https://4programmers.net/Forum/Tag/javascript
-  69. https://4programmers.net/Forum/Tag/sql
-  70. https://4programmers.net/Forum/Tag/python
-  71. https://4programmers.net/Forum/Tag/mysql
-  72. https://4programmers.net/Forum/Kariera/306264-czy_praca_w_innym_jezyku_programowania_cos_daje
-  73. https://4programmers.net/Forum/Off-Topic/308581-jak_osiagnac_szczescie
-  74. https://4programmers.net/Forum/C_i_C++/332042-czy_taka_funkcjonalnosc_daje_tablica
-  75. https://4programmers.net/Forum/Kariera/296982-czy_bycie_w_samorzadzie_wydzialu_daje_duze_korzysci
-  76. https://4programmers.net/Forum/Off-Topic/332890-czy_praca_w_korpo_was_zmienila
-  77. https://4programmers.net/Forum/Edukacja/341690-czy_bedzie_praca_w_rust
-  78. https://4programmers.net/Forum/Off-Topic/333138-czy_praca_w_domu_was_zmienila
-  79. https://4programmers.net/Forum/Kariera/326516-czy_dostepny_w_sieci_darmowy_serwis_cos_daje_w_szukaniu_pracy
-  80. https://4programmers.net/Forum/Newbie/175235-co_daje_std
-  81. https://4programmers.net/Forum/Edukacja/300732-praca_w_spring_czy_w_net_core
-  82. https://4programmers.net/
-  83. https://4programmers.net/Forum
-  84. https://4programmers.net/Forum/Off-Topic
-  85. https://4programmers.net/Forum/Off-Topic/361717-czy_praca_w_it_daje_szczescie
-  86. https://4programmers.net/Praca
-  87. https://4programmers.net/Praca/Technologia/javascript
-  88. https://4programmers.net/Praca/Technologia/java
-  89. https://4programmers.net/Praca/Technologia/c#
-  90. https://4programmers.net/Praca/Technologia/php
-  91. https://4programmers.net/Praca/Technologia/python
-  92. https://4programmers.net/Praca/Technologia/c++
-  93. https://4programmers.net/Forum
-  94. https://4programmers.net/Forum/Python
-  95. https://4programmers.net/Forum/Java
-  96. https://4programmers.net/Forum/C_i_C++
-  97. https://4programmers.net/Forum/C_i_.NET
-  98. https://4programmers.net/Forum/Kariera
-  99. https://4programmers.net/Forum/Edukacja
- 100. https://github.com/adam-boduch/coyote/issues
- 101. https://api.4programmers.net/
- 102. https://4programmers.net/Blog
- 103. https://4programmers.net/Prawa_autorskie
- 104. https://4programmers.net/Pomoc/Nasze_logo
- 105. https://4programmers.net/Forum/Coyote
- 106. https://4programmers.net/Kontakt
- 107. https://4programmers.net/Regulamin
- 108. https://4programmers.net/Polityka_prywatności
- 109. https://4programmers.net/Reklama
- 110. https://4programmers.net/Pomoc
- 111. https://4programmers.net/Patronat
- 112. https://4programmers.net/Kontakt
- 113. https://www.facebook.com/4programmers.net
- 114. https://4programmers.net/
-
-   Hidden links:
- 116. https://4programmers.net/
- 117. javascript:/
- 118. javascript:/
- 119. javascript:/
- 120. https://www.facebook.com/4programmers.net
- 121. https://4programmers.net/
- 122. javascript:/
+   Coyote 2.5: 120 ms

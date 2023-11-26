@@ -1,44 +1,38 @@
-   [1]Belépés [2]Áruház
-   [3]Főoldal [4]Felfedezési várólista [5]Kívánságlista [6]Pontbolt
-   [7]Hírek [8]Statisztikák
-   [9]Közösség
-   [10]Főoldal [11]Témák [12]Műhely [13]Piac [14]Közvetítések
-   [15]Támogatás
+   Belépés Áruház
+   Főoldal Felfedezési várólista Kívánságlista Pontbolt Hírek Statisztikák
+   Közösség
+   Főoldal Témák Műhely Piac Közvetítések
+   Támogatás
    Nyelvváltás
    Asztali weboldalra váltás
    [logo_valve_footer.png]
    © Valve Corporation. Minden jog fenntartva. A védjegyek jogos
    tulajdonosaiké az Egyesült Államokban és más országokban.
-   [16]#footer_privacy_policy  |  [17]#footer_legal  |  [18]#footer_ssa  |
-    [19]#footer_refunds
+   #footer_privacy_policy  |  #footer_legal  |  #footer_ssa  |
+   #footer_refunds
    [header_menu_hamburger.png]
-   [20]STEAM
-   [21][logo_steam.svg?t=962016]
-   [22]ÁRUHÁZ
-   [23]Főoldal [24]Felfedezési várólista [25]Kívánságlista [26]Pontbolt
-   [27]Hírek [28]Statisztikák
-   [29]KÖZÖSSÉG
-   [30]Főoldal [31]Témák [32]Műhely [33]Piac [34]Közvetítések
-   [35]Névjegy [36]TÁMOGATÁS
-   [37]
+   STEAM
+   [logo_steam.svg?t=962016]
+   ÁRUHÁZ
+   Főoldal Felfedezési várólista Kívánságlista Pontbolt Hírek Statisztikák
+   KÖZÖSSÉG
+   Főoldal Témák Műhely Piac Közvetítések
+   Névjegy TÁMOGATÁS
    Steam telepítése
-   [38]belépés  |  nyelv
-   [39]简体中文 (egyszerűsített kínai) [40]繁體中文 (hagyományos kínai) [41]日本語
-   (japán) [42]한국어 (koreai) [43]ไทย (thai) [44]Български (bolgár)
-   [45]Čeština (cseh) [46]Dansk (dán) [47]Deutsch (német) [48]English
-   (angol) [49]Español - España (spanyolországi spanyol) [50]Español -
-   Latinoamérica (latin-amerikai spanyol) [51]Ελληνικά (görög)
-   [52]Français (francia) [53]Italiano (olasz) [54]Bahasa Indonesia
-   (indonéz) [55]Nederlands (holland) [56]Norsk (norvég) [57]Polski
-   (lengyel) [58]Português (portugáliai portugál) [59]Português - Brasil
-   (brazíliai portugál) [60]Română (román) [61]Русский (orosz) [62]Suomi
-   (finn) [63]Svenska (svéd) [64]Türkçe (török) [65]Tiếng Việt (vietnámi)
-   [66]Українська (ukrán) [67]Fordítási probléma jelentése
-   [68]Összes téma > [69]Steam fórumok > [70]Foro en español > Téma
-   részletei
-   [71][ae4615b8dc174730ec768bea0c52f02157d44e6f.jpg]
-   [72]Precise Dash
-   [73]Profil megnézése [74]Hozzászólások megnézése
+   belépés  |  nyelv
+   简体中文 (egyszerűsített kínai) 繁體中文 (hagyományos kínai) 日本語 (japán) 한국어
+   (koreai) ไทย (thai) Български (bolgár) Čeština (cseh) Dansk (dán)
+   Deutsch (német) English (angol) Español - España (spanyolországi
+   spanyol) Español - Latinoamérica (latin-amerikai spanyol) Ελληνικά
+   (görög) Français (francia) Italiano (olasz) Bahasa Indonesia (indonéz)
+   Nederlands (holland) Norsk (norvég) Polski (lengyel) Português
+   (portugáliai portugál) Português - Brasil (brazíliai portugál) Română
+   (román) Русский (orosz) Suomi (finn) Svenska (svéd) Türkçe (török)
+   Tiếng Việt (vietnámi) Українська (ukrán) Fordítási probléma jelentése
+   Összes téma > Steam fórumok > Foro en español > Téma részletei
+   [ae4615b8dc174730ec768bea0c52f02157d44e6f.jpg]
+   Precise Dash
+   Profil megnézése Hozzászólások megnézése
    2021. nov. 9., 13:46
    Juegos que te hagan feliz, mucha felicidad
    Puede ser porque te divierte bastante y es todo lo que necesitas, o te
@@ -53,25 +47,25 @@
    Undertale y Deltarune me ofrece mejor escapismo a un mundo de hadas que
    cualquier otra cosa.
    Ahorate tocaatih
-   Legutóbb szerkesztette: [75]Precise Dash; 2021. nov. 9., 13:56
-   [76][icon_answer_large.png?v=1] E téma közzétevője a kérdése válaszának
+   Legutóbb szerkesztette: Precise Dash; 2021. nov. 9., 13:56
+   [icon_answer_large.png?v=1] E téma közzétevője a kérdése válaszának
    jelölt egy hozzászólást.
    Kattints ide a hozzászólásra ugráshoz.
-   Eredetileg közzétette: [77]cricrobol XD ♾®:
+   Eredetileg közzétette: cricrobol XD ♾®:
    LOL
-   [78]< [79]>
+   < >
    1–15/39 megjegyzés mutatása
    [icon_answer_small.png?v=1] E téma szerzője jelezte, hogy ez a
    hozzászólás megválaszolja a témát.
-   [80][058d57ab77c0f36c8f7d52e97301742f4a1a7b70.jpg]
-   [81]cricrobol XD ♾®
-   [82]Profil megnézése [83]Hozzászólások megnézése
+   [058d57ab77c0f36c8f7d52e97301742f4a1a7b70.jpg]
+   cricrobol XD ♾®
+   Profil megnézése Hozzászólások megnézése
    2021. nov. 9., 13:47
    LOL
-   [84]#1
-   [85][b1511e07a44e05c9d42857f8e142b4967c3d83bf.jpg]
-   [86]jbcomoelwhisky
-   [87]Profil megnézése [88]Hozzászólások megnézése
+   #1
+   [b1511e07a44e05c9d42857f8e142b4967c3d83bf.jpg]
+   jbcomoelwhisky
+   Profil megnézése Hozzászólások megnézése
    2021. nov. 9., 13:53
    Rome total war
    Rome total war Remastered
@@ -81,10 +75,10 @@
    Napoleon total war
    Shogun 2 total war
    Troy a total war saga
-   [89]#2
-   [90][fbe8bf9474f1d03a64d9c960707f5123b3f52d23.jpg]
-   [91]mfsav
-   [92]Profil megnézése [93]Hozzászólások megnézése
+   #2
+   [fbe8bf9474f1d03a64d9c960707f5123b3f52d23.jpg]
+   MFSAVV
+   Profil megnézése Hozzászólások megnézése
    2021. nov. 9., 13:56
    Por nostalgia, Counter Strike 1.6 y Resident Evil 4, son videojuegos
    que al jugarlos nunca me canso, al RE4 me lo he pasado de niño en PS2,
@@ -93,10 +87,10 @@
    sensacion rara pero muy satisfactoria estar a las cuatro de la mañana,
    en mapas gigantes, con cientos de jugadores jugando horas y horas, no
    me cansa, me encanta.
-   [94]#3
-   [95][cfb63d09c980d5a858f9b5ee4b933ae006ef4aa1.jpg]
-   [96]Dgo
-   [97]Profil megnézése [98]Hozzászólások megnézése
+   #3
+   [cfb63d09c980d5a858f9b5ee4b933ae006ef4aa1.jpg]
+   Dgo
+   Profil megnézése Hozzászólások megnézése
    2021. nov. 9., 14:01
 
    Shafla Rebirito eredeti hozzászólása:
@@ -124,10 +118,10 @@
    Ni hablar de ganar partidas en AoM, cuando jugaba las coop de SCII, uf
    bueno son muchas corazon de arepa.
    Todo eso da felicidad.
-   [99]#4
-   [100][72528eeb7961bc9cefed093ff400ff80a7e0f976.jpg]
-   [101]Mega Hombre
-   [102]Profil megnézése [103]Hozzászólások megnézése
+   #4
+   [72528eeb7961bc9cefed093ff400ff80a7e0f976.jpg]
+   Mega Hombre
+   Profil megnézése Hozzászólások megnézése
    2021. nov. 9., 14:16
    Todos los Megaman (de la saga clásica el 7 y 11, de la saga X el X4)
    Metal Slug (mis favoritos el X, 3, 5 y 6)
@@ -135,55 +129,55 @@
    Need For Speed 2 SE, y el Most Wanted (2005)
    Y el que NUNCA rechazo una partida para jugar con amigos es el Garry's
    Mod y GTA V. Esos juegos me encanta jugarlos acompañado :3
-   Legutóbb szerkesztette: [104]Mega Hombre; 2021. nov. 10., 14:20
-   [105]#5
-   [106][ec6e6759e503659a046cf22bb201c42a3fcc3257.jpg]
-   [107]KeithChi
-   [108]Profil megnézése [109]Hozzászólások megnézése
+   Legutóbb szerkesztette: Mega Hombre; 2021. nov. 10., 14:20
+   #5
+   [ec6e6759e503659a046cf22bb201c42a3fcc3257.jpg]
+   KeithChi
+   Profil megnézése Hozzászólások megnézése
    2021. nov. 9., 14:50
    F3, FNV, Terraria, The Binding of Isaac y quizas mas xd
-   [110]#6
-   [111][ec6e6759e503659a046cf22bb201c42a3fcc3257.jpg]
-   [112]KeithChi
-   [113]Profil megnézése [114]Hozzászólások megnézése
+   #6
+   [ec6e6759e503659a046cf22bb201c42a3fcc3257.jpg]
+   KeithChi
+   Profil megnézése Hozzászólások megnézése
    2021. nov. 9., 14:50
-   [115]https://www.youtube.com/watch?v=l4SnNf_Cpb4
-   [116]#7
-   [117][32f2c34df624a29adf9fb54e1be40dea2d13a540.jpg]
-   [118]󠀡 󠀡󠀡󠀡󠀡󠀡 󠀡
-   [119]Profil megnézése [120]Hozzászólások megnézése
+   https://www.youtube.com/watch?v=l4SnNf_Cpb4
+   #7
+   [32f2c34df624a29adf9fb54e1be40dea2d13a540.jpg]
+   󠀡 󠀡󠀡󠀡󠀡󠀡 󠀡
+   Profil megnézése Hozzászólások megnézése
    2021. nov. 9., 15:01
    Cs:GO con haxs
-   [121]#8
-   [122][f8a2a9e02b78f07ad616c60b60ac575a7353b09f.jpg]
-   [123]Daru
-   [124]Profil megnézése [125]Hozzászólások megnézése
+   #8
+   [f8a2a9e02b78f07ad616c60b60ac575a7353b09f.jpg]
+   Daru
+   Profil megnézése Hozzászólások megnézése
    2021. nov. 9., 15:07
-   [126]https://store.steampowered.com/app/213670/South_Park_The_Stick_of_
-   Truth/
-   [127]#9
-   [128][41940d9ac5e9a56ac88b6a53ab569c8c55b5550b.jpg]
-   [129]Félix
-   [130]Profil megnézése [131]Hozzászólások megnézése
+   https://store.steampowered.com/app/213670/South_Park_The_Stick_of_Truth
+   /
+   #9
+   [41940d9ac5e9a56ac88b6a53ab569c8c55b5550b.jpg]
+   Félix
+   Profil megnézése Hozzászólások megnézése
    2021. nov. 9., 15:30
    Un juego que te haga feliz...
    El final de los juegos de la saga Souls. :secretweapon_hoi:
-   [132]#10
-   [133][a93775296d281ac96c255b63b54961dac81ace7e.jpg]
-   [134]🌷 QueenDiana 🌷
-   [135]Profil megnézése [136]Hozzászólások megnézése
+   #10
+   [a93775296d281ac96c255b63b54961dac81ace7e.jpg]
+   🌷 QueenDiana 🌷
+   Profil megnézése Hozzászólások megnézése
    2021. nov. 9., 15:35
    Undertale lo jugué hace como 5 años y me pareció un juego demasiado
    bueno, literalmente. Totalmente recomendable.
    La verdad algo que fue muy bueno y parte de mi infancia, fue GTA San
    Andreas versión vieja.
-   [137]#11
-   [138][41940d9ac5e9a56ac88b6a53ab569c8c55b5550b.jpg]
-   [139]Félix
-   [140]Profil megnézése [141]Hozzászólások megnézése
+   #11
+   [41940d9ac5e9a56ac88b6a53ab569c8c55b5550b.jpg]
+   Félix
+   Profil megnézése Hozzászólások megnézése
    2021. nov. 9., 15:46
 
-   [142]× QueenDiana × eredeti hozzászólása:
+   × QueenDiana × eredeti hozzászólása:
 
      Undertale lo jugué hace como 5 años y me pareció un juego demasiado
      bueno, literalmente. Totalmente recomendable.
@@ -194,15 +188,15 @@
    Se pierden amigos, traiciones por obtencion del poder, muertes en la
    familia del protagonista, el como las drogas lo arruinan todo,
    relaciones tóxicas, etc.
-   [143]#12
-   [144][a93775296d281ac96c255b63b54961dac81ace7e.jpg]
-   [145]🌷 QueenDiana 🌷
-   [146]Profil megnézése [147]Hozzászólások megnézése
+   #12
+   [a93775296d281ac96c255b63b54961dac81ace7e.jpg]
+   🌷 QueenDiana 🌷
+   Profil megnézése Hozzászólások megnézése
    2021. nov. 9., 15:47
 
-   [148]Astolfo eredeti hozzászólása:
+   Astolfo eredeti hozzászólása:
 
-   [149]× QueenDiana × eredeti hozzászólása:
+   × QueenDiana × eredeti hozzászólása:
 
      Undertale lo jugué hace como 5 años y me pareció un juego demasiado
      bueno, literalmente. Totalmente recomendable.
@@ -217,31 +211,30 @@
    Medio de la nada eso que no inspira mucha felicidad Xddd. Claramente,
    no es un final feliz. Si no que no sé qué clase de persona le causaría
    felicidad ese final, si no que acabás llorando.
-   Legutóbb szerkesztette: [150]🌷 QueenDiana 🌷; 2021. nov. 9., 15:49
-   [151]#13
-   [152][49541658053d66e5c4f1c76df538fc800df73798.jpg]
-   [153]76561199180420188
-   [154]Profil megnézése [155]Hozzászólások megnézése
+   Legutóbb szerkesztette: 🌷 QueenDiana 🌷; 2021. nov. 9., 15:49
+   #13
+   [49541658053d66e5c4f1c76df538fc800df73798.jpg]
+   76561199180420188
+   Profil megnézése Hozzászólások megnézése
    2021. nov. 9., 17:15
    Broforce
-   [156]#14
-   [157][1228c30823d6671c0a5f03cf70d3550fd5f25166.jpg]
-   [158]LstPrisma
-   [159]Profil megnézése [160]Hozzászólások megnézése
+   #14
+   [1228c30823d6671c0a5f03cf70d3550fd5f25166.jpg]
+   LstPrisma
+   Profil megnézése Hozzászólások megnézése
    2021. nov. 9., 18:09
    Brawlhalla y TF2 uwu
-   [161]#15
-   [162]< [163]>
+   #15
+   < >
    1–15/39 megjegyzés mutatása
-   Laponként: 15[164]30 [165]50
-   [166]Összes téma > [167]Steam fórumok > [168]Foro en español > Téma
-   részletei
+   Laponként: 1530 50
+   Összes téma > Steam fórumok > Foro en español > Téma részletei
    Közzétéve: 2021. nov. 9., 13:46
    Hozzászólások: 39
-   [169]Új téma nyitása
+   Új téma nyitása
    ____________________ [searchbox_workshop_submit.gif]
-   [170][iconRules.png] Hozzászólási szabályok és irányelvek
-   [171]Bezár
+   [iconRules.png] Hozzászólási szabályok és irányelvek
+   Bezár
 
 [notification_icon_flag.png] Hozzászólás jelentése
 
@@ -257,191 +250,7 @@
    Betöltés
    Valve logó © Valve Corporation. Minden jog fenntartva. A védjegyek
    jogos tulajdonosaiké az Egyesült Államokban és más országokban. Az
-   oldal egyes térinformatikai adatait a [172]geonames.org szolgáltatja.
-   [173]Adatvédelmi szabályzat   |  [174]Jogi információk  |  [175]Steam
-   előfizetői szerződés  |  [176]Sütik
+   oldal egyes térinformatikai adatait a geonames.org szolgáltatja.
+   Adatvédelmi szabályzat   |  Jogi információk  |  Steam előfizetői
+   szerződés  |  Sütik
    Mobil weboldal megnézése
-
-References
-
-   Visible links:
-   1. https://steamcommunity.com/login/home/?goto=discussions/forum/29/3165461775614591568/?l=hungarian
-   2. https://store.steampowered.com/
-   3. https://store.steampowered.com/
-   4. https://store.steampowered.com/explore/
-   5. https://steamcommunity.com/my/wishlist/
-   6. https://store.steampowered.com/points/shop/
-   7. https://store.steampowered.com/news/
-   8. https://store.steampowered.com/stats/
-   9. https://steamcommunity.com/
-  10. https://steamcommunity.com/
-  11. https://steamcommunity.com/discussions/
-  12. https://steamcommunity.com/workshop/
-  13. https://steamcommunity.com/market/
-  14. https://steamcommunity.com/?subsection=broadcasts
-  15. https://help.steampowered.com/hu/
-  16. https://store.steampowered.com/privacy_agreement/
-  17. http://www.valvesoftware.com/legal.htm
-  18. https://store.steampowered.com/subscriber_agreement/
-  19. https://store.steampowered.com/steam_refunds/
-  20. https://store.steampowered.com/
-  21. https://store.steampowered.com/
-  22. https://store.steampowered.com/
-  23. https://store.steampowered.com/
-  24. https://store.steampowered.com/explore/
-  25. https://steamcommunity.com/my/wishlist/
-  26. https://store.steampowered.com/points/shop/
-  27. https://store.steampowered.com/news/
-  28. https://store.steampowered.com/stats/
-  29. https://steamcommunity.com/
-  30. https://steamcommunity.com/
-  31. https://steamcommunity.com/discussions/
-  32. https://steamcommunity.com/workshop/
-  33. https://steamcommunity.com/market/
-  34. https://steamcommunity.com/?subsection=broadcasts
-  35. https://store.steampowered.com/about/
-  36. https://help.steampowered.com/hu/
-  37. https://store.steampowered.com/about/
-  38. https://steamcommunity.com/login/home/?goto=discussions/forum/29/3165461775614591568/?l=hungarian
-  39. https://steamcommunity.com/discussions/forum/29/3165461775614591568/?l=schinese
-  40. https://steamcommunity.com/discussions/forum/29/3165461775614591568/?l=tchinese
-  41. https://steamcommunity.com/discussions/forum/29/3165461775614591568/?l=japanese
-  42. https://steamcommunity.com/discussions/forum/29/3165461775614591568/?l=koreana
-  43. https://steamcommunity.com/discussions/forum/29/3165461775614591568/?l=thai
-  44. https://steamcommunity.com/discussions/forum/29/3165461775614591568/?l=bulgarian
-  45. https://steamcommunity.com/discussions/forum/29/3165461775614591568/?l=czech
-  46. https://steamcommunity.com/discussions/forum/29/3165461775614591568/?l=danish
-  47. https://steamcommunity.com/discussions/forum/29/3165461775614591568/?l=german
-  48. https://steamcommunity.com/discussions/forum/29/3165461775614591568/?l=english
-  49. https://steamcommunity.com/discussions/forum/29/3165461775614591568/?l=spanish
-  50. https://steamcommunity.com/discussions/forum/29/3165461775614591568/?l=latam
-  51. https://steamcommunity.com/discussions/forum/29/3165461775614591568/?l=greek
-  52. https://steamcommunity.com/discussions/forum/29/3165461775614591568/?l=french
-  53. https://steamcommunity.com/discussions/forum/29/3165461775614591568/?l=italian
-  54. https://steamcommunity.com/discussions/forum/29/3165461775614591568/?l=indonesian
-  55. https://steamcommunity.com/discussions/forum/29/3165461775614591568/?l=dutch
-  56. https://steamcommunity.com/discussions/forum/29/3165461775614591568/?l=norwegian
-  57. https://steamcommunity.com/discussions/forum/29/3165461775614591568/?l=polish
-  58. https://steamcommunity.com/discussions/forum/29/3165461775614591568/?l=portuguese
-  59. https://steamcommunity.com/discussions/forum/29/3165461775614591568/?l=brazilian
-  60. https://steamcommunity.com/discussions/forum/29/3165461775614591568/?l=romanian
-  61. https://steamcommunity.com/discussions/forum/29/3165461775614591568/?l=russian
-  62. https://steamcommunity.com/discussions/forum/29/3165461775614591568/?l=finnish
-  63. https://steamcommunity.com/discussions/forum/29/3165461775614591568/?l=swedish
-  64. https://steamcommunity.com/discussions/forum/29/3165461775614591568/?l=turkish
-  65. https://steamcommunity.com/discussions/forum/29/3165461775614591568/?l=vietnamese
-  66. https://steamcommunity.com/discussions/forum/29/3165461775614591568/?l=ukrainian
-  67. https://www.valvesoftware.com/en/contact?contact-person=Translation Team Feedback
-  68. https://steamcommunity.com/discussions/
-  69. https://steamcommunity.com/discussions/
-  70. https://steamcommunity.com/discussions/forum/29/
-  71. https://steamcommunity.com/id/lavidaesmaravillosa
-  72. https://steamcommunity.com/id/lavidaesmaravillosa
-  73. https://steamcommunity.com/id/lavidaesmaravillosa
-  74. https://steamcommunity.com/id/lavidaesmaravillosa/posthistory/
-  75. https://steamcommunity.com/id/lavidaesmaravillosa
-  76. https://steamcommunity.com/discussions/forum/29/3165461775614591568/?l=hungarian#c3165461775614595784
-  77. https://steamcommunity.com/profiles/76561198308545367
-  78. javascript:void(0);
-  79. javascript:void(0);
-  80. https://steamcommunity.com/profiles/76561198308545367
-  81. https://steamcommunity.com/profiles/76561198308545367
-  82. https://steamcommunity.com/profiles/76561198308545367
-  83. https://steamcommunity.com/profiles/76561198308545367/posthistory/
-  84. https://steamcommunity.com/discussions/forum/29/3165461775614591568/?l=hungarian#c3165461775614595784
-  85. https://steamcommunity.com/profiles/76561198441852404
-  86. https://steamcommunity.com/profiles/76561198441852404
-  87. https://steamcommunity.com/profiles/76561198441852404
-  88. https://steamcommunity.com/profiles/76561198441852404/posthistory/
-  89. https://steamcommunity.com/discussions/forum/29/3165461775614591568/?l=hungarian#c3165461775614611152
-  90. https://steamcommunity.com/id/savatge
-  91. https://steamcommunity.com/id/savatge
-  92. https://steamcommunity.com/id/savatge
-  93. https://steamcommunity.com/id/savatge/posthistory/
-  94. https://steamcommunity.com/discussions/forum/29/3165461775614591568/?l=hungarian#c3165461775614618747
-  95. https://steamcommunity.com/id/daegoth_vilfariel
-  96. https://steamcommunity.com/id/daegoth_vilfariel
-  97. https://steamcommunity.com/id/daegoth_vilfariel
-  98. https://steamcommunity.com/id/daegoth_vilfariel/posthistory/
-  99. https://steamcommunity.com/discussions/forum/29/3165461775614591568/?l=hungarian#c3165461775614629216
- 100. https://steamcommunity.com/profiles/76561198823374391
- 101. https://steamcommunity.com/profiles/76561198823374391
- 102. https://steamcommunity.com/profiles/76561198823374391
- 103. https://steamcommunity.com/profiles/76561198823374391/posthistory/
- 104. https://steamcommunity.com/profiles/76561198823374391
- 105. https://steamcommunity.com/discussions/forum/29/3165461775614591568/?l=hungarian#c3165461775614667891
- 106. https://steamcommunity.com/profiles/76561198352368244
- 107. https://steamcommunity.com/profiles/76561198352368244
- 108. https://steamcommunity.com/profiles/76561198352368244
- 109. https://steamcommunity.com/profiles/76561198352368244/posthistory/
- 110. https://steamcommunity.com/discussions/forum/29/3165461775614591568/?l=hungarian#c3165461775614755412
- 111. https://steamcommunity.com/profiles/76561198352368244
- 112. https://steamcommunity.com/profiles/76561198352368244
- 113. https://steamcommunity.com/profiles/76561198352368244
- 114. https://steamcommunity.com/profiles/76561198352368244/posthistory/
- 115. https://www.youtube.com/watch?v=l4SnNf_Cpb4
- 116. https://steamcommunity.com/discussions/forum/29/3165461775614591568/?l=hungarian#c3165461775614755938
- 117. https://steamcommunity.com/id/newlogicg
- 118. https://steamcommunity.com/id/newlogicg
- 119. https://steamcommunity.com/id/newlogicg
- 120. https://steamcommunity.com/id/newlogicg/posthistory/
- 121. https://steamcommunity.com/discussions/forum/29/3165461775614591568/?l=hungarian#c3165461775614782330
- 122. https://steamcommunity.com/id/Weon_La_Wea
- 123. https://steamcommunity.com/id/Weon_La_Wea
- 124. https://steamcommunity.com/id/Weon_La_Wea
- 125. https://steamcommunity.com/id/Weon_La_Wea/posthistory/
- 126. https://store.steampowered.com/app/213670/South_Park_The_Stick_of_Truth/
- 127. https://steamcommunity.com/discussions/forum/29/3165461775614591568/?l=hungarian#c3165461775614798410
- 128. https://steamcommunity.com/id/Nekomaru_96
- 129. https://steamcommunity.com/id/Nekomaru_96
- 130. https://steamcommunity.com/id/Nekomaru_96
- 131. https://steamcommunity.com/id/Nekomaru_96/posthistory/
- 132. https://steamcommunity.com/discussions/forum/29/3165461775614591568/?l=hungarian#c3165462410659140462
- 133. https://steamcommunity.com/id/queendiana481290
- 134. https://steamcommunity.com/id/queendiana481290
- 135. https://steamcommunity.com/id/queendiana481290
- 136. https://steamcommunity.com/id/queendiana481290/posthistory/
- 137. https://steamcommunity.com/discussions/forum/29/3165461775614591568/?l=hungarian#c3165462410659152689
- 138. https://steamcommunity.com/id/Nekomaru_96
- 139. https://steamcommunity.com/id/Nekomaru_96
- 140. https://steamcommunity.com/id/Nekomaru_96
- 141. https://steamcommunity.com/id/Nekomaru_96/posthistory/
- 142. https://steamcommunity.com/discussions/forum/29/3165461775614591568/?l=hungarian#c3165462410659152689
- 143. https://steamcommunity.com/discussions/forum/29/3165461775614591568/?l=hungarian#c3165462410659180143
- 144. https://steamcommunity.com/id/queendiana481290
- 145. https://steamcommunity.com/id/queendiana481290
- 146. https://steamcommunity.com/id/queendiana481290
- 147. https://steamcommunity.com/id/queendiana481290/posthistory/
- 148. https://steamcommunity.com/discussions/forum/29/3165461775614591568/?l=hungarian#c3165462410659180143
- 149. https://steamcommunity.com/discussions/forum/29/3165461775614591568/?l=hungarian#c3165462410659152689
- 150. https://steamcommunity.com/id/queendiana481290
- 151. https://steamcommunity.com/discussions/forum/29/3165461775614591568/?l=hungarian#c3165462410659183197
- 152. https://steamcommunity.com/profiles/76561199180420188
- 153. https://steamcommunity.com/profiles/76561199180420188
- 154. https://steamcommunity.com/profiles/76561199180420188
- 155. https://steamcommunity.com/profiles/76561199180420188/posthistory/
- 156. https://steamcommunity.com/discussions/forum/29/3165461775614591568/?l=hungarian#c3165462410659407279
- 157. https://steamcommunity.com/id/LstPrisma
- 158. https://steamcommunity.com/id/LstPrisma
- 159. https://steamcommunity.com/id/LstPrisma
- 160. https://steamcommunity.com/id/LstPrisma/posthistory/
- 161. https://steamcommunity.com/discussions/forum/29/3165461775614591568/?l=hungarian#c3165462410659544414
- 162. javascript:void(0);
- 163. javascript:void(0);
- 164. javascript:Forum_SetTopicRepliesPerPage( 30 );
- 165. javascript:Forum_SetTopicRepliesPerPage( 50 );
- 166. https://steamcommunity.com/discussions/
- 167. https://steamcommunity.com/discussions/
- 168. https://steamcommunity.com/discussions/forum/29/
- 169. https://steamcommunity.com/discussions/forum/29/?newdiscussion=1
- 170. https://support.steampowered.com/kb_article.php?ref=4045-USHJ-3810
- 171. javascript:hideModal( 'forum_modal' )
- 172. https://steamcommunity.com/linkfilter/?u=http://www.geonames.org
- 173. http://store.steampowered.com/privacy_agreement/
- 174. https://store.steampowered.com/legal/
- 175. http://store.steampowered.com/subscriber_agreement/
- 176. http://store.steampowered.com/account/cookiepreferences/
-
-   Hidden links:
- 178. https://steamcommunity.com/discussions/forum/29/3165461775614591568/?l=hungarian
- 179. https://steamcommunity.com/discussions/forum/29/3165461775614591568/?l=hungarian

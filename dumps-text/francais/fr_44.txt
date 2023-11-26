@@ -1,7 +1,7 @@
-   [1]Aller au contenu principal
+   Aller au contenu principal
 
-   [2]Accueil
-   [3]Ligue contre le cancer
+   Accueil
+   Ligue contre le cancer
 
 Recherche version mobile (le titre ne sera pas affiché)
 
@@ -10,32 +10,32 @@ Recherche version mobile (le titre ne sera pas affiché)
    (BUTTON) Menu
    Navigation principale
      * La Ligue
-          + [4]Qui sommes-nous ?
-          + [5]Nos missions
-          + [6]Nos articles
-          + [7]Nos actualités
-          + [8]La Ligue près de chez vous
+          + Qui sommes-nous ?
+          + Nos missions
+          + Nos articles
+          + Nos actualités
+          + La Ligue près de chez vous
      * Patients et aidants
-          + [9]Informations sur la maladie
-          + [10]Écoute et accompagnement
-          + [11]Offre de soins de support
-          + [12]Être aux côtés des proches aidants
+          + Informations sur la maladie
+          + Écoute et accompagnement
+          + Offre de soins de support
+          + Être aux côtés des proches aidants
      * Agir ensemble
-          + [13]S’engager avec nous
-          + [14]Donner et transmettre
-          + [15]Devenir partenaire
-     * [16]Forum
+          + S’engager avec nous
+          + Donner et transmettre
+          + Devenir partenaire
+     * Forum
 
    ______________________________
    Rechercher
    La Ligue près de chez vous
-   [17]Faire un don
+   Faire un don
 
 Fil d'Ariane
 
-    1. [18]Accueil
-    2. [19]Forum
-    3. [20]Cancer du côlon et du rectum
+    1. Accueil
+    2. Forum
+    3. Cancer du côlon et du rectum
     4. Nouvelle sur le forum
 
    X
@@ -51,15 +51,15 @@ Fil d'Ariane
 
    Une fois le comité sélectionné dans la liste de propositions, vous
    serez redirigé vers la page du comité de votre département.
-   [21]Retour
-   [22]Se connecter
-   [23]Cancer du côlon et du rectum
+   Retour
+   Se connecter
+   Cancer du côlon et du rectum
 
 Nouvelle sur le forum
 
    18 commentaires
    Image profil par défaut
-   [24]Isakoustik
+   Isakoustik
    30/06/2022 - 11:50
 
    Bonjour à tous
@@ -197,10 +197,10 @@ Nouvelle sur le forum
    moral à quelqu’un qui aurait un coup de mou, se sera un petit bonheur
    de plus.
    Belle journée à tous.
-   [25]Répondre
+   Répondre
 
    Image profil par défaut
-   [26]Fleur 39
+   Fleur 39
    30/06/2022 - 13:42
 
    Bonjour Isakoustiik
@@ -211,10 +211,10 @@ Nouvelle sur le forum
    profiter du moindre bonheur.
    Merci de communiquer ce bel élan de vie
    Béatrice
-     * [27]Citer
+     * Citer
 
    Image profil par défaut
-   [28]rob
+   rob
    30/06/2022 - 14:05
 
    Bonjour Isabelle et bienvenue au club,
@@ -232,10 +232,10 @@ Nouvelle sur le forum
    voir,je confirme.
    Portez vous bien
    ( Bienvenue dans la confrérie des stades 4 qui y croient )
-     * [29]Citer
+     * Citer
 
    Image profil par défaut
-   [30]Minouk
+   Minouk
    30/06/2022 - 14:05
 
    Bonjour Isabelle,
@@ -247,10 +247,10 @@ Nouvelle sur le forum
    m'avait aussi parlé de 2 ans il y a 4 ans de cela...
    Faites nous le plaisir de revenir ici souvent.
    Monique
-     * [31]Citer
+     * Citer
 
    Image profil par défaut
-   [32]Marween
+   Marween
    30/06/2022 - 15:01
 
    Bonjour Isabelle,
@@ -270,10 +270,10 @@ Nouvelle sur le forum
    On ne lâche rien !
    Bises à tous.
    Marine
-     * [33]Citer
+     * Citer
 
    Image profil par défaut
-   [34]Stephane14
+   Stephane14
    30/06/2022 - 15:38
 
    Bonjour Isabelle
@@ -301,10 +301,10 @@ Nouvelle sur le forum
    ....
    On ne lâche rien ..... jamais .... car le pire n'est jamais certain
    Stéphane
-     * [35]Citer
+     * Citer
 
    Image profil par défaut
-   [36]Val51
+   Val51
    30/06/2022 - 15:39
 
    Bonjour Isabelle,
@@ -314,10 +314,10 @@ Nouvelle sur le forum
    n'en manquez assurément pas.
    Merci pour votre témoignage
    Valérie
-     * [37]Citer
+     * Citer
 
    Image profil par défaut
-   [38]Dan83
+   Dan83
    30/06/2022 - 18:05
 
    Bonjour Isabelle et bienvenue sur le forum. Votre témoignage est
@@ -329,10 +329,10 @@ Nouvelle sur le forum
    maladie. Alors continuez à vivre comme vous le faite, chaque jour qui
    passe est une victoire sur votre K. Donnez nous de vos "bonnes
    nouvelles " bises Danielle
-     * [39]Citer
+     * Citer
 
    Image profil par défaut
-   [40]Alek
+   Alek
    30/06/2022 - 19:33
 
    Bonjour Isabelle,
@@ -347,10 +347,10 @@ Nouvelle sur le forum
 
    Je vous embrasse
    Jeanne
-     * [41]Citer
+     * Citer
 
    Image profil par défaut
-   [42]Chris51
+   Chris51
    01/07/2022 - 16:13
 
    Bonjour Isabelle
@@ -366,10 +366,10 @@ Nouvelle sur le forum
 
    (En attente de diagnostic. Nodule poumon. Intervention jeudi. Si malin,
    lobectomie... )
-     * [43]Citer
+     * Citer
 
    Image profil par défaut
-   [44]Romy66
+   Romy66
    01/07/2022 - 22:13
 
    Bonjour, Isabelle, et bonjour aux amis,
@@ -377,74 +377,74 @@ Nouvelle sur le forum
    et inspirant, Isabelle. Cela fait un grand bien et les réponses
    enthousiastes des amis vont nous permettre aussi de surfer sur cette
    bonne vague! Chouette de vous lire! Romy
-     * [45]Citer
+     * Citer
 
      * Page courante 1
-     * [46]Page 2
-     * [47]Page suivante
-     * [48]Dernière page
+     * Page 2
+     * Page suivante
+     * Dernière page
 
 Ecrire un commentaire
 
    Pour écrire un commentaire ou lancer une nouvelle discussion vous aurez
    besoin de vous connecter ou de créer un compte.
-   [49]Se connecter[50]Créer un nouveau compte
+   Se connecterCréer un nouveau compte
 
 Thématiques
 
-   [51]Cancer du poumon, de la thyroïde et des voies respiratoires
-   [52]Cancer du sein
-   [53]Cancer de la prostate
-   [54]Cancer du côlon et du rectum
-   [55]Cancer de l'appareil génital féminin (col et corps de l'utérus,
+   Cancer du poumon, de la thyroïde et des voies respiratoires
+   Cancer du sein
+   Cancer de la prostate
+   Cancer du côlon et du rectum
+   Cancer de l'appareil génital féminin (col et corps de l'utérus,
    ovaires)
-   [56]Cancer de la peau
-   [57]Cancers urologiques (rein et vessie)
-   [58]Cancer du testicule
-   [59]Lymphomes (maladie de Hodgkin et lymphomes non hodgkiniens)
-   [60]Leucémies
-   [61]Autres types de cancers
-   [62]Vivre avec un cancer, traitements et soins
-   [63]Vie après un cancer
-   [64]Etre proche d'une personne malade
-   [65]Espace d'expression artistique
-   [66]Autres témoignages et questions
+   Cancer de la peau
+   Cancers urologiques (rein et vessie)
+   Cancer du testicule
+   Lymphomes (maladie de Hodgkin et lymphomes non hodgkiniens)
+   Leucémies
+   Autres types de cancers
+   Vivre avec un cancer, traitements et soins
+   Vie après un cancer
+   Etre proche d'une personne malade
+   Espace d'expression artistique
+   Autres témoignages et questions
 
 Les intervenants du forum
 
    Camille Flavigny
    Chargée de mission Droits des personnes
-   [67]Voir le profil
+   Voir le profil
    Dr A.Marceau
    Médecin, chargé des questions médicales
-   [68]Voir le profil
+   Voir le profil
    Conseiller technique Aidea
    Accompagner pour emprunter
-   [69]Voir le profil
+   Voir le profil
    Back to top
    Thématiques
-   [70]New comment
+   New comment
    Précédent
 
 Thématiques
 
-   [71]Cancer du poumon, de la thyroïde et des voies respiratoires
-   [72]Cancer du sein
-   [73]Cancer de la prostate
-   [74]Cancer du côlon et du rectum
-   [75]Cancer de l'appareil génital féminin (col et corps de l'utérus,
+   Cancer du poumon, de la thyroïde et des voies respiratoires
+   Cancer du sein
+   Cancer de la prostate
+   Cancer du côlon et du rectum
+   Cancer de l'appareil génital féminin (col et corps de l'utérus,
    ovaires)
-   [76]Cancer de la peau
-   [77]Cancers urologiques (rein et vessie)
-   [78]Cancer du testicule
-   [79]Lymphomes (maladie de Hodgkin et lymphomes non hodgkiniens)
-   [80]Leucémies
-   [81]Autres types de cancers
-   [82]Vivre avec un cancer, traitements et soins
-   [83]Vie après un cancer
-   [84]Etre proche d'une personne malade
-   [85]Espace d'expression artistique
-   [86]Autres témoignages et questions
+   Cancer de la peau
+   Cancers urologiques (rein et vessie)
+   Cancer du testicule
+   Lymphomes (maladie de Hodgkin et lymphomes non hodgkiniens)
+   Leucémies
+   Autres types de cancers
+   Vivre avec un cancer, traitements et soins
+   Vie après un cancer
+   Etre proche d'une personne malade
+   Espace d'expression artistique
+   Autres témoignages et questions
 
 Abonnez-vous à notre newsletter
 
@@ -454,14 +454,14 @@ Abonnez-vous à notre newsletter
    Je m'abonne
    [ ] J'accepte les conditions générales et souhaite m'abonner.
    Leave this field blank ____________________
-   [87]Faire un don
+   Faire un don
    [footer-subtract.svg]
    Image
    Logo Ligue Contre le Cancer
 
    Ligue contre le cancer
 
-   Numéro vert : [88]0 800 940 939
+   Numéro vert : 0 800 940 939
    Écoute, Aide, Soutien
 
    Image
@@ -471,135 +471,27 @@ Abonnez-vous à notre newsletter
 
    66% de votre don est déductible de votre impôt sur le revenu
    Liens utiles
-     * [89]Contact
-     * [90]Magazine Vivre
-     * [91]Devenir partenaire
-     * [92]Nos articles
-     * [93]Forum
+     * Contact
+     * Magazine Vivre
+     * Devenir partenaire
+     * Nos articles
+     * Forum
 
    Espaces
-     * [94]Espace Ligue & Comités
-     * [95]Espace Presse
-     * [96]Espace chercheur
-     * [97]Intranet
+     * Espace Ligue & Comités
+     * Espace Presse
+     * Espace chercheur
+     * Intranet
 
    Réseaux sociaux
-     * [98]Facebook
-     * [99]Twitter
-     * [100]LinkedIn
-     * [101]Instagram
-     * [102]Youtube
-     * [103]TikTok
+     * Facebook
+     * Twitter
+     * LinkedIn
+     * Instagram
+     * Youtube
+     * TikTok
 
    © Ligue contre le cancer 2023
    Pied de page
-     * [104]Plan du site
-     * [105]Mentions légales
-
-References
-
-   1. https://www.ligue-cancer.net/forum/cancer-du-colon-et-du-rectum/nouvelle-sur-le-forum#main-content
-   2. https://www.ligue-cancer.net/
-   3. https://www.ligue-cancer.net/
-   4. https://www.ligue-cancer.net/qui-sommes-nous
-   5. https://www.ligue-cancer.net/nos-missions
-   6. https://www.ligue-cancer.net/les-articles-de-la-ligue
-   7. https://www.ligue-cancer.net/nos-actualites
-   8. https://www.ligue-cancer.net/la-ligue-pres-de-chez-vous-comite
-   9. https://www.ligue-cancer.net/questce-que-le-cancer
-  10. https://www.ligue-cancer.net/nos-missions/laccompagnement-des-personnes-malades
-  11. https://www.ligue-cancer.net/nos-missions/loffre-de-soins-de-support
-  12. https://www.ligue-cancer.net/nos-missions/etre-aux-cotes-des-proches-aidants
-  13. https://www.ligue-cancer.net/sengager-avec-nous
-  14. https://www.ligue-cancer.net/donner-et-transmettre
-  15. https://www.ligue-cancer.net/devenir-partenaire
-  16. https://www.ligue-cancer.net/forum
-  17. https://don.ligue-cancer.net/parcequeux/~mon-don?utm_source=lncc&utm_medium=site&utm_campaign=fa23&utm_content=btn&utm_term=orga
-  18. https://www.ligue-cancer.net/
-  19. https://www.ligue-cancer.net/forum
-  20. https://www.ligue-cancer.net/forum/cancer-du-colon-et-du-rectum
-  21. https://www.ligue-cancer.net/forum/cancer-du-colon-et-du-rectum
-  22. https://www.ligue-cancer.net/forum/login?destination=/forum/cancer-de-la-peau/boutons-sur-le-nez-depuis-56-ans
-  23. https://www.ligue-cancer.net/forum/cancer-du-colon-et-du-rectum
-  24. https://www.ligue-cancer.net/forum/profil/114917
-  25. https://www.ligue-cancer.net/forum/cancer-du-colon-et-du-rectum/nouvelle-sur-le-forum#block-lncc-forum-new-discussion-thread-block
-  26. https://www.ligue-cancer.net/forum/profil/104498
-  27. https://www.ligue-cancer.net/forum/login?destination=/forum/cancer-du-colon-et-du-rectum/nouvelle-sur-le-forum#comment-form
-  28. https://www.ligue-cancer.net/forum/profil/82824
-  29. https://www.ligue-cancer.net/forum/login?destination=/forum/cancer-du-colon-et-du-rectum/nouvelle-sur-le-forum#comment-form
-  30. https://www.ligue-cancer.net/forum/profil/69445
-  31. https://www.ligue-cancer.net/forum/login?destination=/forum/cancer-du-colon-et-du-rectum/nouvelle-sur-le-forum#comment-form
-  32. https://www.ligue-cancer.net/forum/profil/104726
-  33. https://www.ligue-cancer.net/forum/login?destination=/forum/cancer-du-colon-et-du-rectum/nouvelle-sur-le-forum#comment-form
-  34. https://www.ligue-cancer.net/forum/profil/86128
-  35. https://www.ligue-cancer.net/forum/login?destination=/forum/cancer-du-colon-et-du-rectum/nouvelle-sur-le-forum#comment-form
-  36. https://www.ligue-cancer.net/forum/profil/113394
-  37. https://www.ligue-cancer.net/forum/login?destination=/forum/cancer-du-colon-et-du-rectum/nouvelle-sur-le-forum#comment-form
-  38. https://www.ligue-cancer.net/forum/profil/90931
-  39. https://www.ligue-cancer.net/forum/login?destination=/forum/cancer-du-colon-et-du-rectum/nouvelle-sur-le-forum#comment-form
-  40. https://www.ligue-cancer.net/forum/profil/111901
-  41. https://www.ligue-cancer.net/forum/login?destination=/forum/cancer-du-colon-et-du-rectum/nouvelle-sur-le-forum#comment-form
-  42. https://www.ligue-cancer.net/forum/profil/114798
-  43. https://www.ligue-cancer.net/forum/login?destination=/forum/cancer-du-colon-et-du-rectum/nouvelle-sur-le-forum#comment-form
-  44. https://www.ligue-cancer.net/forum/profil/110189
-  45. https://www.ligue-cancer.net/forum/login?destination=/forum/cancer-du-colon-et-du-rectum/nouvelle-sur-le-forum#comment-form
-  46. https://www.ligue-cancer.net/forum/cancer-du-colon-et-du-rectum/nouvelle-sur-le-forum?page=1
-  47. https://www.ligue-cancer.net/forum/cancer-du-colon-et-du-rectum/nouvelle-sur-le-forum?page=1
-  48. https://www.ligue-cancer.net/forum/cancer-du-colon-et-du-rectum/nouvelle-sur-le-forum?page=1
-  49. https://www.ligue-cancer.net/forum/login?destination=/forum/cancers-urologiques-rein-et-vessie/pret-personnel-et-droit-loubli
-  50. https://www.ligue-cancer.net/forum/register
-  51. https://www.ligue-cancer.net/forum/cancer-du-poumon-de-la-thyroide-et-des-voies-respiratoires
-  52. https://www.ligue-cancer.net/forum/cancer-du-sein
-  53. https://www.ligue-cancer.net/forum/cancer-de-la-prostate
-  54. https://www.ligue-cancer.net/forum/cancer-du-colon-et-du-rectum
-  55. https://www.ligue-cancer.net/forum/cancer-de-lappareil-genital-feminin-col-et-corps-de-luterus-ovaires
-  56. https://www.ligue-cancer.net/forum/cancer-de-la-peau
-  57. https://www.ligue-cancer.net/forum/cancers-urologiques-rein-et-vessie
-  58. https://www.ligue-cancer.net/forum/cancer-du-testicule
-  59. https://www.ligue-cancer.net/forum/lymphomes-maladie-de-hodgkin-et-lymphomes-non-hodgkiniens
-  60. https://www.ligue-cancer.net/forum/leucemies
-  61. https://www.ligue-cancer.net/forum/autres-types-de-cancers
-  62. https://www.ligue-cancer.net/forum/vivre-avec-un-cancer-traitements-et-soins
-  63. https://www.ligue-cancer.net/forum/vie-apres-un-cancer
-  64. https://www.ligue-cancer.net/forum/etre-proche-dune-personne-malade
-  65. https://www.ligue-cancer.net/forum/espace-dexpression-artistique
-  66. https://www.ligue-cancer.net/forum/autres-temoignages-et-questions
-  67. https://www.ligue-cancer.net/users/camille-flavigny
-  68. https://www.ligue-cancer.net/users/atmed
-  69. https://www.ligue-cancer.net/users/conseiller-technique-aidea
-  70. https://www.ligue-cancer.net/forum/login?destination=/forum/cancer-du-colon-et-du-rectum/nouvelle-sur-le-forum#edit-comment-body-wrapper
-  71. https://www.ligue-cancer.net/forum/cancer-du-poumon-de-la-thyroide-et-des-voies-respiratoires
-  72. https://www.ligue-cancer.net/forum/cancer-du-sein
-  73. https://www.ligue-cancer.net/forum/cancer-de-la-prostate
-  74. https://www.ligue-cancer.net/forum/cancer-du-colon-et-du-rectum
-  75. https://www.ligue-cancer.net/forum/cancer-de-lappareil-genital-feminin-col-et-corps-de-luterus-ovaires
-  76. https://www.ligue-cancer.net/forum/cancer-de-la-peau
-  77. https://www.ligue-cancer.net/forum/cancers-urologiques-rein-et-vessie
-  78. https://www.ligue-cancer.net/forum/cancer-du-testicule
-  79. https://www.ligue-cancer.net/forum/lymphomes-maladie-de-hodgkin-et-lymphomes-non-hodgkiniens
-  80. https://www.ligue-cancer.net/forum/leucemies
-  81. https://www.ligue-cancer.net/forum/autres-types-de-cancers
-  82. https://www.ligue-cancer.net/forum/vivre-avec-un-cancer-traitements-et-soins
-  83. https://www.ligue-cancer.net/forum/vie-apres-un-cancer
-  84. https://www.ligue-cancer.net/forum/etre-proche-dune-personne-malade
-  85. https://www.ligue-cancer.net/forum/espace-dexpression-artistique
-  86. https://www.ligue-cancer.net/forum/autres-temoignages-et-questions
-  87. https://don.ligue-cancer.net/parcequeux/~mon-don?utm_source=lncc&utm_medium=site&utm_campaign=fa23&utm_content=btn&utm_term=orga
-  88. tel:0 800 940 939
-  89. https://www.ligue-cancer.net/contact
-  90. https://www.vivre-cancer.fr/
-  91. https://www.ligue-cancer.net/devenir-partenaire
-  92. https://www.ligue-cancer.net/les-articles-de-la-ligue
-  93. https://www.ligue-cancer.net/forum
-  94. https://www.ligue-cancer.net/la-ligue-pres-de-chez-vous-comite
-  95. https://www.ligue-cancer.net/espace-presse
-  96. https://www.ligue-cancer.net/espace-chercheur
-  97. https://intranet.ligue-cancer.net/
-  98. https://www.facebook.com/laliguecontrelecancer
-  99. https://twitter.com/laliguecancer
- 100. https://www.linkedin.com/company/ligue-contre-le-cancer/?originalSubdomain=fr
- 101. https://www.instagram.com/liguecontrelecancer/
- 102. https://www.youtube.com/laliguecontrecancer
- 103. https://www.tiktok.com/@liguecontrelecancer
- 104. https://www.ligue-cancer.net/pages/plan
- 105. https://www.ligue-cancer.net/mentions-legales
+     * Plan du site
+     * Mentions légales

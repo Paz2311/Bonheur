@@ -1,69 +1,69 @@
-   #[1]prev
+   #prev
 
-   [2]Menu
-     * [3]Inicio
-     * [4]Quiénes Somos
-     * [5]Foro
-     * [6]Colabora
-     * [7]Contacta
-     * [8]Regístrate
-     * [9]Libros On-Line
-     * [10]Revista Virtual 2023
+   Menu
+     * Inicio
+     * Quiénes Somos
+     * Foro
+     * Colabora
+     * Contacta
+     * Regístrate
+     * Libros On-Line
+     * Revista Virtual 2023
 
-   [11]Síndrome de Down
+   Síndrome de Down
 
 Síndrome de Down
 
      *
-     * [12]Inicio
-     * [13]Foro
-     * [14]Foros Down21
-     * [15]Educación y Psicología
-     * [16]La búsqueda de la felicidad
+     * Inicio
+     * Foro
+     * Foros Down21
+     * Educación y Psicología
+     * La búsqueda de la felicidad
 
-     * [17]Categorías
-     * [18]Mensajes Recientes
-     * [19]Nuevo Tema
-     * [20]Buscar
+     * Categorías
+     * Mensajes Recientes
+     * Nuevo Tema
+     * Buscar
 
-     * [21]Categorías
-     * [22]Mensajes Recientes
-     * [23]Nuevo Tema
-     * [24]Buscar
+     * Categorías
+     * Mensajes Recientes
+     * Nuevo Tema
+     * Buscar
 
-    1. [25]Foro
-
-
-
-     [26]Foros Down21
+    1. Foro
 
 
 
-     [27]Educación y Psicología
+     Foros Down21
 
 
 
-     [28]La búsqueda de la felicidad
+     Educación y Psicología
+
+
+
+     La búsqueda de la felicidad
 
 La búsqueda de la felicidad
 
-   [29]Rsponder Tema
-     * [30]Inicio
-     * [31]Anterior
-     * [32]1
+   Rsponder Tema
+     * Inicio
+     * Anterior
+     * 1
      * 2
      * Siguiente
      * Final
 
-     * [33]1
+     * 1
      * 2
 
    ____________________ (BUTTON)
      * Saro
      * Autor del tema
 
-   8 años 11 meses antes [34]#55950 por Saro
-   Respuesta de Saro sobre el tema [35]Re: La búsqueda de la felicidad
+   9 años 3 días antes #55950 por Saro
+   Respuesta de Saro sobre el tema Re: La búsqueda de la felicidad
    Queridos Chus y Emilio:
    Gracias por mantener estas conversaciones en el foro, que así continúa
    siendo nuestro cuarto de estar, tan calentito, sobre todo ahora que
@@ -78,7 +78,7 @@ La búsqueda de la felicidad
    cierto, espero que se esté encontrando mejor de su espalda.
    Un abrazo enorme, especialmente para Irene, que es un ejemplo para mí,
    Saro
-   [36]Respuesta rápida [37]Responder [38]Citar
+   Respuesta rápida Responder Citar
    (BUTTON) ×
 
 Responder a Saro
@@ -92,14 +92,14 @@ Responder a Saro
    ____________________________________________________________
    ____________________________________________________________
    ____________________________________________________________
-   [39]Ir al editor...
+   Ir al editor...
    Nota: el BBcode y los emoticonos se pueden seguir utilizando. Enviar
    Cancelar
      * chus
      * Autor del tema
 
-   9 años 22 horas antes [40]#55947 por chus
-   Respuesta de chus sobre el tema [41]Re: La búsqueda de la felicidad
+   9 años 5 días antes #55947 por chus
+   Respuesta de chus sobre el tema Re: La búsqueda de la felicidad
    La felicidad es algo tan subjetivo y de tantas variables que es difícil
    aunarlas.
    Yo te afirmaba que Irene es feliz, no tengo la menor duda, mis dudas
@@ -114,7 +114,7 @@ Responder a Saro
    PIGMALION
    Y yo siempre repito un mantra
    Hay que creer en nuestros hijos !!!!
-   [42]Respuesta rápida [43]Responder [44]Citar
+   Respuesta rápida Responder Citar
    (BUTTON) ×
 
 Responder a chus
@@ -128,15 +128,14 @@ Responder a chus
    ____________________________________________________________
    ____________________________________________________________
    ____________________________________________________________
-   [45]Ir al editor...
+   Ir al editor...
    Nota: el BBcode y los emoticonos se pueden seguir utilizando. Enviar
    Cancelar
      * Emilio Ruiz
      *
 
-   9 años 3 días antes [46]#55945 por Emilio Ruiz
-   Respuesta de Emilio Ruiz sobre el tema [47]Re: La búsqueda de la
-   felicidad
+   9 años 1 semana antes #55945 por Emilio Ruiz
+   Respuesta de Emilio Ruiz sobre el tema Re: La búsqueda de la felicidad
    Estimada amiga Chus:
    Yo te agradezco a ti tus reflexiones, siempre profundas, siempre
    basadas en la experiencia y en el sentido común. Cuando escribí el
@@ -158,7 +157,7 @@ Responder a chus
    personas con síndrome de Down?", la respuesta es clara y tajante: "SÍ".
    Y no lo digo yo, lo dicen ellas. No me voy a detener en esta afirmación
    y simplemente dirijo al artículo que lo demuestra.
-   [48]revistadown.downcantabria.com/wp-content.../revista112_8-27.pdf
+   revistadown.downcantabria.com/wp-content.../revista112_8-27.pdf
    La reflexión sobre si otras personas son o no felices es, en esencia,
    una reflexión baldía. Eso solo lo pueden decir ellas y ni tú ni yo
    tenemos síndrome de Down, por lo que hay que escuchar lo que ellas
@@ -217,7 +216,7 @@ Responder a chus
    Un afectuoso saludo
    Emilio Ruiz
    Canal Down21
-   [49]Respuesta rápida [50]Responder [51]Citar
+   Respuesta rápida Responder Citar
    (BUTTON) ×
 
 Responder a Emilio Ruiz
@@ -231,14 +230,14 @@ Responder a Emilio Ruiz
    ____________________________________________________________
    ____________________________________________________________
    ____________________________________________________________
-   [52]Ir al editor...
+   Ir al editor...
    Nota: el BBcode y los emoticonos se pueden seguir utilizando. Enviar
    Cancelar
      *
      *
 
-   9 años 3 días antes - 5 años 7 meses antes [53]#55942 por
-   Respuesta de sobre el tema [54]Re: La búsqueda de la felicidad
+   9 años 1 semana antes - 5 años 7 meses antes #55942 por
+   Respuesta de sobre el tema Re: La búsqueda de la felicidad
    Queridos amigos:
    Por si no estáis al tanto, el artículo de Emilio Ruiz al que se refiere
    Chus en esta línea de comentarios acaba de aparecer en nuestra revista
@@ -247,7 +246,7 @@ Responder a Emilio Ruiz
    Un abrazo.
    Canal Down21
    Última Edición: 5 años 7 meses antes por reyes.
-   [55]Respuesta rápida [56]Responder [57]Citar
+   Respuesta rápida Responder Citar
    (BUTTON) ×
 
 Responder a
@@ -261,14 +260,14 @@ Responder a
    ____________________________________________________________
    ____________________________________________________________
    ____________________________________________________________
-   [58]Ir al editor...
+   Ir al editor...
    Nota: el BBcode y los emoticonos se pueden seguir utilizando. Enviar
    Cancelar
      * chus
      * Autor del tema
 
-   9 años 3 días antes [59]#55940 por chus
-   [60]La búsqueda de la felicidad Publicado por chus
+   9 años 1 semana antes #55940 por chus
+   La búsqueda de la felicidad Publicado por chus
    Emilio te agradezco el amplio artículo sobre la búsqueda de la
    felicidad, desde luego interesante y necesario.
    Efectivamente una de las claves es que no existe una felicidad
@@ -311,7 +310,7 @@ Responder a
    necesitaran el apoyo para cualquier cosa que quieran realizar, ya sea
    estudiar, salir de ocio, trabajar... incluso vivir !!!
    se puede ser feliz con esa dependencia ?
-   [61]Respuesta rápida [62]Responder [63]Citar
+   Respuesta rápida Responder Citar
    (BUTTON) ×
 
 Responder a chus
@@ -325,139 +324,50 @@ Responder a chus
    ____________________________________________________________
    ____________________________________________________________
    ____________________________________________________________
-   [64]Ir al editor...
+   Ir al editor...
    Nota: el BBcode y los emoticonos se pueden seguir utilizando. Enviar
    Cancelar
-     * [65]Inicio
-     * [66]Anterior
-     * [67]1
+     * Inicio
+     * Anterior
+     * 1
      * 2
      * Siguiente
      * Final
 
-     * [68]1
+     * 1
      * 2
 
    ____________________ (BUTTON)
-   [69]Rsponder Tema
+   Rsponder Tema
    [Foros Down21______________]
    Moderadores: Emilio Ruiz, Emilio Ruiz
 
-    1. [70]Foro
+    1. Foro
 
 
 
-     [71]Foros Down21
+     Foros Down21
 
 
 
-     [72]Educación y Psicología
+     Educación y Psicología
 
 
 
-     [73]La búsqueda de la felicidad
+     La búsqueda de la felicidad
 
-   [74]Gracias a [75]Foro Kunena
+   Gracias a Foro Kunena
 
-   [76]Down21 Facebook [77]Down21 YouTube [78]Down21 Twitter
+   Down21 Facebook Down21 YouTube Down21 Twitter
 
-   [79]Inicio | [80]DownCiclopedia | [81]Revista Vida
-   Adulta  | [82]Colabora
+   Inicio | DownCiclopedia | Revista Vida Adulta  | Colabora
 
-   © 2023 [83]aviso legal [84]| Política de Privacidad
+   © 2023 aviso legal | Política de Privacidad
    Síndrome de Down
 
    __________________
    __________________
    [ ] Recuérdeme
    (BUTTON) Identificarse
-     * [85]¿Recordar su usuario?
-     * [86]¿Recordar su contraseña?
-
-References
-
-   Visible links:
-   1. https://www.down21.org/foro/educacion-y-psicologia/55940-la-busqueda-de-la-felicidad.html?start=0
-   2. https://www.down21.org/foro/educacion-y-psicologia/55940-la-busqueda-de-la-felicidad.html?start=6
-   3. https://www.down21.org/
-   4. https://www.down21.org/quienes-somos.html
-   5. https://www.down21.org/foro.html
-   6. https://www.down21.org/ayuda-a-down21.html
-   7. https://www.down21.org/contacto-down21-org.html
-   8. https://www.down21.org/registrate.html
-   9. https://www.down21.org/libros-on-line.html
-  10. https://www.down21.org/revista-virtual-2023.html
-  11. https://www.down21.org/
-  12. https://www.down21.org/
-  13. https://www.down21.org/foro.html
-  14. https://www.down21.org/foro/10-foros-down-21.html
-  15. https://www.down21.org/foro/educacion-y-psicologia.html
-  16. https://www.down21.org/foro/educacion-y-psicologia/55940-la-busqueda-de-la-felicidad.html
-  17. https://www.down21.org/foro/categorias.html
-  18. https://www.down21.org/foro/recientes.html
-  19. https://www.down21.org/foro/nuevo-tema.html
-  20. https://www.down21.org/foro/buscar.html
-  21. https://www.down21.org/foro/categorias.html
-  22. https://www.down21.org/foro/recientes.html
-  23. https://www.down21.org/foro/nuevo-tema.html
-  24. https://www.down21.org/foro/buscar.html
-  25. https://www.down21.org/foro.html
-  26. https://www.down21.org/foro/10-foros-down-21.html
-  27. https://www.down21.org/foro/educacion-y-psicologia.html
-  28. https://www.down21.org/foro/educacion-y-psicologia/55940-la-busqueda-de-la-felicidad.html
-  29. https://www.down21.org/foro/educacion-y-psicologia/55940-la-busqueda-de-la-felicidad/reply.html
-  30. https://www.down21.org/foro/educacion-y-psicologia/55940-la-busqueda-de-la-felicidad.html?start=0
-  31. https://www.down21.org/foro/educacion-y-psicologia/55940-la-busqueda-de-la-felicidad.html?start=0
-  32. https://www.down21.org/foro/educacion-y-psicologia/55940-la-busqueda-de-la-felicidad.html?start=0
-  33. https://www.down21.org/foro/educacion-y-psicologia/55940-la-busqueda-de-la-felicidad.html?start=0
-  35. https://www.down21.org/foro/educacion-y-psicologia/55940-la-busqueda-de-la-felicidad.html?start=6#55950
-  36. https://www.down21.org/foro/educacion-y-psicologia/55940-la-busqueda-de-la-felicidad.html?start=6#kreply55950_form
-  37. https://www.down21.org/foro/educacion-y-psicologia/55940-la-busqueda-de-la-felicidad/reply/55950.html
-  38. https://www.down21.org/foro/educacion-y-psicologia/55940-la-busqueda-de-la-felicidad/reply/55950.html?quote=1
-  39. https://www.down21.org/foro/educacion-y-psicologia/55940-la-busqueda-de-la-felicidad/reply/55950.html
-  41. https://www.down21.org/foro/educacion-y-psicologia/55940-la-busqueda-de-la-felicidad.html?start=6#55947
-  42. https://www.down21.org/foro/educacion-y-psicologia/55940-la-busqueda-de-la-felicidad.html?start=6#kreply55947_form
-  43. https://www.down21.org/foro/educacion-y-psicologia/55940-la-busqueda-de-la-felicidad/reply/55947.html
-  44. https://www.down21.org/foro/educacion-y-psicologia/55940-la-busqueda-de-la-felicidad/reply/55947.html?quote=1
-  45. https://www.down21.org/foro/educacion-y-psicologia/55940-la-busqueda-de-la-felicidad/reply/55947.html
-  47. https://www.down21.org/foro/educacion-y-psicologia/55940-la-busqueda-de-la-felicidad.html?start=6#55945
-  48. http://revistadown.downcantabria.com/wp-content/uploads/2012/03/revista112_8-27.pdf
-  49. https://www.down21.org/foro/educacion-y-psicologia/55940-la-busqueda-de-la-felicidad.html?start=6#kreply55945_form
-  50. https://www.down21.org/foro/educacion-y-psicologia/55940-la-busqueda-de-la-felicidad/reply/55945.html
-  51. https://www.down21.org/foro/educacion-y-psicologia/55940-la-busqueda-de-la-felicidad/reply/55945.html?quote=1
-  52. https://www.down21.org/foro/educacion-y-psicologia/55940-la-busqueda-de-la-felicidad/reply/55945.html
-  54. https://www.down21.org/foro/educacion-y-psicologia/55940-la-busqueda-de-la-felicidad.html?start=6#55942
-  55. https://www.down21.org/foro/educacion-y-psicologia/55940-la-busqueda-de-la-felicidad.html?start=6#kreply55942_form
-  56. https://www.down21.org/foro/educacion-y-psicologia/55940-la-busqueda-de-la-felicidad/reply/55942.html
-  57. https://www.down21.org/foro/educacion-y-psicologia/55940-la-busqueda-de-la-felicidad/reply/55942.html?quote=1
-  58. https://www.down21.org/foro/educacion-y-psicologia/55940-la-busqueda-de-la-felicidad/reply/55942.html
-  60. https://www.down21.org/foro/educacion-y-psicologia/55940-la-busqueda-de-la-felicidad.html?start=6#55940
-  61. https://www.down21.org/foro/educacion-y-psicologia/55940-la-busqueda-de-la-felicidad.html?start=6#kreply55940_form
-  62. https://www.down21.org/foro/educacion-y-psicologia/55940-la-busqueda-de-la-felicidad/reply/55940.html
-  63. https://www.down21.org/foro/educacion-y-psicologia/55940-la-busqueda-de-la-felicidad/reply/55940.html?quote=1
-  64. https://www.down21.org/foro/educacion-y-psicologia/55940-la-busqueda-de-la-felicidad/reply/55940.html
-  65. https://www.down21.org/foro/educacion-y-psicologia/55940-la-busqueda-de-la-felicidad.html?start=0
-  66. https://www.down21.org/foro/educacion-y-psicologia/55940-la-busqueda-de-la-felicidad.html?start=0
-  67. https://www.down21.org/foro/educacion-y-psicologia/55940-la-busqueda-de-la-felicidad.html?start=0
-  68. https://www.down21.org/foro/educacion-y-psicologia/55940-la-busqueda-de-la-felicidad.html?start=0
-  69. https://www.down21.org/foro/educacion-y-psicologia/55940-la-busqueda-de-la-felicidad/reply.html
-  70. https://www.down21.org/foro.html
-  71. https://www.down21.org/foro/10-foros-down-21.html
-  72. https://www.down21.org/foro/educacion-y-psicologia.html
-  73. https://www.down21.org/foro/educacion-y-psicologia/55940-la-busqueda-de-la-felicidad.html
-  74. https://www.down21.org/foro/credits.html
-  75. https://www.kunena.org/
-  76. https://www.facebook.com/pages/Canal-Down21/158724890835081
-  77. https://www.youtube.com/c/CanalDown21
-  78. https://twitter.com/down21
-  79. https://www.down21.org/
-  80. https://www.downciclopedia.org/
-  81. http://www.sindromedownvidaadulta.org/
-  82. https://www.down21.org/ayuda-a-down21.html
-  83. https://www.down21.org/aviso-legal.html
-  84. https://www.down21.org/politica-de-privacidad.html
-  85. https://www.down21.org/component/users/?view=remind&Itemid=162
-  86. https://www.down21.org/component/users/?view=reset&Itemid=162
-
-   Hidden links:
-  88. https://www.down21.org/foro/educacion-y-psicologia/55940-la-busqueda-de-la-felicidad.html?start=6
+     * ¿Recordar su usuario?
+     * ¿Recordar su contraseña?

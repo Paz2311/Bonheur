@@ -1,45 +1,45 @@
-   IFRAME: [1]https://www.googletagmanager.com/ns.html?id=GTM-5LTFWGF
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-5LTFWGF
 
-   [2]Ciao.ch
-     * [3]Recherche
+   Ciao.ch
+     * Recherche
      * Connexion ou inscription
        Pseudo *
        ____________________
        Mot de passe *
        ____________________
        (BUTTON) Se connecter
-       [4]Tu as oublié ton mot de passe ?
-       [5]Créer un compte
+       Tu as oublié ton mot de passe ?
+       Créer un compte
      * (BUTTON) Ouvrir le menu (BUTTON) Fermer le menu
 
      * Thèmes
-          + [6]Amitié, Amour, Famille
-          + [7]Argent
-          + [8]Boire, fumer, se droguer
-          + [9]Estime de soi
-          + [10]Formation et Travail
-          + [11]Internet
-          + [12]Racisme et discriminations
-          + [13]Religions et spiritualité
-          + [14]Santé mentale
-          + [15]Santé physique
-          + [16]Sexualité
-          + [17]Violences et harcèlement
-     * [18]Questions & réponses
-     * [19]Articles
-     * [20]Forum
-     * [21]Adresses utiles
-     * [22]Test, quiz & jeux
-     * [23]Numéros d’urgence
+          + Amitié, Amour, Famille
+          + Argent
+          + Boire, fumer, se droguer
+          + Estime de soi
+          + Formation et Travail
+          + Internet
+          + Racisme et discriminations
+          + Religions et spiritualité
+          + Santé mentale
+          + Santé physique
+          + Sexualité
+          + Violences et harcèlement
+     * Questions & réponses
+     * Articles
+     * Forum
+     * Adresses utiles
+     * Test, quiz & jeux
+     * Numéros d’urgence
 
-     * [24]Accueil
-     * [25]Forum
-     * [26]C' est quoi le bonheur pour v…
+     * Accueil
+     * Forum
+     * C' est quoi le bonheur pour v…
 
 C' est quoi le bonheur pour vous ???
 
    Par Jacksparrow (Garçon / 2004 / France) le 24 mars 2022
-   [27]Voir la dernière réponse
+   Voir la dernière réponse
 
    Pour moi , le bonheur c'est pas d' avoir tout ce que l' on désire ,
    mais d' apprécier ce que l' on a ...
@@ -388,7 +388,7 @@ Répondre au sujet
 
    Pour répondre à un sujet ou à un commentaire, tu dois d’abord te
    connecter.
-   [28]Connecte-toi à ton compte
+   Connecte-toi à ton compte
    Attention
    (BUTTON)
 
@@ -397,7 +397,7 @@ Répondre au sujet
    quittes maintenant. Sois vigilant·e à ce que tu lis et vois en ligne;
    sur le web, comme dans la vie, ne donne pas ta confiance à n’importe
    qui!
-   [29]Suivre le lien (BUTTON) Rester ici
+   Suivre le lien (BUTTON) Rester ici
 
 Avec le soutien de
 
@@ -423,73 +423,28 @@ Avec le soutien de
    Avec le soutien financier de la Confédération, en vertu de l'ordonnance
    sur des mesures de protection des enfants et des jeunes et sur le
    renforcement des droits de l'enfant.
-     * [30]Retrouve CIAO sur Facebook
-     * [31]Retrouve CIAO sur Instagram
-     * [32]Retrouve CIAO sur YouTube
+     * Retrouve CIAO sur Facebook
+     * Retrouve CIAO sur Instagram
+     * Retrouve CIAO sur YouTube
 
-     * [33]Qui sommes-nous ?
-     * [34]Foire aux questions
-     * [35]Contacter CIAO
-     * [36]Partenaires
-     * [37]Conditions d'utilisation
-     * [38]Commander du matériel
+     * Qui sommes-nous ?
+     * Foire aux questions
+     * Contacter CIAO
+     * Partenaires
+     * Conditions d'utilisation
+     * Commander du matériel
 
 ciao.ch
 
    ciao.ch met à disposition les compétences de professionnel·le·s pour
    les jeunes romand·e·s de 11 à 20 ans.
 
-   Le site est géré par l'[39]association romande CIAO, basée à Lausanne.
+   Le site est géré par l'association romande CIAO, basée à Lausanne.
 
    L'association est reconnue comme organisation d'utilité publique. Les
    dons sont déductibles fiscalement. Pour soutenir CIAO : IBAN: CH39 0900
    0000 1000 5261 6 / CCP: 10-5261-6
    Ouvrir les actions Fermer les actions
-     * [40]Poser une question à un·e spécialiste
-     * [41]Discuter avec d’autres jeunes
-     * [42]Accéder aux numéros d’urgence
-
-References
-
-   1. https://www.googletagmanager.com/ns.html?id=GTM-5LTFWGF
-   2. https://www.ciao.ch/
-   3. https://www.ciao.ch/recherche/
-   4. https://www.ciao.ch/mot-de-passe-oublie/
-   5. https://www.ciao.ch/inscription/
-   6. https://www.ciao.ch/themes/relations/
-   7. https://www.ciao.ch/themes/argent/
-   8. https://www.ciao.ch/themes/drogues/
-   9. https://www.ciao.ch/themes/estime-de-soi/
-  10. https://www.ciao.ch/themes/travail/
-  11. https://www.ciao.ch/themes/internet/
-  12. https://www.ciao.ch/themes/racismes/
-  13. https://www.ciao.ch/themes/croyances/
-  14. https://www.ciao.ch/themes/sante-mentale/
-  15. https://www.ciao.ch/themes/sante/
-  16. https://www.ciao.ch/themes/sexualite/
-  17. https://www.ciao.ch/themes/violences/
-  18. https://www.ciao.ch/questions/
-  19. https://www.ciao.ch/articles/
-  20. https://www.ciao.ch/forum/
-  21. https://www.ciao.ch/adresses-pres-de-chez-toi/
-  22. https://www.ciao.ch/games/
-  23. https://www.ciao.ch/pages/numeros-urgence/
-  24. https://www.ciao.ch/
-  25. https://www.ciao.ch/forum/
-  26. https://www.ciao.ch/forum/c-est-quoi-le-bonheur-pour-vous/
-  27. https://www.ciao.ch/forum/c-est-quoi-le-bonheur-pour-vous/#reponse-id-75435
-  28. https://www.ciao.ch/connexion/?next=/forum/c-est-quoi-le-bonheur-pour-vous/#repondre
-  29. https://www.ciao.ch/forum/c-est-quoi-le-bonheur-pour-vous/
-  30. https://www.facebook.com/ciao.ch
-  31. https://www.instagram.com/ciao.ch/
-  32. https://www.youtube.com/user/wwwciaoch
-  33. https://www.ciao.ch/pages/qui-sommes-nous/
-  34. https://www.ciao.ch/pages/faq/
-  35. https://www.ciao.ch/contacter-ciao/
-  36. https://www.ciao.ch/pages/partenaires/
-  37. https://www.ciao.ch/pages/conditions-utilisation/
-  38. https://associationciao.ch/commander
-  39. https://associationciao.ch/
-  40. https://www.ciao.ch/espace-perso/
-  41. https://www.ciao.ch/forum/
-  42. https://www.ciao.ch/pages/numeros-urgence/
+     * Poser une question à un·e spécialiste
+     * Discuter avec d’autres jeunes
+     * Accéder aux numéros d’urgence

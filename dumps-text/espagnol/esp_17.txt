@@ -1,38 +1,38 @@
-   #[1]obten las últimas entradas del foro directamente en tu escritorio
+   #obten las últimas entradas del foro directamente en tu escritorio
 
    No has iniciado sesión
-     * [2]Foro
-     * [3]Blog
-     * [4]Descargas
-     * [5]Colabora
-     * [6]Reglas del foro
-     * [7]Enlaces web
-     * [8]Quiénes somos
-     * [9]Registro
+     * Foro
+     * Blog
+     * Descargas
+     * Colabora
+     * Reglas del foro
+     * Enlaces web
+     * Quiénes somos
+     * Registro
 
-     * [10]Categorías
-     * [11]Temas Recientes
-     * [12]Buscar
+     * Categorías
+     * Temas Recientes
+     * Buscar
 
    Bienvenido, Invitado
    Nombre de Usuario: __________________ Contraseña: __________________
    Recordarme [ ] Entrar
-   [13]Contraseña olvidada? [14]Nombre de Usuario?
-   [15]Grado en Filosofía
-   [16]UNED - General
-   [17]Iniciación a los estudios
-   [18]Nueva Estudiante
+   Contraseña olvidada? Nombre de Usuario?
+   Grado en Filosofía
+   UNED - General
+   Iniciación a los estudios
+   Nueva Estudiante
      * Página:
-     * [19]1
-     * [20]2
+     * 1
+     * 2
      * 3
 
 TEMA: Nueva Estudiante
 
-Nueva Estudiante 01 Mar 2021 19:21 [21]#61176
+Nueva Estudiante 01 Mar 2021 19:21 #61176
 
-     * [22]alva99
-     * [23]Avatar de alva99
+     * alva99
+     * Avatar de alva99
      * DESCONECTADO
      * Jonio
      *
@@ -51,10 +51,10 @@ Nueva Estudiante 01 Mar 2021 19:21 [21]#61176
    [EMBED]
    El administrador ha desactivado la escritura pública.
 
-Nueva Estudiante 01 Mar 2021 19:58 [24]#61180
+Nueva Estudiante 01 Mar 2021 19:58 #61180
 
-     * [25]serchlobar89
-     * [26]Avatar de serchlobar89
+     * serchlobar89
+     * Avatar de serchlobar89
      * DESCONECTADO
      * Aristotélico
      *
@@ -83,12 +83,12 @@ Nueva Estudiante 01 Mar 2021 19:58 [24]#61180
    llena que leyendo Aristóteles (últimamente apetece más emborracharse
    con los amigos que leer Aristóteles). Todo depende del momento y de lo
    que te gusta hacer.
-   Última Edición: 01 Mar 2021 20:00 por [27]serchlobar89.
+   Última Edición: 01 Mar 2021 20:00 por serchlobar89.
    El administrador ha desactivado la escritura pública.
-   Los siguientes usuarios han agradecido: , [28]Heráclida,
-   [29]Marcoaurelio, [30]Adri_Abelenda
+   Los siguientes usuarios han agradecido: , Heráclida, Marcoaurelio,
+   Adri_Abelenda
 
-Nueva Estudiante 01 Mar 2021 20:35 [31]#61182
+Nueva Estudiante 01 Mar 2021 20:35 #61182
 
      *
      * Avatar de
@@ -167,10 +167,10 @@ Nueva Estudiante 01 Mar 2021 20:35 [31]#61182
    Última Edición: 01 Mar 2021 20:38 por .
    El administrador ha desactivado la escritura pública.
 
-Nueva Estudiante 01 Mar 2021 21:49 [32]#61192
+Nueva Estudiante 01 Mar 2021 21:49 #61192
 
-     * [33]serchlobar89
-     * [34]Avatar de serchlobar89
+     * serchlobar89
+     * Avatar de serchlobar89
      * DESCONECTADO
      * Aristotélico
      *
@@ -202,7 +202,7 @@ Nueva Estudiante 01 Mar 2021 21:49 [32]#61192
    los amigos como si me fueran a cerrar el bar mañana.
    El administrador ha desactivado la escritura pública.
 
-Nueva Estudiante 02 Mar 2021 14:04 [35]#61234
+Nueva Estudiante 02 Mar 2021 14:04 #61234
 
      *
      * Avatar de
@@ -214,10 +214,10 @@ Nueva Estudiante 02 Mar 2021 14:04 [35]#61234
    qué no lo puede hacer un cura? :lol:
    El administrador ha desactivado la escritura pública.
 
-Nueva Estudiante 02 Mar 2021 20:49 [36]#61273
+Nueva Estudiante 02 Mar 2021 20:49 #61273
 
-     * [37]vieyra79
-     * [38]Avatar de vieyra79
+     * vieyra79
+     * Avatar de vieyra79
      * DESCONECTADO
      * Presocrático
      *
@@ -229,86 +229,25 @@ Nueva Estudiante 02 Mar 2021 20:49 [36]#61273
    Creo que ya está todo dicho acerca de Borja Vilaseca, sin embargo me
    gustaría romper una lanza en su favor, o más bien en favor de sus
    agentes.
-   [39]ibb.co/kBgwWht
+   ibb.co/kBgwWht
    Para una de sus charlas utilizaron una antigua fábrica Damm, lo que me
    recuerda la Voll Damm así que al final Plinio siempre tiene razón,
    incluso del peor libro podemos sacar una buena enseñanza:
    Nullum esse librum tam malum ut non áliqua parte prodesset
    :woohoo:
-   Última Edición: 02 Mar 2021 20:51 por [40]vieyra79.
+   Última Edición: 02 Mar 2021 20:51 por vieyra79.
    El administrador ha desactivado la escritura pública.
      * Página:
-     * [41]1
-     * [42]2
+     * 1
+     * 2
      * 3
 
    [- - Iniciación a los estudios________________________________.] Ir
-   [43]Grado en Filosofía
-   [44]UNED - General
-   [45]Iniciación a los estudios
-   [46]Nueva Estudiante
-   Tiempo de carga de la página: 0.242 segundos
-   [47]Gracias a [48]Foro Kunena
-     * [49]Contactar
-     * [50]Quiénes Somos
-
-References
-
-   Visible links:
-   1. https://www.filosofiauned.es/index.php?option=com_kunena&view=topics&format=feed&layout=default&mode=replies&sel=168&type=rss&Itemid=74
-   2. https://www.filosofiauned.es/index.php?option=com_kunena&view=home&Itemid=20
-   3. https://www.filosofiauned.es/index.php?option=com_wrapper&view=wrapper&Itemid=87
-   4. https://www.filosofiauned.es/index.php?option=com_phocadownload&view=sections&Itemid=19
-   5. https://www.filosofiauned.es/index.php?option=com_content&view=article&id=12&Itemid=92
-   6. https://www.filosofiauned.es/index.php?option=com_content&view=article&id=10&Itemid=90
-   7. https://www.filosofiauned.es/index.php?option=com_weblinks&view=categories&Itemid=37
-   8. https://www.filosofiauned.es/index.php?option=com_content&view=article&id=3&Itemid=30
-   9. https://www.filosofiauned.es/index.php?option=com_content&view=article&id=11&Itemid=91
-  10. https://www.filosofiauned.es/index.php?option=com_kunena&view=category&layout=list&Itemid=73
-  11. https://www.filosofiauned.es/index.php?option=com_kunena&view=topics&mode=replies&Itemid=74
-  12. https://www.filosofiauned.es/index.php?option=com_kunena&view=search&Itemid=80
-  13. https://www.filosofiauned.es/index.php?option=com_user&view=reset
-  14. https://www.filosofiauned.es/index.php?option=com_user&view=remind
-  15. https://www.filosofiauned.es/index.php?option=com_kunena&view=category&catid=100&Itemid=72
-  16. https://www.filosofiauned.es/index.php?option=com_kunena&view=category&catid=4&Itemid=72
-  17. https://www.filosofiauned.es/index.php?option=com_kunena&view=category&catid=77&Itemid=72
-  18. https://www.filosofiauned.es/index.php?option=com_kunena&view=category&catid=77&id=22585&Itemid=72
-  19. https://www.filosofiauned.es/index.php?option=com_kunena&view=topic&catid=77&id=22585&Itemid=72&limitstart=0
-  20. https://www.filosofiauned.es/index.php?option=com_kunena&view=topic&catid=77&id=22585&Itemid=72&limitstart=10
-  21. https://www.filosofiauned.es/index.php?option=com_kunena&view=topic&catid=77&id=22585&limitstart=20&Itemid=72#61176
-  22. https://www.filosofiauned.es/index.php?option=com_kunena&userid=69942&view=user&Itemid=72
-  23. https://www.filosofiauned.es/index.php?option=com_kunena&userid=69942&view=user&Itemid=72
-  24. https://www.filosofiauned.es/index.php?option=com_kunena&view=topic&catid=77&id=22585&limitstart=20&Itemid=72#61180
-  25. https://www.filosofiauned.es/index.php?option=com_kunena&userid=69398&view=user&Itemid=72
-  26. https://www.filosofiauned.es/index.php?option=com_kunena&userid=69398&view=user&Itemid=72
-  27. https://www.filosofiauned.es/index.php?option=com_kunena&userid=69398&view=user&Itemid=72
-  28. https://www.filosofiauned.es/index.php?option=com_kunena&userid=11622&view=user&Itemid=72
-  29. https://www.filosofiauned.es/index.php?option=com_kunena&userid=39966&view=user&Itemid=72
-  30. https://www.filosofiauned.es/index.php?option=com_kunena&userid=69732&view=user&Itemid=72
-  31. https://www.filosofiauned.es/index.php?option=com_kunena&view=topic&catid=77&id=22585&limitstart=20&Itemid=72#61182
-  32. https://www.filosofiauned.es/index.php?option=com_kunena&view=topic&catid=77&id=22585&limitstart=20&Itemid=72#61192
-  33. https://www.filosofiauned.es/index.php?option=com_kunena&userid=69398&view=user&Itemid=72
-  34. https://www.filosofiauned.es/index.php?option=com_kunena&userid=69398&view=user&Itemid=72
-  35. https://www.filosofiauned.es/index.php?option=com_kunena&view=topic&catid=77&id=22585&limitstart=20&Itemid=72#61234
-  36. https://www.filosofiauned.es/index.php?option=com_kunena&view=topic&catid=77&id=22585&limitstart=20&Itemid=72#61273
-  37. https://www.filosofiauned.es/index.php?option=com_kunena&userid=4993&view=user&Itemid=72
-  38. https://www.filosofiauned.es/index.php?option=com_kunena&userid=4993&view=user&Itemid=72
-  39. https://ibb.co/kBgwWht
-  40. https://www.filosofiauned.es/index.php?option=com_kunena&userid=4993&view=user&Itemid=72
-  41. https://www.filosofiauned.es/index.php?option=com_kunena&view=topic&catid=77&id=22585&Itemid=72&limitstart=0
-  42. https://www.filosofiauned.es/index.php?option=com_kunena&view=topic&catid=77&id=22585&Itemid=72&limitstart=10
-  43. https://www.filosofiauned.es/index.php?option=com_kunena&view=category&catid=100&Itemid=72
-  44. https://www.filosofiauned.es/index.php?option=com_kunena&view=category&catid=4&Itemid=72
-  45. https://www.filosofiauned.es/index.php?option=com_kunena&view=category&catid=77&Itemid=72
-  46. https://www.filosofiauned.es/index.php?option=com_kunena&view=category&catid=77&id=22585&Itemid=72
-  47. https://www.filosofiauned.es/index.php?option=com_kunena&view=credits&Itemid=72
-  48. http://www.kunena.org/
-  49. https://www.filosofiauned.es/index.php?option=com_content&view=article&id=14&Itemid=32
-  50. https://www.filosofiauned.es/index.php?option=com_content&view=article&id=3&Itemid=33
-
-   Hidden links:
-  52. http://www.filosofiauned.es/
-  53. https://www.filosofiauned.es/index.php?option=com_kunena&view=topic&catid=77&id=22585&limitstart=20&Itemid=72#forumbottom
-  54. https://www.filosofiauned.es/index.php?option=com_kunena&view=topic&catid=77&id=22585&limitstart=20&Itemid=72#forumtop
-  55. https://www.filosofiauned.es/index.php?option=com_kunena&view=topics&format=feed&layout=default&mode=replies&sel=168&type=rss&Itemid=74
-  56. https://www.filosofiauned.es/index.php?option=com_kunena&view=topic&catid=77&id=22585&limitstart=20&Itemid=72#page
+   Grado en Filosofía
+   UNED - General
+   Iniciación a los estudios
+   Nueva Estudiante
+   Tiempo de carga de la página: 0.237 segundos
+   Gracias a Foro Kunena
+     * Contactar
+     * Quiénes Somos
