@@ -93,9 +93,9 @@ do
 	encodage=$(curl -s -I -L -w "%{content_type}" -o /dev/null $URL | grep -P -o "charset=\S+" | cut -d"=" -f2 | tail -n 1)
 	aspirations=$(curl -o "../aspirations/polonais/pl_${lineno}.html" $URL)
 	dump=$(lynx -dump -nolist $URL > "../dumps-text/polonais/pl_${lineno}.txt")
-	compte=$(lynx -dump "../dumps-text/polonais/pl_${lineno}.txt" | tr '[:space:]' '\n' | egrep "szczęście" -wc)
+	compte=$(lynx -dump "../dumps-text/polonais/pl_${lineno}.txt" | tr '[:space:]' '\n' | egrep "szczęście|szczęścia|szczęściu|szczęściem|szczescie|szczescia|szczesciu|szczesciem" -wc)
 
-	contexte=$(grep -B 1 -A 1 -i "szczęście" "../dumps-text/polonais/pl_${lineno}.txt")
+	contexte=$(grep -B 1 -A 1 -i "szczęście|szczęścia|szczęściu|szczęściem|szczescie|szczescia|szczesciu|szczesciem" "../dumps-text/polonais/pl_${lineno}.txt")
 
     # Sauvegarder les contextes en .txt et en les nommant
     echo "$contexte" > "../contextes/polonais/pl_${lineno}.txt"
