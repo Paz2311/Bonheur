@@ -343,15 +343,15 @@ Moje tagi
 
 Popularne tagi
 
-     * c++× 21605
-     * java× 16429
-     * c#× 16166
-     * php× 7632
-     * c× 7543
+     * c++× 21609
+     * java× 16432
+     * c#× 16171
+     * php× 7635
+     * c× 7545
      * delphi× 5350
-     * javascript× 4463
-     * sql× 3744
-     * python× 3175
+     * javascript× 4468
+     * sql× 3747
+     * python× 3176
      * mysql× 2961
 
 Strony pokrewne
@@ -411,4 +411,4 @@ Skontaktuj się z nami
 
    Copyright © 2000-2023 4programmers.net - programowanie i tworzenie
    stron WWW
-   Coyote 2.5: 124 ms
+   Coyote 2.5: 143 ms

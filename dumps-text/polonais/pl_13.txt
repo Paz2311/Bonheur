@@ -1230,77 +1230,68 @@ Udostępnij na innych stronach
 
      *
      * Tematy
-          + fic
-            3
-            Jaka to wtyczka?
-            Przez fic
-            Napisano 19 godzin temu
-          + kamilkusio
-            1662
-            Baldur's Gate 3
-            Przez kamilkusio
-            Napisano 24 Stycznia 2014
-          + MateuszTbg
-            9
-            Pomoc w zakupie laptopa do ok 4500zł Programy Filmy Internet
-            Przez MateuszTbg
-            Napisano Czwartek o 14:42
-          + Somebody101
+          + tihomax
+            8
+            Rx 6700xt czy warto ten model
+            Przez tihomax
+            Napisano 2 godziny temu
+          + azgan
+            930
+            Forspoken - wątek zbiorczy PS5 oraz PC
+            Przez azgan
+            Napisano 12 Czerwca 2020
+          + Keyser_Soze
+            142402
+            Off Polityczny
+            Przez Keyser_Soze
+            Napisano 8 Marca 2012
+          + Dywan0
             1
-            Laptop do 6tys, z bdb matrycą
-            Przez Somebody101
-            Napisano 1 godzinę temu
-          + Ciachus4040
-            1196
-            VR - temat główny
-            Przez Ciachus4040
-            Napisano 17 Stycznia 2020
+            Ocena zestawu
+            Przez Dywan0
+            Napisano 40 minut temu
+          + yrgna
+            10
+            LG 27GP850P
+            Przez yrgna
+            Napisano Wczoraj o 10:37
      * Odpowiedzi
-          + MarcinMagic
-            Pomoc w zakupie laptopa do ok 4500zł Programy Filmy Internet
-            Przez MarcinMagic · Napisano 1 minutę temu
-            Ja Ci poleciłem bardzo dobry sprzęt. Ale jak chcesz, to
-            kombinuj po swojemu.
-          + Qrdello
-            Laptop do 6tys, z bdb matrycą
-            Przez Qrdello · Napisano 2 minuty temu
-            Legiony mają porządne matryce, szczególnie w wersji PRO.
-            Alternatywą będą TUFy gaming, i w tych pieniądzach jesteś w
-            stanie kupić model taki jak mój z sygnatury. Tutaj matryca też
-            ma pokrycie srgb 100%, ale jest tylko 1080p i 144hz. Jeżeli
-            chodzi o wydajność, to ten Twój wybrany model spokojnie da
-            radę w grach, nawet obsługując czasem najwyższe detale -
-            jedyne co będzie go tutaj nieco ograniczać to wyższa niż
-            nominalna dla tej karty rozdzielczość matrycy. W 1600p nie
-            pograsz na maks detalach w bardzo wymagające tytuły, chyba że
-            dlss włączysz na balanced albo performance. Poza tym,
-            powinieneś być zadowolony. 👌
-          + marioking
-            VR - temat główny
-            Przez marioking · Napisano 2 minuty temu
-            Ja  bym sie bardziej obawiał ze raczej do jutra jest promka na
-            pico 4 meta quest 2 to szrot
-          + skunRace
-            Sprzedaż karty RTX 3070 Tuf
-            Przez skunRace · Napisano 8 minut temu
-            Tego nie wiesz, wiele z nich jest nie dawno wystawionych. Jak
-            pisałem ja sprzedałem bez problemu 2070 Super za 1100zł ponad
-            miesiąc temu, pytało o nią kilka osób, a ogłoszenie wisiało
-            równe 9 dni. Tutaj karta ma tylko pół roku i jak ma papiery to
-            pójdzie bez problemu za więcej.
-          + bbandi
-            Niesamowita oprawa graficzna i artystyczna czyli screeny z
-            najpiękniejszych gier
-            Przez bbandi · Napisano 10 minut temu
-            Fabuła niezbyt odkrywcza, na ziemi kończą się zasoby i lecimy
-            w kosmos szukać rozwiązania problemu - sam gameplay bardzo
-            przyjemny, poruszamy się po bazie kosmicznej, kosmosie i
-            robimy puzzle - rozwiązujemy zagadki, grałem niezbyt długo ale
-            mi ta forma pasuje - graficznie jest sztos, optymalizacja
-            bardzo dobra, gram z DLSS Quality który jest świetnie
-            zaimplementowany i do tego full RT i działa mi nadzwyczaj
-            dobrze - i do tego to indyk, inni się od nich powinni uczyć.
-
+          + Spl97
+            Off Polityczny
+            Przez Spl97 · Napisano 2 minuty temu
+            Szczęść Boże wczoraj starł się z Hołownią, a dzisiaj starł się
+            z Czarzastym . Czekam na moment, kiedy Szczęść Boże w nowej
+            kadencji zostanie wykluczony przez marszałka lub
+            wicemarszałków z obrad .
+          + forskoczek20
+            Ocena zestawu
+            Przez forskoczek20 · Napisano 2 minuty temu
+            Do czego będzie służył komputer?
+          + Reddzik
+            LG 27GP850P
+            Przez Reddzik · Napisano 2 minuty temu
+            Też mam ten monitor, jestem bardzo zadowolony, wiadomo, że
+            trzeba brać na "klatę" wszelkie minusy IPS, ale mi to nie
+            przeszkadza, mam też podpiętą konsole PS5 pod monitor, zamiast
+            LG brałbym teraz Della G2724D, bo ma VRR, więc to byłby dla
+            mnie plus przy korzystaniu z PS5. Wieczorami gram przy lampce,
+            która stoi przy monitorze na biurku, nie siedzę w ciemnym
+            pomieszczeniu.
+          + hellseeker
+            Zestaw za 3k. Coś wymienić ? Dodać ?
+            Przez hellseeker · Napisano 3 minuty temu
+            Dopytam  No a czym się różnią od siebie np te dwie karty:
+            https://allegro.pl/oferta/powercolor-fighter-rx-6700xt-1468454
+            9401
+            https://allegro.pl/oferta/karta-graficzna-asrock-radeon-rx-670
+            0-xt-challenger-d-12gb-gddr6-192bit-14795230839 Tandetne
+            chłodzenie tzn słabo chłodzi? Głośno chodzi? Psuje się  ?
+          + tihomax
+            Rx 6700xt czy warto ten model
+            Przez tihomax · Napisano 4 minuty temu
+            Mnie właśnie te cewki i temperatury martwią temu się
+            zastanawiałem który rx 6700 xt wybrać. Tam 100 w ta czy tamtą
+            to nie problem ale wolałbym uniknąć problemów.
      * Aktywni użytkownicy
           + Tydzień
           + Miesiąc
@@ -1309,23 +1300,23 @@ Udostępnij na innych stronach
          1. 1
             Camis
             Camis
-            102
+            68
          2. 2
             TheMr.
             TheMr.
-            78
+            66
          3. 3
-            RimciRimci
-            RimciRimci
-            56
+            Send1N
+            Send1N
+            62
          4. 4
-            Send1N
-            Send1N
-            54
-         5. 5
-            LeBomB
-            LeBomB
+            Kyle_PL
+            Kyle_PL
             40
+         5. 5
+            bergercs
+            bergercs
+            35
        Pokaż więcej
 
      * Cała aktywność

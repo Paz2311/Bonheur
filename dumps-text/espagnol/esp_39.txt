@@ -31,7 +31,7 @@
      * Índice general SofosAgora 1.0 Filosofía general
      * Buscar
      *
-          + Fecha actual 26 Nov 2023, 18:02
+          + Fecha actual 29 Nov 2023, 21:08
           + Todos los horarios son UTC+02:00
 
 ¿Cómo es la/el mejor app/sitio posible que puedas imaginar? ¿y...?

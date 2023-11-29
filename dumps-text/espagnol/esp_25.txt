@@ -1,7 +1,7 @@
    #Noticias Changelog Devblog alternate alternate alternate
 
    Soporte
-   Conexión Avatar Inscripción
+   Conexión Avatar
    FR EN ES PT
 
    Ankama
@@ -13,7 +13,7 @@
      * Foros
      * Tienda
 
-   Conexión Avatar Inscripción
+   Conexión Avatar
    búsqueda..._________
    [BUTTON Input] (not implemented)__
 
@@ -262,7 +262,7 @@
      * Compartir en Facebook
      * Compartir en Twitter
 
-   Resultado : 147
+   Resultado : 148
    campurusito#9572 - ABONADO - 01 de Junio de 2012 03:25:37
 
    para los que son de venezuela los ladrones de NACHO Y TECNI-CIENCIAS

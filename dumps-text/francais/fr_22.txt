@@ -371,7 +371,7 @@ Re: Défintion du bonheur :
 
 Qui est en ligne ?
 
-   Utilisateur(s) parcourant ce forum : Bing [Bot], Google [Bot] et 4
+   Utilisateur(s) parcourant ce forum : Aucun utilisateur inscrit et 13
    invité(s)
      * L’équipe • Supprimer tous les cookies du forum • Le fuseau horaire
        est UTC+1 heure [Heure d’été]
@@ -379,5 +379,3 @@ Qui est en ligne ?
    Propulsé par phpBB® Forum Software © phpBB Group
    Traduit en français par Maël Soucaze.
    phpBB Metro Theme by PixelGoose Studio
-
-   cron

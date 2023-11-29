@@ -1298,19 +1298,11 @@ Immateriel
      __________________________________________________________________
 
      *
-     * Populaires actuellement
-          + Doïna
-            38
-            La France s’oppose à un texte de l’UE souhaitant caractériser
-            le viol par l’absence de consentement
-            Par Doïna
-            Commencé il y a 3 heures
-          + Athéna06
-            17
-            Ou sont les spinoziste?
-            Par Athéna06
-            Commencé il y a 3 heures
      *
+     * Contenu similaire
+          + AIN : des tueurs à gage en lien avec les rens...
+          + Un touriste russe révèle aux Ukrainiens la po...
+          + La Chine cherche la première base militaire s...
      *
      *
 
@@ -1372,7 +1364,7 @@ Bienvenue sur Forum Fr !
      *
      *
 
-     * 0.2528
+     * 0.27
      * Politique de confidentialité
      * Nous contacter
      * CGU

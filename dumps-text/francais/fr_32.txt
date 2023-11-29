@@ -268,7 +268,7 @@ dépend des...
    Bulle
           Bulle
           Aka Lamité
-          Féminin Nombre de messages : 56493
+          Féminin Nombre de messages : 56520
           Localisation : Algarve
           Identité métaphysique : athée, grâce à Dieu
           Humeur : .. trière !
@@ -338,7 +338,7 @@ dépend des...
    Magnus
           Magnus
           Aka Tipik St Pie d'House
-          Masculin Nombre de messages : 31695
+          Masculin Nombre de messages : 31702
           Localisation : Tribu des Trévires en alliance avec la Tribu des
           Vulgenties
           Identité métaphysique : Atypique
@@ -398,7 +398,7 @@ dépend des...
    Magnus
           Magnus
           Aka Tipik St Pie d'House
-          Masculin Nombre de messages : 31695
+          Masculin Nombre de messages : 31702
           Localisation : Tribu des Trévires en alliance avec la Tribu des
           Vulgenties
           Identité métaphysique : Atypique
@@ -491,7 +491,7 @@ dépend des...
    Magnus
           Magnus
           Aka Tipik St Pie d'House
-          Masculin Nombre de messages : 31695
+          Masculin Nombre de messages : 31702
           Localisation : Tribu des Trévires en alliance avec la Tribu des
           Vulgenties
           Identité métaphysique : Atypique
@@ -599,7 +599,7 @@ dépend des...
    Bulle
           Bulle
           Aka Lamité
-          Féminin Nombre de messages : 56493
+          Féminin Nombre de messages : 56520
           Localisation : Algarve
           Identité métaphysique : athée, grâce à Dieu
           Humeur : .. trière !
@@ -637,7 +637,7 @@ dépend des...
    Magnus
           Magnus
           Aka Tipik St Pie d'House
-          Masculin Nombre de messages : 31695
+          Masculin Nombre de messages : 31702
           Localisation : Tribu des Trévires en alliance avec la Tribu des
           Vulgenties
           Identité métaphysique : Atypique
