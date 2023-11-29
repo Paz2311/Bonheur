@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tableaux</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css">
+    <link rel="stylesheet" href="./assets/css/style1.css">
+
+    <link href="https://fonts.googleapis.com/css2?family=Abel&family=Bad+Script&family=Montserrat&family=Poppins:wght@200&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <div class="fond">
+      <ul class="menu">
+              <li><a href="index.html">Accueil</a></li>
+              <li><a href="choix.html">Choix du mot</a></li>
+              <li><a href="tableaux.html">Tableaux</a></li>
+              <li><a href="#">...</a></li>
+      </ul>
+      <section class="section texte m-3 is-size-6">
+        <h1 class="title">Résultat des tableaux : </h1>
+        <h2 class="subtitle">Ci-dessous, vous trouverez 3 boutons qui vous enverront vers le tableaux du <strong>français</strong>, de l'<strong>espagnols</strong> et <strong>polonais</strong>.
+        </h2>
+        <p>Dans chaque tableau vous trouverez : </p>
+        <ul class="is-size-6 is-unstyled">
+          <li>- Le numéro de la ligne</li>
+          <li>- Le lien URL de la page web</li>
+          <li>- Le code HTTP, c'est-à-dire la réponse du navigateur lorsque l'utilisateur se trouve sur le site</li>
+          <li>- L'encodage de la page</li>
+          <li>- Le lien des pages aspirées au format HTML</li>
+          <li>- Le lien des dumps-text en .txt</li>
+          <li>- Le nombre d'occurrences</li>
+          <li>- Le contexte droit et gauche en .txt</li>
+        </ul>
+        </br>
+        <!-- Boutons pour ouvrir les fenêtres -->
+        <button class="openButton button is-link is-light" onclick="openPopup('./tableaux/tableaux_fr.html')">Français</button>
+        <button class="openButton button is-link is-light" onclick="openPopup('./tableaux/tableaux_esp.html')">Espagnols</button>
+        <button class="openButton button is-link is-light" onclick="openPopup('./tableaux/tableaux_pl.html')">Polonais</button>
+      </section>
+
+    </div>
+    <script src="./assets/js/script.js"></script>
+  </body>
+</html>
