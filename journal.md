@@ -64,5 +64,16 @@ De plus, pour le français, la fin de la page est ajoutée deux fois. Voici, ce 
 Malgrés nos efforts, nous ne comprenons pas pourquoi cela fait ça. Par ailleurs, pendant l'analyse sur iTrameur, cela ne nous a pas posé de problème parce que cela n'affectait  pas les résultats. Le seul problème est que dans les cadres, cela ajoute des cadres avec seulement le symbole §.
 
 ### Maria :
+Personnellement, j'ai eu des problemes au momment d'utiliser la commande vue en cours pours construire le concordancier. J'ai essayé d'utiliser cette commande et c'est celle qui a montré les meilleurs résultats. C'est pour cette raison que nous avons utilisé le code :
+     while IFS= read -r line;
+        do
+            matches=($(grep -o -P "${MOT}" <<< "$line"))
+            for match in "${matches[@]}";
+            do
+                echo "<tr><td>${line%%$match*}</td><td>$match</td><td>${line#*$match}</td></tr>">>
+            done
+        done < "$file"
+Par rapport à iTrameur, je trouve cette plateforme hyper intéressante et outile pour le traitement de corpus.
 
 ### Discussion en groupe :
+Ce devoir a été difficile, non pas en raison de la complexité de l'exercice en tant que lui, mais parce que nous avons la sensation que les instructions n'étaient pas claires. Nous n'avons pas compris s'il fallait faire un document .txt avec tous les contextes des trois langues, mais à la fin on a en a fait seulement un avec tous les contextes par langue. Aussi, nous n'avons pas très bien compris dans quel format il fallait rendre les analyses issues d'iTrameur ou quelles étaient les caractéristiques de cette analyse. C'est pour cette raison que nous avons commencé à faire un pdf avec l'analyse de chaque langue que nous continuerons à développer si c'est le cas.
