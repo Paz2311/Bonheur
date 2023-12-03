@@ -56,7 +56,9 @@ echo "
                     <th>Aspiration</th>
                     <th>Dump-text</th>
                     <th>Compte</th>
-                    <th>Contexte</th></tr> "
+                    <th>Contexte</th>
+                    <th>Concordancier</th>
+                    </tr> "
 
 
 
@@ -84,6 +86,7 @@ do
 					<td><a href=\"../dumps-text/polonais/pl_${lineno}.txt\">pl_${lineno}.txt</a></td>
 					<td>$compte</td>
 					<td><a href='../contextes/polonais/pl_${lineno}.txt'>pl_${lineno}.txt</a></td>
+					<td><a href='../concordances/polonais/pl_${lineno}.html'>pl_${lineno}.html</a></td>
 				</tr>"
 	lineno=$(expr $lineno + 1)
 done < ../URLs/$URLS
