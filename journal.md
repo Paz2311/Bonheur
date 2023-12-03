@@ -39,6 +39,8 @@ De plus, nous avons longuement discuté de l'exercice 5 parce que le concordanci
 
 ### Agata :
 
+En explorant iTrameur, j'ai rencontré quelques difficultés et je n'arrivais pas à me repérer sur le site. J'ai également trouvé que la complexité de la langue polonaise nécessitait un peu plus de travail. Ainsi, le nombre d'occurrences d'un mot n'est pas très clair car un mot peut être conjugué de 7 manières différentes. Par conséquent, il est plus difficile de trouver les mots qui reviennent le plus souvent dans le contexte du bonheur, car ils sont divisés par cas. Cependant, en tapant au moins le début du mot, j'ai pu trouver plus d'occurrences du même mot.
+
 ### Patricia :
 Cette séance avait pour objectif de poursuivre notre projet. Au cours de la séance, nous avons accompli plusieurs tâches :
 - corriger les exercices
