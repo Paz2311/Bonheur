@@ -90,18 +90,18 @@ Twoja recepta na szczęście
 
 Rekomendowane odpowiedzi
 
-Lexus    19
+Lexus    21
 
    Lexus
 
-Lexus    19
+Lexus    21
 
      * House
      *
      * Lexus
      * Forumowicze
-     * 19
-     * 3098 odpowiedzi
+     * 21
+     * 3105 odpowiedzi
 
      *
 
@@ -220,18 +220,18 @@ Udostępnij na innych stronach
      *
      *
 
-Lexus    19
+Lexus    21
 
    Lexus
 
-Lexus    19
+Lexus    21
 
      * House
      *
      * Lexus
      * Forumowicze
-     * 19
-     * 3098 odpowiedzi
+     * 21
+     * 3105 odpowiedzi
 
      *
 
@@ -404,18 +404,18 @@ Udostępnij na innych stronach
      *
      *
 
-Lexus    19
+Lexus    21
 
    Lexus
 
-Lexus    19
+Lexus    21
 
      * House
      *
      * Lexus
      * Forumowicze
-     * 19
-     * 3098 odpowiedzi
+     * 21
+     * 3105 odpowiedzi
 
      *
 
@@ -449,18 +449,18 @@ Udostępnij na innych stronach
      *
      *
 
-Lexus    19
+Lexus    21
 
    Lexus
 
-Lexus    19
+Lexus    21
 
      * House
      *
      * Lexus
      * Forumowicze
-     * 19
-     * 3098 odpowiedzi
+     * 21
+     * 3105 odpowiedzi
 
      *
 
@@ -663,18 +663,18 @@ Udostępnij na innych stronach
      *
      *
 
-Lexus    19
+Lexus    21
 
    Lexus
 
-Lexus    19
+Lexus    21
 
      * House
      *
      * Lexus
      * Forumowicze
-     * 19
-     * 3098 odpowiedzi
+     * 21
+     * 3105 odpowiedzi
 
      *
 
@@ -790,18 +790,18 @@ Udostępnij na innych stronach
      *
      *
 
-Lexus    19
+Lexus    21
 
    Lexus
 
-Lexus    19
+Lexus    21
 
      * House
      *
      * Lexus
      * Forumowicze
-     * 19
-     * 3098 odpowiedzi
+     * 21
+     * 3105 odpowiedzi
 
      *
 
@@ -1035,18 +1035,18 @@ Udostępnij na innych stronach
      *
      *
 
-Lexus    19
+Lexus    21
 
    Lexus
 
-Lexus    19
+Lexus    21
 
      * House
      *
      * Lexus
      * Forumowicze
-     * 19
-     * 3098 odpowiedzi
+     * 21
+     * 3105 odpowiedzi
 
      *
 
@@ -1117,18 +1117,18 @@ Udostępnij na innych stronach
      *
      *
 
-Lexus    19
+Lexus    21
 
    Lexus
 
-Lexus    19
+Lexus    21
 
      * House
      *
      * Lexus
      * Forumowicze
-     * 19
-     * 3098 odpowiedzi
+     * 21
+     * 3105 odpowiedzi
 
      *
 
@@ -1230,93 +1230,92 @@ Udostępnij na innych stronach
 
      *
      * Tematy
-          + tihomax
-            8
-            Rx 6700xt czy warto ten model
-            Przez tihomax
-            Napisano 2 godziny temu
-          + azgan
-            930
-            Forspoken - wątek zbiorczy PS5 oraz PC
-            Przez azgan
-            Napisano 12 Czerwca 2020
-          + Keyser_Soze
-            142402
-            Off Polityczny
-            Przez Keyser_Soze
-            Napisano 8 Marca 2012
-          + Dywan0
-            1
-            Ocena zestawu
-            Przez Dywan0
-            Napisano 40 minut temu
-          + yrgna
-            10
-            LG 27GP850P
-            Przez yrgna
-            Napisano Wczoraj o 10:37
+          + diesmal
+            2471
+            gdzie jest zima!
+            Przez diesmal
+            Napisano 12 Stycznia 2012
+          + Stryfe
+            2
+            Wolniejszy internet na drugim routerze
+            Przez Stryfe
+            Napisano 1 godzinę temu
+          + qjin
+            33105
+            Cyberpunk 2077
+            Przez qjin
+            Napisano 30 Maja 2012
+          + baryla675
+            0
+            Jaki Ram do b350m
+            Przez baryla675
+            Napisano 7 minut temu
+          + keith
+            2
+            Gdzie kupujecie gry w dobrej cenie? Szukam przecen i zniżek na
+            COD: MW 2019
+            Przez keith
+            Napisano 1 godzinę temu
      * Odpowiedzi
-          + Spl97
-            Off Polityczny
-            Przez Spl97 · Napisano 2 minuty temu
-            Szczęść Boże wczoraj starł się z Hołownią, a dzisiaj starł się
-            z Czarzastym . Czekam na moment, kiedy Szczęść Boże w nowej
-            kadencji zostanie wykluczony przez marszałka lub
-            wicemarszałków z obrad .
-          + forskoczek20
-            Ocena zestawu
-            Przez forskoczek20 · Napisano 2 minuty temu
-            Do czego będzie służył komputer?
-          + Reddzik
-            LG 27GP850P
-            Przez Reddzik · Napisano 2 minuty temu
-            Też mam ten monitor, jestem bardzo zadowolony, wiadomo, że
-            trzeba brać na "klatę" wszelkie minusy IPS, ale mi to nie
-            przeszkadza, mam też podpiętą konsole PS5 pod monitor, zamiast
-            LG brałbym teraz Della G2724D, bo ma VRR, więc to byłby dla
-            mnie plus przy korzystaniu z PS5. Wieczorami gram przy lampce,
-            która stoi przy monitorze na biurku, nie siedzę w ciemnym
-            pomieszczeniu.
-          + hellseeker
-            Zestaw za 3k. Coś wymienić ? Dodać ?
-            Przez hellseeker · Napisano 3 minuty temu
-            Dopytam  No a czym się różnią od siebie np te dwie karty:
-            https://allegro.pl/oferta/powercolor-fighter-rx-6700xt-1468454
-            9401
-            https://allegro.pl/oferta/karta-graficzna-asrock-radeon-rx-670
-            0-xt-challenger-d-12gb-gddr6-192bit-14795230839 Tandetne
-            chłodzenie tzn słabo chłodzi? Głośno chodzi? Psuje się  ?
-          + tihomax
-            Rx 6700xt czy warto ten model
-            Przez tihomax · Napisano 4 minuty temu
-            Mnie właśnie te cewki i temperatury martwią temu się
-            zastanawiałem który rx 6700 xt wybrać. Tam 100 w ta czy tamtą
-            to nie problem ale wolałbym uniknąć problemów.
+          + tomekpcl
+            GTA VI / Grand Theft Auto VI
+            Przez tomekpcl · Napisano teraz
+            No ale panorama miasta robi wrażenie, widać że będzie sporo
+            większe od los santos. Jeżeli to nie fake.
+          + Send1N
+            Co zamiast GTX 1070 Ti?
+            Przez Send1N · Napisano 1 minutę temu
+            Nie testuj superpostion mi tam na 6950xt przechodzi 2600mhz na
+            1.05v  gdzie ostatnie stabilne napięcie to 1155v tak naprawdę
+             testuj w timespy, najwięcej z poboru zrzucisz tnąc zegar
+            rdzenia a nie napięcie to nie nv.
+          + Kris Dee
+            Monitory OLED - temat zbiorczy
+            Przez Kris Dee · Napisano 1 minutę temu
+            @joloxx9  Już na poprzedniej stronie odpowiadałem koledze:
+            "Używam hdr1000, ale na obu trybach paski mrugają pięknie od
+            0.5% GPU to 2080ti." Oczywiście sprawdzałem w ciemnym
+            pomieszczeniu. A jak u ciebie to wygląda?
+          + galakty
+            gdzie jest zima!
+            Przez galakty · Napisano 4 minuty temu
+            Rocznik nie ma nic do rzeczy, nawet w 1999 roku to montowali.
+            Niestety tylko Ford i Renault, a później to tylko Ford.
+          + Stryfe
+            Wolniejszy internet na drugim routerze
+            Przez Stryfe · Napisano 5 minut temu
+            router to jakiś zwykły D-link
+            https://www.senetic.pl/product/DIR-2150/EE?gad_source=1&gclid=
+            Cj0KCQiA67CrBhC1ARIsACKAa8Q1GHQ8dFryDHouhTl8iivDwRCZaX0ubNUQ44
+            oEfCRcwUCZr4kybxMaAovJEALw_wcB#icecat-specification-table
+            Kabel jest z tej samej firmy z jakiej miałem połączenie na
+            dole. Właśnie nie wiem czy to nie jest aby wina routera gdyż z
+            tyłu ma napisane tylko porty LAN.
      * Aktywni użytkownicy
           + Tydzień
           + Miesiąc
           + Rocznie
           + Cały czas
          1. 1
-            Camis
-            Camis
-            68
+            kadajo
+            kadajo
+            57
          2. 2
-            TheMr.
-            TheMr.
-            66
+            Send1N
+            Send1N
+            57
          3. 3
-            Send1N
-            Send1N
-            62
+            adashi
+            adashi
+            41
          4. 4
             Kyle_PL
             Kyle_PL
-            40
+            38
          5. 5
-            bergercs
-            bergercs
-            35
+            Phoenix.
+            Phoenix.
+            36
        Pokaż więcej
 
      * Cała aktywność

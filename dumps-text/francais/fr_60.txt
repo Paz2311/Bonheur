@@ -571,7 +571,7 @@ possible ?
    Navigation rapide
    [    Débats____________________________________.] Go
 
-              Fuseau horaire GMT +1. Il est actuellement 20h06.
+              Fuseau horaire GMT +1. Il est actuellement 16h13.
 
                               [-- Français___.]
 

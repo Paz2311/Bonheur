@@ -329,7 +329,7 @@ somekind napisał(a):
    Liczba odpowiedzi na stronę [30]
    [Flame_______________________]
 
-0 użytkowników online, w tym zalogowanych: 0, gości: 0
+1 użytkowników online, w tym zalogowanych: 0, gości: 1
 
      * Zakończ obserwację Obserwuj wątek
 
@@ -343,16 +343,16 @@ Moje tagi
 
 Popularne tagi
 
-     * c++× 21609
-     * java× 16432
-     * c#× 16171
-     * php× 7635
-     * c× 7545
-     * delphi× 5350
-     * javascript× 4468
-     * sql× 3747
-     * python× 3176
-     * mysql× 2961
+     * c++× 21614
+     * java× 16435
+     * c#× 16176
+     * php× 7636
+     * c× 7546
+     * delphi× 5352
+     * javascript× 4469
+     * sql× 3749
+     * python× 3177
+     * mysql× 2962
 
 Strony pokrewne
 
@@ -411,4 +411,4 @@ Skontaktuj się z nami
 
    Copyright © 2000-2023 4programmers.net - programowanie i tworzenie
    stron WWW
-   Coyote 2.5: 143 ms
+   Coyote 2.5: 120 ms

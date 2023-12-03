@@ -42,9 +42,9 @@
 
      * Szukaj
 
-              Modlitwa na dziś: Podziękowania za Eucharystię
-                    Za tych, co opuszczają Eucharystię
-               Liturgiczne wspomnienie: św. Saturnin, biskup
+           Modlitwa na dziś: Litania do św. Frakciszka Ksawerego
+                    Rozpocznij nowennę do MB z Guadalupe
+         Liturgiczne wspomnienie: św. Franciszek Ksawery, prezbiter
 
 Szczęście - osiągalne czy nieosiągalne?
 
@@ -57,11 +57,11 @@ Szczęście - osiągalne czy nieosiągalne?
 
    Awatar użytkownika
           Magnolia
-          Posty: 6127
+          Posty: 6150
           Rejestracja: 29 sty 2021, 11:31
           Wyznanie: katolicyzm
-          Podziękował/a: 2969
-          Podziękowano: 3248
+          Podziękował/a: 2978
+          Podziękowano: 3256
           Płeć:
 
      * Cytuj
@@ -100,11 +100,11 @@ Szczęście - osiągalne czy nieosiągalne?
 
    Awatar użytkownika
           Magnolia
-          Posty: 6127
+          Posty: 6150
           Rejestracja: 29 sty 2021, 11:31
           Wyznanie: katolicyzm
-          Podziękował/a: 2969
-          Podziękowano: 3248
+          Podziękował/a: 2978
+          Podziękowano: 3256
           Płeć:
 
      * Cytuj
@@ -121,11 +121,11 @@ Szczęście - osiągalne czy nieosiągalne?
 
    Awatar użytkownika
           esperanza
-          Posty: 1111
+          Posty: 1122
           Rejestracja: 10 lut 2021, 19:45
           Wyznanie: katolicyzm
-          Podziękował/a: 1082
-          Podziękowano: 904
+          Podziękował/a: 1091
+          Podziękowano: 912
           Płeć:
 
      * Cytuj
@@ -221,11 +221,11 @@ Szczęście - osiągalne czy nieosiągalne?
 
    Awatar użytkownika
           Magnolia
-          Posty: 6127
+          Posty: 6150
           Rejestracja: 29 sty 2021, 11:31
           Wyznanie: katolicyzm
-          Podziękował/a: 2969
-          Podziękowano: 3248
+          Podziękował/a: 2978
+          Podziękowano: 3256
           Płeć:
 
      * Cytuj
@@ -242,7 +242,7 @@ Szczęście - osiągalne czy nieosiągalne?
           Posty: 2620
           Rejestracja: 23 sty 2022, 16:02
           Wyznanie: katolicyzm
-          Podziękował/a: 4490
+          Podziękował/a: 4493
           Podziękowano: 1352
           Płeć:
 
@@ -261,11 +261,11 @@ Szczęście - osiągalne czy nieosiągalne?
 
    Awatar użytkownika
           Magnolia
-          Posty: 6127
+          Posty: 6150
           Rejestracja: 29 sty 2021, 11:31
           Wyznanie: katolicyzm
-          Podziękował/a: 2969
-          Podziękowano: 3248
+          Podziękował/a: 2978
+          Podziękowano: 3256
           Płeć:
 
      * Cytuj
@@ -279,11 +279,11 @@ Szczęście - osiągalne czy nieosiągalne?
 
    Awatar użytkownika
           Magnolia
-          Posty: 6127
+          Posty: 6150
           Rejestracja: 29 sty 2021, 11:31
           Wyznanie: katolicyzm
-          Podziękował/a: 2969
-          Podziękowano: 3248
+          Podziękował/a: 2978
+          Podziękowano: 3256
           Płeć:
 
      * Cytuj
@@ -296,11 +296,11 @@ Szczęście - osiągalne czy nieosiągalne?
 
    Awatar użytkownika
           esperanza
-          Posty: 1111
+          Posty: 1122
           Rejestracja: 10 lut 2021, 19:45
           Wyznanie: katolicyzm
-          Podziękował/a: 1082
-          Podziękowano: 904
+          Podziękował/a: 1091
+          Podziękowano: 912
           Płeć:
 
      * Cytuj
@@ -320,7 +320,7 @@ Szczęście - osiągalne czy nieosiągalne?
           Posty: 2620
           Rejestracja: 23 sty 2022, 16:02
           Wyznanie: katolicyzm
-          Podziękował/a: 4490
+          Podziękował/a: 4493
           Podziękowano: 1352
           Płeć:
 
@@ -341,7 +341,7 @@ Szczęście - osiągalne czy nieosiągalne?
           Posty: 2620
           Rejestracja: 23 sty 2022, 16:02
           Wyznanie: katolicyzm
-          Podziękował/a: 4490
+          Podziękował/a: 4493
           Podziękowano: 1352
           Płeć:
 
@@ -447,8 +447,8 @@ Szczęście - osiągalne czy nieosiągalne?
 
 
    Powered by phpBB™ • Design by PlanetStyles Liturgiczne wspomnienie: św.
-   Saturnin, biskup
-   Modlitwa na dziś: Podziękowania za Eucharystię
-   Za tych, co opuszczają Eucharystię
+   Franciszek Ksawery, prezbiter
+   Modlitwa na dziś: Litania do św. Frakciszka Ksawerego
+   Rozpocznij nowennę do MB z Guadalupe
    Polski pakiet językowy dostarcza phpBB.pl
    Optimized by: phpBB SEO

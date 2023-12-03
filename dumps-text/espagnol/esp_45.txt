@@ -31,10 +31,10 @@ Mig21 Miembro
      El precio NO NEGOCIABLE, es deseo de compartirlo con los demás y su
      envío se remitirá sin coste y de forma instantánea al pensar
      solamente en recibirla.
-
      Aquellos que no la reciban es que no tienen verdaderas ganas de
      pagar su coste; pues me garantizan que el envío llega sin indicar la
      dirección; directamente al corazón.
+
      Felices fiestas a todos los foreros
 
 
@@ -556,7 +556,7 @@ Miembros
    XenForo add-ons by Waindigo™ © 2014Waindigo Ltd.
 
    Tiempo:
-          0,0421 segundos
+          0,0512 segundos
 
    Memoria:
           4,159 MB

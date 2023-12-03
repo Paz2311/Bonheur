@@ -1298,11 +1298,13 @@ Immateriel
      __________________________________________________________________
 
      *
+     * Populaires actuellement
+          + Zéno
+            93
+            Paris : Une attaque a fait un mort et deux blessés.
+            Par Zéno
+            Commencé il y a 15 heures
      *
-     * Contenu similaire
-          + AIN : des tueurs à gage en lien avec les rens...
-          + Un touriste russe révèle aux Ukrainiens la po...
-          + La Chine cherche la première base militaire s...
      *
      *
 
@@ -1364,7 +1366,7 @@ Bienvenue sur Forum Fr !
      *
      *
 
-     * 0.27
+     * 0.2304
      * Politique de confidentialité
      * Nous contacter
      * CGU
