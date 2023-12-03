@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Analyse iTrameur</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css">
+    <link rel="stylesheet" href="./assets/css/style1.css">
+
+    <link href="https://fonts.googleapis.com/css2?family=Abel&family=Bad+Script&family=Montserrat&family=Poppins:wght@200&display=swap" rel="stylesheet">
+  </head>
+  <body>
+      <div class="fond">
+      <ul class="menu">
+              <li><a href="index.html">Accueil</a></li>
+              <li><a href="choix.html">Choix du mot</a></li>
+              <li><a href="tableaux.html">Tableaux</a></li>
+              <li><a href="itrameur.html">iTrameur</a></li>
+      </ul>
+      <section class="section texte m-3 is-size-6">
+        <h1 class="title">Analyse sur iTrameur : </h1>
+        <h2 class="subtitle">Ci-dessous, vous trouverez 3 boutons qui vous enverront vers l'analyse sur le logiciel <a href="https://itrameur.clillac-arp.univ-paris-diderot.fr/">iTrameur</a> du <strong>français</strong>, de l'<strong>espagnols</strong> et <strong>polonais</strong>.
+        </h2>
+        <!-- Boutons pour ouvrir les fenêtres -->
+        <button class="openButton button is-link is-light" onclick="openPopup('./assets/pdf/francais.pdf')">Français</button>
+        <button class="openButton button is-link is-light" onclick="openPopup('./assets/pdf/espagnol.pdf')">Espagnols</button>
+        <button class="openButton button is-link is-light" onclick="openPopup('./assets/pdf/polonais.pdf')">Polonais</button>
+      </section>
+
+    </div>
+    <script src="./assets/js/script.js"></script>
+
+  </body>
+</html>
