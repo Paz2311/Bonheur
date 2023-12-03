@@ -34,3 +34,33 @@ Pendant le cours, une question s'est immédiatement posée : comment organiser n
 Pour cela, nous avons décidé d'ajouter des sous-dossiers pour chaque langue, accompagnés de fichiers correspondant à la langue. Ainsi, nous avons décidé d'anticiper l'avancée de notre projet. Par exemple, il sera plus simple pour nous de travailler individuellement sur notre langue respective et de mieux nous repérer.
 
 De plus, nous avons longuement discuté de l'exercice 5 parce que le concordancier sera un élément primordial dans l'analyse du mot. Cependant, c'est un outil difficile à mettre en place.
+
+## Séance du 29 novembre 2022
+
+### Agata :
+
+### Patricia :
+Cette séance avait pour objectif de poursuivre notre projet. Au cours de la séance, nous avons accompli plusieurs tâches :
+- corriger les exercices
+- améliorer nos scripts, si nécessaire
+- introduction sur le logiciel iTrameur : https://itrameur.clillac-arp.univ-paris-diderot.fr/
+
+Pour la prochaine séance, nous devons créer un concordancier en créant une page HTML pour chaque lien, puis l'ajouter à notre tableau. De plus, cela nous a permis de déployer notre site web afin de mieux visualiser le rendu, mais aussi de prendre de l'avance sur la fin du projet.
+
+Concernant le français, le déploiement du concordancier s'est révélé complexe en raison du sujet portant sur les forums. Ainsi, les fichier .txt reprennent la forme du site, donc les retours à la ligne. Lorsque nous avons tenté de reprendre la correction minimale pendant le cours, cela  a entraîné la suppression de nombreuses occurrences et des manques de contextes à droit ou à gauche. En effet, j'ai amélioré la regex en prenant en compte toutes les dérivaison du mot "bonheur".
+
+De plus, concernant le script iTrameur, les pages sont désordonnées car nous avons observé que lorsque elles étaient dans l'ordre, les "body" ne correspondaient pas au numéro de page. Par exemple, <page="fr_01"> n'avait pas le contenu de fr_01 mais de fr_10.
+De plus, pour le français, la fin de la page est ajoutée deux fois. Voici, ce que l'on retrouve :
+...
+© Ligue contre le cancer 2023
+   Pied de page
+     * Plan du site
+     * Mentions légales
+/page §</text>
+</page> §
+
+Malgrés nos efforts, nous ne comprenons pas pourquoi cela fait ça. Par ailleurs, pendant l'analyse sur iTrameur, cela ne nous a pas posé de problème parce que cela n'affectait  pas les résultats. Le seul problème est que dans les cadres, cela ajoute des cadres avec seulement le symbole §.
+
+### Maria :
+
+### Discussion en groupe :
