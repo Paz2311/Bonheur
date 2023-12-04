@@ -7,11 +7,8 @@
 /* Menu CV et mes lectures avec effet de soulignage */
 
 .fond {
-    background-color: #ace0f9;
-    width: 100%;
-    height: 100vh;
     background: #ace0f9;
-    background-size: cover;
+
 }
 
 .menu {
