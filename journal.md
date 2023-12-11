@@ -77,3 +77,20 @@ Par rapport à iTrameur, je trouve cette plateforme hyper intéressante et outil
 
 ### Discussion en groupe :
 Ce devoir a été difficile, non pas en raison de la complexité de l'exercice en tant que lui, mais parce que nous avons la sensation que les instructions n'étaient pas claires. Nous n'avons pas compris s'il fallait faire un document .txt avec tous les contextes des trois langues, mais à la fin on a en a fait seulement un avec tous les contextes par langue. Aussi, nous n'avons pas très bien compris dans quel format il fallait rendre les analyses issues d'iTrameur ou quelles étaient les caractéristiques de cette analyse. C'est pour cette raison que nous avons commencé à faire un pdf avec l'analyse de chaque langue que nous continuerons à développer si c'est le cas.
+
+
+## Séance du 06 décembre 2022
+
+### Agata :
+
+### Patricia :
+Cette séance avait pour objectif de poursuivre notre projet. Au cours de la séance, nous avons accompli plusieurs tâches :
+- consacré une partie du cours à la correction de nos scripts
+- discuté sur les projets en cours
+Nous avons également exploré la fascinante technique des nuages de mots, un outil qui a suscité un vif intérêt au sein du groupe. Notre site web a un visuel du ciel avec des nuages, et où j'avais comme objectif de créer ce nuage de mot en forme de nuage.
+
+Ainsi, j'ai pu faire l'analyse d'itrameur, en format balise, et intégrer des nuages de mots pertinents pour enrichir notre compréhension du sujet. Ces moments d'échange et de collaboration ont renforcé notre cohésion en tant que groupe et ont ouvert de nouvelles perspectives passionnantes pour nos travaux à venir.
+
+### Maria :
+
+### Discussion en groupe :
