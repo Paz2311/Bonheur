@@ -92,5 +92,6 @@ Nous avons également exploré la fascinante technique des nuages de mots, un ou
 Ainsi, j'ai pu faire l'analyse d'itrameur, en format balise, et intégrer des nuages de mots pertinents pour enrichir notre compréhension du sujet. Ces moments d'échange et de collaboration ont renforcé notre cohésion en tant que groupe et ont ouvert de nouvelles perspectives passionnantes pour nos travaux à venir.
 
 ### Maria :
+Nous avons mieux compris le rôle des script PALS  dans notre projet et nous avons décidé de les intégrer dans notre projet pour améliorer l'apparition des coocurrents. Pour l'instant, je travaille pour approfondir mon analyse itrameur et ajouter l'étymologie du mot "felicidad", en espagnol.  Même si ce mot ne présente des diacritiques qui pourraient générer des problèmes dans l'analyse de iTrameur, les signes de ponctuation ¿¡ entrainent un nouveau mot qui n'apparaît pas si on tape seulement le mot "felicidad".
 
 ### Discussion en groupe :
