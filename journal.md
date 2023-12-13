@@ -83,6 +83,8 @@ Ce devoir a été difficile, non pas en raison de la complexité de l'exercice e
 
 ### Agata :
 
+Au cours de cette semaine j'ai décidé de continuer à travailler sur mon analyse iTrameur. La première difficulté que j'ai rencontrée a été le fait qu'après avoir cliqué sur l'icône Ventilation sur le mot "szczęście", le graphique montrant le nombre d'occurrences de ce mot dans tous les documents n'apparaissait pas. Cependant, après un certain temps, j'ai réalisé que la raison en était que dans l'onglet Paramètres, j'avais sélectionné "lang" dans l'onglet Partition au lieu de "page". Après avoir modifié cette option, j'ai vu les graphiques corrects que j'ai utilisés pour mon analyse.
+
 ### Patricia :
 Cette séance avait pour objectif de poursuivre notre projet. Au cours de la séance, nous avons accompli plusieurs tâches :
 - consacré une partie du cours à la correction de nos scripts
