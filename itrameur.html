@@ -107,6 +107,18 @@
              <p>Pour finir, cette analyse nous avons voulu voir l’onglet "Cadre" et les options "Spécifs-totales*" et "Spécifs-partie*".</p>
             <img src="./assets/img/fr11.png"/>
             <p>Ces deux options nous permettent de confirmer nos hypothèses du début de notre analyse. Le mot "bonheur" est utilisé : "bonheur", "Bonheur" ou bien "bonheurs". Les autres configurations que nous avons vu correspondent surement au faute de frappe ou bien au choix de l’utilisateur.</p>
+
+            <p class="title is-4 mt-3" style="color: #001f3f;">III. Nuage de mot</p>
+            <p>Dans cette dernière partie , nous allons observer le nuage de mots que nous avons fait avec le logiciel wordcloud_cli. Voici les commandes que nous avons fait après avoir créé un environnement virtuel et installé la librairie :</p>
+            <p>wordcloud_cli --text itrameur/contextes_fr.txt --image contextes_fr.png --scale 3 --mask cloud.png --background white --contour_width 1 --contour_color black</p>
+            <p>wordcloud_cli --text itrameur/dumps-text_fr.txt --image dumps-text_fr.png --scale 3 --mask cloud.png --background white --contour_width 1 --contour_color black</p>
+            <img src="./assets/img/dumps-text_fr.png"/>
+            <p>Voici le résultat du nuage de mot qu’on a généré à partir de nos dumps-text qui regroupent tous notre contenue HTML de chaque page. Nous pouvons voir que ce résultat affiche plus les stopwords du français, mais aussi les différentes terminaisons du mot "bonheur". Nous pouvons voir que dans les forums le mot "bonheur" était central et que ce mot a généré beaucoup de discussion autour de cette symbolique. Nous pouvons voir des mots tels que "vie", "heureux" ou "personne". Nous pouvons voir que les utilisateurs ont utilisé ont expliqué leur point de vue car on voit l'utilisation des pronoms associé à des verbes ou non :  "je suis", "c’est" , "c est", "elle", "j’ai", "sont", "vous", "moi" etc…</p>
+            <p>Ensuite, nous nous sommes plus concentrés sur le contexte parce que il était généré pour avoir le contexte gauche et droit de notre mot.</p>
+            <img src="./assets/img/contextes_fr.png"/>
+            <p>Même si, nous retrouvons les stopwords du français, nous avons aussi des résultats qui confirment de nouveau notre analyse. Tout d’abord, on retrouve bien les cooccurrents qu’on a vu précédemment "dents", "heureux" , "un état", "mesure", "simple", "joie" etc… Si on ne compte pas le mot “dents”, on voit que ce mot est entouré de mot considéré comme positif. Par ailleurs, il peut générer des questionnements, car nous retrouvons "définition du", "question",  "c’est quoi ", "je trouve" etc… Les personnes se demandent comment on pourrait atteindre le bonheur mais surtout se demander qu’est-ce que c’est.</p>
+            <p>De plus, nous pouvons voir que "Re" apparait. Ce token correspond aux discussions qui ont été générées par les utilisateurs, donc les utilisateurs ont répondu au questionnement des personnes ou bien des discussions en rapport avec le bonheur. Attention, il ne faut pas oublier que ce mot à aussi son antonyme qui est "malheur" et où il peut aussi apparaître et représenter aussi un champ lexical négatif.</p>
+
           </div>
         </div>
 
