@@ -160,7 +160,7 @@
 }
 
 .carre {
-    max-height: 400px;
+    max-height: 500px;
     /* Ajustez la hauteur maximale comme nécessaire */
     overflow-y: auto;
     /* Ajoute une barre de défilement si le contenu de la box est trop long */
