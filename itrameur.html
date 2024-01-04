@@ -120,6 +120,23 @@
             <img src="./assets/img/contextes_fr.png"/>
             <p>Même si, nous retrouvons les stopwords du français, nous avons aussi des résultats qui confirment de nouveau notre analyse. Tout d’abord, on retrouve bien les cooccurrents qu’on a vu précédemment "dents", "heureux" , "un état", "mesure", "simple", "joie" etc… Si on ne compte pas le mot “dents”, on voit que ce mot est entouré de mot considéré comme positif. Par ailleurs, il peut générer des questionnements, car nous retrouvons "définition du", "question",  "c’est quoi ", "je trouve" etc… Les personnes se demandent comment on pourrait atteindre le bonheur mais surtout se demander qu’est-ce que c’est.</p>
             <p>De plus, nous pouvons voir que "Re" apparait. Ce token correspond aux discussions qui ont été générées par les utilisateurs, donc les utilisateurs ont répondu au questionnement des personnes ou bien des discussions en rapport avec le bonheur. Attention, il ne faut pas oublier que ce mot à aussi son antonyme qui est "malheur" et où il peut aussi apparaître et représenter aussi un champ lexical négatif.</p>
+
+            <p class="title is-4 mt-3" style="color: #001f3f;">IV. Script Python : PALS</p>
+            <p>Pour finir notre analyse, nous avons décidé de créer un script PALS pour compléter nos différentes analyses sur les autres logiciels : iTrameur et le Wordcloud.</p>
+            <p>Tout d’abord, nous avons élaboré un script qui permet de reprendre notre second fichier contextes_fr.txt et où une seule ligne correspond à un mot. Une des difficultés était de nous adapter aux caractéristiques de chaque langue, dont les accents, la ponctuation et les caractères diacrités.</p>
+            <img src="./assets/img/fr13.png"/>
+
+            <p>Par exemple, en français nous devions prendre en compte tous les accents aigus, graves et circonflexes des voyelles, la cédille de la consonne "c".  Ainsi, dans notre rgex nous avons voulu être les plus précises car sinon lorsqu’on lançait les script cela pouvait poser des problèmes à certains endroit. De plus, nous avons voulu diviser nos phrases afin qu’on puisse mieux se retrouver dans le document. Ainsi, dans notre script on explique que lorsqu' il trouve la ponctuation du point alors il saute une ligne.</p>
+
+            <p>Lorsqu’on a obtenu notre document qui nous semblait correct, nous l’avons lancé avec le script Python que les professeurs nous ont fourni et comparer les résultats. Les résultats que nous avons obtenus pour le français ne nous ont pas beaucoup étonné parce qu' on retrouve pratiquement les mêmes résultats.</p>
+
+            <img src="./assets/img/fr12.png"/>
+
+            <p>Tout d’abord, en prenant compte toutes les possibilités que le mot "bonheur" apparaît dans notre corpus, on peut voir que sa fréquence totale est 1212. Mais aussi, que "bonheur" a une fréquence beaucoup plus élevée car il apparaît 1134 fois.</p>
+            <p>De plus, on peut voir que les tokens sont classés par spécificité, c’est-à-dire avec quel mot "bonheur" est le plus associé. En français, les premiers résultats sont toujours les stopwords. Par exemple, le token "le" a la plus grande fréquence d’apparition avec le mot cible, suivi de "du" etc…</p>
+            <p>Ensuite, on retrouve de nouveau "Re" qui nous permet d’ affirmer que les forums reprenant le thème du "bonheur" a suscité beaucoup d'intérêt chez les utilisateurs car cela a diffusé un échange. Lorsqu’un utilisateur répond à un message, au début du titre il y aura "Re", ce qui signifie "réponse".</p>
+            <p>Mais aussi, on retrouve de nouveau le mot "dents" qui a une spécificité élevée, 7.05. Par ailleurs, nous pouvons confirmer notre hypothèse car on voit que la fréquence et la co-fréquence sont liées. Le token "dents" apparaît 46 fois, mais ce qui est intéressant c’est que 43 fois le token apparaît en même temps que le mot cible.</p>
+            <p>Pour finir, on retrouve encore nos différents champs lexicaux avec les tokens comme "mesure", "quoi", "Définition", "est", "état", "vivre", "esprit", "argent", "joie", "absolu" ou encore "malheur". Ainsi, notre mot cible "bonheur" est utilisé fréquemment dans les forums, avec différentes variations, et il est souvent associé à des contextes spécifiques et à différents champs lexicaux.</p>
           </div>
          </div>
         </div>
