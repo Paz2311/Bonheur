@@ -96,4 +96,15 @@ Ainsi, j'ai pu faire l'analyse d'itrameur, en format balise, et intégrer des nu
 ### Maria :
 Nous avons mieux compris le rôle des script PALS  dans notre projet et nous avons décidé de les intégrer dans notre projet pour améliorer l'apparition des coocurrents. Pour l'instant, je travaille pour approfondir mon analyse itrameur et ajouter l'étymologie du mot "felicidad", en espagnol.  Même si ce mot ne présente des diacritiques qui pourraient générer des problèmes dans l'analyse de iTrameur, les signes de ponctuation ¿¡ entrainent un nouveau mot qui n'apparaît pas si on tape seulement le mot "felicidad".
 
-### Discussion en groupe :
+## Dernier commentaire
+
+### Agata :
+
+### Patricia :
+Pendant le dernier cours, plusieurs idées nous sont venues à l'esprit. Nous avons voulu faire un script Python pour nos langues, mais aussi intégrer un nuage de mots à notre site. Pendant les vacances, nous avons terminé nos analyses en utilisant divers logiciels, tels que iTrameur, Wordcloud et PALS. Mais aussi, nous avons réussi à mettre toutes les pièces du puzzle ensemble et finaliser ce projet.
+
+### Maria :
+
+
+
+
