@@ -100,6 +100,8 @@ Nous avons mieux compris le rôle des script PALS  dans notre projet et nous avo
 
 ### Agata :
 
+Pendant les vacances de Noël, nous avons procédé à la dernière étape de la finalisation de notre projet. Chacun d'entre nous a effectué une analyse indépendante des corpus dans nos langues respectives. Dans mon analyse, j'ai décidé d'inclure les outils iTrameur tels que le dictionnaire, la ventilation, la concordance, la cocurrence, ainsi que le nuage de mots et le script PALS. Lors de notre dernière réunion, nous avons rédigé un paragraphe avec une conclusion générale.
+
 ### Patricia :
 Pendant le dernier cours, plusieurs idées nous sont venues à l'esprit. Nous avons voulu faire un script Python pour nos langues, mais aussi intégrer un nuage de mots à notre site. Pendant les vacances, nous avons terminé nos analyses en utilisant divers logiciels, tels que iTrameur, Wordcloud et PALS. Mais aussi, nous avons réussi à mettre toutes les pièces du puzzle ensemble et finaliser ce projet.
 
