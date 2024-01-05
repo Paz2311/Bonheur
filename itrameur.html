@@ -192,6 +192,7 @@
           <div class="container">
             <div class="carre">
               <h2 id="polonais" class="title">Analyse en Polonais</h2>
+              <p class="title is-4" style="color: #001f3f;">I.Introduction</p>
               <p>Avant de commencer, nous pouvons déjà dire que la complexité de la grammaire polonaise rendra certainement l’analyse plus difficile dans une certaine mesure. Or, en polonais, il y a 7 cas de noms (déclinaisons), ce qui n'est pas le cas en français ou en espagnol. Voilà, les déclinaisons du nom <i>szczęście</i> :</p>
               </br>
               <table>
@@ -240,48 +241,77 @@
               <p>Si nous devions donner une définition simple du mot <i>bonheur</i>, nous dirions qu'il s'agit d'une émotion provoquée par des expériences positives. Quand nous tapons le mot <i>bonheur</i> dans une recherche Google, nous trouvons de nombreux articles donnant des conseils sur la façon de trouver le bonheur dans la vie.
                  Les principaux conseils donnés pour trouver la recette du bonheur sont : d'adopter une attitude positive face à la vie, de s'entourer de bonnes personnes, d'être reconnaissant pour ce que nous avons, d'aider les autres, de développer ses passions, de sourire et de ne pas se comparer aux autres.
                  D'après notre observation et notre expérience, nous dirions également que les gens sont heureux grâce à l'amour, à la famille, aux amis et à un travail qui leur convient.</p>
+
+              <p class="title is-4 mt-4" style="color: #001f3f;">II. Analyse iTrameur</p>
+
+              <p class="title is-5" style="color: #000c18;">Vérification du corpus</p>
               <p>Grâce à iTrameur nous pouvons maintenant voir dans quelle mesure nos observations concordent avec les mots les plus fréquents de notre corpus.</p>
               <p>Après avoir chargé le fichier approprié avec le fichier texte, on nous montre des carrés correspondant à chaque texte. Après avoir cliqué sur le premier carré, nous voyons le texte dump de la première page avec le mot <i>szczęście</i> marqué en rouge.</p>
               <img src="./assets/img/pl1.png"/>
-              <img src="./assets/img/pl2.png"/>
+              <img src="./assets/img/pl2.png" width="700"/>
               <p>Maintenant nous nous assurons que le dump texte correspond à la trame iTrameur.</p>
               <img src="./assets/img/pl3.png"/>
+
+              <p class="title is-5" style="color: #000c18;">Dictionnaire</p>
               <p>Pour commencer, nous avons décidé de consulter le dictionnaire qui se trouve sous l'onglet Trame. Le mot <i>szczęście</i> apparaît au tout début du dictionnaire, avec une fréquence égale à 593.</p>
-              <img src="./assets/img/pl4.png"/>
+              <img src="./assets/img/pl4.png" width="500"/>
               <p>Cependant, comme en polonais les noms sont conjugués, nous voulons prendre en compte tous les cas de figure des mots. En outre, nous compterons également les mots sans caractères polonais.
                  En effet, l'objet de notre analyse étant les forums Internet, où le langage est plutôt informel, il y a de nombreux cas où les gens n'utilisent pas de caractères diacritiques.</p>
               <p>Lorsque nous cherchons le début du mot <i>szczęście</i>, nous trouvons de nombreuses occurrences de ce mot modifié, à la fois avec des majuscules et des minuscules et avec ou sans caractères polonais.</p>
-              <img src="./assets/img/pl5.png"/>
-              <img src="./assets/img/pl6.png"/>
+              <img src="./assets/img/pl5.png" width="500"/>
+              <img src="./assets/img/pl6.png" width="500"/>
               <p>Le premier mot qui apparaît dans le contexte du bonheur est le mot <i>Pieniądzę</i> (mal orthographié) qui signifie argent.</p>
-              <img src="./assets/img/pl7.png"/>
+              <img src="./assets/img/pl7.png" width="500"/>
               <p>Lorsque je cherche ce mot dans la barre de recherche, d'autres occurrences apparaissent.</p>
-              <img src="./assets/img/pl8.png"/>
-              <img src="./assets/img/pl9.png"/>
+              <img src="./assets/img/pl8.png" width="500"/>
+              <img src="./assets/img/pl9.png" width="500"/>
               <p>Un autre mot apparaissant dans le contexte du bonheur est le mot <i>dzieci</i>, c’est-à-dire enfants, qui apparaît au moins 74 fois, comme nous pouvons le voir dans la même capture d'écran avec le mot <i>Pieniądzę</i>.</p>
               <p>D'autres mots remarquables sont apparus dans le dictionnaire, par exemple : <i>zdrowie</i> (santé), <i>dziecko</i> (enfant), <i>ludzie</i> (gens), <i>pracy</i> (travail), <i>miłość</i> (amour), <i>radość</i> (joie), <i>uśmiech</i> (sourire), <i>rodzina</i> (famille).</p>
-              <img src="./assets/img/pl10.png"/>
-              <img src="./assets/img/pl11.png"/>
-              <img src="./assets/img/pl12.png"/>
-              <img src="./assets/img/pl13.png"/>
-              <img src="./assets/img/pl14.png"/>
-              <img src="./assets/img/pl15.png"/>
+              <img src="./assets/img/pl10.png" width="500"/>
+              <img src="./assets/img/pl11.png" width="500"/>
+              <img src="./assets/img/pl12.png" width="500"/>
+              <img src="./assets/img/pl13.png" width="500"/>
+              <img src="./assets/img/pl14.png" width="500"/>
+              <img src="./assets/img/pl15.png" width="500"/>
+
+              <p class="title is-5" style="color: #000c18;">Ventilation</p>
               <p>Un autre outil intéressant est la ventilation, qui nous permet d'observer le nombre d'occurrences du mot bonheur sur toutes les pages.
                  Nous pouvons remarquer, par exemple, que dans les fichiers pl_17 et pl_40 il y a beaucoup d'occurrences du mot bonheur (80 et 60 respectivement) alors que, par exemple, dans les fichiers pl_20, pl_2, pl_30 il n'apparaît pas du tout.
                  Encore une fois, il faut garder à l'esprit que <i>szczęście</i> n'est qu'une des 7 variantes possibles de ce nom, et qu'il est donc possible que le mot se produise beaucoup plus souvent, simplement conjugué différemment.
                  Néanmoins, grâce à la ventilation, nous pouvons remarquer que certains forums sont plus riches en discussions et commentaires sur le bonheur et d'autres moins.</p>
               <img src="./assets/img/pl16.png"/>
+
+              <p class="title is-5" style="color: #000c18;">Concordance</p>
               <p>Ensuite, grâce à l'outil de concordance, nous pouvons voir les contextes à droite et à gauche du mot. C'est aussi un outil intéressant parce qu'il nous donne une image plus large de ce qu'est le bonheur pour les gens.
                  Par exemple, dans la capture d'écran ci-dessous, nous pouvons lire : "Dites-moi, qu'est-ce qui vous rend heureux ? J'ai pratiquement tout - une fille belle et en bonne santé, un mari aimant", "le bonheur est un état d'esprit", "le bonheur est un état qui est à notre portée", "le bonheur total et véritable ne peut être atteint qu'avec Dieu", "le bonheur n'est pas basé sur les circonstances mais dépend des choix que l'on fait", etc.</p>
               <img src="./assets/img/pl17.png"/>
-              <p>Le dernier outil que j'aimerais aborder est celui de la cooccurrence. Grâce à elle, nous avons l'occasion de voir l'entourage le plus fréquent du mot <i>szczęście</i>. Dans ce diagramme, on peut remarquer des mots tels que <i>argent</i>, <i>recette</i>, <i>travail</i>, <i>matériel</i>.</p>
+
+              <p class="title is-5" style="color: #000c18;">Cooccurrence</p>
+              <p>Le dernier outil iTrameur que j'aimerais aborder est celui de la cooccurrence. Grâce à elle, nous avons l'occasion de voir l'entourage le plus fréquent du mot <i>szczęście</i>. Dans ce diagramme, on peut remarquer des mots tels que <i>argent</i>, <i>recette</i>, <i>travail</i>, <i>matériel</i>.</p>
               <img src="./assets/img/pl18.png"/>
               <p>De cette cooccurrence, nous pouvons conclure que la recette du bonheur fait l'objet de nombreuses discussions. La question se pose souvent de savoir si l'argent, le travail et les biens matériels suffisent vraiment à être heureux.</p>
+
+              <p class="title is-4" style="color: #001f3f;">III.Nuage de mots</p>
+              <img src="./assets/img/contextes_pl.png"/>
+              <p>En regardant notre nuage de mots, les premiers mots que nous remarquons sont évidemment le mot <i>szczęście</i> et les collocations fréquentes avec ce mot, c'est-à-dire <i>poczucie szczęścia</i> (sens du bonheur), <i>recepta na szczęście</i> (recette du bonheur), <i>przynosi szczęście</i> (apporte le bonheur), <i>szczęściem jest</i> (le bonheur c'est).
+                 Nous voyons également des collocations typiques de la discussion comme <i>myślę że</i> (je pense que), <i>zależy</i> (ça dépend), <i>nie wiem</i> (je ne sais pas), <i>u mnie</i> (pour moi). Nous pouvons voir qu'il existe de nombreuses discussions sur la question de savoir si l'argent donne du bonheur – nous avons bien sûr le mot <i>pieniądze</i> dans le nuage, ainsi que la collocation <i>pieniądze dają</i> (l'argent donne/apporte).</p>
+              <p>En fin de compte, nous avons trouvé des mots associés au bonheur : <i>miłość</i> (amour), <i>pieniądze</i> (argent), <i>rodzina</i> (famille), <i>radość</i> (joie), <i>uśmiech</i> (sourire), <i>pracy</i> (travail), <i>dzieci</i> (enfants), <i>uczucie</i> (sentiment), <i>ludzie</i> (gens).
+                 Le nuage de mots comprendra également des stopwords et des expressions typiques des forums Internet (<i>Re</i>, <i>napisał</i> (a écrit), <i>odpowiedź</i> (réponse), <i>BUTTON</i>, <i>Odp</i> (une abréviation de <i>odpowiedź</i>), <i>zgłoś naruszenie</i> (signaler une violation), <i>post</i>).</p>
+
+              <p class="title is-4" style="color: #001f3f;">IV.PALS</p>
+              <p>Enfin, nous examinerons le résultat d'un script PALS dans lequel chaque mot du fichier contextes est séparé sur une ligne distincte.</p>
+              <img src="./assets/img/pl19.png"/>
+              <img src="./assets/img/pl20.png"/>
+              <p>Comme nous pouvons le voir à la longueur de notre regex, le fait qu'il y ait jusqu'à 7 déclinaisons d'un nom en polonais a rendu notre travail sur le script très difficile. Pourtant, nous avons réussi à prendre en compte toutes les déclinaisons du nom - nous pouvons voir qu'au total, le mot szczescie apparaît 1496 fois dans notre corpus.
+                 Malheureusement, bien que nous ayons réussi à créer un script qui prend en compte les diacritiques polonais <i>ś</i>, <i>ć</i>, <i>ę</i>, il y a une erreur dans l'encodage des caractères restants, c'est-à-dire <i>ą</i>, <i>ł</i>, <i>ń</i>, <i>ó</i>, <i>ź</i> et <i>ż</i>.
+                 En effet, les mots qui apparaissent ici sont similaires à ceux que nous venons de voir dans le nuage de mots. Entre autres, nous pouvons remarquer un grand nombre de stopwords (<i>to</i>, <i>czym</i>, <i>co</i>, etc.) et l'abréviation récurrente <i>Re</i>, qui signifie une réponse dans un fil de discussion.</p>
+
+              <p class="title is-4" style="color: #001f3f;">V.Conclusion</p>
               <p>En résumant notre analyse, nous sommes arrivés à la conclusion que la thèse que nous avions formulée au départ est en quelque sorte confirmée.
                  Grâce aux outils iTrameur, nous avons pu constater que les choses les plus importantes pour les gens sont les relations, c'est-à-dire la famille, l'amour, les enfants, le mari ou la femme.
                  La santé est un autre élément qui rend les gens heureux. Le bonheur est également associé au sourire, à la joie, à la sérénité.
                  Il est intéressant de noter que des mots tels que <i>argent</i>, <i>matériel</i>, <i>travail</i> apparaissent souvent dans le contexte du bonheur. Il semble que les aspects matériels et ceux liés à la vie professionnelle soient également très importants pour les gens et qu'ils suscitent de nombreuses discussions.
-                 En outre, Dieu apparaît également dans le contexte du bonheur. Étant donné que la Pologne est un pays religieux, cela ne me surprend pas. L'outil de concordance nous apprend également que le bonheur est un état d'esprit qui dépend de nous-mêmes et de nos décisions.</p>
+                 En outre, Dieu apparaît également dans le contexte du bonheur. Étant donné que la Pologne est un pays religieux, cela ne nous surprend pas. L'outil de concordance nous apprend également que le bonheur est un état d'esprit qui dépend de nous-mêmes et de nos décisions.</p>
             </div>
           </div>
         </div>
